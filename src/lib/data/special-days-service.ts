@@ -137,6 +137,22 @@ export async function searchSpecialDays(query: string): Promise<SpecialDay[]> {
   });
 }
 
+export async function getSpecialDaysByCategory(categoryOrType: string): Promise<SpecialDay[]> {
+  const all = await getAllSpecialDays();
+  return all
+    .filter((day) => day.category.toLowerCase() === categoryOrType.toLowerCase())
+    .sort((a, b) => a.month_no * 100 + a.day_no - (b.month_no * 100 + b.day_no));
+}
+
+export async function getCategoryDayCounts(): Promise<Record<string, number>> {
+  const all = await getAllSpecialDays();
+  const counts: Record<string, number> = {};
+  all.forEach((day) => {
+    counts[day.category] = (counts[day.category] || 0) + 1;
+  });
+  return counts;
+}
+
 export function getMonthMetadata(monthNoOrSlug: number | string): MonthInfo | undefined {
   if (typeof monthNoOrSlug === "number") {
     return MONTHS_METADATA.find((m) => m.number === monthNoOrSlug);

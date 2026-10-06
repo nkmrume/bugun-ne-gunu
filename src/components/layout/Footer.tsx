@@ -47,6 +47,45 @@ export function Footer() {
             </div>
           </div>
 
+          {/* Categories Pillar Pages */}
+          <div>
+            <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-900 dark:text-zinc-100 mb-3">
+              Kategoriler
+            </h4>
+            <ul className="space-y-2 text-xs font-medium">
+              <li>
+                <Link href="/kategoriler/resmi" className="hover:text-red-600 transition-colors">
+                  Resmi Bayramlar
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategoriler/eglence" className="hover:text-red-600 transition-colors">
+                  Eğlence & Yaşam
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategoriler/saglik" className="hover:text-red-600 transition-colors">
+                  Sağlık & Tıp
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategoriler/cevre-doga" className="hover:text-red-600 transition-colors">
+                  Çevre & Doğa
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategoriler/kultur-sanat" className="hover:text-red-600 transition-colors">
+                  Kültür & Sanat
+                </Link>
+              </li>
+              <li>
+                <Link href="/kategoriler/mesleki" className="hover:text-red-600 transition-colors">
+                  Mesleki Günler
+                </Link>
+              </li>
+            </ul>
+          </div>
+
           {/* Popular Special Days */}
           <div>
             <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-900 dark:text-zinc-100 mb-3">

@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next";
 import { getAllSpecialDays } from "@/lib/data/special-days-service";
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
+import { CATEGORIES_METADATA } from "@/lib/data/categories-data";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://bugunnegunu.com";
@@ -14,6 +15,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "daily",
       priority: 1.0,
     },
+    {
+      url: `${baseUrl}/kategoriler`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
   ];
 
   // 2. 12 Monthly Pillar Pages
@@ -26,7 +33,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   });
 
-  // 3. Special Day Pages
+  // 3. Category Pillar Pages
+  CATEGORIES_METADATA.forEach((cat) => {
+    routes.push({
+      url: `${baseUrl}/kategoriler/${cat.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.85,
+    });
+  });
+
+  // 4. Special Day Pages
   days.forEach((day) => {
     routes.push({
       url: `${baseUrl}/gun/${day.slug}`,

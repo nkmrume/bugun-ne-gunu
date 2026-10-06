@@ -28,6 +28,7 @@ export function Navbar({ allDays }: NavbarProps) {
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isMonthsDropdownOpen, setIsMonthsDropdownOpen] = useState(false);
+  const [isCategoriesDropdownOpen, setIsCategoriesDropdownOpen] = useState(false);
   const pathname = usePathname();
 
   // Current Turkish date indicator
@@ -105,6 +106,84 @@ export function Navbar({ allDays }: NavbarProps) {
                           </span>
                         </Link>
                       ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+
+              {/* Categories Pillar Link Dropdown */}
+              <div
+                className="relative"
+                onMouseEnter={() => setIsCategoriesDropdownOpen(true)}
+                onMouseLeave={() => setIsCategoriesDropdownOpen(false)}
+              >
+                <button
+                  onClick={() => setIsCategoriesDropdownOpen(!isCategoriesDropdownOpen)}
+                  className={`inline-flex items-center gap-1 rounded-xl px-3 py-2 transition-colors ${
+                    pathname.startsWith("/kategoriler")
+                      ? "bg-zinc-100 text-red-600 font-bold dark:bg-zinc-800 dark:text-red-400"
+                      : "text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-white"
+                  }`}
+                >
+                  <Layers className="h-3.5 w-3.5 text-zinc-400" />
+                  <span>Kategoriler</span>
+                  <ChevronDown className="h-4 w-4 text-zinc-400" />
+                </button>
+
+                {isCategoriesDropdownOpen && (
+                  <div className="absolute left-0 top-full pt-1 w-72 animate-in fade-in-50 zoom-in-95 duration-150 z-50">
+                    <div className="flex flex-col gap-1 rounded-2xl border border-zinc-200 bg-white p-2.5 shadow-xl dark:border-zinc-800 dark:bg-zinc-900">
+                      <Link
+                        href="/kategoriler"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="flex items-center justify-between rounded-xl bg-zinc-50 px-3 py-2 text-xs font-bold text-red-600 hover:bg-red-50 dark:bg-zinc-800/60 dark:text-red-400"
+                      >
+                        <span>Tüm Kategorileri Gör</span>
+                        <Badge variant="default" className="text-[10px]">Rehber</Badge>
+                      </Link>
+                      <div className="my-1 border-t border-zinc-100 dark:border-zinc-800" />
+                      <Link
+                        href="/kategoriler/resmi"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        🇹🇷 Resmi & Milli Bayramlar
+                      </Link>
+                      <Link
+                        href="/kategoriler/eglence"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        ☕ Eğlence & Yaşam
+                      </Link>
+                      <Link
+                        href="/kategoriler/saglik"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        🩺 Sağlık & Tıp
+                      </Link>
+                      <Link
+                        href="/kategoriler/cevre-doga"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        🌱 Çevre, Doğa & Hayvanlar
+                      </Link>
+                      <Link
+                        href="/kategoriler/kultur-sanat"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        🎭 Kültür, Sanat & Edebiyat
+                      </Link>
+                      <Link
+                        href="/kategoriler/mesleki"
+                        onClick={() => setIsCategoriesDropdownOpen(false)}
+                        className="rounded-xl px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+                      >
+                        💼 Mesleki Günler
+                      </Link>
                     </div>
                   </div>
                 )}
@@ -195,6 +274,51 @@ export function Navbar({ allDays }: NavbarProps) {
                       {month.name}
                     </Link>
                   ))}
+                </div>
+              </div>
+
+              <div className="pt-2 pb-1">
+                <div className="flex items-center justify-between px-4">
+                  <span className="text-xs font-bold uppercase tracking-wider text-zinc-400 dark:text-zinc-500">
+                    Kategoriler
+                  </span>
+                  <Link
+                    href="/kategoriler"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="text-[11px] font-bold text-red-600 hover:underline"
+                  >
+                    Tümü »
+                  </Link>
+                </div>
+                <div className="grid grid-cols-2 gap-1.5 mt-2 px-2">
+                  <Link
+                    href="/kategoriler/resmi"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="rounded-lg bg-zinc-50 p-2 text-xs font-semibold text-zinc-700 hover:bg-red-50 hover:text-red-600 dark:bg-zinc-900 dark:text-zinc-300"
+                  >
+                    🇹🇷 Resmi Bayramlar
+                  </Link>
+                  <Link
+                    href="/kategoriler/eglence"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="rounded-lg bg-zinc-50 p-2 text-xs font-semibold text-zinc-700 hover:bg-amber-50 hover:text-amber-600 dark:bg-zinc-900 dark:text-zinc-300"
+                  >
+                    ☕ Eğlence & Yaşam
+                  </Link>
+                  <Link
+                    href="/kategoriler/saglik"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="rounded-lg bg-zinc-50 p-2 text-xs font-semibold text-zinc-700 hover:bg-blue-50 hover:text-blue-600 dark:bg-zinc-900 dark:text-zinc-300"
+                  >
+                    🩺 Sağlık & Tıp
+                  </Link>
+                  <Link
+                    href="/kategoriler/cevre-doga"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="rounded-lg bg-zinc-50 p-2 text-xs font-semibold text-zinc-700 hover:bg-emerald-50 hover:text-emerald-600 dark:bg-zinc-900 dark:text-zinc-300"
+                  >
+                    🌱 Çevre & Doğa
+                  </Link>
                 </div>
               </div>
 
