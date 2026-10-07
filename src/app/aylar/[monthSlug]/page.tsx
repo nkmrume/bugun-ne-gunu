@@ -37,11 +37,11 @@ export async function generateMetadata({
 
   if (!monthMeta) {
     return {
-      title: "Ay Bulunamadı | Bugün Ne Günü?",
+      title: "Ay Bulunamadı",
     };
   }
 
-  const title = `${monthMeta.name} Ayı Özel Günleri ve Haftaları 2026 | Bugün Ne Günü?`;
+  const title = `${monthMeta.name} Ayı Özel Günleri ve Haftaları 2026`;
   const description = `${monthMeta.name} ayında hangi özel günler ve resmi tatiller var? 2026 ${monthMeta.name} ayı önemli günler takvimi, etkinlik fikirleri ve kutlama mesajları.`;
 
   return {

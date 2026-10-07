@@ -1,6 +1,7 @@
 import { SpecialDay, MonthInfo } from "@/types/database";
 import { supabase, isSupabaseConfigured } from "@/utils/supabase";
 import { INITIAL_SPECIAL_DAYS, MONTHS_METADATA } from "./special-days-data";
+import { getTurkeyToday } from "@/lib/date-engine";
 
 export async function getAllSpecialDays(): Promise<SpecialDay[]> {
   if (isSupabaseConfigured()) {
@@ -42,11 +43,10 @@ export async function getSpecialDayBySlug(slug: string): Promise<SpecialDay | nu
   return found || null;
 }
 
-export async function getTodaySpecialDays(dateOverride?: Date): Promise<SpecialDay[]> {
-  // Use Turkish local time or provided date
-  const now = dateOverride || new Date();
-  const currentMonth = now.getMonth() + 1; // 1-12
-  const currentDay = now.getDate(); // 1-31
+export async function getTodaySpecialDays(dateOverride?: { day: number; month: number }): Promise<SpecialDay[]> {
+  const turkeyToday = getTurkeyToday();
+  const currentMonth = dateOverride ? dateOverride.month : turkeyToday.month;
+  const currentDay = dateOverride ? dateOverride.day : turkeyToday.day;
 
   if (isSupabaseConfigured()) {
     try {
@@ -65,11 +65,14 @@ export async function getTodaySpecialDays(dateOverride?: Date): Promise<SpecialD
   }
 
   // Filter local dataset
-  const todayDays = INITIAL_SPECIAL_DAYS.filter(
+  return INITIAL_SPECIAL_DAYS.filter(
     (item) => item.month_no === currentMonth && item.day_no === currentDay
   );
+}
 
-  return todayDays;
+export async function getSpecialDaysByDate(day: number, month: number): Promise<SpecialDay[]> {
+  const all = await getAllSpecialDays();
+  return all.filter((item) => item.month_no === month && item.day_no === day);
 }
 
 export async function getSpecialDaysByMonth(monthNo: number): Promise<SpecialDay[]> {
@@ -94,30 +97,46 @@ export async function getSpecialDaysByMonth(monthNo: number): Promise<SpecialDay
   );
 }
 
-export async function getUpcomingSpecialDays(limit: number = 4): Promise<SpecialDay[]> {
+/**
+ * Returns strictly upcoming days chronologically starting tomorrow in Turkey timezone.
+ * Wraps cleanly into next year without showing past days.
+ */
+export async function getUpcomingSpecialDays(limit: number = 6): Promise<SpecialDay[]> {
   const all = await getAllSpecialDays();
-  const now = new Date();
-  const currentMonth = now.getMonth() + 1;
-  const currentDay = now.getDate();
+  const turkeyToday = getTurkeyToday();
+  const currentMonth = turkeyToday.month;
+  const currentDay = turkeyToday.day;
 
-  // Sort by closest day after today in current year
-  const sorted = [...all].sort((a, b) => {
-    const aVal = a.month_no * 100 + a.day_no;
-    const bVal = b.month_no * 100 + b.day_no;
-    const currentVal = currentMonth * 100 + currentDay;
+  const currentDayOfYear = getDayOfYear(currentMonth, currentDay);
 
-    const aDiff = aVal >= currentVal ? aVal - currentVal : aVal + 1200 - currentVal;
-    const bDiff = bVal >= currentVal ? bVal - currentVal : bVal + 1200 - currentVal;
+  // Compute days until next occurrence for each special day
+  const withDistance = all
+    .map((day) => {
+      const targetDayOfYear = getDayOfYear(day.month_no, day.day_no);
+      let diffDays = targetDayOfYear - currentDayOfYear;
+      if (diffDays <= 0) {
+        diffDays += 365; // Next year occurrence
+      }
+      return {
+        day,
+        diffDays,
+      };
+    })
+    .filter((item) => item.diffDays > 0);
 
-    return aDiff - bDiff;
-  });
+  // Sort strictly by closest upcoming date
+  withDistance.sort((a, b) => a.diffDays - b.diffDays);
 
-  // Filter out today
-  const upcoming = sorted.filter(
-    (item) => !(item.month_no === currentMonth && item.day_no === currentDay)
-  );
+  return withDistance.slice(0, limit).map((item) => item.day);
+}
 
-  return upcoming.slice(0, limit);
+function getDayOfYear(month: number, day: number): number {
+  const daysInMonths = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+  let total = day;
+  for (let m = 1; m < month; m++) {
+    total += daysInMonths[m];
+  }
+  return total;
 }
 
 export async function searchSpecialDays(query: string): Promise<SpecialDay[]> {

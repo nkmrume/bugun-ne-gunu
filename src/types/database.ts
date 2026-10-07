@@ -1,3 +1,5 @@
+export type DayType = "kutlama" | "anma" | "farkindalik" | "resmi-tatil";
+
 export interface SpecialDay {
   id: string;
   slug: string;
@@ -8,6 +10,12 @@ export interface SpecialDay {
   month_no: number; // 1 - 12
   day_no: number; // 1 - 31
   category: SpecialDayCategory;
+  day_type?: DayType; // kutlama, anma, farkindalik, resmi-tatil
+  is_public_holiday?: boolean;
+  scope?: "turkiye" | "uluslararasi" | "bm";
+  source_name?: string;
+  source_url?: string;
+  verified_at?: string;
   hashtags: string[];
   affiliate_keywords: string[];
   created_at?: string;
@@ -38,4 +46,11 @@ export interface MonthInfo {
 export interface FAQItem {
   question: string;
   answer: string;
+}
+
+export interface HistoryEvent {
+  year: number;
+  title: string;
+  description: string;
+  category?: "tarih" | "bilim" | "kultur" | "turkiye" | "dunya";
 }

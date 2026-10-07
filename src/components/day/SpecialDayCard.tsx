@@ -3,7 +3,7 @@ import Link from "next/link";
 import { SpecialDay } from "@/types/database";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Calendar, ArrowRight, Share2, Sparkles, Tag } from "lucide-react";
+import { Calendar, ArrowRight, Sparkles, Tag, ShieldAlert } from "lucide-react";
 import { formatDayMonthOnly } from "@/lib/utils";
 
 interface SpecialDayCardProps {
@@ -12,7 +12,10 @@ interface SpecialDayCardProps {
 }
 
 export function SpecialDayCard({ day, isToday = false }: SpecialDayCardProps) {
+  const isMemorial = day.day_type === "anma";
+
   const categoryVariant = (): "default" | "secondary" | "success" | "warning" | "red" | "purple" | "blue" => {
+    if (isMemorial) return "secondary";
     switch (day.category) {
       case "Resmi":
         return "red";
@@ -33,9 +36,21 @@ export function SpecialDayCard({ day, isToday = false }: SpecialDayCardProps) {
     <Card className="group relative flex flex-col justify-between overflow-hidden rounded-3xl border border-zinc-200/80 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:border-red-200 dark:border-zinc-800 dark:bg-zinc-900/90 dark:hover:border-red-900/60">
       {/* Top Banner if Today */}
       {isToday && (
-        <div className="bg-gradient-to-r from-red-600 via-rose-600 to-amber-500 px-4 py-1.5 text-center text-xs font-black uppercase tracking-widest text-white shadow-inner flex items-center justify-center gap-1.5">
-          <Sparkles className="h-3.5 w-3.5 animate-pulse" />
-          <span>Bugün Kutlanıyor!</span>
+        <div
+          className={`px-4 py-1.5 text-center text-xs font-black uppercase tracking-widest text-white shadow-inner flex items-center justify-center gap-1.5 ${
+            isMemorial
+              ? "bg-zinc-900 border-b border-zinc-800 text-zinc-100"
+              : "bg-gradient-to-r from-red-600 via-rose-600 to-amber-500"
+          }`}
+        >
+          {isMemorial ? (
+            <span>🇹🇷 Bugün Saygıyla Anılıyor</span>
+          ) : (
+            <>
+              <Sparkles className="h-3.5 w-3.5 animate-pulse" />
+              <span>Bugün Kutlanıyor!</span>
+            </>
+          )}
         </div>
       )}
 
@@ -43,6 +58,11 @@ export function SpecialDayCard({ day, isToday = false }: SpecialDayCardProps) {
         <div className="flex items-start justify-between gap-3">
           <div className="flex items-center gap-2">
             <Badge variant={categoryVariant()}>{day.category}</Badge>
+            {isMemorial && (
+              <Badge variant="secondary" className="text-[10px] font-bold">
+                Anma Günü
+              </Badge>
+            )}
             <span className="text-xs font-semibold text-zinc-400 dark:text-zinc-500 flex items-center gap-1">
               <Calendar className="h-3 w-3" />
               {formatDayMonthOnly(day.day_no, day.month_no)}
@@ -89,14 +109,14 @@ export function SpecialDayCard({ day, isToday = false }: SpecialDayCardProps) {
           href={`/gun/${day.slug}`}
           className="inline-flex items-center gap-1.5 text-xs font-bold text-red-600 hover:text-red-700 dark:text-red-400 transition-colors group-hover:translate-x-1 duration-200"
         >
-          <span>Tüm Detaylar & Kutlama</span>
+          <span>{isMemorial ? "Detaylar ve Anma Mesajları" : "Tüm Detaylar ve Mesajlar"}</span>
           <ArrowRight className="h-3.5 w-3.5" />
         </Link>
 
-        {day.affiliate_keywords && day.affiliate_keywords.length > 0 && (
+        {!isMemorial && day.affiliate_keywords && day.affiliate_keywords.length > 0 && (
           <span className="flex items-center gap-1 text-[11px] text-amber-700 bg-amber-50 dark:bg-amber-950/40 dark:text-amber-400 px-2 py-0.5 rounded-md font-medium">
             <Tag className="h-3 w-3" />
-            Hediye Önerileri
+            Hediye Fikirleri
           </span>
         )}
       </CardFooter>

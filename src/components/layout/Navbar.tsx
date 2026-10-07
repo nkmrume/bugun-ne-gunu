@@ -19,6 +19,7 @@ import { Badge } from "@/components/ui/badge";
 import { SearchModal } from "./SearchModal";
 import { SpecialDay } from "@/types/database";
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
+import { getTurkeyToday } from "@/lib/date-engine";
 
 interface NavbarProps {
   allDays: SpecialDay[];
@@ -31,9 +32,9 @@ export function Navbar({ allDays }: NavbarProps) {
   const [isCategoriesDropdownOpen, setIsCategoriesDropdownOpen] = useState(false);
   const pathname = usePathname();
 
-  // Current Turkish date indicator
-  const today = new Date();
-  const currentMonthNo = today.getMonth() + 1;
+  // Current Turkish date indicator from unified date engine
+  const turkeyToday = getTurkeyToday();
+  const currentMonthNo = turkeyToday.month;
   const currentMonthMeta = MONTHS_METADATA.find((m) => m.number === currentMonthNo);
 
   return (
@@ -225,14 +226,14 @@ export function Navbar({ allDays }: NavbarProps) {
 
             {/* Today Pill */}
             <Link
-              href="/"
-              className="hidden sm:flex items-center gap-1.5 rounded-full bg-red-50 px-3.5 py-1.5 text-xs font-bold text-red-600 dark:bg-red-950/40 dark:text-red-400 border border-red-200/60 dark:border-red-900/60"
+              href={`/tarih/${turkeyToday.dateSlug}`}
+              className="hidden sm:flex items-center gap-1.5 rounded-full bg-red-50 px-3.5 py-1.5 text-xs font-bold text-red-600 dark:bg-red-950/40 dark:text-red-400 border border-red-200/60 dark:border-red-900/60 hover:bg-red-100 transition-colors"
             >
               <span className="relative flex h-2 w-2">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
               </span>
-              <span>28 Eylül</span>
+              <span>{turkeyToday.formattedShort}</span>
             </Link>
 
             {/* Mobile Menu Hamburger */}

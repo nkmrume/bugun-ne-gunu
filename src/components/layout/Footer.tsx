@@ -29,10 +29,10 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Month Pillar Pages (SEO Internal Linking) */}
+          {/* Month Pillar Pages */}
           <div className="lg:col-span-2">
             <h4 className="text-xs font-bold uppercase tracking-wider text-zinc-900 dark:text-zinc-100 mb-3">
-              Aylık Özel Gün Takvimi (Pillar Sayfalar)
+              Aylık Özel Gün Takvimi
             </h4>
             <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 text-xs">
               {MONTHS_METADATA.map((month) => (
@@ -144,7 +144,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 border-t border-zinc-200 pt-6 dark:border-zinc-800 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-500 gap-4">
           <p>
-            © {currentYear} Bugün Ne Günü? Tüm hakları saklıdır. SEO ve Performans odaklı özel günler rehberi.
+            © {currentYear} Bugün Ne Günü? Tüm hakları saklıdır. Türkiye ve dünya özel günler, bayramlar ve kutlamalar takvimi.
           </p>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1">

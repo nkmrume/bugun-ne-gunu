@@ -14,15 +14,21 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
     2026
   );
 
-  // Extract how to celebrate content
-  let howToCelebrate = `${specialDay.title} gününde sevdiklerinizle bir araya gelebilir, temaya uygun etkinlikler ve paylaşımlar yapabilirsiniz.`;
+  const isMemorial = specialDay.day_type === "anma";
+
+  // Contextual celebration or memorial text
+  let howToCelebrate = isMemorial
+    ? `${specialDay.title} gününde saat 09:05'te saygı duruşunda bulunabilir, Anıtkabir'i ve müzeleri ziyaret edebilir, Atatürk'ün mirasını ve eserlerini inceleyebilirsiniz.`
+    : `${specialDay.title} gününde sevdiklerinizle bir araya gelebilir, temaya uygun etkinlikler ve paylaşımlar yapabilirsiniz.`;
+
   if (specialDay.content.includes("##")) {
     const sections = specialDay.content.split(/##\s+/);
     const howToSection = sections.find(
       (sec) =>
         sec.toLowerCase().includes("nasıl") ||
         sec.toLowerCase().includes("nasil") ||
-        sec.toLowerCase().includes("kutlanır")
+        sec.toLowerCase().includes("kutlanır") ||
+        sec.toLowerCase().includes("anılır")
     );
     if (howToSection) {
       const lines = howToSection.split("\n").filter((l) => l.trim().length > 0 && !l.startsWith("##"));
@@ -33,41 +39,40 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
   }
 
   // Sample greeting message
-  const bestMessage =
-    specialDay.hashtags.length > 0
-      ? `"${specialDay.title} kutlu olsun! Bu özel günün getirdiği neşe ve farkındalığın hayatınıza güzellik katmasını dileriz. ${specialDay.hashtags.slice(0, 3).join(" ")}"`
-      : `"${specialDay.title} kutlu olsun!"`;
+  const bestMessage = isMemorial
+    ? `"Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve minnetle anıyoruz. 🇹🇷🖤"`
+    : specialDay.hashtags.length > 0
+    ? `"${specialDay.title} kutlu olsun! Bu özel günün getirdiği neşe ve farkındalığın hayatınıza güzellik katmasını dileriz. ${specialDay.hashtags.slice(0, 3).join(" ")}"`
+    : `"${specialDay.title} kutlu olsun!"`;
 
-  // 1. Event Schema
-  const eventSchema = {
+  // 1. WebPage & Article Schema (Compliant with Google guidelines for informational editorial guides)
+  const articleSchema = {
     "@context": "https://schema.org",
-    "@type": "Event",
-    name: specialDay.title,
-    startDate: specialDay.celebration_date,
-    endDate: specialDay.celebration_date,
-    eventAttendanceMode: "https://schema.org/OnlineEventAttendanceMode",
-    eventStatus: "https://schema.org/EventScheduled",
-    location: {
-      "@type": "VirtualLocation",
-      url: url,
-      name: "Bugün Ne Günü? Çevrim İçi Etkinlik ve Kutlama Platformu",
-    },
+    "@type": "Article",
+    headline: `2026 ${specialDay.title} Ne Zaman, Nasıl ${isMemorial ? "Anılır" : "Kutlanır"}?`,
+    description: specialDay.description,
     image: [
       `https://bugunnegunu.com/og?title=${encodeURIComponent(specialDay.title)}`,
     ],
-    description: specialDay.description,
-    organizer: {
+    datePublished: "2026-01-01T00:00:00+03:00",
+    dateModified: specialDay.updated_at || "2026-10-07T00:00:00+03:00",
+    author: {
+      "@type": "Organization",
+      name: "Bugün Ne Günü? Editoryal Kurulu",
+      url: "https://bugunnegunu.com",
+    },
+    publisher: {
       "@type": "Organization",
       name: "Bugün Ne Günü?",
       url: "https://bugunnegunu.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://bugunnegunu.com/logo.png",
+      },
     },
-    offers: {
-      "@type": "Offer",
-      price: "0",
-      priceCurrency: "TRY",
-      availability: "https://schema.org/InStock",
-      url: url,
-      validFrom: "2026-01-01",
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": url,
     },
   };
 
@@ -81,12 +86,12 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
         name: `2026 ${specialDay.title} ne zaman?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `2026 yılında ${specialDay.title}, ${formattedDate} tarihinde kutlanmaktadır.`,
+          text: `2026 yılında ${specialDay.title}, ${formattedDate} tarihinde ${isMemorial ? "anılmaktadır" : "kutlanmaktadır"}.`,
         },
       },
       {
         "@type": "Question",
-        name: `${specialDay.title} nasıl kutlanır?`,
+        name: `${specialDay.title} nasıl ${isMemorial ? "anılır" : "kutlanır"}?`,
         acceptedAnswer: {
           "@type": "Answer",
           text: howToCelebrate,
@@ -104,6 +109,9 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
   };
 
   // 3. BreadcrumbList Schema
+  const monthSlug = NUMBER_TO_MONTH_SLUG[specialDay.month_no] || "ekim";
+  const monthName = TURKISH_MONTHS[specialDay.month_no] || "Ekim";
+
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -117,8 +125,8 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
       {
         "@type": "ListItem",
         position: 2,
-        name: `${TURKISH_MONTHS[specialDay.month_no] || specialDay.month_no} Ayı Özel Günleri`,
-        item: `https://bugunnegunu.com/aylar/${NUMBER_TO_MONTH_SLUG[specialDay.month_no] || specialDay.month_no}`,
+        name: `${monthName} Ayı`,
+        item: `https://bugunnegunu.com/aylar/${monthSlug}`,
       },
       {
         "@type": "ListItem",
@@ -133,7 +141,7 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(eventSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
       <script
         type="application/ld+json"
@@ -148,27 +156,26 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
 }
 
 export function WebsiteJsonLd() {
-  const websiteSchema = {
+  const schema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Bugün Ne Günü?",
+    alternateName: ["Bugun Ne Gunu", "Ozel Gunler Takvimi"],
     url: "https://bugunnegunu.com",
     potentialAction: {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: "https://bugunnegunu.com/?q={search_term_string}",
+        urlTemplate: "https://bugunnegunu.com/ara?q={search_term_string}",
       },
       "query-input": "required name=search_term_string",
     },
-    inLanguage: "tr-TR",
-    description: "Bugün hangi özel gün kutlanıyor? Türkiye ve dünyadaki tüm özel günler, haftalar ve bayramlar rehberi.",
   };
 
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
     />
   );
 }

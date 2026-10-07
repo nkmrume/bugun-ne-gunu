@@ -2361,6 +2361,35 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+  "id": "f8b9a112-9844-48f8-b3f1-000000000100b",
+  "slug": "dunya-pamuk-gunu",
+  "title": "7 Ekim Dünya Pamuk Günü",
+  "description": "Birleşmiş Milletler (BM) Genel Kurulu tarafından ilan edilen, pamuğun küresel ekonomideki, sürdürülebilir tarımdaki ve istihdamdaki kritik rolünü vurgulayan uluslararası gün.",
+  "content": "## 7 Ekim Dünya Pamuk Günü Nedir?\nDünya Pamuk Günü (World Cotton Day), Birleşmiş Milletler (BM) Genel Kurulu'nun A/RES/75/318 sayılı kararı ile her yıl 7 Ekim tarihinde tüm dünyada idrak edilen resmî bir uluslararası farkındalık günüdür.\n\n### Tarihçesi ve Önemi\nPamuk üreticisi gelişmekte olan Benin, Burkina Faso, Çad ve Mali (Cotton-4) ülkelerinin Dünya Ticaret Örgütü'ne (DTÖ) yaptığı başvuru sonucunda, 2019 yılında BM Gıda ve Tarım Örgütü (FAO), BM Ticaret ve Kalkınma Konferansı (UNCTAD) ve Uluslararası Pamuk Danışma Komitesi (ICAC) ortaklığıyla başlatılmıştır. Pamuk, dünya genelinde 100 milyondan fazla aileye doğrudan gelir sağlayan ve biyolojik olarak tamamen çözünebilen stratejik bir doğal elyaftır.\n\n---\n\n## 7 Ekim Dünya Pamuk Günü Nasıl Değerlendirilir?\n1. Sürdürülebilir, organik ve sertifikalı pamuklu tekstil ürünlerini tercih edin.\n2. Sentetik ve mikroplastik yayan kumaşlar yerine doğal liflerin önemini araştırın.\n3. Çiftçilerin ve tekstil işçilerinin adil ticaret (Fairtrade) haklarına destek olun.\n\n---\n\n## Sosyal Medya Farkındalık Mesajları\n* \"Tarladan gardıroba uzanan doğal emek: 7 Ekim Dünya Pamuk Günü kutlu olsun! Sürdürülebilir tarımı ve doğal lifleri destekliyoruz. 🌱🧵 #DunyaPamukGunu #WorldCottonDay\"\n* \"Dünya genelinde 100 milyondan fazla çiftçi ailesinin geçim kaynağı olan pamuğun değerini biliyoruz. 7 Ekim Dünya Pamuk Günü kutlu olsun. #Pamuk #SurdurulebilirTekstil\"\n* \"Sentetik kumaşlara karşı doğayı koru, pamuğu seç. #WorldCottonDay #7Ekim\"",
+  "celebration_date": "2026-10-07",
+  "month_no": 10,
+  "day_no": 7,
+  "category": "Uluslararası",
+  "day_type": "farkindalik",
+  "is_public_holiday": false,
+  "scope": "bm",
+  "source_name": "Birleşmiş Milletler Genel Kurulu (A/RES/75/318)",
+  "source_url": "https://press.un.org/en/2021/ga12354.doc.htm",
+  "verified_at": "2026-10-07",
+  "hashtags": [
+    "#DunyaPamukGunu",
+    "#WorldCottonDay",
+    "#7Ekim",
+    "#Pamuk",
+    "#SurdurulebilirTarim"
+  ],
+  "affiliate_keywords": [
+    "organik pamuk nevresim",
+    "yüzde 100 pamuk tişört",
+    "doğal pamuklu havlu"
+  ]
+},
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000101",
     "slug": "dunya-ruh-sagligi-gunu",
     "title": "10 Ekim Dünya Ruh Sağlığı Günü",
@@ -2451,29 +2480,30 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000105",
-    "slug": "ataturku-anma-gunu",
-    "title": "10 Kasım Atatürk'ü Anma Günü",
-    "description": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin yıl dönümü ve anma günü.",
-    "content": "## 10 Kasım Atatürk'ü Anma Günü Nedir?\n10 Kasım 1938 günü saat 09:05'te Dolmabahçe Sarayı'nda vefat eden Atatürk'ün anısına her yıl ulusal saygı duruşuyla icra edilir.\n\n### Tarihçesi ve Önemi\n10 Kasım 1938 günü saat 09:05'te Dolmabahçe Sarayı'nda vefat eden Atatürk'ün anısına her yıl ulusal saygı duruşuyla icra edilir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 10 Kasım Atatürk'ü Anma Günü Nasıl Kutlanır?\n1. Saat 09:05'te sirenler eşliğinde 2 dakikalık saygı duruşunda bulunun.\n2. Anıtkabir'i ve Atatürk müzelerini ziyaret edin.\n3. Onun fikirlerini ve mirasını okuyun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Beni görmek demek mutlaka yüzümü görmek değildir. Fikirlerimi anlıyorsanız bu kafidir. Saygı, sevgi ve özlemle anıyoruz. 🇹🇷🖤\"\n* \"10 Kasım Atatürk'ü Anma Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #10Kasim #Ataturk #SaygiVeOzlemle\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #ataturku-anma-gunu\"",
-    "celebration_date": "2026-11-10",
-    "month_no": 11,
-    "day_no": 10,
-    "category": "Resmi",
-    "hashtags": [
-      "#10Kasim",
-      "#Ataturk",
-      "#SaygiVeOzlemle",
-      "#0905",
-      "#Turkiye"
-    ],
-    "affiliate_keywords": [
-      "atatürk portresi çerçeveli",
-      "atatürk biyografi kitabı",
-      "atatürk imzalı kupa",
-      "nutuk ciltli"
-    ]
-  },
+  "id": "f8b9a112-9844-48f8-b3f1-000000000105",
+  "slug": "ataturku-anma-gunu",
+  "title": "10 Kasım Atatürk'ü Anma Günü",
+  "description": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü ve milli anma günü.",
+  "content": "## 10 Kasım Atatürk'ü Anma Günü Nedir?\n10 Kasım 1938 günü saat 09:05'te Dolmabahçe Sarayı'nda ebediyete irtihal eden Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün aziz hatırasını yaşatmak amacıyla her yıl düzenlenen ulusal yas ve anma günüdür.\n\n### Tarihçesi ve Milli Anlamı\nMustafa Kemal Atatürk, askeri dehası ve liderliğiyle Kurtuluş Savaşı'nı zafere ulaştırmış, ardından hayata geçirdiği inkılaplarla modern, bağımsız ve laik Türkiye Cumhuriyeti'ni inşa etmiştir. Her 10 Kasım günü saat 09:05'te tüm yurtta sirenler eşliğinde 2 dakikalık saygı duruşunda bulunulur; bayraklar yarıya indirilir ve Anıtkabir'de resmi devlet töreni icra edilir.\n\n---\n\n## 10 Kasım'da Atatürk Nasıl Anılır?\n1. Saat 09:05'te nerede olursanız olun siren sesiyle birlikte saygı duruşunda bulunun.\n2. Anıtkabir'i ve yerel Atatürk anıtlarını ziyaret ederek çiçek bırakın.\n3. Nutuk'u, Atatürk'ün fikirlerini ve Cumhuriyet ilkelerini çocuklarınıza anlatın.\n4. Anma etkinliklerine ve resmi törenlere katılarak saygınızı ifade edin.\n\n---\n\n## 10 Kasım Anma ve Saygı Mesajları\n* \"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir. Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve sonsuz minnetle anıyoruz. 🇹🇷🖤\"\n* \"Fikirlerin, ilkelerin ve emanetin olan Cumhuriyet ilelebet yaşayacak. 10 Kasım Atatürk'ü Anma Günü'nde Başkomutanımızı derin bir özlemle yad ediyoruz. #10Kasim #Ataturk #0905\"\n* \"Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğimize ant içeriz. Ruhun şad olsun Atam. #SaygiVeOzlemle #MustafaKemalAtaturk\"",
+  "celebration_date": "2026-11-10",
+  "month_no": 11,
+  "day_no": 10,
+  "category": "Resmi",
+  "day_type": "anma",
+  "is_public_holiday": false,
+  "scope": "turkiye",
+  "source_name": "T.C. Resmî Gazete & Anıtkabir Komutanlığı",
+  "source_url": "https://www.anitkabir.tsk.tr",
+  "verified_at": "2026-10-07",
+  "hashtags": [
+    "#10Kasim",
+    "#Ataturk",
+    "#SaygiVeOzlemle",
+    "#0905",
+    "#Turkiye"
+  ],
+  "affiliate_keywords": []
+},
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000106",
     "slug": "dunya-diyabet-gunu",

@@ -42,11 +42,11 @@ export async function generateMetadata({
 
   if (!categoryMeta) {
     return {
-      title: "Kategori Bulunamadı | Bugün Ne Günü?",
+      title: "Kategori Bulunamadı",
     };
   }
 
-  const title = `${categoryMeta.name} Özel Günleri Takvimi 2026 | Bugün Ne Günü?`;
+  const title = `${categoryMeta.name} Özel Günleri Takvimi 2026`;
   const description = `${categoryMeta.name} kategorisindeki tüm özel günler, haftalar ve bayramlar. ${categoryMeta.description} 2026 takvimi ve kutlama mesajları.`;
 
   return {

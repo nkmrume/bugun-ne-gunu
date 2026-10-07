@@ -2,21 +2,27 @@
 
 import React from "react";
 import { SpecialDay } from "@/types/database";
-import { ShoppingBag, ExternalLink, Sparkles, Tag, ShieldCheck, ArrowRight } from "lucide-react";
+import { ShoppingBag, ExternalLink, Sparkles, Tag, ShieldCheck } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 
 interface AffiliateBoxProps {
   specialDay: SpecialDay;
 }
 
 export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
-  const keywords = specialDay.affiliate_keywords.length > 0
-    ? specialDay.affiliate_keywords
-    : ["özel gün hediyesi", "kutlama seti", "anı hediyesi"];
+  // Never display commercial affiliate boxes on memorial days or if keywords are explicitly empty
+  if (
+    specialDay.day_type === "anma" ||
+    !specialDay.affiliate_keywords ||
+    specialDay.affiliate_keywords.length === 0
+  ) {
+    return null;
+  }
+
+  const keywords = specialDay.affiliate_keywords;
 
   return (
-    <div className="relative overflow-hidden rounded-3xl border border-amber-200 bg-gradient-to-br from-amber-50/80 via-white to-orange-50/50 p-6 md:p-8 shadow-sm dark:border-amber-900/40 dark:from-amber-950/20 dark:via-zinc-900 dark:to-orange-950/10">
+    <div className="relative overflow-hidden rounded-3xl border border-amber-200/90 bg-gradient-to-br from-amber-50/60 via-white to-orange-50/40 p-6 md:p-8 shadow-sm dark:border-amber-900/40 dark:from-amber-950/20 dark:via-zinc-900 dark:to-orange-950/10">
       {/* Background ambient decorative glow */}
       <div className="pointer-events-none absolute -right-12 -top-12 h-40 w-40 rounded-full bg-amber-400/10 blur-3xl" />
       <div className="pointer-events-none absolute -left-12 -bottom-12 h-40 w-40 rounded-full bg-orange-400/10 blur-3xl" />
@@ -31,21 +37,21 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
             </Badge>
             <span className="flex items-center gap-1 text-xs text-zinc-500">
               <ShieldCheck className="h-3.5 w-3.5 text-emerald-500" />
-              Doğrulanmış Fırsatlar
+              Editoryal Öneri
             </span>
           </div>
           <h3 className="mt-2 text-xl md:text-2xl font-black text-zinc-900 dark:text-zinc-100">
-            {specialDay.title} İçin En Çok Tercih Edilen Hediyeler
+            {specialDay.title} İçin Hediye ve Ekipman Seçenekleri
           </h3>
           <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
-            Kutlamanızı unutulmaz kılacak popüler hediye seçenekleri ve özel indirimli ürün koleksiyonları.
+            Günün anlamına uygun hediye alternatiflerini ve popüler modelleri güvenilir pazaryerlerinde inceleyin.
           </p>
         </div>
 
-        <div className="hidden sm:flex items-center gap-2 rounded-2xl bg-white px-4 py-2.5 shadow-sm border border-amber-100 dark:bg-zinc-800 dark:border-zinc-700">
+        <div className="hidden sm:flex items-center gap-2 rounded-2xl bg-white px-4 py-2 shadow-sm border border-amber-100 dark:bg-zinc-800 dark:border-zinc-700">
           <Tag className="h-4 w-4 text-amber-500" />
           <span className="text-xs font-semibold text-zinc-800 dark:text-zinc-200">
-            Özel Kampanyalar Aktif
+            Fiyatları Mağazada İncele
           </span>
         </div>
       </div>
@@ -66,8 +72,8 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
                   <span className="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-amber-100 text-amber-800 dark:bg-amber-950/60 dark:text-amber-300">
                     <ShoppingBag className="h-4 w-4" />
                   </span>
-                  <span className="text-[11px] font-bold text-amber-600 bg-amber-50 px-2.5 py-0.5 rounded-full dark:bg-amber-950/40 dark:text-amber-400">
-                    %{15 + (index * 7) % 35} İndirim Fırsatı
+                  <span className="text-[11px] font-bold text-zinc-600 bg-zinc-100 px-2.5 py-0.5 rounded-full dark:bg-zinc-800 dark:text-zinc-300">
+                    Kategori Rehberi
                   </span>
                 </div>
 
@@ -75,7 +81,7 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
                   {keyword}
                 </h4>
                 <p className="mt-1 text-xs text-zinc-500 line-clamp-2">
-                  {specialDay.title} konseptine uygun en çok satan ve yüksek puanlı modelleri keşfedin.
+                  {specialDay.title} konseptine uygun en çok tercih edilen modeller ve kullanıcı yorumları.
                 </p>
               </div>
 
@@ -83,7 +89,7 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
                 <a
                   href={trendyolUrl}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="sponsored nofollow noopener noreferrer"
                   className="flex-1 inline-flex items-center justify-center gap-1.5 rounded-xl bg-orange-500 hover:bg-orange-600 text-white px-3 py-2 text-xs font-bold transition-colors shadow-sm"
                 >
                   <span>Trendyol</span>
@@ -92,7 +98,7 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
                 <a
                   href={amazonUrl}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="sponsored nofollow noopener noreferrer"
                   className="flex-1 inline-flex items-center justify-center gap-1.5 rounded-xl bg-zinc-800 hover:bg-zinc-900 text-white px-3 py-2 text-xs font-bold transition-colors shadow-sm dark:bg-zinc-700 dark:hover:bg-zinc-600"
                 >
                   <span>Amazon</span>
@@ -104,36 +110,12 @@ export function AffiliateBox({ specialDay }: AffiliateBoxProps) {
         })}
       </div>
 
-      {/* Conversion Banner Footer */}
-      <div className="mt-6 flex flex-col sm:flex-row items-center justify-between rounded-2xl bg-amber-500/10 p-4 border border-amber-300/40 dark:bg-amber-950/30 dark:border-amber-900/40 gap-3">
-        <div className="flex items-center gap-3">
-          <div className="hidden sm:flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-amber-500 text-zinc-950 font-black">
-            %
-          </div>
-          <div className="text-center sm:text-left">
-            <p className="text-sm font-bold text-zinc-900 dark:text-zinc-100">
-              Kupon Kodu: <span className="font-mono text-red-600 dark:text-red-400">BUGUNNEKUTLU</span>
-            </p>
-            <p className="text-xs text-zinc-500">
-              Seçili mağazalarda geçerli sürpriz hediye çeki ve indirimler için mağazaya göz atın.
-            </p>
-          </div>
-        </div>
-
-        <a
-          href={`https://www.trendyol.com/sr?q=${encodeURIComponent(specialDay.title)}`}
-          target="_blank"
-          rel="noopener noreferrer nofollow"
-          className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-700 hover:text-amber-800 hover:underline dark:text-amber-400"
-        >
-          Tüm Fırsatları Görüntüle
-          <ArrowRight className="h-3.5 w-3.5" />
-        </a>
+      {/* Commercial Affiliate Disclaimer */}
+      <div className="mt-6 pt-4 border-t border-amber-200/40 text-center">
+        <p className="text-[11px] text-zinc-500 dark:text-zinc-400">
+          * Bu sayfada yer alan ürün bağlantıları bağımsız editoryal önerilerimizdir. Bağlantılar üzerinden yapılan alışverişlerde satış ortaklığı kapsamında küçük bir komisyon elde edilebilir; bu durum sizin ödediğiniz fiyatı etkilemez.
+        </p>
       </div>
-
-      <p className="mt-4 text-center text-[10px] text-zinc-400 dark:text-zinc-500">
-        * Sitemiz üzerinden gerçekleştirilen alışverişlerden iş ortaklarımız (Trendyol & Amazon) aracılığıyla komisyon elde edilebilir. Fiyat ve stok bilgisi ilgili sitelerde anlık değişebilir.
-      </p>
     </div>
   );
 }

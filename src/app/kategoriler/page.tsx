@@ -22,7 +22,7 @@ import { Badge } from "@/components/ui/badge";
 import { AdBanner } from "@/components/ads/AdBanner";
 
 export const metadata: Metadata = {
-  title: "Özel Gün Kategorileri 2026 | Bugün Ne Günü?",
+  title: "Özel Gün Kategorileri 2026",
   description:
     "Resmi bayramlar, eğlence günleri, sağlık ve farkındalık haftaları, çevre ve kültür-sanat günleri. Tüm özel gün kategorilerini keşfedin.",
   alternates: {

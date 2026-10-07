@@ -13,6 +13,7 @@ import {
   Sparkles,
   MessageSquare,
   Lightbulb,
+  Heart,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
@@ -24,8 +25,10 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
   const [copiedIndex, setCopiedIndex] = useState<number | null>(null);
   const [copiedTag, setCopiedTag] = useState<string | null>(null);
 
+  const isMemorial = specialDay.day_type === "anma";
+  const isAwareness = specialDay.day_type === "farkindalik";
+
   // Parse markdown content sections
-  // Sections typically: ## Nedir?, ## Nasıl Kutlanır?, ## Sosyal Medya
   const rawSections = specialDay.content.split(/\n(?=##\s+)/);
 
   let nedirContent = "";
@@ -34,9 +37,15 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
 
   rawSections.forEach((sec) => {
     const lower = sec.toLowerCase();
-    if (lower.includes("nedir") || lower.includes("tarihçesi")) {
+    if (lower.includes("nedir") || lower.includes("tarihçesi") || lower.includes("önemi")) {
       nedirContent += sec + "\n";
-    } else if (lower.includes("nasıl") || lower.includes("nasil") || lower.includes("kutlanır") || lower.includes("sağlanır")) {
+    } else if (
+      lower.includes("nasıl") ||
+      lower.includes("nasil") ||
+      lower.includes("kutlanır") ||
+      lower.includes("anılır") ||
+      lower.includes("değerlendirilir")
+    ) {
       nasilContent += sec + "\n";
     } else if (lower.includes("sosyal") || lower.includes("mesaj")) {
       sosyalContent += sec + "\n";
@@ -45,12 +54,24 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
     }
   });
 
-  // Sample social captions ready to copy
-  const sampleCaptions = [
-    `"${specialDay.title} kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dilerim. ✨ ${specialDay.hashtags.slice(0, 3).join(" ")}"`,
-    `"Hayatı güzelleştiren tüm anlar kutlanmaya değer! ${specialDay.title} günümüz kutlu ve mutlu olsun. 🎈 ${specialDay.hashtags.join(" ")}"`,
-    `"Bugün ${specialDay.title}! Sevdiklerinizle paylaşmayı ve bu özel günün coşkusunu hissetmeyi unutmayın. 💫 ${specialDay.hashtags.slice(0, 2).join(" ")}"`,
-  ];
+  // Respectful vs Celebratory social captions
+  const sampleCaptions = isMemorial
+    ? [
+        `"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir. Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve sonsuz minnetle anıyoruz. 🇹🇷🖤 ${specialDay.hashtags.slice(0, 3).join(" ")}"`,
+        `"Fikirlerin ve emanetin olan Cumhuriyet ilelebet yaşayacak. 10 Kasım Atatürk'ü Anma Günü'nde Başkomutanımızı derin bir özlemle yad ediyoruz. 🕊️ ${specialDay.hashtags.join(" ")}"`,
+        `"Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ün aziz hatırası önünde saygıyla eğiliyoruz. Ruhun şad olsun Atam. #10Kasim #Ataturk #0905"`,
+      ]
+    : isAwareness
+    ? [
+        `"${specialDay.title} farkındalığıyla toplumda dayanışma ve bilinci büyütüyoruz. Doğal yaşamı ve sağlığı korumak hepimizin sorumluluğu. 🎗️ ${specialDay.hashtags.slice(0, 3).join(" ")}"`,
+        `"Daha bilinçli ve sağlıklı bir gelecek için: ${specialDay.title} vesilesiyle farkında ol, harekete geç! 🌱 ${specialDay.hashtags.join(" ")}"`,
+        `"Bugün ${specialDay.title}! Farkındalık yaratarak sevdiklerinizle bu önemli temayı paylaşın. 💫 ${specialDay.hashtags.slice(0, 2).join(" ")}"`,
+      ]
+    : [
+        `"${specialDay.title} kutlu olsun! Bu anlamlı günde sevgi, neşe ve güzelliklerin hayatınıza dolmasını dilerim. ✨ ${specialDay.hashtags.slice(0, 3).join(" ")}"`,
+        `"Hayatı güzelleştiren tüm anlar kutlanmaya değer! ${specialDay.title} günümüz neşeyle geçsin. 🎈 ${specialDay.hashtags.join(" ")}"`,
+        `"Bugün ${specialDay.title}! Sevdiklerinizle paylaşmayı ve bu özel günü hatırlamayı unutmayın. 💫 ${specialDay.hashtags.slice(0, 2).join(" ")}"`,
+      ];
 
   const handleCopyCaption = (text: string, index: number) => {
     navigator.clipboard.writeText(text);
@@ -100,10 +121,7 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
           </div>
         );
       }
-      if (trimmed === "---") {
-        return <hr key={idx} className="my-6 border-zinc-200 dark:border-zinc-800" />;
-      }
-      if (trimmed.length === 0) {
+      if (!trimmed) {
         return <div key={idx} className="h-2" />;
       }
       return (
@@ -123,12 +141,26 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
             <span>Nedir?</span>
           </TabsTrigger>
           <TabsTrigger value="nasil" className="gap-2 text-xs sm:text-sm">
-            <PartyPopper className="h-4 w-4 text-amber-500" />
-            <span>Nasıl Kutlanır?</span>
+            {isMemorial ? (
+              <>
+                <Heart className="h-4 w-4 text-zinc-400" />
+                <span>Nasıl Anılır?</span>
+              </>
+            ) : isAwareness ? (
+              <>
+                <Lightbulb className="h-4 w-4 text-amber-500" />
+                <span>Nasıl Değerlendirilir?</span>
+              </>
+            ) : (
+              <>
+                <PartyPopper className="h-4 w-4 text-amber-500" />
+                <span>Nasıl Kutlanır?</span>
+              </>
+            )}
           </TabsTrigger>
           <TabsTrigger value="sosyal" className="gap-2 text-xs sm:text-sm">
             <Share2 className="h-4 w-4 text-sky-500" />
-            <span>Sosyal Medya & Mesajlar</span>
+            <span>{isMemorial ? "Anma Mesajları" : "Sosyal Medya & Mesajlar"}</span>
           </TabsTrigger>
         </TabsList>
 
@@ -139,20 +171,33 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
           </div>
         </TabsContent>
 
-        {/* Tab 2: Nasıl Kutlanır? */}
+        {/* Tab 2: Nasıl Kutlanır / Anılır? */}
         <TabsContent value="nasil" className="rounded-3xl border border-zinc-200/80 bg-white p-6 sm:p-8 dark:border-zinc-800 dark:bg-zinc-900/90 shadow-sm">
           <div className="flex items-center gap-2 mb-4">
-            <Lightbulb className="h-5 w-5 text-amber-500" />
+            {isMemorial ? (
+              <Heart className="h-5 w-5 text-zinc-500" />
+            ) : (
+              <Lightbulb className="h-5 w-5 text-amber-500" />
+            )}
             <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-100">
-              Kutlama ve Etkinlik Fikirleri
+              {isMemorial
+                ? "Anma ve Saygı Rehberi"
+                : isAwareness
+                ? "Farkındalık ve Destek Fikirleri"
+                : "Kutlama ve Etkinlik Fikirleri"}
             </h3>
           </div>
           <div className="prose prose-zinc dark:prose-invert max-w-none">
-            {renderSimpleMarkdown(nasilContent || "Bu özel gün için sevdiklerinizle bir araya gelebilir, tematik etkinlikler ve kutlamalar organize edebilirsiniz.")}
+            {renderSimpleMarkdown(
+              nasilContent ||
+                (isMemorial
+                  ? "Bu özel günde saat 09:05'te saygı duruşunda bulunabilir, Anıtkabir ve Atatürk müzelerini ziyaret edebilirsiniz."
+                  : "Bu özel gün için sevdiklerinizle bir araya gelebilir, tematik etkinlikler ve kutlamalar organize edebilirsiniz.")
+            )}
           </div>
         </TabsContent>
 
-        {/* Tab 3: Sosyal Medya */}
+        {/* Tab 3: Sosyal Medya & Mesajlar */}
         <TabsContent value="sosyal" className="space-y-6">
           {/* Captions Box */}
           <div className="rounded-3xl border border-zinc-200/80 bg-white p-6 sm:p-8 dark:border-zinc-800 dark:bg-zinc-900/90 shadow-sm">
@@ -160,7 +205,7 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
               <div className="flex items-center gap-2">
                 <MessageSquare className="h-5 w-5 text-sky-500" />
                 <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-100">
-                  Hazır Kutlama ve Paylaşım Mesajları
+                  {isMemorial ? "Hazır Anma ve Saygı Mesajları" : "Hazır Kutlama ve Paylaşım Mesajları"}
                 </h3>
               </div>
               <span className="text-xs text-zinc-400">Tek tıkla kopyala</span>
@@ -181,12 +226,12 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
                   >
                     {copiedIndex === idx ? (
                       <>
-                        <Check className="h-3.5 w-3.5 text-emerald-500" />
-                        <span className="text-emerald-600 dark:text-emerald-400">Kopyalandı!</span>
+                        <Check className="h-3.5 w-3.5 text-emerald-600" />
+                        <span className="text-emerald-600">Kopyalandı</span>
                       </>
                     ) : (
                       <>
-                        <Copy className="h-3.5 w-3.5 text-zinc-400" />
+                        <Copy className="h-3.5 w-3.5" />
                         <span>Kopyala</span>
                       </>
                     )}
@@ -196,36 +241,30 @@ export function DayDetailTabs({ specialDay }: DayDetailTabsProps) {
             </div>
           </div>
 
-          {/* Hashtags Box */}
+          {/* Hashtag Box */}
           <div className="rounded-3xl border border-zinc-200/80 bg-white p-6 sm:p-8 dark:border-zinc-800 dark:bg-zinc-900/90 shadow-sm">
-            <div className="flex items-center gap-2 mb-3">
-              <Hash className="h-5 w-5 text-purple-500" />
+            <div className="flex items-center gap-2 mb-4">
+              <Hash className="h-5 w-5 text-red-500" />
               <h3 className="text-lg font-bold text-zinc-900 dark:text-zinc-100">
-                Popüler Sosyal Medya Etiketleri (Hashtags)
+                Popüler Etiketler (Hashtag)
               </h3>
             </div>
-            <p className="text-xs text-zinc-500 mb-4">
-              Instagram, X (Twitter) ve TikTok gönderilerinizde etkileşimi artırmak için aşağıdaki etiketlere tıklayıp kopyalayabilirsiniz:
-            </p>
 
             <div className="flex flex-wrap gap-2">
-              {specialDay.hashtags.map((tag, idx) => {
-                const isCopied = copiedTag === tag;
-                return (
-                  <button
-                    key={idx}
-                    onClick={() => handleCopyHashtag(tag)}
-                    className="group inline-flex items-center gap-1.5 rounded-xl border border-zinc-200 bg-zinc-50 px-3.5 py-2 text-xs font-semibold text-zinc-700 shadow-sm hover:border-purple-300 hover:bg-purple-50 hover:text-purple-700 dark:border-zinc-800 dark:bg-zinc-800/60 dark:text-zinc-300 dark:hover:bg-purple-950/40 dark:hover:text-purple-300 transition-all cursor-pointer"
-                  >
-                    <span>{tag}</span>
-                    {isCopied ? (
-                      <Check className="h-3 w-3 text-emerald-500" />
-                    ) : (
-                      <Copy className="h-3 w-3 text-zinc-400 group-hover:text-purple-600 transition-colors" />
-                    )}
-                  </button>
-                );
-              })}
+              {specialDay.hashtags.map((tag, idx) => (
+                <button
+                  key={idx}
+                  onClick={() => handleCopyHashtag(tag)}
+                  className="inline-flex items-center gap-1.5 rounded-xl bg-zinc-100 px-3 py-1.5 text-xs font-semibold text-zinc-700 hover:bg-red-50 hover:text-red-600 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:bg-red-950/40 transition-colors cursor-pointer"
+                >
+                  <span>{tag}</span>
+                  {copiedTag === tag ? (
+                    <Check className="h-3 w-3 text-emerald-600" />
+                  ) : (
+                    <Copy className="h-3 w-3 text-zinc-400" />
+                  )}
+                </button>
+              ))}
             </div>
           </div>
         </TabsContent>
