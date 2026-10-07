@@ -113,842 +113,6 @@ export const MONTHS_METADATA: MonthInfo[] = [
 
 export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
   {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000001",
-    "slug": "dunya-hijyen-gunu",
-    "title": "16 Ocak Dünya Hijyen Günü",
-    "description": "Kişisel temizlik, el yıkama ve halk sağlığını koruma alışkanlıklarını hatırlatan gün.",
-    "content": "## 16 Ocak Dünya Hijyen Günü Nedir?\nKişisel hijyenin salgın hastalıklardan korunmadaki en etkili ve ucuz yöntem olduğunu vurgulamak amacıyla kutlanır.\n\n### Tarihçesi ve Önemi\nKişisel hijyenin salgın hastalıklardan korunmadaki en etkili ve ucuz yöntem olduğunu vurgulamak amacıyla kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Ocak Dünya Hijyen Günü Nasıl Kutlanır?\n1. Ellerinizi en az 20 saniye sabunla doğru şekilde yıkayın.\n2. Yaşam alanlarınızı düzenli havalandırın ve temizleyin.\n3. Çocuklara hijyen kurallarını öğretin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Temizlik imandandır ve sağlığın başıdır! 16 Ocak Dünya Hijyen Günü kutlu olsun. 🧼🫧\"\n* \"16 Ocak Dünya Hijyen Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #HijyenGunu #ElYikama #Temizlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-hijyen-gunu\"",
-    "celebration_date": "2026-01-16",
-    "month_no": 1,
-    "day_no": 16,
-    "category": "Sağlık",
-    "hashtags": [
-      "#HijyenGunu",
-      "#ElYikama",
-      "#Temizlik",
-      "#HalkSagligi"
-    ],
-    "affiliate_keywords": [
-      "otomatik sabunluk sensörlü",
-      "antibakteriyel el dezenfektanı",
-      "bambu banyo havlusu"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000002",
-    "slug": "dunya-gumruk-gunu",
-    "title": "26 Ocak Dünya Gümrük Günü",
-    "description": "Uluslararası ticaretin güvenliği ve gümrük çalışanlarının fedakarlıklarını onurlandıran gün.",
-    "content": "## 26 Ocak Dünya Gümrük Günü Nedir?\nDünya Gümrük Örgütü'nün ilk toplantısını yaptığı 26 Ocak 1953 anısına küresel ticaretin güvenliğini kutlar.\n\n### Tarihçesi ve Önemi\nDünya Gümrük Örgütü'nün ilk toplantısını yaptığı 26 Ocak 1953 anısına küresel ticaretin güvenliğini kutlar. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 26 Ocak Dünya Gümrük Günü Nasıl Kutlanır?\n1. Gümrük emekçilerine teşekkür edin.\n2. Yasal ve kayıtlı ticaretin önemini öğrenin.\n3. Kaçakçılıkla mücadeleye dikkat çekin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sınırlarımızın ve ekonomimizin bekçisi tüm gümrük çalışanlarımızın Dünya Gümrük Günü kutlu olsun! 🛃🚢\"\n* \"26 Ocak Dünya Gümrük Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GumrukGunu #26Ocak #GumrukMuhafaza\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-gumruk-gunu\"",
-    "celebration_date": "2026-01-26",
-    "month_no": 1,
-    "day_no": 26,
-    "category": "Mesleki",
-    "hashtags": [
-      "#GumrukGunu",
-      "#26Ocak",
-      "#GumrukMuhafaza",
-      "#Ticaret"
-    ],
-    "affiliate_keywords": [
-      "seyahat pasaport kılıfı",
-      "valiz bavul seti",
-      "bagaj tartısı dijital"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000003",
-    "slug": "sivil-savunma-gunu",
-    "title": "28 Şubat Sivil Savunma Günü",
-    "description": "Deprem, yangın ve afetlere karşı hazırlıklı olma ve sivil savunma bilincini artıran gün.",
-    "content": "## 28 Şubat Sivil Savunma Günü Nedir?\n7126 sayılı Sivil Savunma Kanunu'nun yürürlüğe girdiği 28 Şubat, afetlere karşı bilinçli toplum inşası için kutlanır.\n\n### Tarihçesi ve Önemi\n7126 sayılı Sivil Savunma Kanunu'nun yürürlüğe girdiği 28 Şubat, afetlere karşı bilinçli toplum inşası için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 28 Şubat Sivil Savunma Günü Nasıl Kutlanır?\n1. Evinizde ve iş yerinizde deprem çantanızı güncelleyin.\n2. Ailenizle afet toplanma alanınızı kontrol edin.\n3. Yangın ve tahliye tatbikatlarına katılın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Afetlere hazırlıklı olmak hayat kurtarır! 28 Şubat Sivil Savunma Günü kutlu olsun. 🚨🎒\"\n* \"28 Şubat Sivil Savunma Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #SivilSavunmaGunu #AfetBilinci #DepremeHazirlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #sivil-savunma-gunu\"",
-    "celebration_date": "2026-02-28",
-    "month_no": 2,
-    "day_no": 28,
-    "category": "Resmi",
-    "hashtags": [
-      "#SivilSavunmaGunu",
-      "#AfetBilinci",
-      "#DepremeHazirlik",
-      "#AFAD"
-    ],
-    "affiliate_keywords": [
-      "deprem acil durum çantası",
-      "el feneri şarjlı",
-      "düdük pusula çok amaçlı",
-      "ilk yardım çantası"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000004",
-    "slug": "dunya-tuketici-haklari-gunu",
-    "title": "15 Mart Dünya Tüketici Hakları Günü",
-    "description": "Tüketicilerin güvenlik, bilgilendirilme ve zararların tazmini haklarını savunan uluslararası gün.",
-    "content": "## 15 Mart Dünya Tüketici Hakları Günü Nedir?\n1962 yılında ABD Başkanı John F. Kennedy'nin Tüketici Hakları Bildirgesi'ni açıkladığı günün anısına kutlanır.\n\n### Tarihçesi ve Önemi\n1962 yılında ABD Başkanı John F. Kennedy'nin Tüketici Hakları Bildirgesi'ni açıkladığı günün anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 15 Mart Dünya Tüketici Hakları Günü Nasıl Kutlanır?\n1. Alışverişlerinizde fatura ve fiş almayı ihmal etmeyin.\n2. Tüketici Hakem Heyetleri'ne başvurma haklarınızı öğrenin.\n3. Yanıltıcı reklamlara karşı bilinçli olun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Bilinçli tüketici güçlü toplum demektir! 15 Mart Dünya Tüketici Hakları Günü kutlu olsun. 🛍️⚖️\"\n* \"15 Mart Dünya Tüketici Hakları Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TuketiciHaklariGunu #BilincliTuketici #HaklariniBil\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tuketici-haklari-gunu\"",
-    "celebration_date": "2026-03-15",
-    "month_no": 3,
-    "day_no": 15,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#TuketiciHaklariGunu",
-      "#BilincliTuketici",
-      "#HaklariniBil",
-      "#15Mart"
-    ],
-    "affiliate_keywords": [
-      "tüketici hukuku el kitabı",
-      "para yönetim bütçe defteri"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000005",
-    "slug": "dunya-siir-gunu",
-    "title": "21 Mart Dünya Şiir Günü",
-    "description": "Duyguların en saf ifadesi olan şiir sanatını, şairleri ve sözcüklerin büyüsünü kutlayan UNESCO günü.",
-    "content": "## 21 Mart Dünya Şiir Günü Nedir?\nUNESCO tarafından 1999 yılında şiirin diller arası köprü kurma gücünü onurlandırmak amacıyla kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nUNESCO tarafından 1999 yılında şiirin diller arası köprü kurma gücünü onurlandırmak amacıyla kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Mart Dünya Şiir Günü Nasıl Kutlanır?\n1. En sevdiğiniz şairden bir şiir okuyup paylaşın.\n2. Kendi duygularınızı mısralara dökün.\n3. Şiir dinletilerine katılın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Şiir hayatın nefesidir. 21 Mart Dünya Şiir Günü'nde yüreğinizden şiirler eksik olmasın! 📜🖋️\"\n* \"21 Mart Dünya Şiir Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSiirGunu #SiirSokakta #NazimHikmet\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-siir-gunu\"",
-    "celebration_date": "2026-03-21",
-    "month_no": 3,
-    "day_no": 21,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#DunyaSiirGunu",
-      "#SiirSokakta",
-      "#NazimHikmet",
-      "#CemalSureya",
-      "#Siir"
-    ],
-    "affiliate_keywords": [
-      "türk şiir antolojisi",
-      "nazım hikmet şiirleri",
-      "cemal süreya sevda sözleri",
-      "dolma kalem"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000006",
-    "slug": "dunya-meteoroloji-gunu",
-    "title": "23 Mart Dünya Meteoroloji Günü",
-    "description": "Hava durumu tahminleri, iklim bilimi ve erken uyarı sistemlerinin hayat kurtarıcı rolünü kutlayan gün.",
-    "content": "## 23 Mart Dünya Meteoroloji Günü Nedir?\nDünya Meteoroloji Örgütü'nün (WMO) 1950'de yürürlüğe giren sözleşmesinin yıl dönümü anısına kutlanır.\n\n### Tarihçesi ve Önemi\nDünya Meteoroloji Örgütü'nün (WMO) 1950'de yürürlüğe giren sözleşmesinin yıl dönümü anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 23 Mart Dünya Meteoroloji Günü Nasıl Kutlanır?\n1. İklim değişikliğinin hava olayları üzerindeki etkilerini inceleyin.\n2. Afet erken uyarı bildirimlerini takip edin.\n3. Meteoroloji çalışanlarına teşekkür edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hava şartları ne olursa olsun kalbiniz güneşli olsun! 23 Mart Dünya Meteoroloji Günü kutlu olsun. ☀️🌧️🌈\"\n* \"23 Mart Dünya Meteoroloji Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #MeteorolojiGunu #HavaDurumu #IklimBilimi\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-meteoroloji-gunu\"",
-    "celebration_date": "2026-03-23",
-    "month_no": 3,
-    "day_no": 23,
-    "category": "Çevre & Doğa",
-    "hashtags": [
-      "#MeteorolojiGunu",
-      "#HavaDurumu",
-      "#IklimBilimi",
-      "#WMO"
-    ],
-    "affiliate_keywords": [
-      "ev tipi meteoroloji istasyonu",
-      "dijital termometre higrometre",
-      "barometre"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000007",
-    "slug": "dunya-saka-gunu",
-    "title": "1 Nisan Şaka Günü",
-    "description": "Tüm dünyada insanların birbirine zararsız, neşeli ve zekice şakalar yaptığı kahkaha dolu gün.",
-    "content": "## 1 Nisan Şaka Günü Nedir?\nKökeni 16. yüzyıl Fransa takvim reformuna dayanan 1 Nisan, asırlardır dünya genelinde şakalarla kutlanmaktadır.\n\n### Tarihçesi ve Önemi\nKökeni 16. yüzyıl Fransa takvim reformuna dayanan 1 Nisan, asırlardır dünya genelinde şakalarla kutlanmaktadır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Nisan Şaka Günü Nasıl Kutlanır?\n1. Arkadaşlarınıza kırıcı olmayan sevimli bir şaka yapın.\n2. Bol bol gülün ve mizahın tadını çıkarın.\n3. Size yapılan şakalara tebessümle karşılık verin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Gülmek en güzel şifadır! 1 Nisan Şaka Günü'nüz bol tebessümlü ve kahkahalı geçsin! 🎭😄\"\n* \"1 Nisan Şaka Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #1Nisan #SakaGunu #AprilFools\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-saka-gunu\"",
-    "celebration_date": "2026-04-01",
-    "month_no": 4,
-    "day_no": 1,
-    "category": "Eğlence",
-    "hashtags": [
-      "#1Nisan",
-      "#SakaGunu",
-      "#AprilFools",
-      "#Gulumse"
-    ],
-    "affiliate_keywords": [
-      "zararsız şaka malzemeleri",
-      "esprili kupa bardak",
-      "parti şaka oyunları"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000008",
-    "slug": "polis-teskilati-kurulus-gunu",
-    "title": "10 Nisan Türk Polis Teşkilatı Kuruluş Günü",
-    "description": "Huzur, güvenlik ve asayişimizin teminatı olan Türk Polis Teşkilatı'nın kuruluşunu kutlayan gün.",
-    "content": "## 10 Nisan Türk Polis Teşkilatı Kuruluş Günü Nedir?\n10 Nisan 1845'te kurulan Türk Polis Teşkilatı, milletimizin can ve mal emniyetini sağlamak için görev yapmaktadır.\n\n### Tarihçesi ve Önemi\n10 Nisan 1845'te kurulan Türk Polis Teşkilatı, milletimizin can ve mal emniyetini sağlamak için görev yapmaktadır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 10 Nisan Türk Polis Teşkilatı Kuruluş Günü Nasıl Kutlanır?\n1. Görev başındaki polis memurlarına kolaylıklar dileyin.\n2. Şehit polislerimizi dualarla anın.\n3. Trafik ve asayiş kurallarına uyun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Huzurumuzun ve güvenliğimizin teminatı kahraman polislerimizin 10 Nisan Polis Haftası kutlu olsun! 👮‍♂️🇹🇷\"\n* \"10 Nisan Türk Polis Teşkilatı Kuruluş Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #PolisHaftasi #10Nisan #TurkPolisTeskilati\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #polis-teskilati-kurulus-gunu\"",
-    "celebration_date": "2026-04-10",
-    "month_no": 4,
-    "day_no": 10,
-    "category": "Mesleki",
-    "hashtags": [
-      "#PolisHaftasi",
-      "#10Nisan",
-      "#TurkPolisTeskilati",
-      "#PolisimizinYanindayiz"
-    ],
-    "affiliate_keywords": [
-      "polis temalı hediye kupa",
-      "taktik fener",
-      "deri polis cüzdan rozet"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000009",
-    "slug": "dunya-pilotlar-gunu",
-    "title": "26 Nisan Dünya Pilotlar Günü",
-    "description": "Türkiye'nin 1 numaralı pilot brövesi sahibi Fesa Evrensev'in anısına tüm dünyada kutlanan havacılık günü.",
-    "content": "## 26 Nisan Dünya Pilotlar Günü Nedir?\nTürkiye Havayolu Pilotları Derneği'nin (TALPA) önerisiyle IFALPA tarafından Fesa Evrensev'in ilk uçuş günü kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nTürkiye Havayolu Pilotları Derneği'nin (TALPA) önerisiyle IFALPA tarafından Fesa Evrensev'in ilk uçuş günü kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 26 Nisan Dünya Pilotlar Günü Nasıl Kutlanır?\n1. Gökyüzünün cesur kaptanlarına teşekkür edin.\n2. Havacılık müzelerini gezin.\n3. Uçuş simülasyonu deneyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İstikbal göklerdedir! Kanatlarıyla dünyayı birbirine bağlayan tüm pilotlarımızın günü kutlu olsun! ✈️👨‍✈️👩‍✈️\"\n* \"26 Nisan Dünya Pilotlar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaPilotlarGunu #WorldPilotsDay #Goklerdeyiz\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-pilotlar-gunu\"",
-    "celebration_date": "2026-04-26",
-    "month_no": 4,
-    "day_no": 26,
-    "category": "Mesleki",
-    "hashtags": [
-      "#DunyaPilotlarGunu",
-      "#WorldPilotsDay",
-      "#Goklerdeyiz",
-      "#Havacilik"
-    ],
-    "affiliate_keywords": [
-      "uçak maketi metal",
-      "pilot güneş gözlüğü aviator",
-      "havacılık temalı saat"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000010",
-    "slug": "uluslararasi-caz-gunu",
-    "title": "30 Nisan Uluslararası Caz Günü",
-    "description": "Özgürlüğün, doğaçlamanın ve diyalogun müziği olan cazı onurlandıran UNESCO günü.",
-    "content": "## 30 Nisan Uluslararası Caz Günü Nedir?\nUNESCO iyi niyet elçisi caz efsanesi Herbie Hancock öncülüğünde 2011 yılında ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nUNESCO iyi niyet elçisi caz efsanesi Herbie Hancock öncülüğünde 2011 yılında ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Nisan Uluslararası Caz Günü Nasıl Kutlanır?\n1. Miles Davis, Louis Armstrong veya Türk caz sanatçılarını dinleyin.\n2. Bir caz kulübünü ziyaret edin.\n3. Plak dinleme gecesi yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Caz özgürlüğün sesidir. 30 Nisan Uluslararası Caz Günü'nde notaların büyüsüne kapılın! 🎷🎺🎶\"\n* \"30 Nisan Uluslararası Caz Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #CazGunu #JazzDay #MuzikOzgurluktur\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-caz-gunu\"",
-    "celebration_date": "2026-04-30",
-    "month_no": 4,
-    "day_no": 30,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#CazGunu",
-      "#JazzDay",
-      "#MuzikOzgurluktur",
-      "#Jazz"
-    ],
-    "affiliate_keywords": [
-      "plak çalar pikap bluetooth",
-      "caz plakları efsane",
-      "saksafon başlangıç"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000011",
-    "slug": "basin-ozgurlugu-gunu",
-    "title": "3 Mayıs Dünya Basın Özgürlüğü Günü",
-    "description": "Bağımsız, sansürsüz ve özgür basının demokrasilerdeki hayati önemini hatırlatan BM günü.",
-    "content": "## 3 Mayıs Dünya Basın Özgürlüğü Günü Nedir?\n1993 yılında BM Genel Kurulu tarafından hükümetlere basın özgürlüğünü koruma taahhüdünü hatırlatmak için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\n1993 yılında BM Genel Kurulu tarafından hükümetlere basın özgürlüğünü koruma taahhüdünü hatırlatmak için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 3 Mayıs Dünya Basın Özgürlüğü Günü Nasıl Kutlanır?\n1. Bağımsız gazetecileri ve medya kuruluşlarını destekleyin.\n2. Dezenformasyona karşı doğru haberi teyit edin.\n3. Sansüre karşı düşünce özgürlüğünü savunun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Özgür basın halkın nefes borusudur. 3 Mayıs Dünya Basın Özgürlüğü Günü kutlu olsun! 📰✍️\"\n* \"3 Mayıs Dünya Basın Özgürlüğü Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #BasinOzgurluguGunu #WorldPressFreedomDay #OzgurBasin\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #basin-ozgurlugu-gunu\"",
-    "celebration_date": "2026-05-03",
-    "month_no": 5,
-    "day_no": 3,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#BasinOzgurluguGunu",
-      "#WorldPressFreedomDay",
-      "#OzgurBasin",
-      "#HaberHakki"
-    ],
-    "affiliate_keywords": [
-      "gazetecilik etik kitapları",
-      "basın tarihi araştırmaları"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000012",
-    "slug": "hidirellez",
-    "title": "5 Mayıs Hıdırellez Kültür Bayramı",
-    "description": "Hızır ve İlyas peygamberlerin yeryüzünde buluştuğu gün olarak kabul edilen köklü bahar bayramı.",
-    "content": "## 5 Mayıs Hıdırellez Kültür Bayramı Nedir?\nUNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'nde yer alan Hıdırellez, baharın ve bereketin müjdecisidir.\n\n### Tarihçesi ve Önemi\nUNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'nde yer alan Hıdırellez, baharın ve bereketin müjdecisidir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Mayıs Hıdırellez Kültür Bayramı Nasıl Kutlanır?\n1. Gül ağacının altına dileklerinizi çizin veya asın.\n2. Ateşin üzerinden atlayarak yeni başlangıçlara niyet edin.\n3. Doğada sevdiklerinizle piknik yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hızır yoldaşınız, dilekleriniz gerçek olsun! Hıdırellez Bayramınız bereket ve sağlık getirsin. 🌾🔥🌸\"\n* \"5 Mayıs Hıdırellez Kültür Bayramı kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #Hidirellez #BaharBayrami #DileklerKabulOlsun\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #hidirellez\"",
-    "celebration_date": "2026-05-05",
-    "month_no": 5,
-    "day_no": 5,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#Hidirellez",
-      "#BaharBayrami",
-      "#DileklerKabulOlsun",
-      "#5Mayis"
-    ],
-    "affiliate_keywords": [
-      "tütsü seti doğal",
-      "dilek feneri renkli",
-      "hasır piknik sepeti"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000013",
-    "slug": "dunya-psikologlar-gunu",
-    "title": "10 Mayıs Dünya Psikologlar Günü",
-    "description": "İnsan ruhunu anlamak, iyileştirmek ve toplumsal esenliği sağlamak için çalışan psikologlara adanan gün.",
-    "content": "## 10 Mayıs Dünya Psikologlar Günü Nedir?\nRuh sağlığı alanında çalışan psikologların mesleki dayanışmasını güçlendirmek amacıyla kutlanır.\n\n### Tarihçesi ve Önemi\nRuh sağlığı alanında çalışan psikologların mesleki dayanışmasını güçlendirmek amacıyla kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 10 Mayıs Dünya Psikologlar Günü Nasıl Kutlanır?\n1. Psikolog dostlarınıza tebrik mesajı iletin.\n2. Psikolojik sağlığın önemini çevrenize anlatın.\n3. Kendinize şefkat göstermeyi öğrenin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Ruhumuza ayna tutan, karanlık yollarımızı aydınlatan tüm psikologlarımızın günü kutlu olsun! 🧠🛋️\"\n* \"10 Mayıs Dünya Psikologlar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #PsikologlarGunu #10Mayis #RuhSagligi\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-psikologlar-gunu\"",
-    "celebration_date": "2026-05-10",
-    "month_no": 5,
-    "day_no": 10,
-    "category": "Mesleki",
-    "hashtags": [
-      "#PsikologlarGunu",
-      "#10Mayis",
-      "#RuhSagligi",
-      "#Psikoloji"
-    ],
-    "affiliate_keywords": [
-      "psikoloji temalı kupa",
-      "terapi not defteri",
-      "freud biblo masa üstü"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000014",
-    "slug": "eczacilik-gunu",
-    "title": "14 Mayıs Eczacılık Günü",
-    "description": "Türkiye'de bilimsel eczacılık eğitiminin başladığı günün anısına sağlık danışmanımız eczacılara adanan gün.",
-    "content": "## 14 Mayıs Eczacılık Günü Nedir?\n14 Mayıs 1839'da Mekteb-i Tıbbiye-i Adliye-i Şahane bünyesinde ilk eczacı sınıfının açılmasıyla bilimsel eczacılık başlamıştır.\n\n### Tarihçesi ve Önemi\n14 Mayıs 1839'da Mekteb-i Tıbbiye-i Adliye-i Şahane bünyesinde ilk eczacı sınıfının açılmasıyla bilimsel eczacılık başlamıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 14 Mayıs Eczacılık Günü Nasıl Kutlanır?\n1. Mahallenizin eczacısına teşekkür edin.\n2. İlaçları mutlaka hekim ve eczacı kontrolünde kullanın.\n3. Akılcı ilaç kullanımına özen gösterin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sağlığımızın en yakın danışmanı olan tüm fedakar eczacılarımızın 14 Mayıs Eczacılık Günü kutlu olsun! 💊⚕️\"\n* \"14 Mayıs Eczacılık Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #EczacilikGunu #14Mayis #EczacimizaTesekkurler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #eczacilik-gunu\"",
-    "celebration_date": "2026-05-14",
-    "month_no": 5,
-    "day_no": 14,
-    "category": "Sağlık",
-    "hashtags": [
-      "#EczacilikGunu",
-      "#14Mayis",
-      "#EczacimizaTesekkurler",
-      "#Saglik"
-    ],
-    "affiliate_keywords": [
-      "eczacı hediye seti kupa",
-      "havan biblo seramik",
-      "ilaç saklama kutusu haftalık"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000015",
-    "slug": "uluslararasi-aile-gunu",
-    "title": "15 Mayıs Uluslararası Aile Günü",
-    "description": "Toplumun temel taşı olan ailenin korunması, sevgi ve dayanışmanın güçlendirilmesi için kutlanan BM günü.",
-    "content": "## 15 Mayıs Uluslararası Aile Günü Nedir?\n1993 yılında BM Genel Kurulu tarafından aile kurumunun önemine dikkat çekmek için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1993 yılında BM Genel Kurulu tarafından aile kurumunun önemine dikkat çekmek için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 15 Mayıs Uluslararası Aile Günü Nasıl Kutlanır?\n1. Ailenizle birlikte televizyonsuz ve ekransız bir akşam yemeği yiyin.\n2. Eski aile fotoğraflarını birlikte inceleyin.\n3. Birbirinize olan sevginizi sözlerle ifade edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hayattaki en büyük zenginlik huzurlu bir ailedir. 15 Mayıs Uluslararası Aile Günü kutlu olsun! 👨‍👩‍👧‍👦🏡❤️\"\n* \"15 Mayıs Uluslararası Aile Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #AileGunu #FamilyDay #AilemHerSeyim\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-aile-gunu\"",
-    "celebration_date": "2026-05-15",
-    "month_no": 5,
-    "day_no": 15,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#AileGunu",
-      "#FamilyDay",
-      "#AilemHerSeyim",
-      "#SevgiYuvasi"
-    ],
-    "affiliate_keywords": [
-      "aile fotoğraf çerçevesi çoklu",
-      "kutu kutu aile oyunu",
-      "büyük boy piknik örtüsü"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000016",
-    "slug": "muzeler-gunu",
-    "title": "18 Mayıs Müzeler Günü",
-    "description": "Kültürel mirasımızı koruyan, geçmiş ile gelecek arasında köprü kuran müzelerin uluslararası kutlaması.",
-    "content": "## 18 Mayıs Müzeler Günü Nedir?\nUluslararası Müzeler Konseyi (ICOM) tarafından 1977 yılından bu yana toplumda müze bilincini yaymak için kutlanır.\n\n### Tarihçesi ve Önemi\nUluslararası Müzeler Konseyi (ICOM) tarafından 1977 yılından bu yana toplumda müze bilincini yaymak için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 18 Mayıs Müzeler Günü Nasıl Kutlanır?\n1. Bugün en yakın müzeyi ücretsiz veya indirimli gezin.\n2. Tarihi eserlerin korunması bilincini çocuklara aktarın.\n3. Arkeolojik kazılar hakkında bilgi edinin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Geçmişini bilmeyen geleceğini inşa edemez. 18 Mayıs Müzeler Günü kutlu olsun! 🏛️🏺🗿\"\n* \"18 Mayıs Müzeler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #MuzelerGunu #InternationalMuseumDay #KulturelMiras\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #muzeler-gunu\"",
-    "celebration_date": "2026-05-18",
-    "month_no": 5,
-    "day_no": 18,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#MuzelerGunu",
-      "#InternationalMuseumDay",
-      "#KulturelMiras",
-      "#MuzeleriGez"
-    ],
-    "affiliate_keywords": [
-      "müze kart kılıfı",
-      "türkiye arkeoloji atlası",
-      "sanat tarihi el kitabı"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000017",
-    "slug": "dunya-sut-gunu",
-    "title": "21 Mayıs Dünya Süt Günü",
-    "description": "Sağlıklı kemik ve kas gelişimi için sütün beslenmedeki vazgeçilmez yerini vurgulayan FAO günü.",
-    "content": "## 21 Mayıs Dünya Süt Günü Nedir?\nBM Gıda ve Tarım Örgütü (FAO) tarafından süt sektörünü ve sağlıklı beslenmeyi desteklemek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBM Gıda ve Tarım Örgütü (FAO) tarafından süt sektörünü ve sağlıklı beslenmeyi desteklemek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Mayıs Dünya Süt Günü Nasıl Kutlanır?\n1. Günde en az bir bardak süt veya süt ürünü tüketin.\n2. Çocuklara süt içme alışkanlığı kazandırın.\n3. Yerel süt üreticilerini destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sağlıklı nesiller için her gün bir bardak süt! 21 Mayıs Dünya Süt Günü kutlu olsun. 🥛🐮\"\n* \"21 Mayıs Dünya Süt Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSutGunu #WorldMilkDay #SutIcSaglikBul\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sut-gunu\"",
-    "celebration_date": "2026-05-21",
-    "month_no": 5,
-    "day_no": 21,
-    "category": "Sağlık",
-    "hashtags": [
-      "#DunyaSutGunu",
-      "#WorldMilkDay",
-      "#SutIcSaglikBul",
-      "#KemikSagligi"
-    ],
-    "affiliate_keywords": [
-      "süt köpürtücü otomatik",
-      "cam süt şişesi retro",
-      "yoğurt yapma makinesi"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000018",
-    "slug": "biyocesitlilik-gunu",
-    "title": "22 Mayıs Uluslararası Biyoçeşitlilik Günü",
-    "description": "Gezegenimizdeki tüm türlerin, ekosistemlerin ve genetik zenginliğin korunması için BM tarafından kutlanır.",
-    "content": "## 22 Mayıs Uluslararası Biyoçeşitlilik Günü Nedir?\n1992 Biyolojik Çeşitlilik Sözleşmesi'nin kabul edildiği gün olan 22 Mayıs, ekolojik dengenin korunması için kutlanır.\n\n### Tarihçesi ve Önemi\n1992 Biyolojik Çeşitlilik Sözleşmesi'nin kabul edildiği gün olan 22 Mayıs, ekolojik dengenin korunması için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 22 Mayıs Uluslararası Biyoçeşitlilik Günü Nasıl Kutlanır?\n1. Endemik bitki ve hayvan türlerini tanıyın.\n2. Doğal yaşam alanlarına zarar vermekten kaçının.\n3. Kimyasal kirliliği azaltın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Doğadaki her canlı hayat zincirinin vazgeçilmez bir halkasıdır. 22 Mayıs Biyoçeşitlilik Günü kutlu olsun! 🌿🦋🦜\"\n* \"22 Mayıs Uluslararası Biyoçeşitlilik Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #BiyocesitlilikGunu #BiodiversityDay #DogayiKoru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #biyocesitlilik-gunu\"",
-    "celebration_date": "2026-05-22",
-    "month_no": 5,
-    "day_no": 22,
-    "category": "Çevre & Doğa",
-    "hashtags": [
-      "#BiyocesitlilikGunu",
-      "#BiodiversityDay",
-      "#DogayiKoru",
-      "#TurlerYokOlmasin"
-    ],
-    "affiliate_keywords": [
-      "kuş yemliği bahçe tipi",
-      "endemik bitkiler kitabı türkiye",
-      "doğa günlüğü"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000019",
-    "slug": "dunya-tutunsuz-gunu",
-    "title": "31 Mayıs Dünya Tütünsüz Günü",
-    "description": "Tütün salgınının yol açtığı ölümlere dikkat çeken ve dumansız bir dünya hedefleyen DSÖ günü.",
-    "content": "## 31 Mayıs Dünya Tütünsüz Günü Nedir?\nDünya Sağlık Örgütü tarafından tütün tüketimini azaltmak ve pasif içiciliği önlemek için 1987'de kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nDünya Sağlık Örgütü tarafından tütün tüketimini azaltmak ve pasif içiciliği önlemek için 1987'de kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 31 Mayıs Dünya Tütünsüz Günü Nasıl Kutlanır?\n1. Bugün 24 saat boyunca sigara içmeyin ve bırakmaya ilk adımı atın.\n2. Pasif içiciliğin zararlarından çocukları koruyun.\n3. Dumansız alanları destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Nefes al, hayatı hisset! 31 Mayıs Dünya Tütünsüz Günü'nde temiz bir havaya adım at. 🚭🫁💚\"\n* \"31 Mayıs Dünya Tütünsüz Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TutunsuzGun #WorldNoTobaccoDay #DumansizHava\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tutunsuz-gunu\"",
-    "celebration_date": "2026-05-31",
-    "month_no": 5,
-    "day_no": 31,
-    "category": "Sağlık",
-    "hashtags": [
-      "#TutunsuzGun",
-      "#WorldNoTobaccoDay",
-      "#DumansizHava",
-      "#SigarayiBirak"
-    ],
-    "affiliate_keywords": [
-      "nefes egzersizi cihazı",
-      "stres topu seti",
-      "bitki çayı rahatlatıcı"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000020",
-    "slug": "dunya-cocuk-gunu",
-    "title": "1 Haziran Dünya Çocuk Günü",
-    "description": "Çocukların refahını, güvenliğini ve mutluluğunu kutlayan uluslararası çocuk günü.",
-    "content": "## 1 Haziran Dünya Çocuk Günü Nedir?\n1925 yılında Cenevre Çocukların Refahı Dünya Konferansı'nda ilan edilen ilk uluslararası çocuk günüdür.\n\n### Tarihçesi ve Önemi\n1925 yılında Cenevre Çocukların Refahı Dünya Konferansı'nda ilan edilen ilk uluslararası çocuk günüdür. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Haziran Dünya Çocuk Günü Nasıl Kutlanır?\n1. Bir çocuğu sevindirin ve ona hediye verin.\n2. Çocukların oyun ve eğlence hakkına saygı gösterin.\n3. İhtiyaç sahibi çocuklara destek olun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünya çocukların güldüğü kadar güzeldir! 1 Haziran Dünya Çocuk Günü kutlu olsun! 🎈👶👧\"\n* \"1 Haziran Dünya Çocuk Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #1Haziran #DunyaCocukGunu #CocuklarGulsun\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-cocuk-gunu\"",
-    "celebration_date": "2026-06-01",
-    "month_no": 6,
-    "day_no": 1,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#1Haziran",
-      "#DunyaCocukGunu",
-      "#CocuklarGulsun",
-      "#CocukHaklari"
-    ],
-    "affiliate_keywords": [
-      "akıl ve zeka oyunları çocuk",
-      "scooter çocuk 3 tekerlekli",
-      "çocuk hikaye kitabı seti"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000021",
-    "slug": "turk-isaret-dili-gunu",
-    "title": "7 Haziran Türk İşaret Dili Günü",
-    "description": "İşitme engelli bireylerin iletişim dili olan Türk İşaret Dili'nin yasal olarak tanındığı gün.",
-    "content": "## 7 Haziran Türk İşaret Dili Günü Nedir?\n5378 sayılı Engelliler Kanunu'nda Türk İşaret Dili'nin resmi olarak yer aldığı 7 Haziran 2005 tarihinin anısına kutlanır.\n\n### Tarihçesi ve Önemi\n5378 sayılı Engelliler Kanunu'nda Türk İşaret Dili'nin resmi olarak yer aldığı 7 Haziran 2005 tarihinin anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 7 Haziran Türk İşaret Dili Günü Nasıl Kutlanır?\n1. Türk İşaret Dili'nde temel selamlaşma ve teşekkür kelimelerini öğrenin.\n2. Kamusal yayınlarda işaret dili çevirisi talep edin.\n3. İşitme engellilerin toplumsal hayata katılımını destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Ellerimiz konuşsun, kalplerimiz buluşsun! 7 Haziran Türk İşaret Dili Günü kutlu olsun. 🤟🤲✨\"\n* \"7 Haziran Türk İşaret Dili Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TurkIsaretDiliGunu #TID #IsitmeEngelliler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #turk-isaret-dili-gunu\"",
-    "celebration_date": "2026-06-07",
-    "month_no": 6,
-    "day_no": 7,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#TurkIsaretDiliGunu",
-      "#TID",
-      "#IsitmeEngelliler",
-      "#EngelsizIletisim"
-    ],
-    "affiliate_keywords": [
-      "türk işaret dili öğrenme kitabı",
-      "işitme cihazı pili",
-      "görsel sözlük kartları"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000022",
-    "slug": "dunya-yoga-gunu",
-    "title": "21 Haziran Dünya Yoga Günü",
-    "description": "Beden, zihin ve ruh dengesini kuran kadim yoga öğretisinin evrensel faydalarını kutlayan BM günü.",
-    "content": "## 21 Haziran Dünya Yoga Günü Nedir?\n2014 yılında BM Genel Kurulu tarafından kabul edilen gün, içsel huzur ve bütünsel sağlığı teşvik eder.\n\n### Tarihçesi ve Önemi\n2014 yılında BM Genel Kurulu tarafından kabul edilen gün, içsel huzur ve bütünsel sağlığı teşvik eder. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Haziran Dünya Yoga Günü Nasıl Kutlanır?\n1. Açık havada veya evinizde 20 dakikalık bir yoga seansı yapın.\n2. Derin nefes egzersizleriyle zihninizi dinlendirin.\n3. Bedeninizin esnekliğine kulak verin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İçindeki huzuru keşfet. 21 Haziran Dünya Yoga Günü kutlu olsun! 🧘‍♀️🕉️🧘‍♂️\"\n* \"21 Haziran Dünya Yoga Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaYogaGunu #YogaDay #ZihinBedenRuh\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-yoga-gunu\"",
-    "celebration_date": "2026-06-21",
-    "month_no": 6,
-    "day_no": 21,
-    "category": "Sağlık",
-    "hashtags": [
-      "#DunyaYogaGunu",
-      "#YogaDay",
-      "#ZihinBedenRuh",
-      "#Namaste"
-    ],
-    "affiliate_keywords": [
-      "yoga matı kaydırmaz tpe",
-      "yoga bloğu köpük",
-      "meditasyon çanı",
-      "yoga taytı"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000023",
-    "slug": "dunya-sosyal-medya-gunu",
-    "title": "30 Haziran Dünya Sosyal Medya Günü",
-    "description": "İnsanları kıtalar ötesinde birbirine bağlayan dijital iletişim devrimini kutlayan küresel gün.",
-    "content": "## 30 Haziran Dünya Sosyal Medya Günü Nedir?\n2010 yılında Mashable tarafından sosyal medyanın dünyayı küresel bir köye dönüştürmesini kutlamak için başlatılmıştır.\n\n### Tarihçesi ve Önemi\n2010 yılında Mashable tarafından sosyal medyanın dünyayı küresel bir köye dönüştürmesini kutlamak için başlatılmıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Haziran Dünya Sosyal Medya Günü Nasıl Kutlanır?\n1. Sosyal medyada pozitif ve ilham verici içerikler üretin.\n2. Uzun süredir görüşmediğiniz bir eski dostunuza mesaj atın.\n3. Sosyal medya kullanım sürenizi bilinçli yönetin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Mesafeleri kaldıran, sesimizi dünyaya duyuran platformların günü kutlu olsun! 30 Haziran Dünya Sosyal Medya Günü! 📱🌐💬\"\n* \"30 Haziran Dünya Sosyal Medya Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #SosyalMedyaGunu #SocialMediaDay #DijitalDunya\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sosyal-medya-gunu\"",
-    "celebration_date": "2026-06-30",
-    "month_no": 6,
-    "day_no": 30,
-    "category": "Eğlence",
-    "hashtags": [
-      "#SosyalMedyaGunu",
-      "#SocialMediaDay",
-      "#DijitalDunya",
-      "#Baglanti"
-    ],
-    "affiliate_keywords": [
-      "ring light halka ışık tripodlu",
-      "yaka mikrofonu kablosuz",
-      "telefon sabitleyici gimbal"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000024",
-    "slug": "uluslararasi-dostluk-gunu",
-    "title": "30 Temmuz Uluslararası Dostluk Günü",
-    "description": "Halklar, ülkeler, kültürler ve bireyler arasındaki dostluk köprülerinin barış getireceğini savunan BM günü.",
-    "content": "## 30 Temmuz Uluslararası Dostluk Günü Nedir?\nBirleşmiş Milletler tarafından toplumlar arasında güven ve dayanışma tesis etmek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBirleşmiş Milletler tarafından toplumlar arasında güven ve dayanışma tesis etmek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Temmuz Uluslararası Dostluk Günü Nasıl Kutlanır?\n1. En yakın arkadaşınızı arayıp ona değer verdiğinizi söyleyin.\n2. Birlikte kahve için veya anılarınızı yad edin.\n3. Yeni insanlarla samimi dostluklar kurun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İyi bir dost dünyalara bedeldir. Tüm vefakar dostların 30 Temmuz Uluslararası Dostluk Günü kutlu olsun! 🤝☕❤️\"\n* \"30 Temmuz Uluslararası Dostluk Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DostlukGunu #FriendshipDay #CanDostum\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-dostluk-gunu\"",
-    "celebration_date": "2026-07-30",
-    "month_no": 7,
-    "day_no": 30,
-    "category": "Eğlence",
-    "hashtags": [
-      "#DostlukGunu",
-      "#FriendshipDay",
-      "#CanDostum",
-      "#Dostluk"
-    ],
-    "affiliate_keywords": [
-      "arkadaşlık bilekliği çift",
-      "anı albümü yapışkanlı",
-      "arkadaşa esprili hediye"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000025",
-    "slug": "dunya-insani-yardim-gunu",
-    "title": "19 Ağustos Dünya İnsani Yardım Günü",
-    "description": "Kriz ve savaş bölgelerinde canları pahasına insanlara yardım eli uzatan yardım çalışanlarını anma günü.",
-    "content": "## 19 Ağustos Dünya İnsani Yardım Günü Nedir?\n2003 yılında BM Bağdat merkezine yapılan saldırıda hayatını kaybeden 22 yardım görevlisinin anısına kutlanır.\n\n### Tarihçesi ve Önemi\n2003 yılında BM Bağdat merkezine yapılan saldırıda hayatını kaybeden 22 yardım görevlisinin anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 19 Ağustos Dünya İnsani Yardım Günü Nasıl Kutlanır?\n1. Güvenilir yardım kuruluşlarına bağışta bulunun.\n2. Gönüllü yardım projelerinde aktif rol alın.\n3. İnsani değerleri savunun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İnsanlık yardımlaşmayla yaşar. Tüm fedakar insani yardım çalışanlarına sonsuz minnetle! 19 Ağustos kutlu olsun. 🤝🕊️\"\n* \"19 Ağustos Dünya İnsani Yardım Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #InsaniYardimGunu #WorldHumanitarianDay #YardimEli\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-insani-yardim-gunu\"",
-    "celebration_date": "2026-08-19",
-    "month_no": 8,
-    "day_no": 19,
-    "category": "Uluslararası",
-    "hashtags": [
-      "#InsaniYardimGunu",
-      "#WorldHumanitarianDay",
-      "#YardimEli",
-      "#Dayanisma"
-    ],
-    "affiliate_keywords": [
-      "kızılay bağış kartı",
-      "yardım vakfı sertifikası",
-      "çelik matara"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000026",
-    "slug": "gaziler-gunu",
-    "title": "19 Eylül Gaziler Günü",
-    "description": "Mustafa Kemal Atatürk'e 'Gazi' unvanı ve Mareşal rütbesinin verildiği günün anısına kutlanan milli vefa günü.",
-    "content": "## 19 Eylül Gaziler Günü Nedir?\n19 Eylül 1921'de Sakarya Meydan Muharebesi sonrası TBMM tarafından Atatürk'e Gazilik unvanı tevcih edilmiştir.\n\n### Tarihçesi ve Önemi\n19 Eylül 1921'de Sakarya Meydan Muharebesi sonrası TBMM tarafından Atatürk'e Gazilik unvanı tevcih edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 19 Eylül Gaziler Günü Nasıl Kutlanır?\n1. Muharip gazi derneklerini ziyaret edin.\n2. Kahraman gazilerimize şükran ve saygılarınızı sunun.\n3. Vatan fedakarlıklarını gençlere aktarın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Şehit nurlanmış, gazi onurlanmış askerdir. Başta Gazi Mustafa Kemal Atatürk olmak üzere tüm gazilerimize minnetle! 🇹🇷🎖️\"\n* \"19 Eylül Gaziler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GazilerGunu #19Eylul #KahramanGazilerimiz\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #gaziler-gunu\"",
-    "celebration_date": "2026-09-19",
-    "month_no": 9,
-    "day_no": 19,
-    "category": "Resmi",
-    "hashtags": [
-      "#GazilerGunu",
-      "#19Eylul",
-      "#KahramanGazilerimiz",
-      "#Ataturk"
-    ],
-    "affiliate_keywords": [
-      "türk bayrağı masa üstü pirinç",
-      "atatürk biyografisi ciltli",
-      "rozet"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000027",
-    "slug": "dunya-turizm-gunu",
-    "title": "27 Eylül Dünya Turizm Günü",
-    "description": "Farklı kültürleri tanıma, seyahat özgürlüğü ve sürdürülebilir turizmin ekonomik gücünü kutlayan BM günü.",
-    "content": "## 27 Eylül Dünya Turizm Günü Nedir?\nDünya Turizm Örgütü (UNWTO) tüzüğünün kabul edildiği gün olan 27 Eylül, küresel seyahat bilincini artırır.\n\n### Tarihçesi ve Önemi\nDünya Turizm Örgütü (UNWTO) tüzüğünün kabul edildiği gün olan 27 Eylül, küresel seyahat bilincini artırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 27 Eylül Dünya Turizm Günü Nasıl Kutlanır?\n1. Yeni bir şehri veya tarihi bir mekanı keşfe çıkın.\n2. Yerel esnafı ve eko-turizmi destekleyin.\n3. Gezdiğiniz yerlerin doğasına ve kültürüne saygı gösterin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünya bir kitaptır ve seyahat etmeyenler sadece bir sayfasını okur. 27 Eylül Dünya Turizm Günü kutlu olsun! ✈️🗺️🧳\"\n* \"27 Eylül Dünya Turizm Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaTurizmGunu #WorldTourismDay #Gezgin\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-turizm-gunu\"",
-    "celebration_date": "2026-09-27",
-    "month_no": 9,
-    "day_no": 27,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#DunyaTurizmGunu",
-      "#WorldTourismDay",
-      "#Gezgin",
-      "#Seyahat"
-    ],
-    "affiliate_keywords": [
-      "seyahat sırt çantası kabin boy",
-      "boyun yastığı hafızalı sünger",
-      "evrensel priz dönüştürücü"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000028",
-    "slug": "dunya-yaslilar-gunu",
-    "title": "1 Ekim Dünya Yaşlılar Günü",
-    "description": "Tecrübeleriyle topluma ışık tutan kıymetli büyüklerimizin haklarını ve refahını koruyan BM günü.",
-    "content": "## 1 Ekim Dünya Yaşlılar Günü Nedir?\nBirleşmiş Milletler tarafından yaşlanan nüfusun haklarına, bakımına ve kuşaklar arası dayanışmaya dikkat çekmek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBirleşmiş Milletler tarafından yaşlanan nüfusun haklarına, bakımına ve kuşaklar arası dayanışmaya dikkat çekmek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Ekim Dünya Yaşlılar Günü Nasıl Kutlanır?\n1. Ailenizdeki ve çevrenizdeki yaşlıları ziyaret edip ellerini öpün.\n2. Huzurevlerine ziyarette bulunun.\n3. Onların hayat tecrübelerini ve hatıralarını dinleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Büyüklerimiz geçmişimizin hafızası, geleceğimizin duasıdır. 1 Ekim Dünya Yaşlılar Günü kutlu olsun! 👵🧓🤍\"\n* \"1 Ekim Dünya Yaşlılar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaYaslilarGunu #BuyuklerimizeSaygi #YasliHaklari\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-yaslilar-gunu\"",
-    "celebration_date": "2026-10-01",
-    "month_no": 10,
-    "day_no": 1,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#DunyaYaslilarGunu",
-      "#BuyuklerimizeSaygi",
-      "#YasliHaklari",
-      "#1Ekim"
-    ],
-    "affiliate_keywords": [
-      "ortopedik baston ışıklı",
-      "yaşlılar için tansiyon aleti konuşan",
-      "ısıtmalı ayak masaj aleti"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000029",
-    "slug": "dunya-ogretmenler-gunu-unesco",
-    "title": "5 Ekim Dünya Öğretmenler Günü (UNESCO)",
-    "description": "Dünya genelinde öğretmenlerin statüsü ve haklarını savunan UNESCO ve ILO ortak kutlama günü.",
-    "content": "## 5 Ekim Dünya Öğretmenler Günü (UNESCO) Nedir?\n1966 yılında Öğretmenlerin Statüsüne İlişkin Tavsiye Kararı'nın kabul edildiği gün olup tüm dünyada eğitimcileri onurlandırır.\n\n### Tarihçesi ve Önemi\n1966 yılında Öğretmenlerin Statüsüne İlişkin Tavsiye Kararı'nın kabul edildiği gün olup tüm dünyada eğitimcileri onurlandırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Ekim Dünya Öğretmenler Günü (UNESCO) Nasıl Kutlanır?\n1. Dünyanın dört bir yanındaki öğretmenlerin emeğini takdir edin.\n2. Eğitime bütçe ayrılmasını destekleyin.\n3. Öğretmenlerinize mesaj gönderin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Karanlığı aydınlatan tüm fedakar öğretmenlerimizin 5 Ekim Dünya Öğretmenler Günü kutlu olsun! 📚🌍🧑‍🏫\"\n* \"5 Ekim Dünya Öğretmenler Günü (UNESCO) kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaOgretmenlerGunu #WorldTeachersDay #5Ekim\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-ogretmenler-gunu-unesco\"",
-    "celebration_date": "2026-10-05",
-    "month_no": 10,
-    "day_no": 5,
-    "category": "Mesleki",
-    "hashtags": [
-      "#DunyaOgretmenlerGunu",
-      "#WorldTeachersDay",
-      "#5Ekim",
-      "#Ogretmen"
-    ],
-    "affiliate_keywords": [
-      "lazer sunum kumandası",
-      "öğretmen ajandası 2026",
-      "isme özel kupa"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000030",
-    "slug": "dunya-gida-gunu",
-    "title": "16 Ekim Dünya Gıda Günü",
-    "description": "Açlıkla mücadele, sürdürülebilir tarım ve gıda israfını önleme bilincini artıran FAO günü.",
-    "content": "## 16 Ekim Dünya Gıda Günü Nedir?\n1945 yılında BM Gıda ve Tarım Örgütü'nün (FAO) kuruluş yıl dönümünde herkese yeterli ve güvenli gıda hakkını savunur.\n\n### Tarihçesi ve Önemi\n1945 yılında BM Gıda ve Tarım Örgütü'nün (FAO) kuruluş yıl dönümünde herkese yeterli ve güvenli gıda hakkını savunur. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Ekim Dünya Gıda Günü Nasıl Kutlanır?\n1. Tabağınıza yiyebileceğiniz kadar yemek alın, israfı önleyin.\n2. Artan yemekleri değerlendirme tarifleri uygulayın.\n3. Gıda bankalarına ve aşevlerine bağış yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Gıda haktır, israf etme! 16 Ekim Dünya Gıda Günü'nde soframızı ve dünyamızı adaletle paylaşalım. 🌾🍞🍲\"\n* \"16 Ekim Dünya Gıda Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaGidaGunu #WorldFoodDay #GidaIsrafinaSon\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-gida-gunu\"",
-    "celebration_date": "2026-10-16",
-    "month_no": 10,
-    "day_no": 16,
-    "category": "Çevre & Doğa",
-    "hashtags": [
-      "#DunyaGidaGunu",
-      "#WorldFoodDay",
-      "#GidaIsrafinaSon",
-      "#AcligaSon"
-    ],
-    "affiliate_keywords": [
-      "vakumlu saklama kabı seti",
-      "hava geçirmez kavanoz",
-      "gıda kurutucu makine"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000031",
-    "slug": "dunya-tasarruf-gunu",
-    "title": "31 Ekim Dünya Tasarruf Günü",
-    "description": "Finansal okuryazarlık, para biriktirme ve kaynakları verimli kullanma alışkanlığını teşvik eden gün.",
-    "content": "## 31 Ekim Dünya Tasarruf Günü Nedir?\n1924 yılında Milano'da yapılan 1. Uluslararası Tasarruf Bankası Kongresi'nde tasarruf bilincini aşılamak için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1924 yılında Milano'da yapılan 1. Uluslararası Tasarruf Bankası Kongresi'nde tasarruf bilincini aşılamak için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 31 Ekim Dünya Tasarruf Günü Nasıl Kutlanır?\n1. Aylık bütçenizi ve gereksiz harcamalarınızı gözden geçirin.\n2. Çocuklara kumbara alıp birikim yapmayı öğretin.\n3. Enerji ve su tüketiminde tasarrufa gidin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Damlaya damlaya göl olur! 31 Ekim Dünya Tasarruf Günü'nde geleceğin için biriktirmeye başla. 🪙💰📈\"\n* \"31 Ekim Dünya Tasarruf Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaTasarrufGunu #Tasarruf #FinansalOkuryazarlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tasarruf-gunu\"",
-    "celebration_date": "2026-10-31",
-    "month_no": 10,
-    "day_no": 31,
-    "category": "Eğlence",
-    "hashtags": [
-      "#DunyaTasarrufGunu",
-      "#Tasarruf",
-      "#FinansalOkuryazarlik",
-      "#BirimYap"
-    ],
-    "affiliate_keywords": [
-      "dijital para sayan kumbara",
-      "finansal özgürlük kitapları",
-      "akıllı priz enerji ölçer"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000032",
-    "slug": "dunya-sehircilik-gunu",
-    "title": "8 Kasım Dünya Şehircilik Günü",
-    "description": "Planlı, yaşanabilir, yeşil ve afetlere dayanıklı kentler inşa etme bilincini artıran gün.",
-    "content": "## 8 Kasım Dünya Şehircilik Günü Nedir?\n1949 yılında Buenos Aires Üniversitesi profesörü Carlos Maria della Paolera tarafından kent planlamasının önemini anlatmak için başlatılmıştır.\n\n### Tarihçesi ve Önemi\n1949 yılında Buenos Aires Üniversitesi profesörü Carlos Maria della Paolera tarafından kent planlamasının önemini anlatmak için başlatılmıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 8 Kasım Dünya Şehircilik Günü Nasıl Kutlanır?\n1. Kentinizdeki yeşil alanların ve bisiklet yollarının artmasını talep edin.\n2. Kentsel dönüşüm ve deprem güvenliği bilincini yaygınlaştırın.\n3. Şehir plancılarına teşekkür edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Daha yeşil, daha adil ve afetlere dirençli şehirler için 8 Kasım Dünya Şehircilik Günü kutlu olsun! 🏙️🌳🚲\"\n* \"8 Kasım Dünya Şehircilik Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSehircilikGunu #SehirPlanciligi #YasanabilirKentler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sehircilik-gunu\"",
-    "celebration_date": "2026-11-08",
-    "month_no": 11,
-    "day_no": 8,
-    "category": "Mesleki",
-    "hashtags": [
-      "#DunyaSehircilikGunu",
-      "#SehirPlanciligi",
-      "#YasanabilirKentler",
-      "#8Kasim"
-    ],
-    "affiliate_keywords": [
-      "şehir planlama ve mimarlık kitapları",
-      "teknik çizim kalemi seti",
-      "maket bıçağı seti"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000033",
-    "slug": "uluslararasi-hosgoru-gunu",
-    "title": "16 Kasım Uluslararası Hoşgörü Günü",
-    "description": "Farklılıklara saygı, empati, diyalog ve barış içinde bir arada yaşama kültürünü kutlayan UNESCO günü.",
-    "content": "## 16 Kasım Uluslararası Hoşgörü Günü Nedir?\n1995 UNESCO Hoşgörü İlkeleri Bildirgesi'nin imzalanmasıyla nefret söylemi ve ayrımcılıkla mücadele için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1995 UNESCO Hoşgörü İlkeleri Bildirgesi'nin imzalanmasıyla nefret söylemi ve ayrımcılıkla mücadele için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Kasım Uluslararası Hoşgörü Günü Nasıl Kutlanır?\n1. 'Gel, ne olursan ol yine gel' anlayışıyla herkese önyargısız yaklaşın.\n2. Farklı fikirleri sabırla dinleyin.\n3. Hoşgörüyü ve nezaketi yayın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Farklılıklarımız zenginliğimizdir. 16 Kasım Uluslararası Hoşgörü Günü kutlu olsun! 🤝🌈🕊️\"\n* \"16 Kasım Uluslararası Hoşgörü Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #HosgoruGunu #Mevlana #FarkliliklarZenginliktir\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-hosgoru-gunu\"",
-    "celebration_date": "2026-11-16",
-    "month_no": 11,
-    "day_no": 16,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#HosgoruGunu",
-      "#Mevlana",
-      "#FarkliliklarZenginliktir",
-      "#Empati"
-    ],
-    "affiliate_keywords": [
-      "mevlana mesnevi seti",
-      "felsefe ve empati kitapları",
-      "meditasyon müziği cd"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000034",
-    "slug": "dunya-televizyon-gunu",
-    "title": "21 Kasım Dünya Televizyon Günü",
-    "description": "Görsel habercilik, kamuoyu oluşturma ve kültürel etkileşimdeki televizyonun gücünü kutlayan BM günü.",
-    "content": "## 21 Kasım Dünya Televizyon Günü Nedir?\n1996 yılında 1. Dünya Televizyon Forumu'nun yapıldığı tarih olup medyanın küresel sorunlara dikkat çekme rolünü onurlandırır.\n\n### Tarihçesi ve Önemi\n1996 yılında 1. Dünya Televizyon Forumu'nun yapıldığı tarih olup medyanın küresel sorunlara dikkat çekme rolünü onurlandırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Kasım Dünya Televizyon Günü Nasıl Kutlanır?\n1. Kaliteli belgeseller ve eğitici programlar izleyin.\n2. Televizyon haberciliğinin tarihini inceleyin.\n3. Ekran sürenizi dengede tutun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünyayı salonumuza getiren ekranın günü! 21 Kasım Dünya Televizyon Günü kutlu olsun! 📺📡🎬\"\n* \"21 Kasım Dünya Televizyon Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TelevizyonGunu #WorldTelevisionDay #Medya\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-televizyon-gunu\"",
-    "celebration_date": "2026-11-21",
-    "month_no": 11,
-    "day_no": 21,
-    "category": "Kültür & Sanat",
-    "hashtags": [
-      "#TelevizyonGunu",
-      "#WorldTelevisionDay",
-      "#Medya",
-      "#Yayin"
-    ],
-    "affiliate_keywords": [
-      "akıllı tv kumandası",
-      "led tv arka aydınlatma ambiyans",
-      "soundbar ses sistemi"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000035",
-    "slug": "dunya-aids-gunu",
-    "title": "1 Aralık Dünya AIDS Günü",
-    "description": "HIV/AIDS konusunda doğru bilinci yaymak, ön yargıları kırmak ve hastalara destek olmak için kutlanan küresel gün.",
-    "content": "## 1 Aralık Dünya AIDS Günü Nedir?\n1988 yılından bu yana Dünya Sağlık Örgütü öncülüğünde kırmızı kurdele sembolüyle HIV farkındalığı için düzenlenir.\n\n### Tarihçesi ve Önemi\n1988 yılından bu yana Dünya Sağlık Örgütü öncülüğünde kırmızı kurdele sembolüyle HIV farkındalığı için düzenlenir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Aralık Dünya AIDS Günü Nasıl Kutlanır?\n1. HIV'in bulaşma ve korunma yolları hakkında doğru bilgi edinin.\n2. HIV ile yaşayan bireylere karşı ayrımcılığa dur deyin.\n3. Düzenli test yaptırın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Bilinç hayat kurtarır, ön yargı öldürür. 1 Aralık Dünya AIDS Günü'nde farkında olalım. 🎗️❤️\"\n* \"1 Aralık Dünya AIDS Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaAIDSGunu #KirmiziKurdele #FarkindaOl\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-aids-gunu\"",
-    "celebration_date": "2026-12-01",
-    "month_no": 12,
-    "day_no": 1,
-    "category": "Sağlık",
-    "hashtags": [
-      "#DunyaAIDSGunu",
-      "#KirmiziKurdele",
-      "#FarkindaOl",
-      "#OnYargiyiKir"
-    ],
-    "affiliate_keywords": [
-      "kırmızı kurdele yaka iğnesi",
-      "bağışıklık güçlendirici vitamin"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000036",
-    "slug": "dunya-toprak-gunu",
-    "title": "5 Aralık Dünya Toprak Günü",
-    "description": "Besinlerimizin yüzde 95'ini sağlayan toprağın erozyondan ve kirlilikten korunması için BM tarafından kutlanır.",
-    "content": "## 5 Aralık Dünya Toprak Günü Nedir?\nBM Gıda ve Tarım Örgütü (FAO) tarafından sağlıklı toprakların ve gıda güvenliğinin önemini vurgulamak için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBM Gıda ve Tarım Örgütü (FAO) tarafından sağlıklı toprakların ve gıda güvenliğinin önemini vurgulamak için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Aralık Dünya Toprak Günü Nasıl Kutlanır?\n1. Organik atıklarınızı kompost yaparak toprağa geri kazandırın.\n2. Erozyonla mücadele eden TEMA Vakfı gibi STK'lara destek olun.\n3. Toprağı kimyasallarla kirletmeyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Toprak varsa hayat var! 5 Aralık Dünya Toprak Günü'nde bereketli toprağımızı koruyalım. 🌱🌍🌾\"\n* \"5 Aralık Dünya Toprak Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaToprakGunu #WorldSoilDay #TopragiKoru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-toprak-gunu\"",
-    "celebration_date": "2026-12-05",
-    "month_no": 12,
-    "day_no": 5,
-    "category": "Çevre & Doğa",
-    "hashtags": [
-      "#DunyaToprakGunu",
-      "#WorldSoilDay",
-      "#TopragiKoru",
-      "#TEMA"
-    ],
-    "affiliate_keywords": [
-      "organik kompost gübre",
-      "solucan gübresi",
-      "bahçıvan kürek seti"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000037",
-    "slug": "uluslararasi-dag-gunu",
-    "title": "11 Aralık Uluslararası Dağ Günü",
-    "description": "Tatlı su kaynaklarımızın ve eşsiz dağ biyoçeşitliliğinin korunmasını savunan BM günü.",
-    "content": "## 11 Aralık Uluslararası Dağ Günü Nedir?\n2003 yılında BM Genel Kurulu tarafından dağ ekosistemlerinin kırılganlığına ve dağ topluluklarının sürdürülebilirliğine dikkat çekmek için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n2003 yılında BM Genel Kurulu tarafından dağ ekosistemlerinin kırılganlığına ve dağ topluluklarının sürdürülebilirliğine dikkat çekmek için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 11 Aralık Uluslararası Dağ Günü Nasıl Kutlanır?\n1. Dağ yürüyüşü veya trekking yapın.\n2. Dağlık bölgelerdeki doğal yaşam alanlarını koruyun.\n3. Dağ köylerinin yerel ürünlerini destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Göğe uzanan zirvelerimiz doğanın kalbidir. 11 Aralık Uluslararası Dağ Günü kutlu olsun! ⛰️🏔️🌲\"\n* \"11 Aralık Uluslararası Dağ Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #UluslararasiDagGunu #InternationalMountainDay #Daglar\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-dag-gunu\"",
-    "celebration_date": "2026-12-11",
-    "month_no": 12,
-    "day_no": 11,
-    "category": "Çevre & Doğa",
-    "hashtags": [
-      "#UluslararasiDagGunu",
-      "#InternationalMountainDay",
-      "#Daglar",
-      "#Doga"
-    ],
-    "affiliate_keywords": [
-      "trekking batonları katlanır",
-      "termal dağcı çorabı",
-      "kamp termos paslanmaz"
-    ]
-  },
-  {
-    "id": "f8b9a112-9844-48f8-b3f1-000000000038",
-    "slug": "uluslararasi-gocmenler-gunu",
-    "title": "18 Aralık Uluslararası Göçmenler Günü",
-    "description": "Dünya çapında göçmenlerin insan hakları, emekleri ve toplumsal katkılarını onurlandıran BM günü.",
-    "content": "## 18 Aralık Uluslararası Göçmenler Günü Nedir?\n1990'da Tüm Göçmen İşçilerin ve Aile Fertlerinin Haklarının Korunmasına Dair Uluslararası Sözleşme'nin kabul günü anısına kutlanır.\n\n### Tarihçesi ve Önemi\n1990'da Tüm Göçmen İşçilerin ve Aile Fertlerinin Haklarının Korunmasına Dair Uluslararası Sözleşme'nin kabul günü anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 18 Aralık Uluslararası Göçmenler Günü Nasıl Kutlanır?\n1. Göçmenlerin temel insan haklarına ve onuruna saygı duyun.\n2. Irkçılığa ve yabancı düşmanlığına karşı durun.\n3. Farklı kültürlerin topluma kattığı zenginliği takdir edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hepimiz aynı gökyüzünün altındayız. 18 Aralık Uluslararası Göçmenler Günü kutlu olsun! 🕊️🌍🤝\"\n* \"18 Aralık Uluslararası Göçmenler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GocmenlerGunu #InternationalMigrantsDay #InsanOnuru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-gocmenler-gunu\"",
-    "celebration_date": "2026-12-18",
-    "month_no": 12,
-    "day_no": 18,
-    "category": "Farkındalık",
-    "hashtags": [
-      "#GocmenlerGunu",
-      "#InternationalMigrantsDay",
-      "#InsanOnuru",
-      "#Goc"
-    ],
-    "affiliate_keywords": [
-      "kültürlerarası sosyoloji kitapları",
-      "dünya dilleri sözlükleri"
-    ]
-  },
-  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000039",
     "slug": "yilbasi",
     "title": "1 Ocak Yılbaşı",
@@ -969,6 +133,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yeni yıl ajandası",
       "kutu kutlama oyunu",
       "kar küresi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000117",
+    "slug": "2-ocak-dunya-bilimkurgu-gunu",
+    "title": "2 Ocak Dünya Bilimkurgu Günü",
+    "description": "Isaac Asimov anısına geleceğin bilimsel hayallerini ve edebiyatını kutlama günü.",
+    "content": "## 2 Ocak Dünya Bilimkurgu Günü Nedir?\nIsaac Asimov anısına geleceğin bilimsel hayallerini ve edebiyatını kutlama günü.\n\n### Tarihçesi ve Önemi\n2 Ocak Dünya Bilimkurgu Günü, gerek Türkiye'de gerekse uluslararası alanda Science Fiction Writers nezdinde tanınan ve her yıl 2 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Ocak Dünya Bilimkurgu Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-02",
+    "month_no": 1,
+    "day_no": 2,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Science Fiction Writers",
+    "source_url": "https://www.sfwa.org",
+    "hashtags": [
+      "#2Ocak",
+      "#2ocakdunyabilimkurgugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000118",
+    "slug": "3-ocak-uluslararasi-zihin-beden-sagligi-gunu",
+    "title": "3 Ocak Uluslararası Zihin-Beden Sağlığı Günü",
+    "description": "Bütüncül sağlık, zihinsel dinginlik ve dengeli yaşam farkındalığı günü.",
+    "content": "## 3 Ocak Uluslararası Zihin-Beden Sağlığı Günü Nedir?\nBütüncül sağlık, zihinsel dinginlik ve dengeli yaşam farkındalığı günü.\n\n### Tarihçesi ve Önemi\n3 Ocak Uluslararası Zihin-Beden Sağlığı Günü, gerek Türkiye'de gerekse uluslararası alanda Mind-Body Coalition nezdinde tanınan ve her yıl 3 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Ocak Uluslararası Zihin-Beden Sağlığı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-03",
+    "month_no": 1,
+    "day_no": 3,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Mind-Body Coalition",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#3Ocak",
+      "#3ocakuluslararasizihinbedensagligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -995,6 +209,127 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000119",
+    "slug": "5-ocak-ulusal-kuslari-koruma-gunu",
+    "title": "5 Ocak Ulusal Kuşları Koruma Günü",
+    "description": "Kuş türlerinin doğal yaşam alanlarını koruma ve göç yollarını güvenceye alma günü.",
+    "content": "## 5 Ocak Ulusal Kuşları Koruma Günü Nedir?\nKuş türlerinin doğal yaşam alanlarını koruma ve göç yollarını güvenceye alma günü.\n\n### Tarihçesi ve Önemi\n5 Ocak Ulusal Kuşları Koruma Günü, gerek Türkiye'de gerekse uluslararası alanda Avian Welfare Coalition nezdinde tanınan ve her yıl 5 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Ocak Ulusal Kuşları Koruma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-05",
+    "month_no": 1,
+    "day_no": 5,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Avian Welfare Coalition",
+    "source_url": "https://www.birdday.org",
+    "hashtags": [
+      "#5Ocak",
+      "#5ocakulusalkuslarikorumagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000120",
+    "slug": "6-ocak-dunya-savas-yetimleri-gunu",
+    "title": "6 Ocak Dünya Savaş Yetimleri Günü",
+    "description": "Savaşların mağdur ettiği öksüz ve yetim çocukların haklarını ve bakımını hatırlatan gün.",
+    "content": "## 6 Ocak Dünya Savaş Yetimleri Günü Nedir?\nSavaşların mağdur ettiği öksüz ve yetim çocukların haklarını ve bakımını hatırlatan gün.\n\n### Tarihçesi ve Önemi\n6 Ocak Dünya Savaş Yetimleri Günü, gerek Türkiye'de gerekse uluslararası alanda SOS Enfants en Detresse & UNICEF nezdinde tanınan ve her yıl 6 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Ocak Dünya Savaş Yetimleri Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"6 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-06",
+    "month_no": 1,
+    "day_no": 6,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "SOS Enfants en Detresse & UNICEF",
+    "source_url": "https://www.unicef.org",
+    "hashtags": [
+      "#6Ocak",
+      "#6ocakdunyasavasyetimlerigunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000121",
+    "slug": "7-ocak-uluslararasi-programcilar-gunu",
+    "title": "7 Ocak Uluslararası Programcılar Günü",
+    "description": "Dijital altyapımızı inşa eden yazılımcıların ve mühendislerin emeklerini kutlama günü.",
+    "content": "## 7 Ocak Uluslararası Programcılar Günü Nedir?\nDijital altyapımızı inşa eden yazılımcıların ve mühendislerin emeklerini kutlama günü.\n\n### Tarihçesi ve Önemi\n7 Ocak Uluslararası Programcılar Günü, gerek Türkiye'de gerekse uluslararası alanda Tech Observances nezdinde tanınan ve her yıl 7 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Ocak Uluslararası Programcılar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-07",
+    "month_no": 1,
+    "day_no": 7,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Tech Observances",
+    "source_url": "https://www.ieee.org",
+    "hashtags": [
+      "#7Ocak",
+      "#7ocakuluslararasiprogramcilargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000122",
+    "slug": "8-ocak-dunya-yazi-yazma-ve-daktilo-gunu",
+    "title": "8 Ocak Dünya Yazı Yazma ve Daktilo Günü",
+    "description": "El yazısı, mektup ve yaratıcı metin üretmenin değerini anımsatan edebi gün.",
+    "content": "## 8 Ocak Dünya Yazı Yazma ve Daktilo Günü Nedir?\nEl yazısı, mektup ve yaratıcı metin üretmenin değerini anımsatan edebi gün.\n\n### Tarihçesi ve Önemi\n8 Ocak Dünya Yazı Yazma ve Daktilo Günü, gerek Türkiye'de gerekse uluslararası alanda Literary Guild nezdinde tanınan ve her yıl 8 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Ocak Dünya Yazı Yazma ve Daktilo Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-08",
+    "month_no": 1,
+    "day_no": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Literary Guild",
+    "source_url": "https://www.unesco.org",
+    "hashtags": [
+      "#8Ocak",
+      "#8ocakdunyayaziyazmavedaktilogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000123",
+    "slug": "9-ocak-dunya-statik-elektrik-gunu",
+    "title": "9 Ocak Dünya Statik Elektrik Günü",
+    "description": "Doğadaki elektrostatik olayları ve bilimin eğlenceli yönlerini keşfetme günü.",
+    "content": "## 9 Ocak Dünya Statik Elektrik Günü Nedir?\nDoğadaki elektrostatik olayları ve bilimin eğlenceli yönlerini keşfetme günü.\n\n### Tarihçesi ve Önemi\n9 Ocak Dünya Statik Elektrik Günü, gerek Türkiye'de gerekse uluslararası alanda Physics Guild nezdinde tanınan ve her yıl 9 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Ocak Dünya Statik Elektrik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-09",
+    "month_no": 1,
+    "day_no": 9,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Physics Guild",
+    "source_url": "https://www.aps.org",
+    "hashtags": [
+      "#9Ocak",
+      "#9ocakdunyastatikelektrikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000041",
     "slug": "calisan-gazeteciler-gunu",
     "title": "10 Ocak Çalışan Gazeteciler Günü",
@@ -1015,6 +350,253 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "gazeteci çantası",
       "fotoğraf makinesi tripodu",
       "not defteri deri"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000124",
+    "slug": "11-ocak-uluslararasi-tesekkur-gunu",
+    "title": "11 Ocak Uluslararası Teşekkür Günü",
+    "description": "Hayatımızdaki sevdiklerimize şükran ve teşekkürlerimizi samimiyetle ifade etme günü.",
+    "content": "## 11 Ocak Uluslararası Teşekkür Günü Nedir?\nHayatımızdaki sevdiklerimize şükran ve teşekkürlerimizi samimiyetle ifade etme günü.\n\n### Tarihçesi ve Önemi\n11 Ocak Uluslararası Teşekkür Günü, gerek Türkiye'de gerekse uluslararası alanda Kindness Coalition nezdinde tanınan ve her yıl 11 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Ocak Uluslararası Teşekkür Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-11",
+    "month_no": 1,
+    "day_no": 11,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Kindness Coalition",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Ocak",
+      "#11ocakuluslararasitesekkurgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000125",
+    "slug": "12-ocak-dunya-eczacilik-egitimi-gunu",
+    "title": "12 Ocak Dünya Eczacılık Eğitimi Günü",
+    "description": "Sağlık zincirinin en güvenilir danışmanı olan eczacıların mesleki standartları günü.",
+    "content": "## 12 Ocak Dünya Eczacılık Eğitimi Günü Nedir?\nSağlık zincirinin en güvenilir danışmanı olan eczacıların mesleki standartları günü.\n\n### Tarihçesi ve Önemi\n12 Ocak Dünya Eczacılık Eğitimi Günü, gerek Türkiye'de gerekse uluslararası alanda FIP Eczacılık Federasyonu nezdinde tanınan ve her yıl 12 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Ocak Dünya Eczacılık Eğitimi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-12",
+    "month_no": 1,
+    "day_no": 12,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "FIP Eczacılık Federasyonu",
+    "source_url": "https://www.fip.org",
+    "hashtags": [
+      "#12Ocak",
+      "#12ocakdunyaeczacilikegitimigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000126",
+    "slug": "13-ocak-hayalleri-gerceklestirme-gunu",
+    "title": "13 Ocak Hayalleri Gerçekleştirme Günü",
+    "description": "Yılın başında kurulan hayalleri eyleme ve somut başarılara dönüştürme günü.",
+    "content": "## 13 Ocak Hayalleri Gerçekleştirme Günü Nedir?\nYılın başında kurulan hayalleri eyleme ve somut başarılara dönüştürme günü.\n\n### Tarihçesi ve Önemi\n13 Ocak Hayalleri Gerçekleştirme Günü, gerek Türkiye'de gerekse uluslararası alanda Motivational Observances nezdinde tanınan ve her yıl 13 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Ocak Hayalleri Gerçekleştirme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-13",
+    "month_no": 1,
+    "day_no": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Motivational Observances",
+    "source_url": "https://www.unesco.org",
+    "hashtags": [
+      "#13Ocak",
+      "#13ocakhayallerigerceklestirmegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000127",
+    "slug": "14-ocak-dunya-mantik-gunu",
+    "title": "14 Ocak Dünya Mantık Günü",
+    "description": "Rasyonel düşünce, matematik ve felsefenin insan gelişimindeki rolünü kutlayan gün.",
+    "content": "## 14 Ocak Dünya Mantık Günü Nedir?\nRasyonel düşünce, matematik ve felsefenin insan gelişimindeki rolünü kutlayan gün.\n\n### Tarihçesi ve Önemi\n14 Ocak Dünya Mantık Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO (40 C/Resolution 36) nezdinde tanınan ve her yıl 14 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Ocak Dünya Mantık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-14",
+    "month_no": 1,
+    "day_no": 14,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "UNESCO (40 C/Resolution 36)",
+    "source_url": "https://www.unesco.org/en/days/world-logic-day",
+    "hashtags": [
+      "#14Ocak",
+      "#14ocakdunyamantikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000128",
+    "slug": "15-ocak-wikipedia-gunu",
+    "title": "15 Ocak Wikipedia Günü",
+    "description": "İnsanlığın ortak bilgi hazinesi olan açık kaynak ansiklopedinin kuruluş yıldönümü.",
+    "content": "## 15 Ocak Wikipedia Günü Nedir?\nİnsanlığın ortak bilgi hazinesi olan açık kaynak ansiklopedinin kuruluş yıldönümü.\n\n### Tarihçesi ve Önemi\n15 Ocak Wikipedia Günü, gerek Türkiye'de gerekse uluslararası alanda Wikimedia Foundation nezdinde tanınan ve her yıl 15 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Ocak Wikipedia Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-15",
+    "month_no": 1,
+    "day_no": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Wikimedia Foundation",
+    "source_url": "https://www.wikimedia.org",
+    "hashtags": [
+      "#15Ocak",
+      "#15ocakwikipediagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000001",
+    "slug": "dunya-hijyen-gunu",
+    "title": "16 Ocak Dünya Hijyen Günü",
+    "description": "Kişisel temizlik, el yıkama ve halk sağlığını koruma alışkanlıklarını hatırlatan gün.",
+    "content": "## 16 Ocak Dünya Hijyen Günü Nedir?\nKişisel hijyenin salgın hastalıklardan korunmadaki en etkili ve ucuz yöntem olduğunu vurgulamak amacıyla kutlanır.\n\n### Tarihçesi ve Önemi\nKişisel hijyenin salgın hastalıklardan korunmadaki en etkili ve ucuz yöntem olduğunu vurgulamak amacıyla kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Ocak Dünya Hijyen Günü Nasıl Kutlanır?\n1. Ellerinizi en az 20 saniye sabunla doğru şekilde yıkayın.\n2. Yaşam alanlarınızı düzenli havalandırın ve temizleyin.\n3. Çocuklara hijyen kurallarını öğretin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Temizlik imandandır ve sağlığın başıdır! 16 Ocak Dünya Hijyen Günü kutlu olsun. 🧼🫧\"\n* \"16 Ocak Dünya Hijyen Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #HijyenGunu #ElYikama #Temizlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-hijyen-gunu\"",
+    "celebration_date": "2026-01-16",
+    "month_no": 1,
+    "day_no": 16,
+    "category": "Sağlık",
+    "hashtags": [
+      "#HijyenGunu",
+      "#ElYikama",
+      "#Temizlik",
+      "#HalkSagligi"
+    ],
+    "affiliate_keywords": [
+      "otomatik sabunluk sensörlü",
+      "antibakteriyel el dezenfektanı",
+      "bambu banyo havlusu"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000129",
+    "slug": "17-ocak-cocuk-mucitler-gunu",
+    "title": "17 Ocak Çocuk Mucitler Günü",
+    "description": "Çocukların bilimsel merakını, icat yeteneğini ve girişimcilik ruhunu destekleyen gün.",
+    "content": "## 17 Ocak Çocuk Mucitler Günü Nedir?\nÇocukların bilimsel merakını, icat yeteneğini ve girişimcilik ruhunu destekleyen gün.\n\n### Tarihçesi ve Önemi\n17 Ocak Çocuk Mucitler Günü, gerek Türkiye'de gerekse uluslararası alanda Kid Inventors Association nezdinde tanınan ve her yıl 17 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Ocak Çocuk Mucitler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-17",
+    "month_no": 1,
+    "day_no": 17,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Kid Inventors Association",
+    "source_url": "https://www.wipo.int",
+    "hashtags": [
+      "#17Ocak",
+      "#17ocakcocukmucitlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000130",
+    "slug": "18-ocak-dunya-dinler-arasi-hosgoru-gunu",
+    "title": "18 Ocak Dünya Dinler Arası Hoşgörü Günü",
+    "description": "Farklı inanç ve kültürler arasında kardeşlik ve saygıyı yücelten küresel gün.",
+    "content": "## 18 Ocak Dünya Dinler Arası Hoşgörü Günü Nedir?\nFarklı inanç ve kültürler arasında kardeşlik ve saygıyı yücelten küresel gün.\n\n### Tarihçesi ve Önemi\n18 Ocak Dünya Dinler Arası Hoşgörü Günü, gerek Türkiye'de gerekse uluslararası alanda Interfaith Council nezdinde tanınan ve her yıl 18 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Ocak Dünya Dinler Arası Hoşgörü Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-18",
+    "month_no": 1,
+    "day_no": 18,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Interfaith Council",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Ocak",
+      "#18ocakdunyadinlerarasihosgorugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000131",
+    "slug": "19-ocak-dunya-patlamis-misir-gunu",
+    "title": "19 Ocak Dünya Patlamış Mısır Günü",
+    "description": "Sinema ve sohbet akşamlarının vazgeçilmez lezzeti patlamış mısırı kutlayan neşeli gün.",
+    "content": "## 19 Ocak Dünya Patlamış Mısır Günü Nedir?\nSinema ve sohbet akşamlarının vazgeçilmez lezzeti patlamış mısırı kutlayan neşeli gün.\n\n### Tarihçesi ve Önemi\n19 Ocak Dünya Patlamış Mısır Günü, gerek Türkiye'de gerekse uluslararası alanda Popcorn Board nezdinde tanınan ve her yıl 19 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Ocak Dünya Patlamış Mısır Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-19",
+    "month_no": 1,
+    "day_no": 19,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Popcorn Board",
+    "source_url": "https://www.popcorn.org",
+    "hashtags": [
+      "#19Ocak",
+      "#19ocakdunyapatlamismisirgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000132",
+    "slug": "20-ocak-penguenleri-koruma-farkindalik-gunu",
+    "title": "20 Ocak Penguenleri Koruma Farkındalık Günü",
+    "description": "Kutup ekosisteminin sevimli sakinleri penguenlerin neslini koruma günü.",
+    "content": "## 20 Ocak Penguenleri Koruma Farkındalık Günü Nedir?\nKutup ekosisteminin sevimli sakinleri penguenlerin neslini koruma günü.\n\n### Tarihçesi ve Önemi\n20 Ocak Penguenleri Koruma Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda Wildlife Conservation Society nezdinde tanınan ve her yıl 20 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Ocak Penguenleri Koruma Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-20",
+    "month_no": 1,
+    "day_no": 20,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Wildlife Conservation Society",
+    "source_url": "https://www.wcs.org",
+    "hashtags": [
+      "#20Ocak",
+      "#20ocakpenguenlerikorumafarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1041,6 +623,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000133",
+    "slug": "22-ocak-toplum-sagligi-ve-sicak-cay-gunu",
+    "title": "22 Ocak Toplum Sağlığı ve Sıcak Çay Günü",
+    "description": "Kış soğuklarında antioksidan zengini sıcak çayların sağlığa faydalarını hatırlatan gün.",
+    "content": "## 22 Ocak Toplum Sağlığı ve Sıcak Çay Günü Nedir?\nKış soğuklarında antioksidan zengini sıcak çayların sağlığa faydalarını hatırlatan gün.\n\n### Tarihçesi ve Önemi\n22 Ocak Toplum Sağlığı ve Sıcak Çay Günü, gerek Türkiye'de gerekse uluslararası alanda Health & Nutrition Council nezdinde tanınan ve her yıl 22 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Ocak Toplum Sağlığı ve Sıcak Çay Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-22",
+    "month_no": 1,
+    "day_no": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Health & Nutrition Council",
+    "source_url": "https://www.fao.org",
+    "hashtags": [
+      "#22Ocak",
+      "#22ocaktoplumsagligivesicakcaygunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000134",
+    "slug": "23-ocak-dunya-el-yazisi-gunu",
+    "title": "23 Ocak Dünya El Yazısı Günü",
+    "description": "Klavyelerin ötesinde el yazısının kişisel estetiğini ve motor becerilerini yaşatma günü.",
+    "content": "## 23 Ocak Dünya El Yazısı Günü Nedir?\nKlavyelerin ötesinde el yazısının kişisel estetiğini ve motor becerilerini yaşatma günü.\n\n### Tarihçesi ve Önemi\n23 Ocak Dünya El Yazısı Günü, gerek Türkiye'de gerekse uluslararası alanda Writing Instrument Association nezdinde tanınan ve her yıl 23 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Ocak Dünya El Yazısı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-23",
+    "month_no": 1,
+    "day_no": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Writing Instrument Association",
+    "source_url": "https://www.wima.org",
+    "hashtags": [
+      "#23Ocak",
+      "#23ocakdunyaelyazisigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000043",
     "slug": "uluslararasi-egitim-gunu",
     "title": "24 Ocak Uluslararası Eğitim Günü",
@@ -1064,6 +696,74 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000135",
+    "slug": "25-ocak-dunya-kar-ve-kis-sporlari-gunu",
+    "title": "25 Ocak Dünya Kar ve Kış Sporları Günü",
+    "description": "Kış mevsimini aktif sporlar ve doğa yürüyüşleriyle neşeyle geçirme günü.",
+    "content": "## 25 Ocak Dünya Kar ve Kış Sporları Günü Nedir?\nKış mevsimini aktif sporlar ve doğa yürüyüşleriyle neşeyle geçirme günü.\n\n### Tarihçesi ve Önemi\n25 Ocak Dünya Kar ve Kış Sporları Günü, gerek Türkiye'de gerekse uluslararası alanda FIS Uluslararası Kayak Federasyonu nezdinde tanınan ve her yıl 25 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Ocak Dünya Kar ve Kış Sporları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-25",
+    "month_no": 1,
+    "day_no": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "FIS Uluslararası Kayak Federasyonu",
+    "source_url": "https://www.worldsnowday.com",
+    "hashtags": [
+      "#25Ocak",
+      "#25ocakdunyakarvekissporlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000002",
+    "slug": "dunya-gumruk-gunu",
+    "title": "26 Ocak Dünya Gümrük Günü",
+    "description": "Uluslararası ticaretin güvenliği ve gümrük çalışanlarının fedakarlıklarını onurlandıran gün.",
+    "content": "## 26 Ocak Dünya Gümrük Günü Nedir?\nDünya Gümrük Örgütü'nün ilk toplantısını yaptığı 26 Ocak 1953 anısına küresel ticaretin güvenliğini kutlar.\n\n### Tarihçesi ve Önemi\nDünya Gümrük Örgütü'nün ilk toplantısını yaptığı 26 Ocak 1953 anısına küresel ticaretin güvenliğini kutlar. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 26 Ocak Dünya Gümrük Günü Nasıl Kutlanır?\n1. Gümrük emekçilerine teşekkür edin.\n2. Yasal ve kayıtlı ticaretin önemini öğrenin.\n3. Kaçakçılıkla mücadeleye dikkat çekin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sınırlarımızın ve ekonomimizin bekçisi tüm gümrük çalışanlarımızın Dünya Gümrük Günü kutlu olsun! 🛃🚢\"\n* \"26 Ocak Dünya Gümrük Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GumrukGunu #26Ocak #GumrukMuhafaza\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-gumruk-gunu\"",
+    "celebration_date": "2026-01-26",
+    "month_no": 1,
+    "day_no": 26,
+    "category": "Mesleki",
+    "hashtags": [
+      "#GumrukGunu",
+      "#26Ocak",
+      "#GumrukMuhafaza",
+      "#Ticaret"
+    ],
+    "affiliate_keywords": [
+      "seyahat pasaport kılıfı",
+      "valiz bavul seti",
+      "bagaj tartısı dijital"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000136",
+    "slug": "27-ocak-uluslararasi-holokost-kurbanlarini-anma-gunu",
+    "title": "27 Ocak Uluslararası Holokost Kurbanlarını Anma Günü",
+    "description": "İkinci Dünya Savaşı soykırım kurbanlarını hüzün ve saygıyla anma günü.",
+    "content": "## 27 Ocak Uluslararası Holokost Kurbanlarını Anma Günü Nedir?\nİkinci Dünya Savaşı soykırım kurbanlarını hüzün ve saygıyla anma günü.\n\n### Tarihçesi ve Önemi\n27 Ocak Uluslararası Holokost Kurbanlarını Anma Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/60/7) nezdinde tanınan ve her yıl 27 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Ocak Uluslararası Holokost Kurbanlarını Anma Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"27 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-27",
+    "month_no": 1,
+    "day_no": 27,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/60/7)",
+    "source_url": "https://www.un.org/en/observances/holocaust-remembrance-day",
+    "hashtags": [
+      "#27Ocak",
+      "#27ocakuluslararasiholokostkurbanlarinianmagunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000044",
     "slug": "veri-koruma-gunu",
     "title": "28 Ocak Veri Koruma Günü",
@@ -1084,6 +784,156 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "donanım cüzdanı",
       "webcam gizlilik kapağı",
       "vpn aboneliği"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000137",
+    "slug": "29-ocak-dunya-yapboz-puzzle-gunu",
+    "title": "29 Ocak Dünya Yapboz (Puzzle) Günü",
+    "description": "Zihni tazeleyen, sabır ve odaklanmayı artıran yapboz oyunları günü.",
+    "content": "## 29 Ocak Dünya Yapboz (Puzzle) Günü Nedir?\nZihni tazeleyen, sabır ve odaklanmayı artıran yapboz oyunları günü.\n\n### Tarihçesi ve Önemi\n29 Ocak Dünya Yapboz (Puzzle) Günü, gerek Türkiye'de gerekse uluslararası alanda Game & Puzzle Guild nezdinde tanınan ve her yıl 29 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Ocak Dünya Yapboz (Puzzle) Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-29",
+    "month_no": 1,
+    "day_no": 29,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Game & Puzzle Guild",
+    "source_url": "https://www.worldpuzzleday.org",
+    "hashtags": [
+      "#29Ocak",
+      "#29ocakdunyayapbozpuzzlegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000138",
+    "slug": "30-ocak-okullarda-siddetsizlik-ve-baris-gunu",
+    "title": "30 Ocak Okullarda Şiddetsizlik ve Barış Günü",
+    "description": "Mahatma Gandhi'nin barışçıl felsefesini genç nesillere aktaran küresel gün.",
+    "content": "## 30 Ocak Okullarda Şiddetsizlik ve Barış Günü Nedir?\nMahatma Gandhi'nin barışçıl felsefesini genç nesillere aktaran küresel gün.\n\n### Tarihçesi ve Önemi\n30 Ocak Okullarda Şiddetsizlik ve Barış Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO Barış Eğitimi nezdinde tanınan ve her yıl 30 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Ocak Okullarda Şiddetsizlik ve Barış Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-30",
+    "month_no": 1,
+    "day_no": 30,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO Barış Eğitimi",
+    "source_url": "https://www.unesco.org",
+    "hashtags": [
+      "#30Ocak",
+      "#30ocakokullardasiddetsizlikvebarisgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000139",
+    "slug": "31-ocak-dunya-cuzzam-ile-savas-gunu",
+    "title": "31 Ocak Dünya Cüzzam ile Savaş Günü",
+    "description": "Cüzzam hastalığı konusunda toplumsal bilinci artırma ve ayrımcılığı önleme günü.",
+    "content": "## 31 Ocak Dünya Cüzzam ile Savaş Günü Nedir?\nCüzzam hastalığı konusunda toplumsal bilinci artırma ve ayrımcılığı önleme günü.\n\n### Tarihçesi ve Önemi\n31 Ocak Dünya Cüzzam ile Savaş Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya Sağlık Örgütü (WHO) nezdinde tanınan ve her yıl 31 Ocak tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"31 Ocak Dünya Cüzzam ile Savaş Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"31 Ocak günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-01-31",
+    "month_no": 1,
+    "day_no": 31,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Dünya Sağlık Örgütü (WHO)",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#31Ocak",
+      "#31ocakdunyacuzzamilesavasgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000140",
+    "slug": "1-subat-dunya-basortusu-ve-vicdan-ozgurlugu-gunu",
+    "title": "1 Şubat Dünya Başörtüsü ve Vicdan Özgürlüğü Günü",
+    "description": "İnanç özgürlüğü, karşılıklı empati ve kültürel çeşitliliği kutlayan gün.",
+    "content": "## 1 Şubat Dünya Başörtüsü ve Vicdan Özgürlüğü Günü Nedir?\nİnanç özgürlüğü, karşılıklı empati ve kültürel çeşitliliği kutlayan gün.\n\n### Tarihçesi ve Önemi\n1 Şubat Dünya Başörtüsü ve Vicdan Özgürlüğü Günü, gerek Türkiye'de gerekse uluslararası alanda World Hijab Day Initiative nezdinde tanınan ve her yıl 1 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"1 Şubat Dünya Başörtüsü ve Vicdan Özgürlüğü Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"1 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-01",
+    "month_no": 2,
+    "day_no": 1,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Hijab Day Initiative",
+    "source_url": "https://worldhijabday.com",
+    "hashtags": [
+      "#1Şubat",
+      "#1subatdunyabasortusuvevicdanozgurlugugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000141",
+    "slug": "2-subat-dunya-sulak-alanlar-gunu",
+    "title": "2 Şubat Dünya Sulak Alanlar Günü",
+    "description": "Gölleri, bataklıkları ve nehir deltalarını koruyan Birleşmiş Milletler çevre günü.",
+    "content": "## 2 Şubat Dünya Sulak Alanlar Günü Nedir?\nGölleri, bataklıkları ve nehir deltalarını koruyan Birleşmiş Milletler çevre günü.\n\n### Tarihçesi ve Önemi\n2 Şubat Dünya Sulak Alanlar Günü, gerek Türkiye'de gerekse uluslararası alanda Ramsar Sözleşmesi & BM (A/RES/75/317) nezdinde tanınan ve her yıl 2 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Şubat Dünya Sulak Alanlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-02",
+    "month_no": 2,
+    "day_no": 2,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Ramsar Sözleşmesi & BM (A/RES/75/317)",
+    "source_url": "https://www.ramsar.org",
+    "hashtags": [
+      "#2Şubat",
+      "#2subatdunyasulakalanlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000142",
+    "slug": "3-subat-dunya-dogal-beslenme-ve-havyar-gunu",
+    "title": "3 Şubat Dünya Doğal Beslenme ve Havyar Günü",
+    "description": "Geleneksel mutfak lezzetlerini ve deniz mahsullerinin gastronomi değerini kutlama günü.",
+    "content": "## 3 Şubat Dünya Doğal Beslenme ve Havyar Günü Nedir?\nGeleneksel mutfak lezzetlerini ve deniz mahsullerinin gastronomi değerini kutlama günü.\n\n### Tarihçesi ve Önemi\n3 Şubat Dünya Doğal Beslenme ve Havyar Günü, gerek Türkiye'de gerekse uluslararası alanda Gastronomy Observances nezdinde tanınan ve her yıl 3 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Şubat Dünya Doğal Beslenme ve Havyar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-03",
+    "month_no": 2,
+    "day_no": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Gastronomy Observances",
+    "source_url": "https://www.fao.org",
+    "hashtags": [
+      "#3Şubat",
+      "#3subatdunyadogalbeslenmevehavyargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1110,6 +960,106 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000143",
+    "slug": "5-subat-dunya-nutella-ve-kakao-gunu",
+    "title": "5 Şubat Dünya Nutella ve Kakao Günü",
+    "description": "Dünyanın en sevilen kakaolu fındık kremasını ve tatlı anları kutlayan gün.",
+    "content": "## 5 Şubat Dünya Nutella ve Kakao Günü Nedir?\nDünyanın en sevilen kakaolu fındık kremasını ve tatlı anları kutlayan gün.\n\n### Tarihçesi ve Önemi\n5 Şubat Dünya Nutella ve Kakao Günü, gerek Türkiye'de gerekse uluslararası alanda World Nutella Day nezdinde tanınan ve her yıl 5 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Şubat Dünya Nutella ve Kakao Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-05",
+    "month_no": 2,
+    "day_no": 5,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Nutella Day",
+    "source_url": "https://www.nutelladay.com",
+    "hashtags": [
+      "#5Şubat",
+      "#5subatdunyanutellavekakaogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000144",
+    "slug": "6-subat-kadin-sunnetine-sifir-tolerans-gunu",
+    "title": "6 Şubat Kadın Sünnetine Sıfır Tolerans Günü",
+    "description": "Kız çocuklarının temel sağlık haklarını ve beden bütünlüğünü koruma günü.",
+    "content": "## 6 Şubat Kadın Sünnetine Sıfır Tolerans Günü Nedir?\nKız çocuklarının temel sağlık haklarını ve beden bütünlüğünü koruma günü.\n\n### Tarihçesi ve Önemi\n6 Şubat Kadın Sünnetine Sıfır Tolerans Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/67/146) nezdinde tanınan ve her yıl 6 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Şubat Kadın Sünnetine Sıfır Tolerans Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-06",
+    "month_no": 2,
+    "day_no": 6,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/67/146)",
+    "source_url": "https://www.un.org/en/observances/female-genital-mutilation-day",
+    "hashtags": [
+      "#6Şubat",
+      "#6subatkadinsunnetinesifirtoleransgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000145",
+    "slug": "7-subat-guvenli-internet-gunu",
+    "title": "7 Şubat Güvenli İnternet Günü",
+    "description": "Dijital dünyada siber zorbalığa karşı güvenli internet kullanımı günü.",
+    "content": "## 7 Şubat Güvenli İnternet Günü Nedir?\nDijital dünyada siber zorbalığa karşı güvenli internet kullanımı günü.\n\n### Tarihçesi ve Önemi\n7 Şubat Güvenli İnternet Günü, gerek Türkiye'de gerekse uluslararası alanda Avrupa Komisyonu (Safer Internet Day) nezdinde tanınan ve her yıl 7 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Şubat Güvenli İnternet Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-07",
+    "month_no": 2,
+    "day_no": 7,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Avrupa Komisyonu (Safer Internet Day)",
+    "source_url": "https://www.saferinternetday.org",
+    "hashtags": [
+      "#7Şubat",
+      "#7subatguvenliinternetgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000146",
+    "slug": "8-subat-dunya-opera-ve-sahne-sanatlari-gunu",
+    "title": "8 Şubat Dünya Opera ve Sahne Sanatları Günü",
+    "description": "Sahne sanatlarının görkemli şaheserlerini ve opera sanatçılarını onurlandıran gün.",
+    "content": "## 8 Şubat Dünya Opera ve Sahne Sanatları Günü Nedir?\nSahne sanatlarının görkemli şaheserlerini ve opera sanatçılarını onurlandıran gün.\n\n### Tarihçesi ve Önemi\n8 Şubat Dünya Opera ve Sahne Sanatları Günü, gerek Türkiye'de gerekse uluslararası alanda Opera Europa nezdinde tanınan ve her yıl 8 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Şubat Dünya Opera ve Sahne Sanatları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-08",
+    "month_no": 2,
+    "day_no": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Opera Europa",
+    "source_url": "https://www.opera-europa.org",
+    "hashtags": [
+      "#8Şubat",
+      "#8subatdunyaoperavesahnesanatlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000046",
     "slug": "sigarayi-birakma-gunu",
     "title": "9 Şubat Dünya Sigarayı Bırakma Günü",
@@ -1133,6 +1083,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000147",
+    "slug": "10-subat-dunya-bakliyat-gunu",
+    "title": "10 Şubat Dünya Bakliyat Günü",
+    "description": "Bakliyatların yüksek protein değeri ve kuraklığa dayanıklı tarım gücü günü.",
+    "content": "## 10 Şubat Dünya Bakliyat Günü Nedir?\nBakliyatların yüksek protein değeri ve kuraklığa dayanıklı tarım gücü günü.\n\n### Tarihçesi ve Önemi\n10 Şubat Dünya Bakliyat Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler FAO (A/RES/73/251) nezdinde tanınan ve her yıl 10 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Şubat Dünya Bakliyat Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-10",
+    "month_no": 2,
+    "day_no": 10,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler FAO (A/RES/73/251)",
+    "source_url": "https://www.fao.org/world-pulses-day",
+    "hashtags": [
+      "#10Şubat",
+      "#10subatdunyabakliyatgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000047",
     "slug": "bilimde-kadinlar-gunu",
     "title": "11 Şubat Bilimde Kadınlar ve Kız Çocukları Günü",
@@ -1153,6 +1128,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "marie curie kitabı",
       "robotik kodlama kiti",
       "teleskop başlangıç"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000148",
+    "slug": "12-subat-uluslararasi-darwin-gunu",
+    "title": "12 Şubat Uluslararası Darwin Günü",
+    "description": "Biyoloji biliminin gelişimi ve doğa kanunlarını anlama çabası günü.",
+    "content": "## 12 Şubat Uluslararası Darwin Günü Nedir?\nBiyoloji biliminin gelişimi ve doğa kanunlarını anlama çabası günü.\n\n### Tarihçesi ve Önemi\n12 Şubat Uluslararası Darwin Günü, gerek Türkiye'de gerekse uluslararası alanda Darwin Day Foundation nezdinde tanınan ve her yıl 12 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Şubat Uluslararası Darwin Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-12",
+    "month_no": 2,
+    "day_no": 12,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Darwin Day Foundation",
+    "source_url": "https://darwinday.org",
+    "hashtags": [
+      "#12Şubat",
+      "#12subatuluslararasidarwingunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000149",
+    "slug": "13-subat-dunya-radyo-gunu",
+    "title": "13 Şubat Dünya Radyo Günü",
+    "description": "Yüz yılı aşkın süredir insanları birbirine bağlayan radyo yayıncılığı günü.",
+    "content": "## 13 Şubat Dünya Radyo Günü Nedir?\nYüz yılı aşkın süredir insanları birbirine bağlayan radyo yayıncılığı günü.\n\n### Tarihçesi ve Önemi\n13 Şubat Dünya Radyo Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO (36 C/Resolution 63) nezdinde tanınan ve her yıl 13 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Şubat Dünya Radyo Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-13",
+    "month_no": 2,
+    "day_no": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "UNESCO (36 C/Resolution 63)",
+    "source_url": "https://www.unesco.org/en/days/world-radio-day",
+    "hashtags": [
+      "#13Şubat",
+      "#13subatdunyaradyogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1180,6 +1205,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000150",
+    "slug": "15-subat-uluslararasi-cocukluk-cagi-kanseri-gunu",
+    "title": "15 Şubat Uluslararası Çocukluk Çağı Kanseri Günü",
+    "description": "Kanserle savaşan küçük kahramanlara destek ve erken teşhis bilinci günü.",
+    "content": "## 15 Şubat Uluslararası Çocukluk Çağı Kanseri Günü Nedir?\nKanserle savaşan küçük kahramanlara destek ve erken teşhis bilinci günü.\n\n### Tarihçesi ve Önemi\n15 Şubat Uluslararası Çocukluk Çağı Kanseri Günü, gerek Türkiye'de gerekse uluslararası alanda Childhood Cancer International nezdinde tanınan ve her yıl 15 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Şubat Uluslararası Çocukluk Çağı Kanseri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-15",
+    "month_no": 2,
+    "day_no": 15,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Childhood Cancer International",
+    "source_url": "https://www.childhoodcancerinternational.org",
+    "hashtags": [
+      "#15Şubat",
+      "#15subatuluslararasicocuklukcagikanserigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000151",
+    "slug": "16-subat-dunya-badem-ve-kuruyemis-gunu",
+    "title": "16 Şubat Dünya Badem ve Kuruyemiş Günü",
+    "description": "Kalp dostu sağlıklı atıştırmalıkların beslenmedeki yerini kutlayan gün.",
+    "content": "## 16 Şubat Dünya Badem ve Kuruyemiş Günü Nedir?\nKalp dostu sağlıklı atıştırmalıkların beslenmedeki yerini kutlayan gün.\n\n### Tarihçesi ve Önemi\n16 Şubat Dünya Badem ve Kuruyemiş Günü, gerek Türkiye'de gerekse uluslararası alanda Healthy Nuts Observance nezdinde tanınan ve her yıl 16 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Şubat Dünya Badem ve Kuruyemiş Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-16",
+    "month_no": 2,
+    "day_no": 16,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Healthy Nuts Observance",
+    "source_url": "https://www.fao.org",
+    "hashtags": [
+      "#16Şubat",
+      "#16subatdunyabademvekuruyemisgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000049",
     "slug": "dunya-kediler-gunu",
     "title": "17 Şubat Dünya Kediler Günü",
@@ -1200,6 +1275,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kedi ödül maması",
       "otomatik kedi su pınarı",
       "kedi taşıma çantası"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000152",
+    "slug": "18-subat-dunya-pil-ve-batarya-gunu",
+    "title": "18 Şubat Dünya Pil ve Batarya Günü",
+    "description": "Modern teknolojinin enerji kaynağı piller ve atık pil geri dönüşümü günü.",
+    "content": "## 18 Şubat Dünya Pil ve Batarya Günü Nedir?\nModern teknolojinin enerji kaynağı piller ve atık pil geri dönüşümü günü.\n\n### Tarihçesi ve Önemi\n18 Şubat Dünya Pil ve Batarya Günü, gerek Türkiye'de gerekse uluslararası alanda Alessandro Volta Commemoration nezdinde tanınan ve her yıl 18 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Şubat Dünya Pil ve Batarya Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-18",
+    "month_no": 2,
+    "day_no": 18,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Alessandro Volta Commemoration",
+    "source_url": "https://www.ieee.org",
+    "hashtags": [
+      "#18Şubat",
+      "#18subatdunyapilvebataryagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000153",
+    "slug": "19-subat-dunya-balina-ve-deniz-memelileri-gunu",
+    "title": "19 Şubat Dünya Balina ve Deniz Memelileri Günü",
+    "description": "Okyanusların dev koruyucuları balinaların neslini yaşatma günü.",
+    "content": "## 19 Şubat Dünya Balina ve Deniz Memelileri Günü Nedir?\nOkyanusların dev koruyucuları balinaların neslini yaşatma günü.\n\n### Tarihçesi ve Önemi\n19 Şubat Dünya Balina ve Deniz Memelileri Günü, gerek Türkiye'de gerekse uluslararası alanda International Whaling Commission nezdinde tanınan ve her yıl 19 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Şubat Dünya Balina ve Deniz Memelileri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-19",
+    "month_no": 2,
+    "day_no": 19,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Whaling Commission",
+    "source_url": "https://iwc.int",
+    "hashtags": [
+      "#19Şubat",
+      "#19subatdunyabalinavedenizmemelilerigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1247,6 +1372,179 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000154",
+    "slug": "22-subat-dunya-dusunce-gunu",
+    "title": "22 Şubat Dünya Düşünce Günü",
+    "description": "Küresel dostluk, barış ve izcilik ideallerini kutlayan gençlik günü.",
+    "content": "## 22 Şubat Dünya Düşünce Günü Nedir?\nKüresel dostluk, barış ve izcilik ideallerini kutlayan gençlik günü.\n\n### Tarihçesi ve Önemi\n22 Şubat Dünya Düşünce Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya İzcilik Teşkilatı (WAGGGS) nezdinde tanınan ve her yıl 22 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Şubat Dünya Düşünce Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-22",
+    "month_no": 2,
+    "day_no": 22,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Dünya İzcilik Teşkilatı (WAGGGS)",
+    "source_url": "https://www.wagggs.org",
+    "hashtags": [
+      "#22Şubat",
+      "#22subatdunyadusuncegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000155",
+    "slug": "23-subat-dunya-baris-ve-karsilikli-anlayis-gunu",
+    "title": "23 Şubat Dünya Barış ve Karşılıklı Anlayış Günü",
+    "description": "Uluslararası dayanışma ve insani yardım projelerini kutlayan gün.",
+    "content": "## 23 Şubat Dünya Barış ve Karşılıklı Anlayış Günü Nedir?\nUluslararası dayanışma ve insani yardım projelerini kutlayan gün.\n\n### Tarihçesi ve Önemi\n23 Şubat Dünya Barış ve Karşılıklı Anlayış Günü, gerek Türkiye'de gerekse uluslararası alanda Rotary International nezdinde tanınan ve her yıl 23 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Şubat Dünya Barış ve Karşılıklı Anlayış Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-23",
+    "month_no": 2,
+    "day_no": 23,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Rotary International",
+    "source_url": "https://www.rotary.org",
+    "hashtags": [
+      "#23Şubat",
+      "#23subatdunyabarisvekarsiliklianlayisgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000156",
+    "slug": "24-subat-dunya-barmenler-gunu",
+    "title": "24 Şubat Dünya Barmenler Günü",
+    "description": "Gastronomi ve içecek kültürünün zanaatkarlarını onurlandıran gün.",
+    "content": "## 24 Şubat Dünya Barmenler Günü Nedir?\nGastronomi ve içecek kültürünün zanaatkarlarını onurlandıran gün.\n\n### Tarihçesi ve Önemi\n24 Şubat Dünya Barmenler Günü, gerek Türkiye'de gerekse uluslararası alanda International Bartenders Association nezdinde tanınan ve her yıl 24 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Şubat Dünya Barmenler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-24",
+    "month_no": 2,
+    "day_no": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Bartenders Association",
+    "source_url": "https://iba-world.com",
+    "hashtags": [
+      "#24Şubat",
+      "#24subatdunyabarmenlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000157",
+    "slug": "25-subat-sessizlik-ve-ic-huzur-gunu",
+    "title": "25 Şubat Sessizlik ve İç Huzur Günü",
+    "description": "Gürültüden uzaklaşıp zihinsel arınma ve dinginliğe vakit ayırma günü.",
+    "content": "## 25 Şubat Sessizlik ve İç Huzur Günü Nedir?\nGürültüden uzaklaşıp zihinsel arınma ve dinginliğe vakit ayırma günü.\n\n### Tarihçesi ve Önemi\n25 Şubat Sessizlik ve İç Huzur Günü, gerek Türkiye'de gerekse uluslararası alanda Mindfulness Observances nezdinde tanınan ve her yıl 25 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Şubat Sessizlik ve İç Huzur Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-25",
+    "month_no": 2,
+    "day_no": 25,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Mindfulness Observances",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#25Şubat",
+      "#25subatsessizlikveichuzurgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000158",
+    "slug": "26-subat-dunya-antep-fistigi-gunu",
+    "title": "26 Şubat Dünya Antep Fıstığı Günü",
+    "description": "Anadolu'nun eşsiz lezzeti ve tarımsal zenginliği Antep fıstığını kutlama günü.",
+    "content": "## 26 Şubat Dünya Antep Fıstığı Günü Nedir?\nAnadolu'nun eşsiz lezzeti ve tarımsal zenginliği Antep fıstığını kutlama günü.\n\n### Tarihçesi ve Önemi\n26 Şubat Dünya Antep Fıstığı Günü, gerek Türkiye'de gerekse uluslararası alanda Gaziantep Ticaret Borsası & TZOB nezdinde tanınan ve her yıl 26 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Şubat Dünya Antep Fıstığı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-26",
+    "month_no": 2,
+    "day_no": 26,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "source_name": "Gaziantep Ticaret Borsası & TZOB",
+    "source_url": "https://www.gtb.org.tr",
+    "hashtags": [
+      "#26Şubat",
+      "#26subatdunyaantepfistigigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000159",
+    "slug": "27-subat-dunya-sivil-toplum-kuruluslari-gunu",
+    "title": "27 Şubat Dünya Sivil Toplum Kuruluşları Günü",
+    "description": "Toplumsal fayda için gönüllü çalışan vakıf ve dernekleri takdir etme günü.",
+    "content": "## 27 Şubat Dünya Sivil Toplum Kuruluşları Günü Nedir?\nToplumsal fayda için gönüllü çalışan vakıf ve dernekleri takdir etme günü.\n\n### Tarihçesi ve Önemi\n27 Şubat Dünya Sivil Toplum Kuruluşları Günü, gerek Türkiye'de gerekse uluslararası alanda World NGO Day Initiative nezdinde tanınan ve her yıl 27 Şubat tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Şubat Dünya Sivil Toplum Kuruluşları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Şubat günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-02-27",
+    "month_no": 2,
+    "day_no": 27,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World NGO Day Initiative",
+    "source_url": "https://worldngoday.org",
+    "hashtags": [
+      "#27Şubat",
+      "#27subatdunyasiviltoplumkuruluslarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000003",
+    "slug": "sivil-savunma-gunu",
+    "title": "28 Şubat Sivil Savunma Günü",
+    "description": "Deprem, yangın ve afetlere karşı hazırlıklı olma ve sivil savunma bilincini artıran gün.",
+    "content": "## 28 Şubat Sivil Savunma Günü Nedir?\n7126 sayılı Sivil Savunma Kanunu'nun yürürlüğe girdiği 28 Şubat, afetlere karşı bilinçli toplum inşası için kutlanır.\n\n### Tarihçesi ve Önemi\n7126 sayılı Sivil Savunma Kanunu'nun yürürlüğe girdiği 28 Şubat, afetlere karşı bilinçli toplum inşası için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 28 Şubat Sivil Savunma Günü Nasıl Kutlanır?\n1. Evinizde ve iş yerinizde deprem çantanızı güncelleyin.\n2. Ailenizle afet toplanma alanınızı kontrol edin.\n3. Yangın ve tahliye tatbikatlarına katılın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Afetlere hazırlıklı olmak hayat kurtarır! 28 Şubat Sivil Savunma Günü kutlu olsun. 🚨🎒\"\n* \"28 Şubat Sivil Savunma Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #SivilSavunmaGunu #AfetBilinci #DepremeHazirlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #sivil-savunma-gunu\"",
+    "celebration_date": "2026-02-28",
+    "month_no": 2,
+    "day_no": 28,
+    "category": "Resmi",
+    "hashtags": [
+      "#SivilSavunmaGunu",
+      "#AfetBilinci",
+      "#DepremeHazirlik",
+      "#AFAD"
+    ],
+    "affiliate_keywords": [
+      "deprem acil durum çantası",
+      "el feneri şarjlı",
+      "düdük pusula çok amaçlı",
+      "ilk yardım çantası"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000052",
     "slug": "yesilay-haftasi",
     "title": "1 Mart Yeşilay Haftası",
@@ -1266,6 +1564,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıllı bileklik adımsayar",
       "spor matı yoga",
       "sağlıklı yaşam rehberi kitabı"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000160",
+    "slug": "2-mart-dunya-kitap-okuma-ve-dr-seuss-gunu",
+    "title": "2 Mart Dünya Kitap Okuma ve Dr. Seuss Günü",
+    "description": "Çocuklara ve gençlere okuma sevgisi aşılayan eğlenceli edebi gün.",
+    "content": "## 2 Mart Dünya Kitap Okuma ve Dr. Seuss Günü Nedir?\nÇocuklara ve gençlere okuma sevgisi aşılayan eğlenceli edebi gün.\n\n### Tarihçesi ve Önemi\n2 Mart Dünya Kitap Okuma ve Dr. Seuss Günü, gerek Türkiye'de gerekse uluslararası alanda National Education Association nezdinde tanınan ve her yıl 2 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Mart Dünya Kitap Okuma ve Dr. Seuss Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-02",
+    "month_no": 3,
+    "day_no": 2,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "National Education Association",
+    "source_url": "https://www.unesco.org",
+    "hashtags": [
+      "#2Mart",
+      "#2martdunyakitapokumavedrseussgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1292,6 +1615,106 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000161",
+    "slug": "4-mart-dunya-muhendislik-gunu-ve-obezite-gunu",
+    "title": "4 Mart Dünya Mühendislik Günü ve Obezite Günü",
+    "description": "Geleceği inşa eden mühendisler ve sağlıklı beden farkındalığı günü.",
+    "content": "## 4 Mart Dünya Mühendislik Günü ve Obezite Günü Nedir?\nGeleceği inşa eden mühendisler ve sağlıklı beden farkındalığı günü.\n\n### Tarihçesi ve Önemi\n4 Mart Dünya Mühendislik Günü ve Obezite Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO & DSÖ nezdinde tanınan ve her yıl 4 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Mart Dünya Mühendislik Günü ve Obezite Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-04",
+    "month_no": 3,
+    "day_no": 4,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "UNESCO & DSÖ",
+    "source_url": "https://worldengineeringday.net",
+    "hashtags": [
+      "#4Mart",
+      "#4martdunyamuhendislikgunuveobezitegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000162",
+    "slug": "5-mart-dunya-enerji-verimliligi-gunu",
+    "title": "5 Mart Dünya Enerji Verimliliği Günü",
+    "description": "Gelecek nesiller için enerjiyi tasarruflu ve akıllı kullanma günü.",
+    "content": "## 5 Mart Dünya Enerji Verimliliği Günü Nedir?\nGelecek nesiller için enerjiyi tasarruflu ve akıllı kullanma günü.\n\n### Tarihçesi ve Önemi\n5 Mart Dünya Enerji Verimliliği Günü, gerek Türkiye'de gerekse uluslararası alanda World Energy Forum nezdinde tanınan ve her yıl 5 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Mart Dünya Enerji Verimliliği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-05",
+    "month_no": 3,
+    "day_no": 5,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Energy Forum",
+    "source_url": "https://www.iea.org",
+    "hashtags": [
+      "#5Mart",
+      "#5martdunyaenerjiverimliligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000163",
+    "slug": "6-mart-dunya-masa-tenisi-gunu",
+    "title": "6 Mart Dünya Masa Tenisi Günü",
+    "description": "Dostluk ve sporu buluşturan masa tenisi oyununu kutlayan neşeli gün.",
+    "content": "## 6 Mart Dünya Masa Tenisi Günü Nedir?\nDostluk ve sporu buluşturan masa tenisi oyununu kutlayan neşeli gün.\n\n### Tarihçesi ve Önemi\n6 Mart Dünya Masa Tenisi Günü, gerek Türkiye'de gerekse uluslararası alanda ITTF Foundation nezdinde tanınan ve her yıl 6 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Mart Dünya Masa Tenisi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-06",
+    "month_no": 3,
+    "day_no": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ITTF Foundation",
+    "source_url": "https://www.ittf.com",
+    "hashtags": [
+      "#6Mart",
+      "#6martdunyamasatenisigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000164",
+    "slug": "7-mart-dunya-matematik-gunu",
+    "title": "7 Mart Dünya Matematik Günü",
+    "description": "Evrenin sırlarını çözen matematik bilimini gençlerle kutlama günü.",
+    "content": "## 7 Mart Dünya Matematik Günü Nedir?\nEvrenin sırlarını çözen matematik bilimini gençlerle kutlama günü.\n\n### Tarihçesi ve Önemi\n7 Mart Dünya Matematik Günü, gerek Türkiye'de gerekse uluslararası alanda World Maths Day nezdinde tanınan ve her yıl 7 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Mart Dünya Matematik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-07",
+    "month_no": 3,
+    "day_no": 7,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Maths Day",
+    "source_url": "https://www.worldmathsday.com",
+    "hashtags": [
+      "#7Mart",
+      "#7martdunyamatematikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000054",
     "slug": "dunya-kadinlar-gunu",
     "title": "8 Mart Dünya Kadınlar Günü",
@@ -1315,6 +1738,81 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000165",
+    "slug": "9-mart-dunya-bobrek-gunu",
+    "title": "9 Mart Dünya Böbrek Günü",
+    "description": "Böbrek sağlığı için su içme ve tuz tüketimini azaltma farkındalık günü.",
+    "content": "## 9 Mart Dünya Böbrek Günü Nedir?\nBöbrek sağlığı için su içme ve tuz tüketimini azaltma farkındalık günü.\n\n### Tarihçesi ve Önemi\n9 Mart Dünya Böbrek Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Nefroloji Derneği (ISN) nezdinde tanınan ve her yıl 9 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Mart Dünya Böbrek Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-09",
+    "month_no": 3,
+    "day_no": 9,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Nefroloji Derneği (ISN)",
+    "source_url": "https://www.worldkidneyday.org",
+    "hashtags": [
+      "#9Mart",
+      "#9martdunyabobrekgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000166",
+    "slug": "10-mart-uluslararasi-kadin-yargiclar-gunu",
+    "title": "10 Mart Uluslararası Kadın Yargıçlar Günü",
+    "description": "Adaletin tecellisinde kadın yargıçların eşit temsilini onurlandıran gün.",
+    "content": "## 10 Mart Uluslararası Kadın Yargıçlar Günü Nedir?\nAdaletin tecellisinde kadın yargıçların eşit temsilini onurlandıran gün.\n\n### Tarihçesi ve Önemi\n10 Mart Uluslararası Kadın Yargıçlar Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/75/274) nezdinde tanınan ve her yıl 10 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Mart Uluslararası Kadın Yargıçlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-10",
+    "month_no": 3,
+    "day_no": 10,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/75/274)",
+    "source_url": "https://www.un.org/en/observances/women-judges-day",
+    "hashtags": [
+      "#10Mart",
+      "#10martuluslararasikadinyargiclargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000167",
+    "slug": "11-mart-dunya-sihhi-tesisat-gunu",
+    "title": "11 Mart Dünya Sıhhi Tesisat Günü",
+    "description": "Temiz içme suyu ve hijyenik altyapının insan yaşamındaki vazgeçilmez yeri.",
+    "content": "## 11 Mart Dünya Sıhhi Tesisat Günü Nedir?\nTemiz içme suyu ve hijyenik altyapının insan yaşamındaki vazgeçilmez yeri.\n\n### Tarihçesi ve Önemi\n11 Mart Dünya Sıhhi Tesisat Günü, gerek Türkiye'de gerekse uluslararası alanda World Plumbing Council nezdinde tanınan ve her yıl 11 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Mart Dünya Sıhhi Tesisat Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-11",
+    "month_no": 3,
+    "day_no": 11,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Plumbing Council",
+    "source_url": "https://www.worldplumbing.org",
+    "hashtags": [
+      "#11Mart",
+      "#11martdunyasihhitesisatgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000055",
     "slug": "istiklal-marsinin-kabulu",
     "title": "12 Mart İstiklal Marşı'nın Kabulü",
@@ -1334,6 +1832,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "safahat özel baskı",
       "mehmet akif ersoy biyografisi",
       "türk bayrağı çerçeveli"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000168",
+    "slug": "13-mart-dunya-uyku-gunu",
+    "title": "13 Mart Dünya Uyku Günü",
+    "description": "Bağışıklık ve zihin sağlığının temeli olan derin ve kaliteli uyku günü.",
+    "content": "## 13 Mart Dünya Uyku Günü Nedir?\nBağışıklık ve zihin sağlığının temeli olan derin ve kaliteli uyku günü.\n\n### Tarihçesi ve Önemi\n13 Mart Dünya Uyku Günü, gerek Türkiye'de gerekse uluslararası alanda World Sleep Society nezdinde tanınan ve her yıl 13 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Mart Dünya Uyku Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-13",
+    "month_no": 3,
+    "day_no": 13,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Sleep Society",
+    "source_url": "https://worldsleepday.org",
+    "hashtags": [
+      "#13Mart",
+      "#13martdunyauykugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1384,6 +1907,77 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000004",
+    "slug": "dunya-tuketici-haklari-gunu",
+    "title": "15 Mart Dünya Tüketici Hakları Günü",
+    "description": "Tüketicilerin güvenlik, bilgilendirilme ve zararların tazmini haklarını savunan uluslararası gün.",
+    "content": "## 15 Mart Dünya Tüketici Hakları Günü Nedir?\n1962 yılında ABD Başkanı John F. Kennedy'nin Tüketici Hakları Bildirgesi'ni açıkladığı günün anısına kutlanır.\n\n### Tarihçesi ve Önemi\n1962 yılında ABD Başkanı John F. Kennedy'nin Tüketici Hakları Bildirgesi'ni açıkladığı günün anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 15 Mart Dünya Tüketici Hakları Günü Nasıl Kutlanır?\n1. Alışverişlerinizde fatura ve fiş almayı ihmal etmeyin.\n2. Tüketici Hakem Heyetleri'ne başvurma haklarınızı öğrenin.\n3. Yanıltıcı reklamlara karşı bilinçli olun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Bilinçli tüketici güçlü toplum demektir! 15 Mart Dünya Tüketici Hakları Günü kutlu olsun. 🛍️⚖️\"\n* \"15 Mart Dünya Tüketici Hakları Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TuketiciHaklariGunu #BilincliTuketici #HaklariniBil\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tuketici-haklari-gunu\"",
+    "celebration_date": "2026-03-15",
+    "month_no": 3,
+    "day_no": 15,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#TuketiciHaklariGunu",
+      "#BilincliTuketici",
+      "#HaklariniBil",
+      "#15Mart"
+    ],
+    "affiliate_keywords": [
+      "tüketici hukuku el kitabı",
+      "para yönetim bütçe defteri"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000169",
+    "slug": "16-mart-ogretmen-okullarinin-kurulus-gunu",
+    "title": "16 Mart Öğretmen Okullarının Kuruluş Günü",
+    "description": "Türkiye'de modern öğretmen yetiştirme geleneğinin başlangıç günü.",
+    "content": "## 16 Mart Öğretmen Okullarının Kuruluş Günü Nedir?\nTürkiye'de modern öğretmen yetiştirme geleneğinin başlangıç günü.\n\n### Tarihçesi ve Önemi\n16 Mart Öğretmen Okullarının Kuruluş Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Millî Eğitim Bakanlığı (1848) nezdinde tanınan ve her yıl 16 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Mart Öğretmen Okullarının Kuruluş Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-16",
+    "month_no": 3,
+    "day_no": 16,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "source_name": "T.C. Millî Eğitim Bakanlığı (1848)",
+    "source_url": "https://www.meb.gov.tr",
+    "hashtags": [
+      "#16Mart",
+      "#16martogretmenokullarininkurulusgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000170",
+    "slug": "17-mart-aziz-patrick-gunu",
+    "title": "17 Mart Aziz Patrick Günü",
+    "description": "İrlanda kökenli, yeşil temalı dünya çapında sevilen bahar festivali.",
+    "content": "## 17 Mart Aziz Patrick Günü Nedir?\nİrlanda kökenli, yeşil temalı dünya çapında sevilen bahar festivali.\n\n### Tarihçesi ve Önemi\n17 Mart Aziz Patrick Günü, gerek Türkiye'de gerekse uluslararası alanda St. Patrick's Festival nezdinde tanınan ve her yıl 17 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Mart Aziz Patrick Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-17",
+    "month_no": 3,
+    "day_no": 17,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "St. Patrick's Festival",
+    "source_url": "https://stpatricksfestival.ie",
+    "hashtags": [
+      "#17Mart",
+      "#17martazizpatrickgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000058",
     "slug": "canakkale-zaferi",
     "title": "18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü",
@@ -1403,6 +1997,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çanakkale tarihi kitabı",
       "mustafa kemal atatürk tablosu",
       "türk bayrağı masa üstü"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000171",
+    "slug": "19-mart-musteri-hizmetleri-ve-nezaket-gunu",
+    "title": "19 Mart Müşteri Hizmetleri ve Nezaket Günü",
+    "description": "İş hayatında empati, çözüm odaklılık ve saygılı iletişimi onurlandırma günü.",
+    "content": "## 19 Mart Müşteri Hizmetleri ve Nezaket Günü Nedir?\nİş hayatında empati, çözüm odaklılık ve saygılı iletişimi onurlandırma günü.\n\n### Tarihçesi ve Önemi\n19 Mart Müşteri Hizmetleri ve Nezaket Günü, gerek Türkiye'de gerekse uluslararası alanda Customer Service Institute nezdinde tanınan ve her yıl 19 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Mart Müşteri Hizmetleri ve Nezaket Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-19",
+    "month_no": 3,
+    "day_no": 19,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Customer Service Institute",
+    "source_url": "https://www.service-institute.org",
+    "hashtags": [
+      "#19Mart",
+      "#19martmusterihizmetlerivenezaketgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1426,6 +2045,30 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "aroma terapi uçucu yağ",
       "günlük şükür defteri",
       "renkli fincan"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000005",
+    "slug": "dunya-siir-gunu",
+    "title": "21 Mart Dünya Şiir Günü",
+    "description": "Duyguların en saf ifadesi olan şiir sanatını, şairleri ve sözcüklerin büyüsünü kutlayan UNESCO günü.",
+    "content": "## 21 Mart Dünya Şiir Günü Nedir?\nUNESCO tarafından 1999 yılında şiirin diller arası köprü kurma gücünü onurlandırmak amacıyla kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nUNESCO tarafından 1999 yılında şiirin diller arası köprü kurma gücünü onurlandırmak amacıyla kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Mart Dünya Şiir Günü Nasıl Kutlanır?\n1. En sevdiğiniz şairden bir şiir okuyup paylaşın.\n2. Kendi duygularınızı mısralara dökün.\n3. Şiir dinletilerine katılın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Şiir hayatın nefesidir. 21 Mart Dünya Şiir Günü'nde yüreğinizden şiirler eksik olmasın! 📜🖋️\"\n* \"21 Mart Dünya Şiir Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSiirGunu #SiirSokakta #NazimHikmet\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-siir-gunu\"",
+    "celebration_date": "2026-03-21",
+    "month_no": 3,
+    "day_no": 21,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#DunyaSiirGunu",
+      "#SiirSokakta",
+      "#NazimHikmet",
+      "#CemalSureya",
+      "#Siir"
+    ],
+    "affiliate_keywords": [
+      "türk şiir antolojisi",
+      "nazım hikmet şiirleri",
+      "cemal süreya sevda sözleri",
+      "dolma kalem"
     ]
   },
   {
@@ -1497,6 +2140,99 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000006",
+    "slug": "dunya-meteoroloji-gunu",
+    "title": "23 Mart Dünya Meteoroloji Günü",
+    "description": "Hava durumu tahminleri, iklim bilimi ve erken uyarı sistemlerinin hayat kurtarıcı rolünü kutlayan gün.",
+    "content": "## 23 Mart Dünya Meteoroloji Günü Nedir?\nDünya Meteoroloji Örgütü'nün (WMO) 1950'de yürürlüğe giren sözleşmesinin yıl dönümü anısına kutlanır.\n\n### Tarihçesi ve Önemi\nDünya Meteoroloji Örgütü'nün (WMO) 1950'de yürürlüğe giren sözleşmesinin yıl dönümü anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 23 Mart Dünya Meteoroloji Günü Nasıl Kutlanır?\n1. İklim değişikliğinin hava olayları üzerindeki etkilerini inceleyin.\n2. Afet erken uyarı bildirimlerini takip edin.\n3. Meteoroloji çalışanlarına teşekkür edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hava şartları ne olursa olsun kalbiniz güneşli olsun! 23 Mart Dünya Meteoroloji Günü kutlu olsun. ☀️🌧️🌈\"\n* \"23 Mart Dünya Meteoroloji Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #MeteorolojiGunu #HavaDurumu #IklimBilimi\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-meteoroloji-gunu\"",
+    "celebration_date": "2026-03-23",
+    "month_no": 3,
+    "day_no": 23,
+    "category": "Çevre & Doğa",
+    "hashtags": [
+      "#MeteorolojiGunu",
+      "#HavaDurumu",
+      "#IklimBilimi",
+      "#WMO"
+    ],
+    "affiliate_keywords": [
+      "ev tipi meteoroloji istasyonu",
+      "dijital termometre higrometre",
+      "barometre"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000172",
+    "slug": "24-mart-dunya-tuberkuloz-verem-gunu",
+    "title": "24 Mart Dünya Tüberküloz (Verem) Günü",
+    "description": "Tüberkülozla küresel mücadele ve verem basilini yenme kararlılığı günü.",
+    "content": "## 24 Mart Dünya Tüberküloz (Verem) Günü Nedir?\nTüberkülozla küresel mücadele ve verem basilini yenme kararlılığı günü.\n\n### Tarihçesi ve Önemi\n24 Mart Dünya Tüberküloz (Verem) Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya Sağlık Örgütü (WHO) nezdinde tanınan ve her yıl 24 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Mart Dünya Tüberküloz (Verem) Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-24",
+    "month_no": 3,
+    "day_no": 24,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Dünya Sağlık Örgütü (WHO)",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#24Mart",
+      "#24martdunyatuberkulozveremgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000173",
+    "slug": "25-mart-kolelik-kurbanlarini-anma-uluslararasi-gunu",
+    "title": "25 Mart Kölelik Kurbanlarını Anma Uluslararası Günü",
+    "description": "Tarihin acımasız köle ticaretinde hayatını kaybedenleri saygıyla anma günü.",
+    "content": "## 25 Mart Kölelik Kurbanlarını Anma Uluslararası Günü Nedir?\nTarihin acımasız köle ticaretinde hayatını kaybedenleri saygıyla anma günü.\n\n### Tarihçesi ve Önemi\n25 Mart Kölelik Kurbanlarını Anma Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/62/122) nezdinde tanınan ve her yıl 25 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Mart Kölelik Kurbanlarını Anma Uluslararası Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"25 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-25",
+    "month_no": 3,
+    "day_no": 25,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/62/122)",
+    "source_url": "https://www.un.org/en/observances/remembrance-transatlantic-slave-trade",
+    "hashtags": [
+      "#25Mart",
+      "#25martkolelikkurbanlarinianmauluslararasigunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000174",
+    "slug": "26-mart-dunya-mor-gunu-epilepsi-farkindaligi",
+    "title": "26 Mart Dünya Mor Günü (Epilepsi Farkındalığı)",
+    "description": "Epilepsiye karşı doğru bilgilenme ve hastaları anlama farkındalık günü.",
+    "content": "## 26 Mart Dünya Mor Günü (Epilepsi Farkındalığı) Nedir?\nEpilepsiye karşı doğru bilgilenme ve hastaları anlama farkındalık günü.\n\n### Tarihçesi ve Önemi\n26 Mart Dünya Mor Günü (Epilepsi Farkındalığı), gerek Türkiye'de gerekse uluslararası alanda Purple Day Foundation nezdinde tanınan ve her yıl 26 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Mart Dünya Mor Günü (Epilepsi Farkındalığı) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-26",
+    "month_no": 3,
+    "day_no": 26,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Purple Day Foundation",
+    "source_url": "https://www.purpleday.org",
+    "hashtags": [
+      "#26Mart",
+      "#26martdunyamorgunuepilepsifarkindaligi"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000063",
     "slug": "dunya-tiyatro-gunu",
     "title": "27 Mart Dünya Tiyatro Günü",
@@ -1517,6 +2253,128 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "shakespeare toplu eserleri",
       "dürbün tiyatro tipi",
       "sanat tarihi kitabı"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000175",
+    "slug": "28-mart-kutuphane-haftasi-kutlamalari",
+    "title": "28 Mart Kütüphane Haftası Kutlamaları",
+    "description": "Kütüphanelerin toplumların bilgi hafızasındaki yerini onurlandıran gün.",
+    "content": "## 28 Mart Kütüphane Haftası Kutlamaları Nedir?\nKütüphanelerin toplumların bilgi hafızasındaki yerini onurlandıran gün.\n\n### Tarihçesi ve Önemi\n28 Mart Kütüphane Haftası Kutlamaları, gerek Türkiye'de gerekse uluslararası alanda Türk Kütüphaneciler Derneği nezdinde tanınan ve her yıl 28 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Mart Kütüphane Haftası Kutlamaları kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-28",
+    "month_no": 3,
+    "day_no": 28,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "source_name": "Türk Kütüphaneciler Derneği",
+    "source_url": "https://www.kutuphaneci.org.tr",
+    "hashtags": [
+      "#28Mart",
+      "#28martkutuphanehaftasikutlamalari"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000176",
+    "slug": "29-mart-dunya-piyano-gunu",
+    "title": "29 Mart Dünya Piyano Günü",
+    "description": "88 tuşlu piyanonun tınılarını ve virtüözleri kutlayan müzik günü.",
+    "content": "## 29 Mart Dünya Piyano Günü Nedir?\n88 tuşlu piyanonun tınılarını ve virtüözleri kutlayan müzik günü.\n\n### Tarihçesi ve Önemi\n29 Mart Dünya Piyano Günü, gerek Türkiye'de gerekse uluslararası alanda Piano Day Initiative nezdinde tanınan ve her yıl 29 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Mart Dünya Piyano Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-29",
+    "month_no": 3,
+    "day_no": 29,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Piano Day Initiative",
+    "source_url": "https://www.pianoday.org",
+    "hashtags": [
+      "#29Mart",
+      "#29martdunyapiyanogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000177",
+    "slug": "30-mart-uluslararasi-sifir-atik-gunu",
+    "title": "30 Mart Uluslararası Sıfır Atık Günü",
+    "description": "Türkiye öncülüğünde ilan edilen, israfı önleyip atıksız yaşamı savunan BM günü.",
+    "content": "## 30 Mart Uluslararası Sıfır Atık Günü Nedir?\nTürkiye öncülüğünde ilan edilen, israfı önleyip atıksız yaşamı savunan BM günü.\n\n### Tarihçesi ve Önemi\n30 Mart Uluslararası Sıfır Atık Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/77/161 - Türkiye Girişimi) nezdinde tanınan ve her yıl 30 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Mart Uluslararası Sıfır Atık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-30",
+    "month_no": 3,
+    "day_no": 30,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/77/161 - Türkiye Girişimi)",
+    "source_url": "https://www.unep.org",
+    "hashtags": [
+      "#30Mart",
+      "#30martuluslararasisifiratikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000178",
+    "slug": "31-mart-dunya-yedekleme-gunu-world-backup-day",
+    "title": "31 Mart Dünya Yedekleme Günü (World Backup Day)",
+    "description": "Kıymetli verileri ve hatıraları kaybetmemek için veri yedekleme günü.",
+    "content": "## 31 Mart Dünya Yedekleme Günü (World Backup Day) Nedir?\nKıymetli verileri ve hatıraları kaybetmemek için veri yedekleme günü.\n\n### Tarihçesi ve Önemi\n31 Mart Dünya Yedekleme Günü (World Backup Day), gerek Türkiye'de gerekse uluslararası alanda World Backup Day Initiative nezdinde tanınan ve her yıl 31 Mart tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"31 Mart Dünya Yedekleme Günü (World Backup Day) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"31 Mart günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-03-31",
+    "month_no": 3,
+    "day_no": 31,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Backup Day Initiative",
+    "source_url": "https://www.worldbackupday.com",
+    "hashtags": [
+      "#31Mart",
+      "#31martdunyayedeklemegunuworldbackupday"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000007",
+    "slug": "dunya-saka-gunu",
+    "title": "1 Nisan Şaka Günü",
+    "description": "Tüm dünyada insanların birbirine zararsız, neşeli ve zekice şakalar yaptığı kahkaha dolu gün.",
+    "content": "## 1 Nisan Şaka Günü Nedir?\nKökeni 16. yüzyıl Fransa takvim reformuna dayanan 1 Nisan, asırlardır dünya genelinde şakalarla kutlanmaktadır.\n\n### Tarihçesi ve Önemi\nKökeni 16. yüzyıl Fransa takvim reformuna dayanan 1 Nisan, asırlardır dünya genelinde şakalarla kutlanmaktadır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Nisan Şaka Günü Nasıl Kutlanır?\n1. Arkadaşlarınıza kırıcı olmayan sevimli bir şaka yapın.\n2. Bol bol gülün ve mizahın tadını çıkarın.\n3. Size yapılan şakalara tebessümle karşılık verin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Gülmek en güzel şifadır! 1 Nisan Şaka Günü'nüz bol tebessümlü ve kahkahalı geçsin! 🎭😄\"\n* \"1 Nisan Şaka Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #1Nisan #SakaGunu #AprilFools\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-saka-gunu\"",
+    "celebration_date": "2026-04-01",
+    "month_no": 4,
+    "day_no": 1,
+    "category": "Eğlence",
+    "hashtags": [
+      "#1Nisan",
+      "#SakaGunu",
+      "#AprilFools",
+      "#Gulumse"
+    ],
+    "affiliate_keywords": [
+      "zararsız şaka malzemeleri",
+      "esprili kupa bardak",
+      "parti şaka oyunları"
     ]
   },
   {
@@ -1543,6 +2401,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000179",
+    "slug": "3-nisan-dunya-parti-gunu",
+    "title": "3 Nisan Dünya Parti Günü",
+    "description": "Dostluk, müzik ve kutlamanın birleştirici gücünü vurgulayan gün.",
+    "content": "## 3 Nisan Dünya Parti Günü Nedir?\nDostluk, müzik ve kutlamanın birleştirici gücünü vurgulayan gün.\n\n### Tarihçesi ve Önemi\n3 Nisan Dünya Parti Günü, gerek Türkiye'de gerekse uluslararası alanda World Party Day Initiative nezdinde tanınan ve her yıl 3 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Nisan Dünya Parti Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-03",
+    "month_no": 4,
+    "day_no": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Party Day Initiative",
+    "source_url": "https://worldpartyday.org",
+    "hashtags": [
+      "#3Nisan",
+      "#3nisandunyapartigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000180",
+    "slug": "4-nisan-sokak-hayvanlari-ve-mayin-bilinci-gunu",
+    "title": "4 Nisan Sokak Hayvanları ve Mayın Bilinci Günü",
+    "description": "Sokaktaki can dostlarımızı koruma ve mayın tehlikesine karşı farkındalık günü.",
+    "content": "## 4 Nisan Sokak Hayvanları ve Mayın Bilinci Günü Nedir?\nSokaktaki can dostlarımızı koruma ve mayın tehlikesine karşı farkındalık günü.\n\n### Tarihçesi ve Önemi\n4 Nisan Sokak Hayvanları ve Mayın Bilinci Günü, gerek Türkiye'de gerekse uluslararası alanda BM & Hayvan Hakları nezdinde tanınan ve her yıl 4 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Nisan Sokak Hayvanları ve Mayın Bilinci Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-04",
+    "month_no": 4,
+    "day_no": 4,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM & Hayvan Hakları",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Nisan",
+      "#4nisansokakhayvanlarivemayinbilincigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000065",
     "slug": "avukatlar-gunu",
     "title": "5 Nisan Avukatlar Günü",
@@ -1563,6 +2471,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "adalet heykeli themis",
       "dolma kalem lüks",
       "deri evrak çantası"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000181",
+    "slug": "6-nisan-kalkinma-ve-baris-icin-spor-gunu",
+    "title": "6 Nisan Kalkınma ve Barış İçin Spor Günü",
+    "description": "Sporun toplumları birleştiren ve barışı teşvik eden evrensel dili günü.",
+    "content": "## 6 Nisan Kalkınma ve Barış İçin Spor Günü Nedir?\nSporun toplumları birleştiren ve barışı teşvik eden evrensel dili günü.\n\n### Tarihçesi ve Önemi\n6 Nisan Kalkınma ve Barış İçin Spor Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/67/296) nezdinde tanınan ve her yıl 6 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Nisan Kalkınma ve Barış İçin Spor Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-06",
+    "month_no": 4,
+    "day_no": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Birleşmiş Milletler (A/RES/67/296)",
+    "source_url": "https://www.un.org/en/observances/sport-day",
+    "hashtags": [
+      "#6Nisan",
+      "#6nisankalkinmavebarisicinsporgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1589,6 +2522,174 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000182",
+    "slug": "8-nisan-uluslararasi-romanlar-gunu",
+    "title": "8 Nisan Uluslararası Romanlar Günü",
+    "description": "Roman kültürünü, müziğini ve eşit yurttaşlık haklarını kutlama günü.",
+    "content": "## 8 Nisan Uluslararası Romanlar Günü Nedir?\nRoman kültürünü, müziğini ve eşit yurttaşlık haklarını kutlama günü.\n\n### Tarihçesi ve Önemi\n8 Nisan Uluslararası Romanlar Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Roman Kongresi nezdinde tanınan ve her yıl 8 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Nisan Uluslararası Romanlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-08",
+    "month_no": 4,
+    "day_no": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Roman Kongresi",
+    "source_url": "https://www.coe.int",
+    "hashtags": [
+      "#8Nisan",
+      "#8nisanuluslararasiromanlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000183",
+    "slug": "9-nisan-mimar-sinani-anma-ve-mimarlar-gunu",
+    "title": "9 Nisan Mimar Sinan'ı Anma ve Mimarlar Günü",
+    "description": "Büyük usta Mimar Sinan'ın mimari mirasını ve estetik vizyonunu anma günü.",
+    "content": "## 9 Nisan Mimar Sinan'ı Anma ve Mimarlar Günü Nedir?\nBüyük usta Mimar Sinan'ın mimari mirasını ve estetik vizyonunu anma günü.\n\n### Tarihçesi ve Önemi\n9 Nisan Mimar Sinan'ı Anma ve Mimarlar Günü, gerek Türkiye'de gerekse uluslararası alanda TMMOB Mimarlar Odası nezdinde tanınan ve her yıl 9 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Nisan Mimar Sinan'ı Anma ve Mimarlar Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"9 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-09",
+    "month_no": 4,
+    "day_no": 9,
+    "category": "Kültür & Sanat",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "TMMOB Mimarlar Odası",
+    "source_url": "https://www.mo.org.tr",
+    "hashtags": [
+      "#9Nisan",
+      "#9nisanmimarsinanianmavemimarlargunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000008",
+    "slug": "polis-teskilati-kurulus-gunu",
+    "title": "10 Nisan Türk Polis Teşkilatı Kuruluş Günü",
+    "description": "Huzur, güvenlik ve asayişimizin teminatı olan Türk Polis Teşkilatı'nın kuruluşunu kutlayan gün.",
+    "content": "## 10 Nisan Türk Polis Teşkilatı Kuruluş Günü Nedir?\n10 Nisan 1845'te kurulan Türk Polis Teşkilatı, milletimizin can ve mal emniyetini sağlamak için görev yapmaktadır.\n\n### Tarihçesi ve Önemi\n10 Nisan 1845'te kurulan Türk Polis Teşkilatı, milletimizin can ve mal emniyetini sağlamak için görev yapmaktadır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 10 Nisan Türk Polis Teşkilatı Kuruluş Günü Nasıl Kutlanır?\n1. Görev başındaki polis memurlarına kolaylıklar dileyin.\n2. Şehit polislerimizi dualarla anın.\n3. Trafik ve asayiş kurallarına uyun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Huzurumuzun ve güvenliğimizin teminatı kahraman polislerimizin 10 Nisan Polis Haftası kutlu olsun! 👮‍♂️🇹🇷\"\n* \"10 Nisan Türk Polis Teşkilatı Kuruluş Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #PolisHaftasi #10Nisan #TurkPolisTeskilati\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #polis-teskilati-kurulus-gunu\"",
+    "celebration_date": "2026-04-10",
+    "month_no": 4,
+    "day_no": 10,
+    "category": "Mesleki",
+    "hashtags": [
+      "#PolisHaftasi",
+      "#10Nisan",
+      "#TurkPolisTeskilati",
+      "#PolisimizinYanindayiz"
+    ],
+    "affiliate_keywords": [
+      "polis temalı hediye kupa",
+      "taktik fener",
+      "deri polis cüzdan rozet"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000184",
+    "slug": "11-nisan-dunya-parkinson-gunu",
+    "title": "11 Nisan Dünya Parkinson Günü",
+    "description": "Parkinson hastalığında erken teşhis ve hasta yakınlarına destek günü.",
+    "content": "## 11 Nisan Dünya Parkinson Günü Nedir?\nParkinson hastalığında erken teşhis ve hasta yakınlarına destek günü.\n\n### Tarihçesi ve Önemi\n11 Nisan Dünya Parkinson Günü, gerek Türkiye'de gerekse uluslararası alanda European Parkinson's Disease Association nezdinde tanınan ve her yıl 11 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Nisan Dünya Parkinson Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-11",
+    "month_no": 4,
+    "day_no": 11,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "European Parkinson's Disease Association",
+    "source_url": "https://www.epda.eu.com",
+    "hashtags": [
+      "#11Nisan",
+      "#11nisandunyaparkinsongunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000185",
+    "slug": "12-nisan-uluslararasi-insanli-uzay-ucusu-gunu",
+    "title": "12 Nisan Uluslararası İnsanlı Uzay Uçuşu Günü",
+    "description": "Yuri Gagarin'in uzaya çıkışıyla başlayan insanlığın uzay serüveni günü.",
+    "content": "## 12 Nisan Uluslararası İnsanlı Uzay Uçuşu Günü Nedir?\nYuri Gagarin'in uzaya çıkışıyla başlayan insanlığın uzay serüveni günü.\n\n### Tarihçesi ve Önemi\n12 Nisan Uluslararası İnsanlı Uzay Uçuşu Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/65/271) nezdinde tanınan ve her yıl 12 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Nisan Uluslararası İnsanlı Uzay Uçuşu Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-12",
+    "month_no": 4,
+    "day_no": 12,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Birleşmiş Milletler (A/RES/65/271)",
+    "source_url": "https://www.un.org/en/observances/human-spaceflight-day",
+    "hashtags": [
+      "#12Nisan",
+      "#12nisanuluslararasiinsanliuzayucusugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000186",
+    "slug": "13-nisan-scrabble-ve-kelime-oyunlari-gunu",
+    "title": "13 Nisan Scrabble ve Kelime Oyunları Günü",
+    "description": "Zihinsel zenginlik ve kelime dağarcığını geliştiren masa oyunları günü.",
+    "content": "## 13 Nisan Scrabble ve Kelime Oyunları Günü Nedir?\nZihinsel zenginlik ve kelime dağarcığını geliştiren masa oyunları günü.\n\n### Tarihçesi ve Önemi\n13 Nisan Scrabble ve Kelime Oyunları Günü, gerek Türkiye'de gerekse uluslararası alanda Scrabble Day Association nezdinde tanınan ve her yıl 13 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Nisan Scrabble ve Kelime Oyunları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-13",
+    "month_no": 4,
+    "day_no": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Scrabble Day Association",
+    "source_url": "https://www.scrabble.com",
+    "hashtags": [
+      "#13Nisan",
+      "#13nisanscrabblevekelimeoyunlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000187",
+    "slug": "14-nisan-dunya-cagas-hastaligi-gunu",
+    "title": "14 Nisan Dünya Çagas Hastalığı Günü",
+    "description": "İhmal edilmiş tropikal hastalıklara karşı küresel farkındalık günü.",
+    "content": "## 14 Nisan Dünya Çagas Hastalığı Günü Nedir?\nİhmal edilmiş tropikal hastalıklara karşı küresel farkındalık günü.\n\n### Tarihçesi ve Önemi\n14 Nisan Dünya Çagas Hastalığı Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya Sağlık Örgütü (WHO) nezdinde tanınan ve her yıl 14 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Nisan Dünya Çagas Hastalığı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-14",
+    "month_no": 4,
+    "day_no": 14,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Dünya Sağlık Örgütü (WHO)",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#14Nisan",
+      "#14nisandunyacagashastaligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000067",
     "slug": "dunya-sanat-gunu",
     "title": "15 Nisan Dünya Sanat Günü",
@@ -1609,6 +2710,156 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "resim şövalesi",
       "tuval seti",
       "eskiz defteri kaliteli"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000188",
+    "slug": "16-nisan-dunya-ses-gunu",
+    "title": "16 Nisan Dünya Ses Günü",
+    "description": "Ses tellerini koruma ve iletişimde sesin büyüleyici gücünü anlama günü.",
+    "content": "## 16 Nisan Dünya Ses Günü Nedir?\nSes tellerini koruma ve iletişimde sesin büyüleyici gücünü anlama günü.\n\n### Tarihçesi ve Önemi\n16 Nisan Dünya Ses Günü, gerek Türkiye'de gerekse uluslararası alanda World Voice Day Committee nezdinde tanınan ve her yıl 16 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Nisan Dünya Ses Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-16",
+    "month_no": 4,
+    "day_no": 16,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Voice Day Committee",
+    "source_url": "https://world-voice-day.org",
+    "hashtags": [
+      "#16Nisan",
+      "#16nisandunyasesgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000189",
+    "slug": "17-nisan-dunya-hemofili-gunu",
+    "title": "17 Nisan Dünya Hemofili Günü",
+    "description": "Kalıtsal kanama bozukluklarıyla yaşayan hastalara tıbbi erişim günü.",
+    "content": "## 17 Nisan Dünya Hemofili Günü Nedir?\nKalıtsal kanama bozukluklarıyla yaşayan hastalara tıbbi erişim günü.\n\n### Tarihçesi ve Önemi\n17 Nisan Dünya Hemofili Günü, gerek Türkiye'de gerekse uluslararası alanda World Federation of Hemophilia nezdinde tanınan ve her yıl 17 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Nisan Dünya Hemofili Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-17",
+    "month_no": 4,
+    "day_no": 17,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Federation of Hemophilia",
+    "source_url": "https://wfh.org/world-hemophilia-day",
+    "hashtags": [
+      "#17Nisan",
+      "#17nisandunyahemofiligunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000190",
+    "slug": "18-nisan-dunya-anitlar-ve-sitler-gunu",
+    "title": "18 Nisan Dünya Anıtlar ve Sitler Günü",
+    "description": "Tarihi eserleri, antik kentleri ve kültürel miras alanlarını koruma günü.",
+    "content": "## 18 Nisan Dünya Anıtlar ve Sitler Günü Nedir?\nTarihi eserleri, antik kentleri ve kültürel miras alanlarını koruma günü.\n\n### Tarihçesi ve Önemi\n18 Nisan Dünya Anıtlar ve Sitler Günü, gerek Türkiye'de gerekse uluslararası alanda ICOMOS & UNESCO nezdinde tanınan ve her yıl 18 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Nisan Dünya Anıtlar ve Sitler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-18",
+    "month_no": 4,
+    "day_no": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ICOMOS & UNESCO",
+    "source_url": "https://www.icomos.org",
+    "hashtags": [
+      "#18Nisan",
+      "#18nisandunyaanitlarvesitlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000191",
+    "slug": "19-nisan-bisiklet-ve-cevre-dostu-ulasim-gunu",
+    "title": "19 Nisan Bisiklet ve Çevre Dostu Ulaşım Günü",
+    "description": "Sıfır emisyonlu, sağlıklı ve özgür şehir ulaşımı için bisiklet günü.",
+    "content": "## 19 Nisan Bisiklet ve Çevre Dostu Ulaşım Günü Nedir?\nSıfır emisyonlu, sağlıklı ve özgür şehir ulaşımı için bisiklet günü.\n\n### Tarihçesi ve Önemi\n19 Nisan Bisiklet ve Çevre Dostu Ulaşım Günü, gerek Türkiye'de gerekse uluslararası alanda Bicycle Day Observances nezdinde tanınan ve her yıl 19 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Nisan Bisiklet ve Çevre Dostu Ulaşım Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-19",
+    "month_no": 4,
+    "day_no": 19,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Bicycle Day Observances",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Nisan",
+      "#19nisanbisikletvecevredostuulasimgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000192",
+    "slug": "20-nisan-birlesmis-milletler-cince-gunu",
+    "title": "20 Nisan Birleşmiş Milletler Çince Günü",
+    "description": "Çin alfabesi ve kültürel zenginliğin dünya diplomasisindeki yeri günü.",
+    "content": "## 20 Nisan Birleşmiş Milletler Çince Günü Nedir?\nÇin alfabesi ve kültürel zenginliğin dünya diplomasisindeki yeri günü.\n\n### Tarihçesi ve Önemi\n20 Nisan Birleşmiş Milletler Çince Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler nezdinde tanınan ve her yıl 20 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Nisan Birleşmiş Milletler Çince Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-20",
+    "month_no": 4,
+    "day_no": 20,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Birleşmiş Milletler",
+    "source_url": "https://www.un.org/zh/observances/chinese-language-day",
+    "hashtags": [
+      "#20Nisan",
+      "#20nisanbirlesmismilletlercincegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000193",
+    "slug": "21-nisan-dunya-yaraticilik-ve-yenilikcilik-gunu",
+    "title": "21 Nisan Dünya Yaratıcılık ve Yenilikçilik Günü",
+    "description": "Problem çözmede inovatif fikirlerin ve yaratıcı zekanın önemi günü.",
+    "content": "## 21 Nisan Dünya Yaratıcılık ve Yenilikçilik Günü Nedir?\nProblem çözmede inovatif fikirlerin ve yaratıcı zekanın önemi günü.\n\n### Tarihçesi ve Önemi\n21 Nisan Dünya Yaratıcılık ve Yenilikçilik Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/71/284) nezdinde tanınan ve her yıl 21 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"21 Nisan Dünya Yaratıcılık ve Yenilikçilik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"21 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-21",
+    "month_no": 4,
+    "day_no": 21,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Birleşmiş Milletler (A/RES/71/284)",
+    "source_url": "https://www.un.org/en/observances/creativity-and-innovation-day",
+    "hashtags": [
+      "#21Nisan",
+      "#21nisandunyayaraticilikveyenilikcilikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -1680,6 +2931,128 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000194",
+    "slug": "24-nisan-baris-icin-cok-taraflilik-ve-diplomasi-gunu",
+    "title": "24 Nisan Barış İçin Çok Taraflılık ve Diplomasi Günü",
+    "description": "Uluslararası uyuşmazlıkların barışçıl diplomasiyle çözülmesi günü.",
+    "content": "## 24 Nisan Barış İçin Çok Taraflılık ve Diplomasi Günü Nedir?\nUluslararası uyuşmazlıkların barışçıl diplomasiyle çözülmesi günü.\n\n### Tarihçesi ve Önemi\n24 Nisan Barış İçin Çok Taraflılık ve Diplomasi Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/73/127) nezdinde tanınan ve her yıl 24 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Nisan Barış İçin Çok Taraflılık ve Diplomasi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-24",
+    "month_no": 4,
+    "day_no": 24,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/73/127)",
+    "source_url": "https://www.un.org/en/observances/multilateralism-for-peace-day",
+    "hashtags": [
+      "#24Nisan",
+      "#24nisanbarisicincoktaraflilikvediplomasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000195",
+    "slug": "25-nisan-dunya-sitma-gunu-ve-istatistik-gunu",
+    "title": "25 Nisan Dünya Sıtma Günü ve İstatistik Günü",
+    "description": "Sıtma hastalığını yeryüzünden silme ve veri temelli sağlık politikaları günü.",
+    "content": "## 25 Nisan Dünya Sıtma Günü ve İstatistik Günü Nedir?\nSıtma hastalığını yeryüzünden silme ve veri temelli sağlık politikaları günü.\n\n### Tarihçesi ve Önemi\n25 Nisan Dünya Sıtma Günü ve İstatistik Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya Sağlık Örgütü (WHO) nezdinde tanınan ve her yıl 25 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Nisan Dünya Sıtma Günü ve İstatistik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-25",
+    "month_no": 4,
+    "day_no": 25,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Dünya Sağlık Örgütü (WHO)",
+    "source_url": "https://www.who.int/campaigns/world-malaria-day",
+    "hashtags": [
+      "#25Nisan",
+      "#25nisandunyasitmagunuveistatistikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000009",
+    "slug": "dunya-pilotlar-gunu",
+    "title": "26 Nisan Dünya Pilotlar Günü",
+    "description": "Türkiye'nin 1 numaralı pilot brövesi sahibi Fesa Evrensev'in anısına tüm dünyada kutlanan havacılık günü.",
+    "content": "## 26 Nisan Dünya Pilotlar Günü Nedir?\nTürkiye Havayolu Pilotları Derneği'nin (TALPA) önerisiyle IFALPA tarafından Fesa Evrensev'in ilk uçuş günü kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nTürkiye Havayolu Pilotları Derneği'nin (TALPA) önerisiyle IFALPA tarafından Fesa Evrensev'in ilk uçuş günü kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 26 Nisan Dünya Pilotlar Günü Nasıl Kutlanır?\n1. Gökyüzünün cesur kaptanlarına teşekkür edin.\n2. Havacılık müzelerini gezin.\n3. Uçuş simülasyonu deneyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İstikbal göklerdedir! Kanatlarıyla dünyayı birbirine bağlayan tüm pilotlarımızın günü kutlu olsun! ✈️👨‍✈️👩‍✈️\"\n* \"26 Nisan Dünya Pilotlar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaPilotlarGunu #WorldPilotsDay #Goklerdeyiz\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-pilotlar-gunu\"",
+    "celebration_date": "2026-04-26",
+    "month_no": 4,
+    "day_no": 26,
+    "category": "Mesleki",
+    "hashtags": [
+      "#DunyaPilotlarGunu",
+      "#WorldPilotsDay",
+      "#Goklerdeyiz",
+      "#Havacilik"
+    ],
+    "affiliate_keywords": [
+      "uçak maketi metal",
+      "pilot güneş gözlüğü aviator",
+      "havacılık temalı saat"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000196",
+    "slug": "27-nisan-dunya-tasarim-gunu",
+    "title": "27 Nisan Dünya Tasarım Günü",
+    "description": "Hayatı güzelleştiren ve kolaylaştıran grafik ve endüstriyel tasarım günü.",
+    "content": "## 27 Nisan Dünya Tasarım Günü Nedir?\nHayatı güzelleştiren ve kolaylaştıran grafik ve endüstriyel tasarım günü.\n\n### Tarihçesi ve Önemi\n27 Nisan Dünya Tasarım Günü, gerek Türkiye'de gerekse uluslararası alanda International Council of Design nezdinde tanınan ve her yıl 27 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Nisan Dünya Tasarım Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-27",
+    "month_no": 4,
+    "day_no": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Council of Design",
+    "source_url": "https://www.theicod.org",
+    "hashtags": [
+      "#27Nisan",
+      "#27nisandunyatasarimgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000197",
+    "slug": "28-nisan-dunya-is-sagligi-ve-guvenligi-gunu",
+    "title": "28 Nisan Dünya İş Sağlığı ve Güvenliği Günü",
+    "description": "İş kazalarını ve meslek hastalıklarını önleme, güvenli çalışma ortamı günü.",
+    "content": "## 28 Nisan Dünya İş Sağlığı ve Güvenliği Günü Nedir?\nİş kazalarını ve meslek hastalıklarını önleme, güvenli çalışma ortamı günü.\n\n### Tarihçesi ve Önemi\n28 Nisan Dünya İş Sağlığı ve Güvenliği Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Çalışma Örgütü (ILO) nezdinde tanınan ve her yıl 28 Nisan tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Nisan Dünya İş Sağlığı ve Güvenliği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Nisan günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-04-28",
+    "month_no": 4,
+    "day_no": 28,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Uluslararası Çalışma Örgütü (ILO)",
+    "source_url": "https://www.ilo.org/safeday",
+    "hashtags": [
+      "#28Nisan",
+      "#28nisandunyaissagligiveguvenligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000071",
     "slug": "dunya-dans-gunu",
     "title": "29 Nisan Dünya Dans Günü",
@@ -1703,6 +3076,28 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000010",
+    "slug": "uluslararasi-caz-gunu",
+    "title": "30 Nisan Uluslararası Caz Günü",
+    "description": "Özgürlüğün, doğaçlamanın ve diyalogun müziği olan cazı onurlandıran UNESCO günü.",
+    "content": "## 30 Nisan Uluslararası Caz Günü Nedir?\nUNESCO iyi niyet elçisi caz efsanesi Herbie Hancock öncülüğünde 2011 yılında ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nUNESCO iyi niyet elçisi caz efsanesi Herbie Hancock öncülüğünde 2011 yılında ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Nisan Uluslararası Caz Günü Nasıl Kutlanır?\n1. Miles Davis, Louis Armstrong veya Türk caz sanatçılarını dinleyin.\n2. Bir caz kulübünü ziyaret edin.\n3. Plak dinleme gecesi yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Caz özgürlüğün sesidir. 30 Nisan Uluslararası Caz Günü'nde notaların büyüsüne kapılın! 🎷🎺🎶\"\n* \"30 Nisan Uluslararası Caz Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #CazGunu #JazzDay #MuzikOzgurluktur\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-caz-gunu\"",
+    "celebration_date": "2026-04-30",
+    "month_no": 4,
+    "day_no": 30,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#CazGunu",
+      "#JazzDay",
+      "#MuzikOzgurluktur",
+      "#Jazz"
+    ],
+    "affiliate_keywords": [
+      "plak çalar pikap bluetooth",
+      "caz plakları efsane",
+      "saksafon başlangıç"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000072",
     "slug": "emek-ve-dayanisma-gunu",
     "title": "1 Mayıs Emek ve Dayanışma Günü",
@@ -1722,6 +3117,221 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "iş güvenliği ayakkabısı",
       "termos yemek kabı",
       "iş tulumu"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000198",
+    "slug": "2-mayis-dunya-ton-baligi-gunu",
+    "title": "2 Mayıs Dünya Ton Balığı Günü",
+    "description": "Aşırı avlanmaya karşı sürdürülebilir balıkçılık ve okyanus dengesi günü.",
+    "content": "## 2 Mayıs Dünya Ton Balığı Günü Nedir?\nAşırı avlanmaya karşı sürdürülebilir balıkçılık ve okyanus dengesi günü.\n\n### Tarihçesi ve Önemi\n2 Mayıs Dünya Ton Balığı Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler (A/RES/71/124) nezdinde tanınan ve her yıl 2 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Mayıs Dünya Ton Balığı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-02",
+    "month_no": 5,
+    "day_no": 2,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/71/124)",
+    "source_url": "https://www.un.org/en/observances/tuna-day",
+    "hashtags": [
+      "#2Mayıs",
+      "#2mayisdunyatonbaligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000011",
+    "slug": "basin-ozgurlugu-gunu",
+    "title": "3 Mayıs Dünya Basın Özgürlüğü Günü",
+    "description": "Bağımsız, sansürsüz ve özgür basının demokrasilerdeki hayati önemini hatırlatan BM günü.",
+    "content": "## 3 Mayıs Dünya Basın Özgürlüğü Günü Nedir?\n1993 yılında BM Genel Kurulu tarafından hükümetlere basın özgürlüğünü koruma taahhüdünü hatırlatmak için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\n1993 yılında BM Genel Kurulu tarafından hükümetlere basın özgürlüğünü koruma taahhüdünü hatırlatmak için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 3 Mayıs Dünya Basın Özgürlüğü Günü Nasıl Kutlanır?\n1. Bağımsız gazetecileri ve medya kuruluşlarını destekleyin.\n2. Dezenformasyona karşı doğru haberi teyit edin.\n3. Sansüre karşı düşünce özgürlüğünü savunun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Özgür basın halkın nefes borusudur. 3 Mayıs Dünya Basın Özgürlüğü Günü kutlu olsun! 📰✍️\"\n* \"3 Mayıs Dünya Basın Özgürlüğü Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #BasinOzgurluguGunu #WorldPressFreedomDay #OzgurBasin\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #basin-ozgurlugu-gunu\"",
+    "celebration_date": "2026-05-03",
+    "month_no": 5,
+    "day_no": 3,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#BasinOzgurluguGunu",
+      "#WorldPressFreedomDay",
+      "#OzgurBasin",
+      "#HaberHakki"
+    ],
+    "affiliate_keywords": [
+      "gazetecilik etik kitapları",
+      "basın tarihi araştırmaları"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000199",
+    "slug": "4-mayis-dunya-itfaiyeciler-gunu-ve-star-wars-gunu",
+    "title": "4 Mayıs Dünya İtfaiyeciler Günü ve Star Wars Günü",
+    "description": "Alevlerle mücadele eden cesur itfaiyeciler ve popüler bilimkurgu günü.",
+    "content": "## 4 Mayıs Dünya İtfaiyeciler Günü ve Star Wars Günü Nedir?\nAlevlerle mücadele eden cesur itfaiyeciler ve popüler bilimkurgu günü.\n\n### Tarihçesi ve Önemi\n4 Mayıs Dünya İtfaiyeciler Günü ve Star Wars Günü, gerek Türkiye'de gerekse uluslararası alanda Firefighters Association nezdinde tanınan ve her yıl 4 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Mayıs Dünya İtfaiyeciler Günü ve Star Wars Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-04",
+    "month_no": 5,
+    "day_no": 4,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Firefighters Association",
+    "source_url": "https://www.firefightersday.org",
+    "hashtags": [
+      "#4Mayıs",
+      "#4mayisdunyaitfaiyecilergunuvestarwarsgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000012",
+    "slug": "hidirellez",
+    "title": "5 Mayıs Hıdırellez Kültür Bayramı",
+    "description": "Hızır ve İlyas peygamberlerin yeryüzünde buluştuğu gün olarak kabul edilen köklü bahar bayramı.",
+    "content": "## 5 Mayıs Hıdırellez Kültür Bayramı Nedir?\nUNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'nde yer alan Hıdırellez, baharın ve bereketin müjdecisidir.\n\n### Tarihçesi ve Önemi\nUNESCO İnsanlığın Somut Olmayan Kültürel Mirası Temsili Listesi'nde yer alan Hıdırellez, baharın ve bereketin müjdecisidir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Mayıs Hıdırellez Kültür Bayramı Nasıl Kutlanır?\n1. Gül ağacının altına dileklerinizi çizin veya asın.\n2. Ateşin üzerinden atlayarak yeni başlangıçlara niyet edin.\n3. Doğada sevdiklerinizle piknik yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hızır yoldaşınız, dilekleriniz gerçek olsun! Hıdırellez Bayramınız bereket ve sağlık getirsin. 🌾🔥🌸\"\n* \"5 Mayıs Hıdırellez Kültür Bayramı kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #Hidirellez #BaharBayrami #DileklerKabulOlsun\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #hidirellez\"",
+    "celebration_date": "2026-05-05",
+    "month_no": 5,
+    "day_no": 5,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#Hidirellez",
+      "#BaharBayrami",
+      "#DileklerKabulOlsun",
+      "#5Mayis"
+    ],
+    "affiliate_keywords": [
+      "tütsü seti doğal",
+      "dilek feneri renkli",
+      "hasır piknik sepeti"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000200",
+    "slug": "6-mayis-uluslararasi-diyet-yapmama-gunu",
+    "title": "6 Mayıs Uluslararası Diyet Yapmama Günü",
+    "description": "Kalıplaşmış beden algılarına meydan okuma ve beden olumlama günü.",
+    "content": "## 6 Mayıs Uluslararası Diyet Yapmama Günü Nedir?\nKalıplaşmış beden algılarına meydan okuma ve beden olumlama günü.\n\n### Tarihçesi ve Önemi\n6 Mayıs Uluslararası Diyet Yapmama Günü, gerek Türkiye'de gerekse uluslararası alanda Body Acceptance Network nezdinde tanınan ve her yıl 6 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Mayıs Uluslararası Diyet Yapmama Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-06",
+    "month_no": 5,
+    "day_no": 6,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Body Acceptance Network",
+    "source_url": "https://www.who.int",
+    "hashtags": [
+      "#6Mayıs",
+      "#6mayisuluslararasidiyetyapmamagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000201",
+    "slug": "7-mayis-dunya-astim-gunu",
+    "title": "7 Mayıs Dünya Astım Günü",
+    "description": "Astım hastalarının yaşam kalitesini artırma ve temiz hava farkındalığı günü.",
+    "content": "## 7 Mayıs Dünya Astım Günü Nedir?\nAstım hastalarının yaşam kalitesini artırma ve temiz hava farkındalığı günü.\n\n### Tarihçesi ve Önemi\n7 Mayıs Dünya Astım Günü, gerek Türkiye'de gerekse uluslararası alanda GINA Küresel Astım Girişimi nezdinde tanınan ve her yıl 7 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Mayıs Dünya Astım Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-07",
+    "month_no": 5,
+    "day_no": 7,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "GINA Küresel Astım Girişimi",
+    "source_url": "https://ginasthma.org",
+    "hashtags": [
+      "#7Mayıs",
+      "#7mayisdunyaastimgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000202",
+    "slug": "8-mayis-dunya-kizilay-ve-kizilhac-gunu",
+    "title": "8 Mayıs Dünya Kızılay ve Kızılhaç Günü",
+    "description": "Savaşta ve afette yardıma koşan insani yardım kahramanlarını onurlandıran gün.",
+    "content": "## 8 Mayıs Dünya Kızılay ve Kızılhaç Günü Nedir?\nSavaşta ve afette yardıma koşan insani yardım kahramanlarını onurlandıran gün.\n\n### Tarihçesi ve Önemi\n8 Mayıs Dünya Kızılay ve Kızılhaç Günü, gerek Türkiye'de gerekse uluslararası alanda IFRC & Türk Kızılay nezdinde tanınan ve her yıl 8 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Mayıs Dünya Kızılay ve Kızılhaç Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-08",
+    "month_no": 5,
+    "day_no": 8,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "IFRC & Türk Kızılay",
+    "source_url": "https://www.kizilay.org.tr",
+    "hashtags": [
+      "#8Mayıs",
+      "#8mayisdunyakizilayvekizilhacgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000203",
+    "slug": "9-mayis-avrupa-gunu",
+    "title": "9 Mayıs Avrupa Günü",
+    "description": "Avrupa kıtasında barış ve siyasi birliğin temellerinin atıldığı gün.",
+    "content": "## 9 Mayıs Avrupa Günü Nedir?\nAvrupa kıtasında barış ve siyasi birliğin temellerinin atıldığı gün.\n\n### Tarihçesi ve Önemi\n9 Mayıs Avrupa Günü, gerek Türkiye'de gerekse uluslararası alanda Avrupa Birliği (Schuman Bildirisi) nezdinde tanınan ve her yıl 9 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Mayıs Avrupa Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-09",
+    "month_no": 5,
+    "day_no": 9,
+    "category": "Uluslararası",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Avrupa Birliği (Schuman Bildirisi)",
+    "source_url": "https://european-union.europa.eu",
+    "hashtags": [
+      "#9Mayıs",
+      "#9mayisavrupagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000013",
+    "slug": "dunya-psikologlar-gunu",
+    "title": "10 Mayıs Dünya Psikologlar Günü",
+    "description": "İnsan ruhunu anlamak, iyileştirmek ve toplumsal esenliği sağlamak için çalışan psikologlara adanan gün.",
+    "content": "## 10 Mayıs Dünya Psikologlar Günü Nedir?\nRuh sağlığı alanında çalışan psikologların mesleki dayanışmasını güçlendirmek amacıyla kutlanır.\n\n### Tarihçesi ve Önemi\nRuh sağlığı alanında çalışan psikologların mesleki dayanışmasını güçlendirmek amacıyla kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 10 Mayıs Dünya Psikologlar Günü Nasıl Kutlanır?\n1. Psikolog dostlarınıza tebrik mesajı iletin.\n2. Psikolojik sağlığın önemini çevrenize anlatın.\n3. Kendinize şefkat göstermeyi öğrenin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Ruhumuza ayna tutan, karanlık yollarımızı aydınlatan tüm psikologlarımızın günü kutlu olsun! 🧠🛋️\"\n* \"10 Mayıs Dünya Psikologlar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #PsikologlarGunu #10Mayis #RuhSagligi\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-psikologlar-gunu\"",
+    "celebration_date": "2026-05-10",
+    "month_no": 5,
+    "day_no": 10,
+    "category": "Mesleki",
+    "hashtags": [
+      "#PsikologlarGunu",
+      "#10Mayis",
+      "#RuhSagligi",
+      "#Psikoloji"
+    ],
+    "affiliate_keywords": [
+      "psikoloji temalı kupa",
+      "terapi not defteri",
+      "freud biblo masa üstü"
     ]
   },
   {
@@ -1748,6 +3358,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000204",
+    "slug": "11-mayis-dunya-gocmen-kuslar-gunu",
+    "title": "11 Mayıs Dünya Göçmen Kuşlar Günü",
+    "description": "Kıtalararası göç eden kuşların güvenli rotalarını koruma günü.",
+    "content": "## 11 Mayıs Dünya Göçmen Kuşlar Günü Nedir?\nKıtalararası göç eden kuşların güvenli rotalarını koruma günü.\n\n### Tarihçesi ve Önemi\n11 Mayıs Dünya Göçmen Kuşlar Günü, gerek Türkiye'de gerekse uluslararası alanda UNEP & CMS nezdinde tanınan ve her yıl 11 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Mayıs Dünya Göçmen Kuşlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-11",
+    "month_no": 5,
+    "day_no": 11,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "UNEP & CMS",
+    "source_url": "https://www.worldmigratorybirdday.org",
+    "hashtags": [
+      "#11Mayıs",
+      "#11mayisdunyagocmenkuslargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000074",
     "slug": "hemsireler-gunu",
     "title": "12 Mayıs Hemşireler Günü",
@@ -1771,6 +3406,53 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000205",
+    "slug": "13-mayis-turk-dil-bayrami",
+    "title": "13 Mayıs Türk Dil Bayramı",
+    "description": "Türkçenin resmi devlet dili ilan edilişinin onurunu yaşatan bayram günü.",
+    "content": "## 13 Mayıs Türk Dil Bayramı Nedir?\nTürkçenin resmi devlet dili ilan edilişinin onurunu yaşatan bayram günü.\n\n### Tarihçesi ve Önemi\n13 Mayıs Türk Dil Bayramı, gerek Türkiye'de gerekse uluslararası alanda Karamanoğlu Mehmet Bey Fermanı (1277) nezdinde tanınan ve her yıl 13 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Mayıs Türk Dil Bayramı kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-13",
+    "month_no": 5,
+    "day_no": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "source_name": "Karamanoğlu Mehmet Bey Fermanı (1277)",
+    "source_url": "https://www.tdk.gov.tr",
+    "hashtags": [
+      "#13Mayıs",
+      "#13mayisturkdilbayrami"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000014",
+    "slug": "eczacilik-gunu",
+    "title": "14 Mayıs Eczacılık Günü",
+    "description": "Türkiye'de bilimsel eczacılık eğitiminin başladığı günün anısına sağlık danışmanımız eczacılara adanan gün.",
+    "content": "## 14 Mayıs Eczacılık Günü Nedir?\n14 Mayıs 1839'da Mekteb-i Tıbbiye-i Adliye-i Şahane bünyesinde ilk eczacı sınıfının açılmasıyla bilimsel eczacılık başlamıştır.\n\n### Tarihçesi ve Önemi\n14 Mayıs 1839'da Mekteb-i Tıbbiye-i Adliye-i Şahane bünyesinde ilk eczacı sınıfının açılmasıyla bilimsel eczacılık başlamıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 14 Mayıs Eczacılık Günü Nasıl Kutlanır?\n1. Mahallenizin eczacısına teşekkür edin.\n2. İlaçları mutlaka hekim ve eczacı kontrolünde kullanın.\n3. Akılcı ilaç kullanımına özen gösterin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sağlığımızın en yakın danışmanı olan tüm fedakar eczacılarımızın 14 Mayıs Eczacılık Günü kutlu olsun! 💊⚕️\"\n* \"14 Mayıs Eczacılık Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #EczacilikGunu #14Mayis #EczacimizaTesekkurler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #eczacilik-gunu\"",
+    "celebration_date": "2026-05-14",
+    "month_no": 5,
+    "day_no": 14,
+    "category": "Sağlık",
+    "hashtags": [
+      "#EczacilikGunu",
+      "#14Mayis",
+      "#EczacimizaTesekkurler",
+      "#Saglik"
+    ],
+    "affiliate_keywords": [
+      "eczacı hediye seti kupa",
+      "havan biblo seramik",
+      "ilaç saklama kutusu haftalık"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000075",
     "slug": "dunya-ciftciler-gunu",
     "title": "14 Mayıs Dünya Çiftçiler Günü",
@@ -1791,6 +3473,100 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "budama testeresi",
       "toprak ph ölçer",
       "hasır şapka"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000015",
+    "slug": "uluslararasi-aile-gunu",
+    "title": "15 Mayıs Uluslararası Aile Günü",
+    "description": "Toplumun temel taşı olan ailenin korunması, sevgi ve dayanışmanın güçlendirilmesi için kutlanan BM günü.",
+    "content": "## 15 Mayıs Uluslararası Aile Günü Nedir?\n1993 yılında BM Genel Kurulu tarafından aile kurumunun önemine dikkat çekmek için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1993 yılında BM Genel Kurulu tarafından aile kurumunun önemine dikkat çekmek için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 15 Mayıs Uluslararası Aile Günü Nasıl Kutlanır?\n1. Ailenizle birlikte televizyonsuz ve ekransız bir akşam yemeği yiyin.\n2. Eski aile fotoğraflarını birlikte inceleyin.\n3. Birbirinize olan sevginizi sözlerle ifade edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hayattaki en büyük zenginlik huzurlu bir ailedir. 15 Mayıs Uluslararası Aile Günü kutlu olsun! 👨‍👩‍👧‍👦🏡❤️\"\n* \"15 Mayıs Uluslararası Aile Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #AileGunu #FamilyDay #AilemHerSeyim\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-aile-gunu\"",
+    "celebration_date": "2026-05-15",
+    "month_no": 5,
+    "day_no": 15,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#AileGunu",
+      "#FamilyDay",
+      "#AilemHerSeyim",
+      "#SevgiYuvasi"
+    ],
+    "affiliate_keywords": [
+      "aile fotoğraf çerçevesi çoklu",
+      "kutu kutu aile oyunu",
+      "büyük boy piknik örtüsü"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000206",
+    "slug": "16-mayis-uluslararasi-isik-gunu",
+    "title": "16 Mayıs Uluslararası Işık Günü",
+    "description": "Işığın bilim, tıp, iletişim ve sanattaki dönüştürücü gücünü kutlama günü.",
+    "content": "## 16 Mayıs Uluslararası Işık Günü Nedir?\nIşığın bilim, tıp, iletişim ve sanattaki dönüştürücü gücünü kutlama günü.\n\n### Tarihçesi ve Önemi\n16 Mayıs Uluslararası Işık Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO (Theodore Maiman Lazer İcadı) nezdinde tanınan ve her yıl 16 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Mayıs Uluslararası Işık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-16",
+    "month_no": 5,
+    "day_no": 16,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "UNESCO (Theodore Maiman Lazer İcadı)",
+    "source_url": "https://www.lightday.org",
+    "hashtags": [
+      "#16Mayıs",
+      "#16mayisuluslararasiisikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000207",
+    "slug": "17-mayis-dunya-telekomunikasyon-ve-bilgi-toplumu-gunu",
+    "title": "17 Mayıs Dünya Telekomünikasyon ve Bilgi Toplumu Günü",
+    "description": "İnternet ve iletişim teknolojilerinin insanlığı birbirine bağlaması günü.",
+    "content": "## 17 Mayıs Dünya Telekomünikasyon ve Bilgi Toplumu Günü Nedir?\nİnternet ve iletişim teknolojilerinin insanlığı birbirine bağlaması günü.\n\n### Tarihçesi ve Önemi\n17 Mayıs Dünya Telekomünikasyon ve Bilgi Toplumu Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Telekomünikasyon Birliği (ITU) nezdinde tanınan ve her yıl 17 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Mayıs Dünya Telekomünikasyon ve Bilgi Toplumu Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-17",
+    "month_no": 5,
+    "day_no": 17,
+    "category": "Mesleki",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Uluslararası Telekomünikasyon Birliği (ITU)",
+    "source_url": "https://www.itu.int",
+    "hashtags": [
+      "#17Mayıs",
+      "#17mayisdunyatelekomunikasyonvebilgitoplumugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000016",
+    "slug": "muzeler-gunu",
+    "title": "18 Mayıs Müzeler Günü",
+    "description": "Kültürel mirasımızı koruyan, geçmiş ile gelecek arasında köprü kuran müzelerin uluslararası kutlaması.",
+    "content": "## 18 Mayıs Müzeler Günü Nedir?\nUluslararası Müzeler Konseyi (ICOM) tarafından 1977 yılından bu yana toplumda müze bilincini yaymak için kutlanır.\n\n### Tarihçesi ve Önemi\nUluslararası Müzeler Konseyi (ICOM) tarafından 1977 yılından bu yana toplumda müze bilincini yaymak için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 18 Mayıs Müzeler Günü Nasıl Kutlanır?\n1. Bugün en yakın müzeyi ücretsiz veya indirimli gezin.\n2. Tarihi eserlerin korunması bilincini çocuklara aktarın.\n3. Arkeolojik kazılar hakkında bilgi edinin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Geçmişini bilmeyen geleceğini inşa edemez. 18 Mayıs Müzeler Günü kutlu olsun! 🏛️🏺🗿\"\n* \"18 Mayıs Müzeler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #MuzelerGunu #InternationalMuseumDay #KulturelMiras\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #muzeler-gunu\"",
+    "celebration_date": "2026-05-18",
+    "month_no": 5,
+    "day_no": 18,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#MuzelerGunu",
+      "#InternationalMuseumDay",
+      "#KulturelMiras",
+      "#MuzeleriGez"
+    ],
+    "affiliate_keywords": [
+      "müze kart kılıfı",
+      "türkiye arkeoloji atlası",
+      "sanat tarihi el kitabı"
     ]
   },
   {
@@ -1839,6 +3615,200 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000017",
+    "slug": "dunya-sut-gunu",
+    "title": "21 Mayıs Dünya Süt Günü",
+    "description": "Sağlıklı kemik ve kas gelişimi için sütün beslenmedeki vazgeçilmez yerini vurgulayan FAO günü.",
+    "content": "## 21 Mayıs Dünya Süt Günü Nedir?\nBM Gıda ve Tarım Örgütü (FAO) tarafından süt sektörünü ve sağlıklı beslenmeyi desteklemek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBM Gıda ve Tarım Örgütü (FAO) tarafından süt sektörünü ve sağlıklı beslenmeyi desteklemek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Mayıs Dünya Süt Günü Nasıl Kutlanır?\n1. Günde en az bir bardak süt veya süt ürünü tüketin.\n2. Çocuklara süt içme alışkanlığı kazandırın.\n3. Yerel süt üreticilerini destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Sağlıklı nesiller için her gün bir bardak süt! 21 Mayıs Dünya Süt Günü kutlu olsun. 🥛🐮\"\n* \"21 Mayıs Dünya Süt Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSutGunu #WorldMilkDay #SutIcSaglikBul\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sut-gunu\"",
+    "celebration_date": "2026-05-21",
+    "month_no": 5,
+    "day_no": 21,
+    "category": "Sağlık",
+    "hashtags": [
+      "#DunyaSutGunu",
+      "#WorldMilkDay",
+      "#SutIcSaglikBul",
+      "#KemikSagligi"
+    ],
+    "affiliate_keywords": [
+      "süt köpürtücü otomatik",
+      "cam süt şişesi retro",
+      "yoğurt yapma makinesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000018",
+    "slug": "biyocesitlilik-gunu",
+    "title": "22 Mayıs Uluslararası Biyoçeşitlilik Günü",
+    "description": "Gezegenimizdeki tüm türlerin, ekosistemlerin ve genetik zenginliğin korunması için BM tarafından kutlanır.",
+    "content": "## 22 Mayıs Uluslararası Biyoçeşitlilik Günü Nedir?\n1992 Biyolojik Çeşitlilik Sözleşmesi'nin kabul edildiği gün olan 22 Mayıs, ekolojik dengenin korunması için kutlanır.\n\n### Tarihçesi ve Önemi\n1992 Biyolojik Çeşitlilik Sözleşmesi'nin kabul edildiği gün olan 22 Mayıs, ekolojik dengenin korunması için kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 22 Mayıs Uluslararası Biyoçeşitlilik Günü Nasıl Kutlanır?\n1. Endemik bitki ve hayvan türlerini tanıyın.\n2. Doğal yaşam alanlarına zarar vermekten kaçının.\n3. Kimyasal kirliliği azaltın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Doğadaki her canlı hayat zincirinin vazgeçilmez bir halkasıdır. 22 Mayıs Biyoçeşitlilik Günü kutlu olsun! 🌿🦋🦜\"\n* \"22 Mayıs Uluslararası Biyoçeşitlilik Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #BiyocesitlilikGunu #BiodiversityDay #DogayiKoru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #biyocesitlilik-gunu\"",
+    "celebration_date": "2026-05-22",
+    "month_no": 5,
+    "day_no": 22,
+    "category": "Çevre & Doğa",
+    "hashtags": [
+      "#BiyocesitlilikGunu",
+      "#BiodiversityDay",
+      "#DogayiKoru",
+      "#TurlerYokOlmasin"
+    ],
+    "affiliate_keywords": [
+      "kuş yemliği bahçe tipi",
+      "endemik bitkiler kitabı türkiye",
+      "doğa günlüğü"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000208",
+    "slug": "23-mayis-dunya-kaplumbagalar-gunu",
+    "title": "23 Mayıs Dünya Kaplumbağalar Günü",
+    "description": "Milyonlarca yıldır yaşayan deniz ve kara kaplumbağalarını koruma günü.",
+    "content": "## 23 Mayıs Dünya Kaplumbağalar Günü Nedir?\nMilyonlarca yıldır yaşayan deniz ve kara kaplumbağalarını koruma günü.\n\n### Tarihçesi ve Önemi\n23 Mayıs Dünya Kaplumbağalar Günü, gerek Türkiye'de gerekse uluslararası alanda American Tortoise Rescue nezdinde tanınan ve her yıl 23 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Mayıs Dünya Kaplumbağalar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-23",
+    "month_no": 5,
+    "day_no": 23,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "American Tortoise Rescue",
+    "source_url": "https://www.worldturtleday.org",
+    "hashtags": [
+      "#23Mayıs",
+      "#23mayisdunyakaplumbagalargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000209",
+    "slug": "24-mayis-avrupa-parklar-gunu",
+    "title": "24 Mayıs Avrupa Parklar Günü",
+    "description": "Milli parklar ve korunan doğal alanların değerini hatırlatan gün.",
+    "content": "## 24 Mayıs Avrupa Parklar Günü Nedir?\nMilli parklar ve korunan doğal alanların değerini hatırlatan gün.\n\n### Tarihçesi ve Önemi\n24 Mayıs Avrupa Parklar Günü, gerek Türkiye'de gerekse uluslararası alanda EUROPARC Federation nezdinde tanınan ve her yıl 24 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Mayıs Avrupa Parklar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-24",
+    "month_no": 5,
+    "day_no": 24,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "EUROPARC Federation",
+    "source_url": "https://www.europarc.org",
+    "hashtags": [
+      "#24Mayıs",
+      "#24mayisavrupaparklargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000210",
+    "slug": "25-mayis-afrika-gunu-ve-dunya-tiroid-gunu",
+    "title": "25 Mayıs Afrika Günü ve Dünya Tiroid Günü",
+    "description": "Afrika kıtasının bağımsızlığı ve tiroid sağlığı bilinci günü.",
+    "content": "## 25 Mayıs Afrika Günü ve Dünya Tiroid Günü Nedir?\nAfrika kıtasının bağımsızlığı ve tiroid sağlığı bilinci günü.\n\n### Tarihçesi ve Önemi\n25 Mayıs Afrika Günü ve Dünya Tiroid Günü, gerek Türkiye'de gerekse uluslararası alanda Afrika Birliği & ETA nezdinde tanınan ve her yıl 25 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Mayıs Afrika Günü ve Dünya Tiroid Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-25",
+    "month_no": 5,
+    "day_no": 25,
+    "category": "Uluslararası",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Afrika Birliği & ETA",
+    "source_url": "https://au.int",
+    "hashtags": [
+      "#25Mayıs",
+      "#25mayisafrikagunuvedunyatiroidgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000211",
+    "slug": "26-mayis-dunya-lindy-hop-ve-dans-gunu",
+    "title": "26 Mayıs Dünya Lindy Hop ve Dans Günü",
+    "description": "Caz müziğinin neşeli dansı Lindy Hop ve swing coşkusu günü.",
+    "content": "## 26 Mayıs Dünya Lindy Hop ve Dans Günü Nedir?\nCaz müziğinin neşeli dansı Lindy Hop ve swing coşkusu günü.\n\n### Tarihçesi ve Önemi\n26 Mayıs Dünya Lindy Hop ve Dans Günü, gerek Türkiye'de gerekse uluslararası alanda Frankie Manning Foundation nezdinde tanınan ve her yıl 26 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Mayıs Dünya Lindy Hop ve Dans Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-26",
+    "month_no": 5,
+    "day_no": 26,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Frankie Manning Foundation",
+    "source_url": "https://www.frankiemanningfoundation.org",
+    "hashtags": [
+      "#26Mayıs",
+      "#26mayisdunyalindyhopvedansgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000212",
+    "slug": "27-mayis-acil-tip-gunu",
+    "title": "27 Mayıs Acil Tıp Günü",
+    "description": "Hayat kurtaran acil servis ve ambulans ekiplerini takdir etme günü.",
+    "content": "## 27 Mayıs Acil Tıp Günü Nedir?\nHayat kurtaran acil servis ve ambulans ekiplerini takdir etme günü.\n\n### Tarihçesi ve Önemi\n27 Mayıs Acil Tıp Günü, gerek Türkiye'de gerekse uluslararası alanda EUSEM Avrupa Acil Tıp Derneği nezdinde tanınan ve her yıl 27 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Mayıs Acil Tıp Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-27",
+    "month_no": 5,
+    "day_no": 27,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "EUSEM Avrupa Acil Tıp Derneği",
+    "source_url": "https://emergencymedicine-day.org",
+    "hashtags": [
+      "#27Mayıs",
+      "#27mayisaciltipgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000213",
+    "slug": "28-mayis-dunya-aclik-gunu",
+    "title": "28 Mayıs Dünya Açlık Günü",
+    "description": "Yeryüzünde kronik açlıkla yaşayan milyonlarca insana kalıcı gıda desteği günü.",
+    "content": "## 28 Mayıs Dünya Açlık Günü Nedir?\nYeryüzünde kronik açlıkla yaşayan milyonlarca insana kalıcı gıda desteği günü.\n\n### Tarihçesi ve Önemi\n28 Mayıs Dünya Açlık Günü, gerek Türkiye'de gerekse uluslararası alanda The Hunger Project nezdinde tanınan ve her yıl 28 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Mayıs Dünya Açlık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-28",
+    "month_no": 5,
+    "day_no": 28,
+    "category": "Farkındalık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "The Hunger Project",
+    "source_url": "https://www.worldhungerday.org",
+    "hashtags": [
+      "#28Mayıs",
+      "#28mayisdunyaaclikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000078",
     "slug": "istanbulun-fethi",
     "title": "29 Mayıs İstanbul'un Fethi",
@@ -1859,6 +3829,146 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "osmanlı tuğrası tablo",
       "minyatür fatih biblosu"
     ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000214",
+    "slug": "30-mayis-dunya-multipl-skleroz-ms-gunu",
+    "title": "30 Mayıs Dünya Multipl Skleroz (MS) Günü",
+    "description": "MS hastalarıyla dayanışma ve bilimsel araştırmalara destek günü.",
+    "content": "## 30 Mayıs Dünya Multipl Skleroz (MS) Günü Nedir?\nMS hastalarıyla dayanışma ve bilimsel araştırmalara destek günü.\n\n### Tarihçesi ve Önemi\n30 Mayıs Dünya Multipl Skleroz (MS) Günü, gerek Türkiye'de gerekse uluslararası alanda MS International Federation nezdinde tanınan ve her yıl 30 Mayıs tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Mayıs Dünya Multipl Skleroz (MS) Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Mayıs günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-05-30",
+    "month_no": 5,
+    "day_no": 30,
+    "category": "Sağlık",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "MS International Federation",
+    "source_url": "https://worldmsday.org",
+    "hashtags": [
+      "#30Mayıs",
+      "#30mayisdunyamultiplsklerozmsgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000019",
+    "slug": "dunya-tutunsuz-gunu",
+    "title": "31 Mayıs Dünya Tütünsüz Günü",
+    "description": "Tütün salgınının yol açtığı ölümlere dikkat çeken ve dumansız bir dünya hedefleyen DSÖ günü.",
+    "content": "## 31 Mayıs Dünya Tütünsüz Günü Nedir?\nDünya Sağlık Örgütü tarafından tütün tüketimini azaltmak ve pasif içiciliği önlemek için 1987'de kabul edilmiştir.\n\n### Tarihçesi ve Önemi\nDünya Sağlık Örgütü tarafından tütün tüketimini azaltmak ve pasif içiciliği önlemek için 1987'de kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 31 Mayıs Dünya Tütünsüz Günü Nasıl Kutlanır?\n1. Bugün 24 saat boyunca sigara içmeyin ve bırakmaya ilk adımı atın.\n2. Pasif içiciliğin zararlarından çocukları koruyun.\n3. Dumansız alanları destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Nefes al, hayatı hisset! 31 Mayıs Dünya Tütünsüz Günü'nde temiz bir havaya adım at. 🚭🫁💚\"\n* \"31 Mayıs Dünya Tütünsüz Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TutunsuzGun #WorldNoTobaccoDay #DumansizHava\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tutunsuz-gunu\"",
+    "celebration_date": "2026-05-31",
+    "month_no": 5,
+    "day_no": 31,
+    "category": "Sağlık",
+    "hashtags": [
+      "#TutunsuzGun",
+      "#WorldNoTobaccoDay",
+      "#DumansizHava",
+      "#SigarayiBirak"
+    ],
+    "affiliate_keywords": [
+      "nefes egzersizi cihazı",
+      "stres topu seti",
+      "bitki çayı rahatlatıcı"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000020",
+    "slug": "dunya-cocuk-gunu",
+    "title": "1 Haziran Dünya Çocuk Günü",
+    "description": "Çocukların refahını, güvenliğini ve mutluluğunu kutlayan uluslararası çocuk günü.",
+    "content": "## 1 Haziran Dünya Çocuk Günü Nedir?\n1925 yılında Cenevre Çocukların Refahı Dünya Konferansı'nda ilan edilen ilk uluslararası çocuk günüdür.\n\n### Tarihçesi ve Önemi\n1925 yılında Cenevre Çocukların Refahı Dünya Konferansı'nda ilan edilen ilk uluslararası çocuk günüdür. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Haziran Dünya Çocuk Günü Nasıl Kutlanır?\n1. Bir çocuğu sevindirin ve ona hediye verin.\n2. Çocukların oyun ve eğlence hakkına saygı gösterin.\n3. İhtiyaç sahibi çocuklara destek olun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünya çocukların güldüğü kadar güzeldir! 1 Haziran Dünya Çocuk Günü kutlu olsun! 🎈👶👧\"\n* \"1 Haziran Dünya Çocuk Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #1Haziran #DunyaCocukGunu #CocuklarGulsun\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-cocuk-gunu\"",
+    "celebration_date": "2026-06-01",
+    "month_no": 6,
+    "day_no": 1,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#1Haziran",
+      "#DunyaCocukGunu",
+      "#CocuklarGulsun",
+      "#CocukHaklari"
+    ],
+    "affiliate_keywords": [
+      "akıl ve zeka oyunları çocuk",
+      "scooter çocuk 3 tekerlekli",
+      "çocuk hikaye kitabı seti"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000215",
+    "slug": "2-haziran-dunya-kosu-gunu",
+    "title": "2 Haziran Dünya Koşu Günü",
+    "description": "Koşmanın sağlığa ve mutluluğa katkısını kutlayan spor günü.",
+    "content": "## 2 Haziran Dünya Koşu Günü Nedir?\nKoşmanın sağlığa ve mutluluğa katkısını kutlayan spor günü.\n\n### Tarihçesi ve Önemi\n2 Haziran Dünya Koşu Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 2 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Haziran Dünya Koşu Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-02",
+    "month_no": 6,
+    "day_no": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Haziran",
+      "#2hazirandunyakosugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000216",
+    "slug": "3-haziran-dunya-bisiklet-gunu",
+    "title": "3 Haziran Dünya Bisiklet Günü",
+    "description": "Temiz ulaşım ve hareketli yaşam için bisiklet günü.",
+    "content": "## 3 Haziran Dünya Bisiklet Günü Nedir?\nTemiz ulaşım ve hareketli yaşam için bisiklet günü.\n\n### Tarihçesi ve Önemi\n3 Haziran Dünya Bisiklet Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/72/272) nezdinde tanınan ve her yıl 3 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Haziran Dünya Bisiklet Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-03",
+    "month_no": 6,
+    "day_no": 3,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/72/272)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Haziran",
+      "#3hazirandunyabisikletgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000217",
+    "slug": "4-haziran-catisma-kurbani-masum-cocuklar-gunu",
+    "title": "4 Haziran Çatışma Kurbanı Masum Çocuklar Günü",
+    "description": "Savaş bölgelerindeki çocukların korunması günü.",
+    "content": "## 4 Haziran Çatışma Kurbanı Masum Çocuklar Günü Nedir?\nSavaş bölgelerindeki çocukların korunması günü.\n\n### Tarihçesi ve Önemi\n4 Haziran Çatışma Kurbanı Masum Çocuklar Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 4 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Haziran Çatışma Kurbanı Masum Çocuklar Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"4 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-04",
+    "month_no": 6,
+    "day_no": 4,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Haziran",
+      "#4hazirancatismakurbanimasumcocuklargunu"
+    ],
+    "affiliate_keywords": []
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000079",
@@ -1884,6 +3994,53 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000218",
+    "slug": "6-haziran-dunya-rus-dili-gunu",
+    "title": "6 Haziran Dünya Rus Dili Günü",
+    "description": "Puşkin'in doğum gününde Rus edebiyatı ve dili günü.",
+    "content": "## 6 Haziran Dünya Rus Dili Günü Nedir?\nPuşkin'in doğum gününde Rus edebiyatı ve dili günü.\n\n### Tarihçesi ve Önemi\n6 Haziran Dünya Rus Dili Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 6 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Haziran Dünya Rus Dili Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-06",
+    "month_no": 6,
+    "day_no": 6,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Haziran",
+      "#6hazirandunyarusdiligunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000021",
+    "slug": "turk-isaret-dili-gunu",
+    "title": "7 Haziran Türk İşaret Dili Günü",
+    "description": "İşitme engelli bireylerin iletişim dili olan Türk İşaret Dili'nin yasal olarak tanındığı gün.",
+    "content": "## 7 Haziran Türk İşaret Dili Günü Nedir?\n5378 sayılı Engelliler Kanunu'nda Türk İşaret Dili'nin resmi olarak yer aldığı 7 Haziran 2005 tarihinin anısına kutlanır.\n\n### Tarihçesi ve Önemi\n5378 sayılı Engelliler Kanunu'nda Türk İşaret Dili'nin resmi olarak yer aldığı 7 Haziran 2005 tarihinin anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 7 Haziran Türk İşaret Dili Günü Nasıl Kutlanır?\n1. Türk İşaret Dili'nde temel selamlaşma ve teşekkür kelimelerini öğrenin.\n2. Kamusal yayınlarda işaret dili çevirisi talep edin.\n3. İşitme engellilerin toplumsal hayata katılımını destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Ellerimiz konuşsun, kalplerimiz buluşsun! 7 Haziran Türk İşaret Dili Günü kutlu olsun. 🤟🤲✨\"\n* \"7 Haziran Türk İşaret Dili Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TurkIsaretDiliGunu #TID #IsitmeEngelliler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #turk-isaret-dili-gunu\"",
+    "celebration_date": "2026-06-07",
+    "month_no": 6,
+    "day_no": 7,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#TurkIsaretDiliGunu",
+      "#TID",
+      "#IsitmeEngelliler",
+      "#EngelsizIletisim"
+    ],
+    "affiliate_keywords": [
+      "türk işaret dili öğrenme kitabı",
+      "işitme cihazı pili",
+      "görsel sözlük kartları"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000080",
     "slug": "dunya-okyanuslar-gunu",
     "title": "8 Haziran Dünya Okyanuslar Günü",
@@ -1906,6 +4063,131 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000219",
+    "slug": "9-haziran-dunya-akreditasyon-gunu",
+    "title": "9 Haziran Dünya Akreditasyon Günü",
+    "description": "Standartlara uygunluk ve tüketici güveni günü.",
+    "content": "## 9 Haziran Dünya Akreditasyon Günü Nedir?\nStandartlara uygunluk ve tüketici güveni günü.\n\n### Tarihçesi ve Önemi\n9 Haziran Dünya Akreditasyon Günü, gerek Türkiye'de gerekse uluslararası alanda ILAC & IAF nezdinde tanınan ve her yıl 9 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Haziran Dünya Akreditasyon Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-09",
+    "month_no": 6,
+    "day_no": 9,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ILAC & IAF",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Haziran",
+      "#9hazirandunyaakreditasyongunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000220",
+    "slug": "10-haziran-dunya-zanaatkarlik-ve-el-emegi-gunu",
+    "title": "10 Haziran Dünya Zanaatkarlık ve El Emeği Günü",
+    "description": "Geleneksel el sanatları ve zanaatkarları onurlandıran gün.",
+    "content": "## 10 Haziran Dünya Zanaatkarlık ve El Emeği Günü Nedir?\nGeleneksel el sanatları ve zanaatkarları onurlandıran gün.\n\n### Tarihçesi ve Önemi\n10 Haziran Dünya Zanaatkarlık ve El Emeği Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 10 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Haziran Dünya Zanaatkarlık ve El Emeği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-10",
+    "month_no": 6,
+    "day_no": 10,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#10Haziran",
+      "#10hazirandunyazanaatkarlikveelemegigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000221",
+    "slug": "11-haziran-uluslararasi-oyun-oynama-gunu",
+    "title": "11 Haziran Uluslararası Oyun Oynama Günü",
+    "description": "Oyunun çocuk gelişimindeki yaratıcı rolü günü.",
+    "content": "## 11 Haziran Uluslararası Oyun Oynama Günü Nedir?\nOyunun çocuk gelişimindeki yaratıcı rolü günü.\n\n### Tarihçesi ve Önemi\n11 Haziran Uluslararası Oyun Oynama Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/78/268) nezdinde tanınan ve her yıl 11 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Haziran Uluslararası Oyun Oynama Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-11",
+    "month_no": 6,
+    "day_no": 11,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/78/268)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Haziran",
+      "#11haziranuluslararasioyunoynamagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000222",
+    "slug": "12-haziran-dunya-cocuk-isciligiyle-mucadele-gunu",
+    "title": "12 Haziran Dünya Çocuk İşçiliğiyle Mücadele Günü",
+    "description": "Çocukların çalıştırılmasına son verme günü.",
+    "content": "## 12 Haziran Dünya Çocuk İşçiliğiyle Mücadele Günü Nedir?\nÇocukların çalıştırılmasına son verme günü.\n\n### Tarihçesi ve Önemi\n12 Haziran Dünya Çocuk İşçiliğiyle Mücadele Günü, gerek Türkiye'de gerekse uluslararası alanda ILO nezdinde tanınan ve her yıl 12 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Haziran Dünya Çocuk İşçiliğiyle Mücadele Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-12",
+    "month_no": 6,
+    "day_no": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ILO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Haziran",
+      "#12hazirandunyacocukisciligiylemucadelegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000223",
+    "slug": "13-haziran-uluslararasi-albinizm-farkindalik-gunu",
+    "title": "13 Haziran Uluslararası Albinizm Farkındalık Günü",
+    "description": "Albinizmli bireylerin hakları ve eşitliği günü.",
+    "content": "## 13 Haziran Uluslararası Albinizm Farkındalık Günü Nedir?\nAlbinizmli bireylerin hakları ve eşitliği günü.\n\n### Tarihçesi ve Önemi\n13 Haziran Uluslararası Albinizm Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 13 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Haziran Uluslararası Albinizm Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-13",
+    "month_no": 6,
+    "day_no": 13,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#13Haziran",
+      "#13haziranuluslararasialbinizmfarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000081",
     "slug": "dunya-kan-bagiscilari-gunu",
     "title": "14 Haziran Dünya Kan Bağışçıları Günü",
@@ -1925,6 +4207,179 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kan şekeri ölçüm cihazı",
       "vitamin takviyesi",
       "sporcu su matarası"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000224",
+    "slug": "15-haziran-dunya-ruzgar-gunu",
+    "title": "15 Haziran Dünya Rüzgar Günü",
+    "description": "Yenilenebilir rüzgar enerjisinin temiz gücü günü.",
+    "content": "## 15 Haziran Dünya Rüzgar Günü Nedir?\nYenilenebilir rüzgar enerjisinin temiz gücü günü.\n\n### Tarihçesi ve Önemi\n15 Haziran Dünya Rüzgar Günü, gerek Türkiye'de gerekse uluslararası alanda GWEC nezdinde tanınan ve her yıl 15 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Haziran Dünya Rüzgar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-15",
+    "month_no": 6,
+    "day_no": 15,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "GWEC",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Haziran",
+      "#15hazirandunyaruzgargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000225",
+    "slug": "16-haziran-uluslararasi-aile-havaleleri-gunu",
+    "title": "16 Haziran Uluslararası Aile Havaleleri Günü",
+    "description": "Göçmen işçilerin ailelerine sağladığı ekonomik destek günü.",
+    "content": "## 16 Haziran Uluslararası Aile Havaleleri Günü Nedir?\nGöçmen işçilerin ailelerine sağladığı ekonomik destek günü.\n\n### Tarihçesi ve Önemi\n16 Haziran Uluslararası Aile Havaleleri Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 16 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Haziran Uluslararası Aile Havaleleri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-16",
+    "month_no": 6,
+    "day_no": 16,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#16Haziran",
+      "#16haziranuluslararasiailehavalelerigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000226",
+    "slug": "17-haziran-dunya-collesme-ve-kuraklikla-mucadele-gunu",
+    "title": "17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü",
+    "description": "Toprak bozulumunu önleme ve yeşillendirme günü.",
+    "content": "## 17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü Nedir?\nToprak bozulumunu önleme ve yeşillendirme günü.\n\n### Tarihçesi ve Önemi\n17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/49/115) nezdinde tanınan ve her yıl 17 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-17",
+    "month_no": 6,
+    "day_no": 17,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/49/115)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Haziran",
+      "#17hazirandunyacollesmevekurakliklamucadelegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000227",
+    "slug": "18-haziran-surdurulebilir-gastronomi-gunu",
+    "title": "18 Haziran Sürdürülebilir Gastronomi Günü",
+    "description": "Yerel üretimi ve atıksız mutfak kültürünü kutlama günü.",
+    "content": "## 18 Haziran Sürdürülebilir Gastronomi Günü Nedir?\nYerel üretimi ve atıksız mutfak kültürünü kutlama günü.\n\n### Tarihçesi ve Önemi\n18 Haziran Sürdürülebilir Gastronomi Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/71/246) nezdinde tanınan ve her yıl 18 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Haziran Sürdürülebilir Gastronomi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-18",
+    "month_no": 6,
+    "day_no": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/71/246)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Haziran",
+      "#18haziransurdurulebilirgastronomigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000228",
+    "slug": "19-haziran-catismalarda-cinsel-siddeti-onleme-gunu",
+    "title": "19 Haziran Çatışmalarda Cinsel Şiddeti Önleme Günü",
+    "description": "Savaş bölgelerinde insan onurunu koruma günü.",
+    "content": "## 19 Haziran Çatışmalarda Cinsel Şiddeti Önleme Günü Nedir?\nSavaş bölgelerinde insan onurunu koruma günü.\n\n### Tarihçesi ve Önemi\n19 Haziran Çatışmalarda Cinsel Şiddeti Önleme Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 19 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Haziran Çatışmalarda Cinsel Şiddeti Önleme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-19",
+    "month_no": 6,
+    "day_no": 19,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Haziran",
+      "#19hazirancatismalardacinselsiddetionlemegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000229",
+    "slug": "20-haziran-dunya-multeciler-gunu",
+    "title": "20 Haziran Dünya Mülteciler Günü",
+    "description": "Yurdundan edilmiş insanların cesaret ve dayanıklılığı günü.",
+    "content": "## 20 Haziran Dünya Mülteciler Günü Nedir?\nYurdundan edilmiş insanların cesaret ve dayanıklılığı günü.\n\n### Tarihçesi ve Önemi\n20 Haziran Dünya Mülteciler Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/55/76) nezdinde tanınan ve her yıl 20 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Haziran Dünya Mülteciler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-20",
+    "month_no": 6,
+    "day_no": 20,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/55/76)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#20Haziran",
+      "#20hazirandunyamultecilergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000022",
+    "slug": "dunya-yoga-gunu",
+    "title": "21 Haziran Dünya Yoga Günü",
+    "description": "Beden, zihin ve ruh dengesini kuran kadim yoga öğretisinin evrensel faydalarını kutlayan BM günü.",
+    "content": "## 21 Haziran Dünya Yoga Günü Nedir?\n2014 yılında BM Genel Kurulu tarafından kabul edilen gün, içsel huzur ve bütünsel sağlığı teşvik eder.\n\n### Tarihçesi ve Önemi\n2014 yılında BM Genel Kurulu tarafından kabul edilen gün, içsel huzur ve bütünsel sağlığı teşvik eder. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Haziran Dünya Yoga Günü Nasıl Kutlanır?\n1. Açık havada veya evinizde 20 dakikalık bir yoga seansı yapın.\n2. Derin nefes egzersizleriyle zihninizi dinlendirin.\n3. Bedeninizin esnekliğine kulak verin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İçindeki huzuru keşfet. 21 Haziran Dünya Yoga Günü kutlu olsun! 🧘‍♀️🕉️🧘‍♂️\"\n* \"21 Haziran Dünya Yoga Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaYogaGunu #YogaDay #ZihinBedenRuh\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-yoga-gunu\"",
+    "celebration_date": "2026-06-21",
+    "month_no": 6,
+    "day_no": 21,
+    "category": "Sağlık",
+    "hashtags": [
+      "#DunyaYogaGunu",
+      "#YogaDay",
+      "#ZihinBedenRuh",
+      "#Namaste"
+    ],
+    "affiliate_keywords": [
+      "yoga matı kaydırmaz tpe",
+      "yoga bloğu köpük",
+      "meditasyon çanı",
+      "yoga taytı"
     ]
   },
   {
@@ -1974,6 +4429,228 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000230",
+    "slug": "22-haziran-dunya-yagmur-ormanlari-gunu",
+    "title": "22 Haziran Dünya Yağmur Ormanları Günü",
+    "description": "Gezegenin oksijen deposu yağmur ormanlarını koruma günü.",
+    "content": "## 22 Haziran Dünya Yağmur Ormanları Günü Nedir?\nGezegenin oksijen deposu yağmur ormanlarını koruma günü.\n\n### Tarihçesi ve Önemi\n22 Haziran Dünya Yağmur Ormanları Günü, gerek Türkiye'de gerekse uluslararası alanda Rainforest Partnership nezdinde tanınan ve her yıl 22 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Haziran Dünya Yağmur Ormanları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-22",
+    "month_no": 6,
+    "day_no": 22,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Rainforest Partnership",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Haziran",
+      "#22hazirandunyayagmurormanlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000231",
+    "slug": "23-haziran-birlesmis-milletler-kamu-hizmeti-gunu",
+    "title": "23 Haziran Birleşmiş Milletler Kamu Hizmeti Günü",
+    "description": "Vatandaşlara hizmet eden kamu çalışanlarını onurlandırma günü.",
+    "content": "## 23 Haziran Birleşmiş Milletler Kamu Hizmeti Günü Nedir?\nVatandaşlara hizmet eden kamu çalışanlarını onurlandırma günü.\n\n### Tarihçesi ve Önemi\n23 Haziran Birleşmiş Milletler Kamu Hizmeti Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 23 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Haziran Birleşmiş Milletler Kamu Hizmeti Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-23",
+    "month_no": 6,
+    "day_no": 23,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Haziran",
+      "#23haziranbirlesmismilletlerkamuhizmetigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000232",
+    "slug": "24-haziran-diplomaside-kadinlar-gunu",
+    "title": "24 Haziran Diplomaside Kadınlar Günü",
+    "description": "Uluslararası barış görüşmelerinde kadın diplomatlar günü.",
+    "content": "## 24 Haziran Diplomaside Kadınlar Günü Nedir?\nUluslararası barış görüşmelerinde kadın diplomatlar günü.\n\n### Tarihçesi ve Önemi\n24 Haziran Diplomaside Kadınlar Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 24 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Haziran Diplomaside Kadınlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-24",
+    "month_no": 6,
+    "day_no": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Haziran",
+      "#24hazirandiplomasidekadinlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000233",
+    "slug": "25-haziran-dunya-denizciler-gunu",
+    "title": "25 Haziran Dünya Denizciler Günü",
+    "description": "Küresel ticaretin yükünü taşıyan denizcilerin günü.",
+    "content": "## 25 Haziran Dünya Denizciler Günü Nedir?\nKüresel ticaretin yükünü taşıyan denizcilerin günü.\n\n### Tarihçesi ve Önemi\n25 Haziran Dünya Denizciler Günü, gerek Türkiye'de gerekse uluslararası alanda IMO & BM nezdinde tanınan ve her yıl 25 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Haziran Dünya Denizciler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-25",
+    "month_no": 6,
+    "day_no": 25,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "IMO & BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Haziran",
+      "#25hazirandunyadenizcilergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000234",
+    "slug": "26-haziran-uyusturucu-ile-mucadele-gunu",
+    "title": "26 Haziran Uyuşturucu ile Mücadele Günü",
+    "description": "Zararlı maddelerden arınmış sağlıklı toplum günü.",
+    "content": "## 26 Haziran Uyuşturucu ile Mücadele Günü Nedir?\nZararlı maddelerden arınmış sağlıklı toplum günü.\n\n### Tarihçesi ve Önemi\n26 Haziran Uyuşturucu ile Mücadele Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 26 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Haziran Uyuşturucu ile Mücadele Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-26",
+    "month_no": 6,
+    "day_no": 26,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Haziran",
+      "#26haziranuyusturucuilemucadelegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000235",
+    "slug": "27-haziran-mikro-kucuk-ve-orta-buyuklukteki-isletmeler-kobi-gunu",
+    "title": "27 Haziran Mikro, Küçük ve Orta Büyüklükteki İşletmeler (KOBİ) Günü",
+    "description": "Ekonominin belkemiği girişimciler ve KOBİ'ler günü.",
+    "content": "## 27 Haziran Mikro, Küçük ve Orta Büyüklükteki İşletmeler (KOBİ) Günü Nedir?\nEkonominin belkemiği girişimciler ve KOBİ'ler günü.\n\n### Tarihçesi ve Önemi\n27 Haziran Mikro, Küçük ve Orta Büyüklükteki İşletmeler (KOBİ) Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 27 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Haziran Mikro, Küçük ve Orta Büyüklükteki İşletmeler (KOBİ) Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-27",
+    "month_no": 6,
+    "day_no": 27,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Haziran",
+      "#27haziranmikrokucukveortabuyukluktekiisletmelerkobigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000236",
+    "slug": "28-haziran-dunya-sosyal-medya-gunu",
+    "title": "28 Haziran Dünya Sosyal Medya Günü",
+    "description": "Dünyayı birbirine bağlayan dijital iletişim günü.",
+    "content": "## 28 Haziran Dünya Sosyal Medya Günü Nedir?\nDünyayı birbirine bağlayan dijital iletişim günü.\n\n### Tarihçesi ve Önemi\n28 Haziran Dünya Sosyal Medya Günü, gerek Türkiye'de gerekse uluslararası alanda Mashable Social Media Day nezdinde tanınan ve her yıl 28 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Haziran Dünya Sosyal Medya Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-28",
+    "month_no": 6,
+    "day_no": 28,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Mashable Social Media Day",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Haziran",
+      "#28hazirandunyasosyalmedyagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000237",
+    "slug": "29-haziran-uluslararasi-tropikler-gunu",
+    "title": "29 Haziran Uluslararası Tropikler Günü",
+    "description": "Tropik bölgelerin biyoçeşitliliği ve zenginliği günü.",
+    "content": "## 29 Haziran Uluslararası Tropikler Günü Nedir?\nTropik bölgelerin biyoçeşitliliği ve zenginliği günü.\n\n### Tarihçesi ve Önemi\n29 Haziran Uluslararası Tropikler Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/70/267) nezdinde tanınan ve her yıl 29 Haziran tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Haziran Uluslararası Tropikler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Haziran günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-06-29",
+    "month_no": 6,
+    "day_no": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/70/267)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#29Haziran",
+      "#29haziranuluslararasitropiklergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000023",
+    "slug": "dunya-sosyal-medya-gunu",
+    "title": "30 Haziran Dünya Sosyal Medya Günü",
+    "description": "İnsanları kıtalar ötesinde birbirine bağlayan dijital iletişim devrimini kutlayan küresel gün.",
+    "content": "## 30 Haziran Dünya Sosyal Medya Günü Nedir?\n2010 yılında Mashable tarafından sosyal medyanın dünyayı küresel bir köye dönüştürmesini kutlamak için başlatılmıştır.\n\n### Tarihçesi ve Önemi\n2010 yılında Mashable tarafından sosyal medyanın dünyayı küresel bir köye dönüştürmesini kutlamak için başlatılmıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Haziran Dünya Sosyal Medya Günü Nasıl Kutlanır?\n1. Sosyal medyada pozitif ve ilham verici içerikler üretin.\n2. Uzun süredir görüşmediğiniz bir eski dostunuza mesaj atın.\n3. Sosyal medya kullanım sürenizi bilinçli yönetin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Mesafeleri kaldıran, sesimizi dünyaya duyuran platformların günü kutlu olsun! 30 Haziran Dünya Sosyal Medya Günü! 📱🌐💬\"\n* \"30 Haziran Dünya Sosyal Medya Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #SosyalMedyaGunu #SocialMediaDay #DijitalDunya\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sosyal-medya-gunu\"",
+    "celebration_date": "2026-06-30",
+    "month_no": 6,
+    "day_no": 30,
+    "category": "Eğlence",
+    "hashtags": [
+      "#SosyalMedyaGunu",
+      "#SocialMediaDay",
+      "#DijitalDunya",
+      "#Baglanti"
+    ],
+    "affiliate_keywords": [
+      "ring light halka ışık tripodlu",
+      "yaka mikrofonu kablosuz",
+      "telefon sabitleyici gimbal"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000084",
     "slug": "kabotaj-bayrami",
     "title": "1 Temmuz Denizcilik ve Kabotaj Bayramı",
@@ -1994,6 +4671,131 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "denizci şapkası",
       "deniz kabuğu bileklik",
       "su geçirmez çanta"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000238",
+    "slug": "2-temmuz-dunya-ufo-gunu",
+    "title": "2 Temmuz Dünya UFO Günü",
+    "description": "Evrende yaşam arayışı ve gökyüzü gözlemleri günü.",
+    "content": "## 2 Temmuz Dünya UFO Günü Nedir?\nEvrende yaşam arayışı ve gökyüzü gözlemleri günü.\n\n### Tarihçesi ve Önemi\n2 Temmuz Dünya UFO Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 2 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Temmuz Dünya UFO Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-02",
+    "month_no": 7,
+    "day_no": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Temmuz",
+      "#2temmuzdunyaufogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000239",
+    "slug": "3-temmuz-plastik-poset-kullanmama-gunu",
+    "title": "3 Temmuz Plastik Poşet Kullanmama Günü",
+    "description": "Plastik atıklara son verme ve bez torba kullanma günü.",
+    "content": "## 3 Temmuz Plastik Poşet Kullanmama Günü Nedir?\nPlastik atıklara son verme ve bez torba kullanma günü.\n\n### Tarihçesi ve Önemi\n3 Temmuz Plastik Poşet Kullanmama Günü, gerek Türkiye'de gerekse uluslararası alanda Plastic Free July nezdinde tanınan ve her yıl 3 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Temmuz Plastik Poşet Kullanmama Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-03",
+    "month_no": 7,
+    "day_no": 3,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Plastic Free July",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Temmuz",
+      "#3temmuzplastikposetkullanmamagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000240",
+    "slug": "4-temmuz-dunya-bagimsizlik-ve-ifade-ozgurlugu-gunu",
+    "title": "4 Temmuz Dünya Bağımsızlık ve İfade Özgürlüğü Günü",
+    "description": "Temel insan hakları ve özgür düşünce günü.",
+    "content": "## 4 Temmuz Dünya Bağımsızlık ve İfade Özgürlüğü Günü Nedir?\nTemel insan hakları ve özgür düşünce günü.\n\n### Tarihçesi ve Önemi\n4 Temmuz Dünya Bağımsızlık ve İfade Özgürlüğü Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 4 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Temmuz Dünya Bağımsızlık ve İfade Özgürlüğü Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-04",
+    "month_no": 7,
+    "day_no": 4,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Temmuz",
+      "#4temmuzdunyabagimsizlikveifadeozgurlugugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000241",
+    "slug": "5-temmuz-dunya-yaz-modasi-ve-bikini-gunu",
+    "title": "5 Temmuz Dünya Yaz Modası ve Bikini Günü",
+    "description": "Yaz mevsimi ve tekstil tasarımının neşeli günü.",
+    "content": "## 5 Temmuz Dünya Yaz Modası ve Bikini Günü Nedir?\nYaz mevsimi ve tekstil tasarımının neşeli günü.\n\n### Tarihçesi ve Önemi\n5 Temmuz Dünya Yaz Modası ve Bikini Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 5 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Temmuz Dünya Yaz Modası ve Bikini Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-05",
+    "month_no": 7,
+    "day_no": 5,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#5Temmuz",
+      "#5temmuzdunyayazmodasivebikinigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000242",
+    "slug": "6-temmuz-dunya-opucuk-gunu",
+    "title": "6 Temmuz Dünya Öpücük Günü",
+    "description": "Sevgi ve romantizmi ifade eden evrensel gün.",
+    "content": "## 6 Temmuz Dünya Öpücük Günü Nedir?\nSevgi ve romantizmi ifade eden evrensel gün.\n\n### Tarihçesi ve Önemi\n6 Temmuz Dünya Öpücük Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 6 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Temmuz Dünya Öpücük Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-06",
+    "month_no": 7,
+    "day_no": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Temmuz",
+      "#6temmuzdunyaopucukgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2020,6 +4822,181 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000243",
+    "slug": "8-temmuz-dunya-video-oyunlari-gunu",
+    "title": "8 Temmuz Dünya Video Oyunları Günü",
+    "description": "Dijital oyun kültürü ve yaratıcı oyun yapımcıları günü.",
+    "content": "## 8 Temmuz Dünya Video Oyunları Günü Nedir?\nDijital oyun kültürü ve yaratıcı oyun yapımcıları günü.\n\n### Tarihçesi ve Önemi\n8 Temmuz Dünya Video Oyunları Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 8 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Temmuz Dünya Video Oyunları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-08",
+    "month_no": 7,
+    "day_no": 8,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#8Temmuz",
+      "#8temmuzdunyavideooyunlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000244",
+    "slug": "9-temmuz-dunya-sekerleme-ve-tatli-gunu",
+    "title": "9 Temmuz Dünya Şekerleme ve Tatlı Günü",
+    "description": "Geleneksel tatlılar ve sevdiklerle paylaşılan lezzetler günü.",
+    "content": "## 9 Temmuz Dünya Şekerleme ve Tatlı Günü Nedir?\nGeleneksel tatlılar ve sevdiklerle paylaşılan lezzetler günü.\n\n### Tarihçesi ve Önemi\n9 Temmuz Dünya Şekerleme ve Tatlı Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 9 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Temmuz Dünya Şekerleme ve Tatlı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-09",
+    "month_no": 7,
+    "day_no": 9,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Temmuz",
+      "#9temmuzdunyasekerlemevetatligunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000245",
+    "slug": "10-temmuz-dunya-hukuk-gunu",
+    "title": "10 Temmuz Dünya Hukuk Günü",
+    "description": "Hukukun üstünlüğü ve adil yargılanma hakkı günü.",
+    "content": "## 10 Temmuz Dünya Hukuk Günü Nedir?\nHukukun üstünlüğü ve adil yargılanma hakkı günü.\n\n### Tarihçesi ve Önemi\n10 Temmuz Dünya Hukuk Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 10 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Temmuz Dünya Hukuk Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-10",
+    "month_no": 7,
+    "day_no": 10,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#10Temmuz",
+      "#10temmuzdunyahukukgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000246",
+    "slug": "11-temmuz-dunya-nufus-gunu",
+    "title": "11 Temmuz Dünya Nüfus Günü",
+    "description": "Demografik değişimler ve sürdürülebilir kalkınma günü.",
+    "content": "## 11 Temmuz Dünya Nüfus Günü Nedir?\nDemografik değişimler ve sürdürülebilir kalkınma günü.\n\n### Tarihçesi ve Önemi\n11 Temmuz Dünya Nüfus Günü, gerek Türkiye'de gerekse uluslararası alanda BM UNDP nezdinde tanınan ve her yıl 11 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Temmuz Dünya Nüfus Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-11",
+    "month_no": 7,
+    "day_no": 11,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM UNDP",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Temmuz",
+      "#11temmuzdunyanufusgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000247",
+    "slug": "12-temmuz-malala-gunu-kiz-cocuklarinin-egitimi",
+    "title": "12 Temmuz Malala Günü (Kız Çocuklarının Eğitimi)",
+    "description": "Tüm kız çocuklarının eğitim hakkını savunan BM günü.",
+    "content": "## 12 Temmuz Malala Günü (Kız Çocuklarının Eğitimi) Nedir?\nTüm kız çocuklarının eğitim hakkını savunan BM günü.\n\n### Tarihçesi ve Önemi\n12 Temmuz Malala Günü (Kız Çocuklarının Eğitimi), gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 12 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Temmuz Malala Günü (Kız Çocuklarının Eğitimi) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-12",
+    "month_no": 7,
+    "day_no": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Temmuz",
+      "#12temmuzmalalagunukizcocuklarininegitimi"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000248",
+    "slug": "13-temmuz-dunya-rock-muzigi-gunu",
+    "title": "13 Temmuz Dünya Rock Müziği Günü",
+    "description": "Live Aid anısına rock müziğin özgür ruhunu kutlama günü.",
+    "content": "## 13 Temmuz Dünya Rock Müziği Günü Nedir?\nLive Aid anısına rock müziğin özgür ruhunu kutlama günü.\n\n### Tarihçesi ve Önemi\n13 Temmuz Dünya Rock Müziği Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 13 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Temmuz Dünya Rock Müziği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-13",
+    "month_no": 7,
+    "day_no": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#13Temmuz",
+      "#13temmuzdunyarockmuzigigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000249",
+    "slug": "14-temmuz-kopekbaliklari-farkindalik-gunu",
+    "title": "14 Temmuz Köpekbalıkları Farkındalık Günü",
+    "description": "Denizlerin tepe avcıları köpekbalıklarını koruma günü.",
+    "content": "## 14 Temmuz Köpekbalıkları Farkındalık Günü Nedir?\nDenizlerin tepe avcıları köpekbalıklarını koruma günü.\n\n### Tarihçesi ve Önemi\n14 Temmuz Köpekbalıkları Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 14 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Temmuz Köpekbalıkları Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-14",
+    "month_no": 7,
+    "day_no": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#14Temmuz",
+      "#14temmuzkopekbaliklarifarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000086",
     "slug": "demokrasi-ve-milli-birlik-gunu",
     "title": "15 Temmuz Demokrasi ve Milli Birlik Günü",
@@ -2042,6 +5019,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000250",
+    "slug": "16-temmuz-dunya-yilanlar-ve-surungenler-gunu",
+    "title": "16 Temmuz Dünya Yılanlar ve Sürüngenler Günü",
+    "description": "Ekosistem için kritik sürüngen türlerini tanıma günü.",
+    "content": "## 16 Temmuz Dünya Yılanlar ve Sürüngenler Günü Nedir?\nEkosistem için kritik sürüngen türlerini tanıma günü.\n\n### Tarihçesi ve Önemi\n16 Temmuz Dünya Yılanlar ve Sürüngenler Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 16 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Temmuz Dünya Yılanlar ve Sürüngenler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-16",
+    "month_no": 7,
+    "day_no": 16,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#16Temmuz",
+      "#16temmuzdunyayilanlarvesurungenlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000087",
     "slug": "dunya-emoji-gunu",
     "title": "17 Temmuz Dünya Emoji Günü",
@@ -2061,6 +5063,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "emoji yastık peluş",
       "emoji anahtarlık",
       "renkli sticker çıkartma seti"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000251",
+    "slug": "18-temmuz-nelson-mandela-uluslararasi-gunu",
+    "title": "18 Temmuz Nelson Mandela Uluslararası Günü",
+    "description": "Irkçılıkla mücadele ve barış için 67 dakikalık kamu hizmeti günü.",
+    "content": "## 18 Temmuz Nelson Mandela Uluslararası Günü Nedir?\nIrkçılıkla mücadele ve barış için 67 dakikalık kamu hizmeti günü.\n\n### Tarihçesi ve Önemi\n18 Temmuz Nelson Mandela Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/64/13) nezdinde tanınan ve her yıl 18 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Temmuz Nelson Mandela Uluslararası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-18",
+    "month_no": 7,
+    "day_no": 18,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/64/13)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Temmuz",
+      "#18temmuznelsonmandelauluslararasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000252",
+    "slug": "19-temmuz-dunya-dondurma-gunu",
+    "title": "19 Temmuz Dünya Dondurma Günü",
+    "description": "Sıcak yaz günlerini tatlandıran dondurma lezzeti günü.",
+    "content": "## 19 Temmuz Dünya Dondurma Günü Nedir?\nSıcak yaz günlerini tatlandıran dondurma lezzeti günü.\n\n### Tarihçesi ve Önemi\n19 Temmuz Dünya Dondurma Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 19 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Temmuz Dünya Dondurma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-19",
+    "month_no": 7,
+    "day_no": 19,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Temmuz",
+      "#19temmuzdunyadondurmagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2087,6 +5139,574 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000253",
+    "slug": "21-temmuz-dunya-abur-cubur-gunu",
+    "title": "21 Temmuz Dünya Abur Cubur Günü",
+    "description": "Arada bir kendimizi ödüllendirdiğimiz eğlenceli atıştırmalıklar günü.",
+    "content": "## 21 Temmuz Dünya Abur Cubur Günü Nedir?\nArada bir kendimizi ödüllendirdiğimiz eğlenceli atıştırmalıklar günü.\n\n### Tarihçesi ve Önemi\n21 Temmuz Dünya Abur Cubur Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 21 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"21 Temmuz Dünya Abur Cubur Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"21 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-21",
+    "month_no": 7,
+    "day_no": 21,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#21Temmuz",
+      "#21temmuzdunyaaburcuburgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000254",
+    "slug": "22-temmuz-dunya-beyin-gunu",
+    "title": "22 Temmuz Dünya Beyin Günü",
+    "description": "Nörolojik sağlık ve zihinsel zindeliği koruma günü.",
+    "content": "## 22 Temmuz Dünya Beyin Günü Nedir?\nNörolojik sağlık ve zihinsel zindeliği koruma günü.\n\n### Tarihçesi ve Önemi\n22 Temmuz Dünya Beyin Günü, gerek Türkiye'de gerekse uluslararası alanda World Federation of Neurology nezdinde tanınan ve her yıl 22 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Temmuz Dünya Beyin Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-22",
+    "month_no": 7,
+    "day_no": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Federation of Neurology",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Temmuz",
+      "#22temmuzdunyabeyingunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000255",
+    "slug": "23-temmuz-dunya-buyukanneler-ve-buyukbabalar-gunu",
+    "title": "23 Temmuz Dünya Büyükanneler ve Büyükbabalar Günü",
+    "description": "Ailenin bilge çınarları büyüklerimizi ziyaret etme günü.",
+    "content": "## 23 Temmuz Dünya Büyükanneler ve Büyükbabalar Günü Nedir?\nAilenin bilge çınarları büyüklerimizi ziyaret etme günü.\n\n### Tarihçesi ve Önemi\n23 Temmuz Dünya Büyükanneler ve Büyükbabalar Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 23 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Temmuz Dünya Büyükanneler ve Büyükbabalar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-23",
+    "month_no": 7,
+    "day_no": 23,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Temmuz",
+      "#23temmuzdunyabuyukannelervebuyukbabalargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000256",
+    "slug": "24-temmuz-gazeteciler-ve-basin-bayrami",
+    "title": "24 Temmuz Gazeteciler ve Basın Bayramı",
+    "description": "1908 yılında sansürün kaldırılışını onurlandıran Türk basın günü.",
+    "content": "## 24 Temmuz Gazeteciler ve Basın Bayramı Nedir?\n1908 yılında sansürün kaldırılışını onurlandıran Türk basın günü.\n\n### Tarihçesi ve Önemi\n24 Temmuz Gazeteciler ve Basın Bayramı, gerek Türkiye'de gerekse uluslararası alanda T.C. İletişim Başkanlığı nezdinde tanınan ve her yıl 24 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Temmuz Gazeteciler ve Basın Bayramı kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-24",
+    "month_no": 7,
+    "day_no": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. İletişim Başkanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Temmuz",
+      "#24temmuzgazetecilervebasinbayrami"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000257",
+    "slug": "25-temmuz-bogulmayi-onleme-gunu",
+    "title": "25 Temmuz Boğulmayı Önleme Günü",
+    "description": "Suda boğulma vakalarını önleme ve cankurtaranlık bilinci günü.",
+    "content": "## 25 Temmuz Boğulmayı Önleme Günü Nedir?\nSuda boğulma vakalarını önleme ve cankurtaranlık bilinci günü.\n\n### Tarihçesi ve Önemi\n25 Temmuz Boğulmayı Önleme Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/75/273) nezdinde tanınan ve her yıl 25 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Temmuz Boğulmayı Önleme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-25",
+    "month_no": 7,
+    "day_no": 25,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/75/273)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Temmuz",
+      "#25temmuzbogulmayionlemegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000258",
+    "slug": "26-temmuz-mangrov-ekosistemini-koruma-gunu",
+    "title": "26 Temmuz Mangrov Ekosistemini Koruma Günü",
+    "description": "Kıyı şeritlerini fırtınalardan koruyan mangrov ormanları günü.",
+    "content": "## 26 Temmuz Mangrov Ekosistemini Koruma Günü Nedir?\nKıyı şeritlerini fırtınalardan koruyan mangrov ormanları günü.\n\n### Tarihçesi ve Önemi\n26 Temmuz Mangrov Ekosistemini Koruma Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 26 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Temmuz Mangrov Ekosistemini Koruma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-26",
+    "month_no": 7,
+    "day_no": 26,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Temmuz",
+      "#26temmuzmangrovekosisteminikorumagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000259",
+    "slug": "27-temmuz-bas-ve-boyun-kanserleri-farkindalik-gunu",
+    "title": "27 Temmuz Baş ve Boyun Kanserleri Farkındalık Günü",
+    "description": "Erken tanı ve tütün/alkol risklerine karşı bilinçlenme günü.",
+    "content": "## 27 Temmuz Baş ve Boyun Kanserleri Farkındalık Günü Nedir?\nErken tanı ve tütün/alkol risklerine karşı bilinçlenme günü.\n\n### Tarihçesi ve Önemi\n27 Temmuz Baş ve Boyun Kanserleri Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 27 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Temmuz Baş ve Boyun Kanserleri Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-27",
+    "month_no": 7,
+    "day_no": 27,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Temmuz",
+      "#27temmuzbasveboyunkanserlerifarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000260",
+    "slug": "28-temmuz-dunya-hepatit-gunu",
+    "title": "28 Temmuz Dünya Hepatit Günü",
+    "description": "Karaciğer sağlığı ve hepatit aşılaması günü.",
+    "content": "## 28 Temmuz Dünya Hepatit Günü Nedir?\nKaraciğer sağlığı ve hepatit aşılaması günü.\n\n### Tarihçesi ve Önemi\n28 Temmuz Dünya Hepatit Günü, gerek Türkiye'de gerekse uluslararası alanda DSÖ / WHO nezdinde tanınan ve her yıl 28 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Temmuz Dünya Hepatit Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-28",
+    "month_no": 7,
+    "day_no": 28,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "DSÖ / WHO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Temmuz",
+      "#28temmuzdunyahepatitgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000261",
+    "slug": "29-temmuz-uluslararasi-kaplan-gunu",
+    "title": "29 Temmuz Uluslararası Kaplan Günü",
+    "description": "Vahşi doğanın muhteşem kedileri kaplanların korunması günü.",
+    "content": "## 29 Temmuz Uluslararası Kaplan Günü Nedir?\nVahşi doğanın muhteşem kedileri kaplanların korunması günü.\n\n### Tarihçesi ve Önemi\n29 Temmuz Uluslararası Kaplan Günü, gerek Türkiye'de gerekse uluslararası alanda Global Tiger Initiative nezdinde tanınan ve her yıl 29 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Temmuz Uluslararası Kaplan Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-29",
+    "month_no": 7,
+    "day_no": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Global Tiger Initiative",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#29Temmuz",
+      "#29temmuzuluslararasikaplangunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000024",
+    "slug": "uluslararasi-dostluk-gunu",
+    "title": "30 Temmuz Uluslararası Dostluk Günü",
+    "description": "Halklar, ülkeler, kültürler ve bireyler arasındaki dostluk köprülerinin barış getireceğini savunan BM günü.",
+    "content": "## 30 Temmuz Uluslararası Dostluk Günü Nedir?\nBirleşmiş Milletler tarafından toplumlar arasında güven ve dayanışma tesis etmek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBirleşmiş Milletler tarafından toplumlar arasında güven ve dayanışma tesis etmek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 30 Temmuz Uluslararası Dostluk Günü Nasıl Kutlanır?\n1. En yakın arkadaşınızı arayıp ona değer verdiğinizi söyleyin.\n2. Birlikte kahve için veya anılarınızı yad edin.\n3. Yeni insanlarla samimi dostluklar kurun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İyi bir dost dünyalara bedeldir. Tüm vefakar dostların 30 Temmuz Uluslararası Dostluk Günü kutlu olsun! 🤝☕❤️\"\n* \"30 Temmuz Uluslararası Dostluk Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DostlukGunu #FriendshipDay #CanDostum\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-dostluk-gunu\"",
+    "celebration_date": "2026-07-30",
+    "month_no": 7,
+    "day_no": 30,
+    "category": "Eğlence",
+    "hashtags": [
+      "#DostlukGunu",
+      "#FriendshipDay",
+      "#CanDostum",
+      "#Dostluk"
+    ],
+    "affiliate_keywords": [
+      "arkadaşlık bilekliği çift",
+      "anı albümü yapışkanlı",
+      "arkadaşa esprili hediye"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000262",
+    "slug": "31-temmuz-dunya-doga-koruculari-gunu",
+    "title": "31 Temmuz Dünya Doğa Korucuları Günü",
+    "description": "Yaban hayatı korurken hayatını riske atan korucular günü.",
+    "content": "## 31 Temmuz Dünya Doğa Korucuları Günü Nedir?\nYaban hayatı korurken hayatını riske atan korucular günü.\n\n### Tarihçesi ve Önemi\n31 Temmuz Dünya Doğa Korucuları Günü, gerek Türkiye'de gerekse uluslararası alanda International Ranger Federation nezdinde tanınan ve her yıl 31 Temmuz tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"31 Temmuz Dünya Doğa Korucuları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"31 Temmuz günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-07-31",
+    "month_no": 7,
+    "day_no": 31,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Ranger Federation",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#31Temmuz",
+      "#31temmuzdunyadogakorucularigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000263",
+    "slug": "1-agustos-dunya-akciger-kanseri-gunu",
+    "title": "1 Ağustos Dünya Akciğer Kanseri Günü",
+    "description": "Akciğer sağlığı ve tütünden uzak durma farkındalığı.",
+    "content": "## 1 Ağustos Dünya Akciğer Kanseri Günü Nedir?\nAkciğer sağlığı ve tütünden uzak durma farkındalığı.\n\n### Tarihçesi ve Önemi\n1 Ağustos Dünya Akciğer Kanseri Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 1 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"1 Ağustos Dünya Akciğer Kanseri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"1 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-01",
+    "month_no": 8,
+    "day_no": 1,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#1Ağustos",
+      "#1agustosdunyaakcigerkanserigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000264",
+    "slug": "2-agustos-dunya-renkli-coraplar-gunu",
+    "title": "2 Ağustos Dünya Renkli Çoraplar Günü",
+    "description": "Giyime neşe katan renkli tasarımlar günü.",
+    "content": "## 2 Ağustos Dünya Renkli Çoraplar Günü Nedir?\nGiyime neşe katan renkli tasarımlar günü.\n\n### Tarihçesi ve Önemi\n2 Ağustos Dünya Renkli Çoraplar Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 2 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Ağustos Dünya Renkli Çoraplar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-02",
+    "month_no": 8,
+    "day_no": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Ağustos",
+      "#2agustosdunyarenklicoraplargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000265",
+    "slug": "3-agustos-dunya-karpuz-gunu",
+    "title": "3 Ağustos Dünya Karpuz Günü",
+    "description": "Yaz mevsiminin serinletici meyvesi karpuz günü.",
+    "content": "## 3 Ağustos Dünya Karpuz Günü Nedir?\nYaz mevsiminin serinletici meyvesi karpuz günü.\n\n### Tarihçesi ve Önemi\n3 Ağustos Dünya Karpuz Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 3 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Ağustos Dünya Karpuz Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-03",
+    "month_no": 8,
+    "day_no": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Ağustos",
+      "#3agustosdunyakarpuzgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000266",
+    "slug": "4-agustos-dunya-baykuslar-ve-yirtici-kuslar-gunu",
+    "title": "4 Ağustos Dünya Baykuşlar ve Yırtıcı Kuşlar Günü",
+    "description": "Gecenin sessiz avcıları baykuşları koruma günü.",
+    "content": "## 4 Ağustos Dünya Baykuşlar ve Yırtıcı Kuşlar Günü Nedir?\nGecenin sessiz avcıları baykuşları koruma günü.\n\n### Tarihçesi ve Önemi\n4 Ağustos Dünya Baykuşlar ve Yırtıcı Kuşlar Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 4 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Ağustos Dünya Baykuşlar ve Yırtıcı Kuşlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-04",
+    "month_no": 8,
+    "day_no": 4,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Ağustos",
+      "#4agustosdunyabaykuslarveyirticikuslargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000267",
+    "slug": "5-agustos-dunya-trafik-isiklari-gunu",
+    "title": "5 Ağustos Dünya Trafik Işıkları Günü",
+    "description": "Yol güvenliği ve düzenli şehir trafiği günü.",
+    "content": "## 5 Ağustos Dünya Trafik Işıkları Günü Nedir?\nYol güvenliği ve düzenli şehir trafiği günü.\n\n### Tarihçesi ve Önemi\n5 Ağustos Dünya Trafik Işıkları Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 5 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Ağustos Dünya Trafik Işıkları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-05",
+    "month_no": 8,
+    "day_no": 5,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#5Ağustos",
+      "#5agustosdunyatrafikisiklarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000268",
+    "slug": "6-agustos-hirosima-baris-anma-gunu",
+    "title": "6 Ağustos Hiroşima Barış Anma Günü",
+    "description": "Atom bombası kurbanlarını ve nükleersiz barış idealini anma günü.",
+    "content": "## 6 Ağustos Hiroşima Barış Anma Günü Nedir?\nAtom bombası kurbanlarını ve nükleersiz barış idealini anma günü.\n\n### Tarihçesi ve Önemi\n6 Ağustos Hiroşima Barış Anma Günü, gerek Türkiye'de gerekse uluslararası alanda Hiroshima Peace Memorial nezdinde tanınan ve her yıl 6 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Ağustos Hiroşima Barış Anma Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"6 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-06",
+    "month_no": 8,
+    "day_no": 6,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Hiroshima Peace Memorial",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Ağustos",
+      "#6agustoshirosimabarisanmagunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000269",
+    "slug": "7-agustos-dunya-deniz-feneri-gunu",
+    "title": "7 Ağustos Dünya Deniz Feneri Günü",
+    "description": "Karanlık denizleri aydınlatan tarihi deniz fenerleri günü.",
+    "content": "## 7 Ağustos Dünya Deniz Feneri Günü Nedir?\nKaranlık denizleri aydınlatan tarihi deniz fenerleri günü.\n\n### Tarihçesi ve Önemi\n7 Ağustos Dünya Deniz Feneri Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 7 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Ağustos Dünya Deniz Feneri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-07",
+    "month_no": 8,
+    "day_no": 7,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#7Ağustos",
+      "#7agustosdunyadenizfenerigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000270",
+    "slug": "8-agustos-dunya-kediler-gunu",
+    "title": "8 Ağustos Dünya Kediler Günü",
+    "description": "Evimizin ve sokakların sevimli patili dostları günü.",
+    "content": "## 8 Ağustos Dünya Kediler Günü Nedir?\nEvimizin ve sokakların sevimli patili dostları günü.\n\n### Tarihçesi ve Önemi\n8 Ağustos Dünya Kediler Günü, gerek Türkiye'de gerekse uluslararası alanda IFAW nezdinde tanınan ve her yıl 8 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Ağustos Dünya Kediler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-08",
+    "month_no": 8,
+    "day_no": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "IFAW",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#8Ağustos",
+      "#8agustosdunyakedilergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000271",
+    "slug": "9-agustos-dunya-yerli-halklar-gunu-ve-kitapseverler-gunu",
+    "title": "9 Ağustos Dünya Yerli Halklar Günü ve Kitapseverler Günü",
+    "description": "Geleneksel halkların mirası ve kitap okuma tutkusu günü.",
+    "content": "## 9 Ağustos Dünya Yerli Halklar Günü ve Kitapseverler Günü Nedir?\nGeleneksel halkların mirası ve kitap okuma tutkusu günü.\n\n### Tarihçesi ve Önemi\n9 Ağustos Dünya Yerli Halklar Günü ve Kitapseverler Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/49/214) nezdinde tanınan ve her yıl 9 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Ağustos Dünya Yerli Halklar Günü ve Kitapseverler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-09",
+    "month_no": 8,
+    "day_no": 9,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/49/214)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Ağustos",
+      "#9agustosdunyayerlihalklargunuvekitapseverlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000272",
+    "slug": "10-agustos-dunya-aslan-gunu",
+    "title": "10 Ağustos Dünya Aslan Günü",
+    "description": "Savana kralları aslanların neslini koruma günü.",
+    "content": "## 10 Ağustos Dünya Aslan Günü Nedir?\nSavana kralları aslanların neslini koruma günü.\n\n### Tarihçesi ve Önemi\n10 Ağustos Dünya Aslan Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 10 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Ağustos Dünya Aslan Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-10",
+    "month_no": 8,
+    "day_no": 10,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#10Ağustos",
+      "#10agustosdunyaaslangunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000273",
+    "slug": "11-agustos-dunya-celik-ve-sanayi-uretimi-gunu",
+    "title": "11 Ağustos Dünya Çelik ve Sanayi Üretimi Günü",
+    "description": "Ağır sanayi emekçileri ve mimari çelik üretimi günü.",
+    "content": "## 11 Ağustos Dünya Çelik ve Sanayi Üretimi Günü Nedir?\nAğır sanayi emekçileri ve mimari çelik üretimi günü.\n\n### Tarihçesi ve Önemi\n11 Ağustos Dünya Çelik ve Sanayi Üretimi Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 11 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Ağustos Dünya Çelik ve Sanayi Üretimi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-11",
+    "month_no": 8,
+    "day_no": 11,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Ağustos",
+      "#11agustosdunyacelikvesanayiuretimigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000274",
+    "slug": "12-agustos-uluslararasi-genclik-gunu-ve-dunya-fil-gunu",
+    "title": "12 Ağustos Uluslararası Gençlik Günü ve Dünya Fil Günü",
+    "description": "Gençlerin geleceğe yön vermesi ve filleri koruma günü.",
+    "content": "## 12 Ağustos Uluslararası Gençlik Günü ve Dünya Fil Günü Nedir?\nGençlerin geleceğe yön vermesi ve filleri koruma günü.\n\n### Tarihçesi ve Önemi\n12 Ağustos Uluslararası Gençlik Günü ve Dünya Fil Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/54/120) nezdinde tanınan ve her yıl 12 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Ağustos Uluslararası Gençlik Günü ve Dünya Fil Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-12",
+    "month_no": 8,
+    "day_no": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/54/120)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Ağustos",
+      "#12agustosuluslararasigenclikgunuvedunyafilgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000089",
     "slug": "dunya-solaklar-gunu",
     "title": "13 Ağustos Dünya Solaklar Günü",
@@ -2106,6 +5726,149 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "solaklar için makas",
       "sol el ergonomik mouse",
       "solaklar için dolma kalem"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000275",
+    "slug": "14-agustos-dunya-kertenkeleler-gunu",
+    "title": "14 Ağustos Dünya Kertenkeleler Günü",
+    "description": "Sürüngen türlerinin doğadaki dengesini hatırlatan gün.",
+    "content": "## 14 Ağustos Dünya Kertenkeleler Günü Nedir?\nSürüngen türlerinin doğadaki dengesini hatırlatan gün.\n\n### Tarihçesi ve Önemi\n14 Ağustos Dünya Kertenkeleler Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 14 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Ağustos Dünya Kertenkeleler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-14",
+    "month_no": 8,
+    "day_no": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#14Ağustos",
+      "#14agustosdunyakertenkelelergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000276",
+    "slug": "15-agustos-dunya-rahatlama-ve-dinlenme-gunu",
+    "title": "15 Ağustos Dünya Rahatlama ve Dinlenme Günü",
+    "description": "Stresi arkada bırakıp zihinsel ve bedensel dinlenme günü.",
+    "content": "## 15 Ağustos Dünya Rahatlama ve Dinlenme Günü Nedir?\nStresi arkada bırakıp zihinsel ve bedensel dinlenme günü.\n\n### Tarihçesi ve Önemi\n15 Ağustos Dünya Rahatlama ve Dinlenme Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 15 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Ağustos Dünya Rahatlama ve Dinlenme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-15",
+    "month_no": 8,
+    "day_no": 15,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Ağustos",
+      "#15agustosdunyarahatlamavedinlenmegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000277",
+    "slug": "16-agustos-dunya-paten-ve-kaykay-gunu",
+    "title": "16 Ağustos Dünya Paten ve Kaykay Günü",
+    "description": "Şehir sokaklarında paten ve kaykayla spor yapma günü.",
+    "content": "## 16 Ağustos Dünya Paten ve Kaykay Günü Nedir?\nŞehir sokaklarında paten ve kaykayla spor yapma günü.\n\n### Tarihçesi ve Önemi\n16 Ağustos Dünya Paten ve Kaykay Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 16 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Ağustos Dünya Paten ve Kaykay Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-16",
+    "month_no": 8,
+    "day_no": 16,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#16Ağustos",
+      "#16agustosdunyapatenvekaykaygunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000278",
+    "slug": "17-agustos-marmara-depremini-anma-gunu",
+    "title": "17 Ağustos Marmara Depremini Anma Günü",
+    "description": "17 Ağustos 1999 deprem şehitlerini saygıyla anma ve afet bilinci günü.",
+    "content": "## 17 Ağustos Marmara Depremini Anma Günü Nedir?\n17 Ağustos 1999 deprem şehitlerini saygıyla anma ve afet bilinci günü.\n\n### Tarihçesi ve Önemi\n17 Ağustos Marmara Depremini Anma Günü, gerek Türkiye'de gerekse uluslararası alanda AFAD & Kandilli nezdinde tanınan ve her yıl 17 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Ağustos Marmara Depremini Anma Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"17 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-17",
+    "month_no": 8,
+    "day_no": 17,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "AFAD & Kandilli",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Ağustos",
+      "#17agustosmarmaradepreminianmagunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000279",
+    "slug": "18-agustos-bilim-insanlarini-onurlandirma-gunu",
+    "title": "18 Ağustos Bilim İnsanlarını Onurlandırma Günü",
+    "description": "İnsanlığı aydınlatan araştırmacı ve akademisyenleri onurlandırma günü.",
+    "content": "## 18 Ağustos Bilim İnsanlarını Onurlandırma Günü Nedir?\nİnsanlığı aydınlatan araştırmacı ve akademisyenleri onurlandırma günü.\n\n### Tarihçesi ve Önemi\n18 Ağustos Bilim İnsanlarını Onurlandırma Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 18 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Ağustos Bilim İnsanlarını Onurlandırma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-18",
+    "month_no": 8,
+    "day_no": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Ağustos",
+      "#18agustosbiliminsanlarinionurlandirmagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000025",
+    "slug": "dunya-insani-yardim-gunu",
+    "title": "19 Ağustos Dünya İnsani Yardım Günü",
+    "description": "Kriz ve savaş bölgelerinde canları pahasına insanlara yardım eli uzatan yardım çalışanlarını anma günü.",
+    "content": "## 19 Ağustos Dünya İnsani Yardım Günü Nedir?\n2003 yılında BM Bağdat merkezine yapılan saldırıda hayatını kaybeden 22 yardım görevlisinin anısına kutlanır.\n\n### Tarihçesi ve Önemi\n2003 yılında BM Bağdat merkezine yapılan saldırıda hayatını kaybeden 22 yardım görevlisinin anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 19 Ağustos Dünya İnsani Yardım Günü Nasıl Kutlanır?\n1. Güvenilir yardım kuruluşlarına bağışta bulunun.\n2. Gönüllü yardım projelerinde aktif rol alın.\n3. İnsani değerleri savunun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"İnsanlık yardımlaşmayla yaşar. Tüm fedakar insani yardım çalışanlarına sonsuz minnetle! 19 Ağustos kutlu olsun. 🤝🕊️\"\n* \"19 Ağustos Dünya İnsani Yardım Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #InsaniYardimGunu #WorldHumanitarianDay #YardimEli\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-insani-yardim-gunu\"",
+    "celebration_date": "2026-08-19",
+    "month_no": 8,
+    "day_no": 19,
+    "category": "Uluslararası",
+    "hashtags": [
+      "#InsaniYardimGunu",
+      "#WorldHumanitarianDay",
+      "#YardimEli",
+      "#Dayanisma"
+    ],
+    "affiliate_keywords": [
+      "kızılay bağış kartı",
+      "yardım vakfı sertifikası",
+      "çelik matara"
     ]
   },
   {
@@ -2132,6 +5895,144 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000280",
+    "slug": "20-agustos-dunya-sivrisinek-gunu",
+    "title": "20 Ağustos Dünya Sivrisinek Günü",
+    "description": "Sıtma ve bulaşıcı hastalıklarla mücadele tarihi günü.",
+    "content": "## 20 Ağustos Dünya Sivrisinek Günü Nedir?\nSıtma ve bulaşıcı hastalıklarla mücadele tarihi günü.\n\n### Tarihçesi ve Önemi\n20 Ağustos Dünya Sivrisinek Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 20 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Ağustos Dünya Sivrisinek Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-20",
+    "month_no": 8,
+    "day_no": 20,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#20Ağustos",
+      "#20agustosdunyasivrisinekgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000281",
+    "slug": "21-agustos-terorizm-kurbanlarini-anma-gunu",
+    "title": "21 Ağustos Terörizm Kurbanlarını Anma Günü",
+    "description": "Terör eylemlerinde mağdur olan masum insanları anma günü.",
+    "content": "## 21 Ağustos Terörizm Kurbanlarını Anma Günü Nedir?\nTerör eylemlerinde mağdur olan masum insanları anma günü.\n\n### Tarihçesi ve Önemi\n21 Ağustos Terörizm Kurbanlarını Anma Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/72/165) nezdinde tanınan ve her yıl 21 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"21 Ağustos Terörizm Kurbanlarını Anma Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"21 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-21",
+    "month_no": 8,
+    "day_no": 21,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/72/165)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#21Ağustos",
+      "#21agustosterorizmkurbanlarinianmagunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000282",
+    "slug": "22-agustos-inanc-temelli-siddet-kurbanlarini-anma-gunu",
+    "title": "22 Ağustos İnanç Temelli Şiddet Kurbanlarını Anma Günü",
+    "description": "Din veya inanç kaynaklı şiddete uğrayanları anma günü.",
+    "content": "## 22 Ağustos İnanç Temelli Şiddet Kurbanlarını Anma Günü Nedir?\nDin veya inanç kaynaklı şiddete uğrayanları anma günü.\n\n### Tarihçesi ve Önemi\n22 Ağustos İnanç Temelli Şiddet Kurbanlarını Anma Günü, gerek Türkiye'de gerekse uluslararası alanda BM nezdinde tanınan ve her yıl 22 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Ağustos İnanç Temelli Şiddet Kurbanlarını Anma Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"22 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-22",
+    "month_no": 8,
+    "day_no": 22,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Ağustos",
+      "#22agustosinanctemellisiddetkurbanlarinianmagunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000283",
+    "slug": "23-agustos-kole-ticaretinin-yasaklanmasi-gunu",
+    "title": "23 Ağustos Köle Ticaretinin Yasaklanması Günü",
+    "description": "Köle ticaretinin kaldırılması ve insanlık onuru günü.",
+    "content": "## 23 Ağustos Köle Ticaretinin Yasaklanması Günü Nedir?\nKöle ticaretinin kaldırılması ve insanlık onuru günü.\n\n### Tarihçesi ve Önemi\n23 Ağustos Köle Ticaretinin Yasaklanması Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 23 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Ağustos Köle Ticaretinin Yasaklanması Günü vesilesiyle saygı ve hürmetle anıyoruz.\"\n* \"23 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-23",
+    "month_no": 8,
+    "day_no": 23,
+    "category": "Farkındalık",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Ağustos",
+      "#23agustoskoleticaretininyasaklanmasigunu"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000284",
+    "slug": "24-agustos-mutfak-sanatlari-ve-gastronomi-gunu",
+    "title": "24 Ağustos Mutfak Sanatları ve Gastronomi Günü",
+    "description": "Şeflerin yaratıcı tarifleri ve gastronomi mirası günü.",
+    "content": "## 24 Ağustos Mutfak Sanatları ve Gastronomi Günü Nedir?\nŞeflerin yaratıcı tarifleri ve gastronomi mirası günü.\n\n### Tarihçesi ve Önemi\n24 Ağustos Mutfak Sanatları ve Gastronomi Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 24 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Ağustos Mutfak Sanatları ve Gastronomi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-24",
+    "month_no": 8,
+    "day_no": 24,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Ağustos",
+      "#24agustosmutfaksanatlarivegastronomigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000285",
+    "slug": "25-agustos-ikinci-el-ve-geri-donusum-gunu",
+    "title": "25 Ağustos İkinci El ve Geri Dönüşüm Günü",
+    "description": "Eşyaları yeniden değerlendirerek kaynakları koruma günü.",
+    "content": "## 25 Ağustos İkinci El ve Geri Dönüşüm Günü Nedir?\nEşyaları yeniden değerlendirerek kaynakları koruma günü.\n\n### Tarihçesi ve Önemi\n25 Ağustos İkinci El ve Geri Dönüşüm Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 25 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Ağustos İkinci El ve Geri Dönüşüm Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-25",
+    "month_no": 8,
+    "day_no": 25,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Ağustos",
+      "#25agustosikincielvegeridonusumgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000091",
     "slug": "dunya-kopekler-gunu",
     "title": "26 Ağustos Dünya Köpekler Günü",
@@ -2152,6 +6053,81 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "köpek ödül bisküvisi",
       "köpek diş temizleme oyuncağı",
       "köpek yatağı ortopedik"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000286",
+    "slug": "27-agustos-dunya-tas-kagit-makas-gunu",
+    "title": "27 Ağustos Dünya Taş Kağıt Makas Günü",
+    "description": "Dünyanın en evrensel ve eğlenceli karar oyunu günü.",
+    "content": "## 27 Ağustos Dünya Taş Kağıt Makas Günü Nedir?\nDünyanın en evrensel ve eğlenceli karar oyunu günü.\n\n### Tarihçesi ve Önemi\n27 Ağustos Dünya Taş Kağıt Makas Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 27 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Ağustos Dünya Taş Kağıt Makas Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-27",
+    "month_no": 8,
+    "day_no": 27,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Ağustos",
+      "#27agustosdunyataskagitmakasgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000287",
+    "slug": "28-agustos-dunya-hayal-kurma-gunu",
+    "title": "28 Ağustos Dünya Hayal Kurma Günü",
+    "description": "Yeni projeler ve idealler için hayal gücünü serbest bırakma günü.",
+    "content": "## 28 Ağustos Dünya Hayal Kurma Günü Nedir?\nYeni projeler ve idealler için hayal gücünü serbest bırakma günü.\n\n### Tarihçesi ve Önemi\n28 Ağustos Dünya Hayal Kurma Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 28 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Ağustos Dünya Hayal Kurma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-28",
+    "month_no": 8,
+    "day_no": 28,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Ağustos",
+      "#28agustosdunyahayalkurmagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000288",
+    "slug": "29-agustos-nukleer-denemelere-karsi-uluslararasi-gun",
+    "title": "29 Ağustos Nükleer Denemelere Karşı Uluslararası Gün",
+    "description": "Nükleer silah denemelerini durdurma ve barışçıl dünya günü.",
+    "content": "## 29 Ağustos Nükleer Denemelere Karşı Uluslararası Gün Nedir?\nNükleer silah denemelerini durdurma ve barışçıl dünya günü.\n\n### Tarihçesi ve Önemi\n29 Ağustos Nükleer Denemelere Karşı Uluslararası Gün, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/64/35) nezdinde tanınan ve her yıl 29 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Ağustos Nükleer Denemelere Karşı Uluslararası Gün kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-29",
+    "month_no": 8,
+    "day_no": 29,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/64/35)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#29Ağustos",
+      "#29agustosnukleerdenemelerekarsiuluslararasigun"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2179,6 +6155,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000289",
+    "slug": "31-agustos-asiri-doz-farkindalik-gunu",
+    "title": "31 Ağustos Aşırı Doz Farkındalık Günü",
+    "description": "Madde bağımlılığı kaynaklı ölümleri önleme ve tedavi günü.",
+    "content": "## 31 Ağustos Aşırı Doz Farkındalık Günü Nedir?\nMadde bağımlılığı kaynaklı ölümleri önleme ve tedavi günü.\n\n### Tarihçesi ve Önemi\n31 Ağustos Aşırı Doz Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 31 Ağustos tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"31 Ağustos Aşırı Doz Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"31 Ağustos günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-08-31",
+    "month_no": 8,
+    "day_no": 31,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#31Ağustos",
+      "#31agustosasiridozfarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000093",
     "slug": "dunya-baris-gunu",
     "title": "1 Eylül Dünya Barış Günü",
@@ -2198,6 +6199,281 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "barış güvercini kolye",
       "barış temalı tişört",
       "felsefe ve barış kitapları"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000290",
+    "slug": "2-eylul-dunya-hindistan-cevizi-gunu",
+    "title": "2 Eylül Dünya Hindistan Cevizi Günü",
+    "description": "Tropik lezzet hindistan cevizinin sağlığa faydaları günü.",
+    "content": "## 2 Eylül Dünya Hindistan Cevizi Günü Nedir?\nTropik lezzet hindistan cevizinin sağlığa faydaları günü.\n\n### Tarihçesi ve Önemi\n2 Eylül Dünya Hindistan Cevizi Günü, gerek Türkiye'de gerekse uluslararası alanda APCC nezdinde tanınan ve her yıl 2 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Eylül Dünya Hindistan Cevizi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-02",
+    "month_no": 9,
+    "day_no": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "APCC",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Eylül",
+      "#2eyluldunyahindistancevizigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000291",
+    "slug": "3-eylul-dunya-gokdelenler-gunu",
+    "title": "3 Eylül Dünya Gökdelenler Günü",
+    "description": "Modern mimarinin göğe yükselen yapıları günü.",
+    "content": "## 3 Eylül Dünya Gökdelenler Günü Nedir?\nModern mimarinin göğe yükselen yapıları günü.\n\n### Tarihçesi ve Önemi\n3 Eylül Dünya Gökdelenler Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 3 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Eylül Dünya Gökdelenler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-03",
+    "month_no": 9,
+    "day_no": 3,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Eylül",
+      "#3eyluldunyagokdelenlergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000292",
+    "slug": "4-eylul-dunya-cinsel-saglik-gunu",
+    "title": "4 Eylül Dünya Cinsel Sağlık Günü",
+    "description": "Cinsel sağlık hakları ve bilinçlendirme günü.",
+    "content": "## 4 Eylül Dünya Cinsel Sağlık Günü Nedir?\nCinsel sağlık hakları ve bilinçlendirme günü.\n\n### Tarihçesi ve Önemi\n4 Eylül Dünya Cinsel Sağlık Günü, gerek Türkiye'de gerekse uluslararası alanda WAS nezdinde tanınan ve her yıl 4 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Eylül Dünya Cinsel Sağlık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-04",
+    "month_no": 9,
+    "day_no": 4,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "WAS",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Eylül",
+      "#4eyluldunyacinselsaglikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000293",
+    "slug": "5-eylul-uluslararasi-hayirseverlik-gunu",
+    "title": "5 Eylül Uluslararası Hayırseverlik Günü",
+    "description": "Muhtaçlara yardım eli uzatma ve dayanışma günü.",
+    "content": "## 5 Eylül Uluslararası Hayırseverlik Günü Nedir?\nMuhtaçlara yardım eli uzatma ve dayanışma günü.\n\n### Tarihçesi ve Önemi\n5 Eylül Uluslararası Hayırseverlik Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/67/105) nezdinde tanınan ve her yıl 5 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Eylül Uluslararası Hayırseverlik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-05",
+    "month_no": 9,
+    "day_no": 5,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/67/105)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#5Eylül",
+      "#5eylululuslararasihayirseverlikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000294",
+    "slug": "6-eylul-dunya-kitap-okuma-gunu",
+    "title": "6 Eylül Dünya Kitap Okuma Günü",
+    "description": "Kitap sayfalarında yeni dünyalar keşfetme günü.",
+    "content": "## 6 Eylül Dünya Kitap Okuma Günü Nedir?\nKitap sayfalarında yeni dünyalar keşfetme günü.\n\n### Tarihçesi ve Önemi\n6 Eylül Dünya Kitap Okuma Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 6 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Eylül Dünya Kitap Okuma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-06",
+    "month_no": 9,
+    "day_no": 6,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Eylül",
+      "#6eyluldunyakitapokumagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000295",
+    "slug": "7-eylul-temiz-hava-ve-mavi-gokyuzu-gunu",
+    "title": "7 Eylül Temiz Hava ve Mavi Gökyüzü Günü",
+    "description": "Hava kirliliğini önleyip temiz nefes alma günü.",
+    "content": "## 7 Eylül Temiz Hava ve Mavi Gökyüzü Günü Nedir?\nHava kirliliğini önleyip temiz nefes alma günü.\n\n### Tarihçesi ve Önemi\n7 Eylül Temiz Hava ve Mavi Gökyüzü Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/74/212) nezdinde tanınan ve her yıl 7 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Eylül Temiz Hava ve Mavi Gökyüzü Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-07",
+    "month_no": 9,
+    "day_no": 7,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/74/212)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#7Eylül",
+      "#7eylultemizhavavemavigokyuzugunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000296",
+    "slug": "8-eylul-uluslararasi-okuma-yazma-gunu-ve-fizyoterapi-gunu",
+    "title": "8 Eylül Uluslararası Okuma Yazma Günü ve Fizyoterapi Günü",
+    "description": "Eğitimde okur-yazarlık ve hareket sağlığı günü.",
+    "content": "## 8 Eylül Uluslararası Okuma Yazma Günü ve Fizyoterapi Günü Nedir?\nEğitimde okur-yazarlık ve hareket sağlığı günü.\n\n### Tarihçesi ve Önemi\n8 Eylül Uluslararası Okuma Yazma Günü ve Fizyoterapi Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 8 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Eylül Uluslararası Okuma Yazma Günü ve Fizyoterapi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-08",
+    "month_no": 9,
+    "day_no": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#8Eylül",
+      "#8eylululuslararasiokumayazmagunuvefizyoterapigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000297",
+    "slug": "9-eylul-izmirin-kurtulusu-ve-egitimi-koruma-gunu",
+    "title": "9 Eylül İzmir'in Kurtuluşu ve Eğitimi Koruma Günü",
+    "description": "9 Eylül 1922 bağımsızlık zaferi ve okulları koruma günü.",
+    "content": "## 9 Eylül İzmir'in Kurtuluşu ve Eğitimi Koruma Günü Nedir?\n9 Eylül 1922 bağımsızlık zaferi ve okulları koruma günü.\n\n### Tarihçesi ve Önemi\n9 Eylül İzmir'in Kurtuluşu ve Eğitimi Koruma Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Milli Savunma & BM nezdinde tanınan ve her yıl 9 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Eylül İzmir'in Kurtuluşu ve Eğitimi Koruma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-09",
+    "month_no": 9,
+    "day_no": 9,
+    "category": "Resmi",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Milli Savunma & BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Eylül",
+      "#9eylulizmirinkurtulusuveegitimikorumagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000298",
+    "slug": "10-eylul-dunya-intihari-onleme-gunu",
+    "title": "10 Eylül Dünya İntiharı Önleme Günü",
+    "description": "Ruh sağlığı desteği ve hayata tutunma çağrısı günü.",
+    "content": "## 10 Eylül Dünya İntiharı Önleme Günü Nedir?\nRuh sağlığı desteği ve hayata tutunma çağrısı günü.\n\n### Tarihçesi ve Önemi\n10 Eylül Dünya İntiharı Önleme Günü, gerek Türkiye'de gerekse uluslararası alanda DSÖ & IASP nezdinde tanınan ve her yıl 10 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"10 Eylül Dünya İntiharı Önleme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"10 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-10",
+    "month_no": 9,
+    "day_no": 10,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "DSÖ & IASP",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#10Eylül",
+      "#10eyluldunyaintiharionlemegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000299",
+    "slug": "11-eylul-dunya-ilk-yardim-gunu",
+    "title": "11 Eylül Dünya İlk Yardım Günü",
+    "description": "Acil durumlarda hayat kurtaran temel ilk yardım bilgisi günü.",
+    "content": "## 11 Eylül Dünya İlk Yardım Günü Nedir?\nAcil durumlarda hayat kurtaran temel ilk yardım bilgisi günü.\n\n### Tarihçesi ve Önemi\n11 Eylül Dünya İlk Yardım Günü, gerek Türkiye'de gerekse uluslararası alanda IFRC nezdinde tanınan ve her yıl 11 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Eylül Dünya İlk Yardım Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-11",
+    "month_no": 9,
+    "day_no": 11,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "IFRC",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Eylül",
+      "#11eyluldunyailkyardimgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000300",
+    "slug": "12-eylul-guney-guney-isbirligi-gunu",
+    "title": "12 Eylül Güney-Güney İşbirliği Günü",
+    "description": "Gelişmekte olan ülkeler arasında kalkınma ortaklığı günü.",
+    "content": "## 12 Eylül Güney-Güney İşbirliği Günü Nedir?\nGelişmekte olan ülkeler arasında kalkınma ortaklığı günü.\n\n### Tarihçesi ve Önemi\n12 Eylül Güney-Güney İşbirliği Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/58/220) nezdinde tanınan ve her yıl 12 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Eylül Güney-Güney İşbirliği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-12",
+    "month_no": 9,
+    "day_no": 12,
+    "category": "Uluslararası",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/58/220)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Eylül",
+      "#12eylulguneyguneyisbirligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2225,6 +6501,178 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000301",
+    "slug": "14-eylul-ilkogretim-haftasi-kutlamalari",
+    "title": "14 Eylül İlköğretim Haftası Kutlamaları",
+    "description": "Yeni eğitim öğretim yılı ve okula başlayan minikler günü.",
+    "content": "## 14 Eylül İlköğretim Haftası Kutlamaları Nedir?\nYeni eğitim öğretim yılı ve okula başlayan minikler günü.\n\n### Tarihçesi ve Önemi\n14 Eylül İlköğretim Haftası Kutlamaları, gerek Türkiye'de gerekse uluslararası alanda MEB nezdinde tanınan ve her yıl 14 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Eylül İlköğretim Haftası Kutlamaları kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-14",
+    "month_no": 9,
+    "day_no": 14,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "MEB",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#14Eylül",
+      "#14eylulilkogretimhaftasikutlamalari"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000302",
+    "slug": "15-eylul-uluslararasi-demokrasi-gunu",
+    "title": "15 Eylül Uluslararası Demokrasi Günü",
+    "description": "Halkın iradesi ve demokratik değerleri savunma günü.",
+    "content": "## 15 Eylül Uluslararası Demokrasi Günü Nedir?\nHalkın iradesi ve demokratik değerleri savunma günü.\n\n### Tarihçesi ve Önemi\n15 Eylül Uluslararası Demokrasi Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/62/7) nezdinde tanınan ve her yıl 15 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Eylül Uluslararası Demokrasi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-15",
+    "month_no": 9,
+    "day_no": 15,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/62/7)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Eylül",
+      "#15eylululuslararasidemokrasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000303",
+    "slug": "16-eylul-ozon-tabakasini-koruma-gunu",
+    "title": "16 Eylül Ozon Tabakasını Koruma Günü",
+    "description": "Montreal Protokolü ile ozon tabakasını onarma başarısı günü.",
+    "content": "## 16 Eylül Ozon Tabakasını Koruma Günü Nedir?\nMontreal Protokolü ile ozon tabakasını onarma başarısı günü.\n\n### Tarihçesi ve Önemi\n16 Eylül Ozon Tabakasını Koruma Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/49/114) nezdinde tanınan ve her yıl 16 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Eylül Ozon Tabakasını Koruma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-16",
+    "month_no": 9,
+    "day_no": 16,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/49/114)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#16Eylül",
+      "#16eylulozontabakasinikorumagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000304",
+    "slug": "17-eylul-dunya-hasta-guvenligi-gunu",
+    "title": "17 Eylül Dünya Hasta Güvenliği Günü",
+    "description": "Sağlık hizmetlerinde sıfır tıbbi hata ve güvenli tedavi günü.",
+    "content": "## 17 Eylül Dünya Hasta Güvenliği Günü Nedir?\nSağlık hizmetlerinde sıfır tıbbi hata ve güvenli tedavi günü.\n\n### Tarihçesi ve Önemi\n17 Eylül Dünya Hasta Güvenliği Günü, gerek Türkiye'de gerekse uluslararası alanda DSÖ / WHO nezdinde tanınan ve her yıl 17 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Eylül Dünya Hasta Güvenliği Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-17",
+    "month_no": 9,
+    "day_no": 17,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "DSÖ / WHO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Eylül",
+      "#17eyluldunyahastaguvenligigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000305",
+    "slug": "18-eylul-uluslararasi-esit-ucret-gunu",
+    "title": "18 Eylül Uluslararası Eşit Ücret Günü",
+    "description": "Kadın ve erkekler için eşit işe eşit ücret hakkı günü.",
+    "content": "## 18 Eylül Uluslararası Eşit Ücret Günü Nedir?\nKadın ve erkekler için eşit işe eşit ücret hakkı günü.\n\n### Tarihçesi ve Önemi\n18 Eylül Uluslararası Eşit Ücret Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/74/252) nezdinde tanınan ve her yıl 18 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Eylül Uluslararası Eşit Ücret Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-18",
+    "month_no": 9,
+    "day_no": 18,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/74/252)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Eylül",
+      "#18eylululuslararasiesitucretgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000026",
+    "slug": "gaziler-gunu",
+    "title": "19 Eylül Gaziler Günü",
+    "description": "Mustafa Kemal Atatürk'e 'Gazi' unvanı ve Mareşal rütbesinin verildiği günün anısına kutlanan milli vefa günü.",
+    "content": "## 19 Eylül Gaziler Günü Nedir?\n19 Eylül 1921'de Sakarya Meydan Muharebesi sonrası TBMM tarafından Atatürk'e Gazilik unvanı tevcih edilmiştir.\n\n### Tarihçesi ve Önemi\n19 Eylül 1921'de Sakarya Meydan Muharebesi sonrası TBMM tarafından Atatürk'e Gazilik unvanı tevcih edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 19 Eylül Gaziler Günü Nasıl Kutlanır?\n1. Muharip gazi derneklerini ziyaret edin.\n2. Kahraman gazilerimize şükran ve saygılarınızı sunun.\n3. Vatan fedakarlıklarını gençlere aktarın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Şehit nurlanmış, gazi onurlanmış askerdir. Başta Gazi Mustafa Kemal Atatürk olmak üzere tüm gazilerimize minnetle! 🇹🇷🎖️\"\n* \"19 Eylül Gaziler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GazilerGunu #19Eylul #KahramanGazilerimiz\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #gaziler-gunu\"",
+    "celebration_date": "2026-09-19",
+    "month_no": 9,
+    "day_no": 19,
+    "category": "Resmi",
+    "hashtags": [
+      "#GazilerGunu",
+      "#19Eylul",
+      "#KahramanGazilerimiz",
+      "#Ataturk"
+    ],
+    "affiliate_keywords": [
+      "türk bayrağı masa üstü pirinç",
+      "atatürk biyografisi ciltli",
+      "rozet"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000306",
+    "slug": "20-eylul-dunya-temizlik-gunu-world-cleanup-day",
+    "title": "20 Eylül Dünya Temizlik Günü (World Cleanup Day)",
+    "description": "Doğayı atıklardan arındırmak için küresel çevre hareketi günü.",
+    "content": "## 20 Eylül Dünya Temizlik Günü (World Cleanup Day) Nedir?\nDoğayı atıklardan arındırmak için küresel çevre hareketi günü.\n\n### Tarihçesi ve Önemi\n20 Eylül Dünya Temizlik Günü (World Cleanup Day), gerek Türkiye'de gerekse uluslararası alanda Let's Do It World & BM nezdinde tanınan ve her yıl 20 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Eylül Dünya Temizlik Günü (World Cleanup Day) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-20",
+    "month_no": 9,
+    "day_no": 20,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Let's Do It World & BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#20Eylül",
+      "#20eyluldunyatemizlikgunuworldcleanupday"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000095",
     "slug": "dunya-alzheimer-gunu",
     "title": "21 Eylül Dünya Alzheimer Günü",
@@ -2244,6 +6692,153 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hafıza güçlendirme bulmaca kitabı",
       "akıl oyunları seti yetişkin",
       "akıllı saat gps yaşlı"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000307",
+    "slug": "22-eylul-dunya-otomobilsiz-kentler-gunu-ve-gergedanlar-gunu",
+    "title": "22 Eylül Dünya Otomobilsiz Kentler Günü ve Gergedanlar Günü",
+    "description": "Egzoz dumanı yerine bisiklet ve yürüyüş günü.",
+    "content": "## 22 Eylül Dünya Otomobilsiz Kentler Günü ve Gergedanlar Günü Nedir?\nEgzoz dumanı yerine bisiklet ve yürüyüş günü.\n\n### Tarihçesi ve Önemi\n22 Eylül Dünya Otomobilsiz Kentler Günü ve Gergedanlar Günü, gerek Türkiye'de gerekse uluslararası alanda European Mobility Week nezdinde tanınan ve her yıl 22 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Eylül Dünya Otomobilsiz Kentler Günü ve Gergedanlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-22",
+    "month_no": 9,
+    "day_no": 22,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "European Mobility Week",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Eylül",
+      "#22eyluldunyaotomobilsizkentlergunuvegergedanlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000308",
+    "slug": "23-eylul-uluslararasi-isaret-dilleri-gunu",
+    "title": "23 Eylül Uluslararası İşaret Dilleri Günü",
+    "description": "İşitme engellilerin dil hakları ve işaret dili zenginliği günü.",
+    "content": "## 23 Eylül Uluslararası İşaret Dilleri Günü Nedir?\nİşitme engellilerin dil hakları ve işaret dili zenginliği günü.\n\n### Tarihçesi ve Önemi\n23 Eylül Uluslararası İşaret Dilleri Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/72/161) nezdinde tanınan ve her yıl 23 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Eylül Uluslararası İşaret Dilleri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-23",
+    "month_no": 9,
+    "day_no": 23,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/72/161)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Eylül",
+      "#23eylululuslararasiisaretdillerigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000309",
+    "slug": "24-eylul-itfaiyecilik-haftasi-kutlamalari",
+    "title": "24 Eylül İtfaiyecilik Haftası Kutlamaları",
+    "description": "Yangınla mücadelede fedakarca çalışan itfaiyeciler haftası.",
+    "content": "## 24 Eylül İtfaiyecilik Haftası Kutlamaları Nedir?\nYangınla mücadelede fedakarca çalışan itfaiyeciler haftası.\n\n### Tarihçesi ve Önemi\n24 Eylül İtfaiyecilik Haftası Kutlamaları, gerek Türkiye'de gerekse uluslararası alanda İtfaiye Daire Başkanlığı nezdinde tanınan ve her yıl 24 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Eylül İtfaiyecilik Haftası Kutlamaları kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-24",
+    "month_no": 9,
+    "day_no": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "İtfaiye Daire Başkanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Eylül",
+      "#24eylulitfaiyecilikhaftasikutlamalari"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000310",
+    "slug": "25-eylul-dunya-eczacilar-gunu",
+    "title": "25 Eylül Dünya Eczacılar Günü",
+    "description": "İlaç uzmanı eczacıların toplum sağlığına katkıları günü.",
+    "content": "## 25 Eylül Dünya Eczacılar Günü Nedir?\nİlaç uzmanı eczacıların toplum sağlığına katkıları günü.\n\n### Tarihçesi ve Önemi\n25 Eylül Dünya Eczacılar Günü, gerek Türkiye'de gerekse uluslararası alanda FIP Eczacılık Federasyonu nezdinde tanınan ve her yıl 25 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Eylül Dünya Eczacılar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-25",
+    "month_no": 9,
+    "day_no": 25,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "FIP Eczacılık Federasyonu",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Eylül",
+      "#25eyluldunyaeczacilargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000311",
+    "slug": "26-eylul-avrupa-diller-gunu-ve-nukleer-silahlari-yok-etme-gunu",
+    "title": "26 Eylül Avrupa Diller Günü ve Nükleer Silahları Yok Etme Günü",
+    "description": "Çok dillilik ve barış dolu dünya ideali günü.",
+    "content": "## 26 Eylül Avrupa Diller Günü ve Nükleer Silahları Yok Etme Günü Nedir?\nÇok dillilik ve barış dolu dünya ideali günü.\n\n### Tarihçesi ve Önemi\n26 Eylül Avrupa Diller Günü ve Nükleer Silahları Yok Etme Günü, gerek Türkiye'de gerekse uluslararası alanda Avrupa Konseyi & BM nezdinde tanınan ve her yıl 26 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Eylül Avrupa Diller Günü ve Nükleer Silahları Yok Etme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-26",
+    "month_no": 9,
+    "day_no": 26,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Avrupa Konseyi & BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Eylül",
+      "#26eylulavrupadillergunuvenukleersilahlariyoketmegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000027",
+    "slug": "dunya-turizm-gunu",
+    "title": "27 Eylül Dünya Turizm Günü",
+    "description": "Farklı kültürleri tanıma, seyahat özgürlüğü ve sürdürülebilir turizmin ekonomik gücünü kutlayan BM günü.",
+    "content": "## 27 Eylül Dünya Turizm Günü Nedir?\nDünya Turizm Örgütü (UNWTO) tüzüğünün kabul edildiği gün olan 27 Eylül, küresel seyahat bilincini artırır.\n\n### Tarihçesi ve Önemi\nDünya Turizm Örgütü (UNWTO) tüzüğünün kabul edildiği gün olan 27 Eylül, küresel seyahat bilincini artırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 27 Eylül Dünya Turizm Günü Nasıl Kutlanır?\n1. Yeni bir şehri veya tarihi bir mekanı keşfe çıkın.\n2. Yerel esnafı ve eko-turizmi destekleyin.\n3. Gezdiğiniz yerlerin doğasına ve kültürüne saygı gösterin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünya bir kitaptır ve seyahat etmeyenler sadece bir sayfasını okur. 27 Eylül Dünya Turizm Günü kutlu olsun! ✈️🗺️🧳\"\n* \"27 Eylül Dünya Turizm Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaTurizmGunu #WorldTourismDay #Gezgin\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-turizm-gunu\"",
+    "celebration_date": "2026-09-27",
+    "month_no": 9,
+    "day_no": 27,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#DunyaTurizmGunu",
+      "#WorldTourismDay",
+      "#Gezgin",
+      "#Seyahat"
+    ],
+    "affiliate_keywords": [
+      "seyahat sırt çantası kabin boy",
+      "boyun yastığı hafızalı sünger",
+      "evrensel priz dönüştürücü"
     ]
   },
   {
@@ -2313,6 +6908,53 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000312",
+    "slug": "30-eylul-uluslararasi-ceviri-gunu",
+    "title": "30 Eylül Uluslararası Çeviri Günü",
+    "description": "Diller ve kültürler arasında köprü kuran mütercim-tercümanlar günü.",
+    "content": "## 30 Eylül Uluslararası Çeviri Günü Nedir?\nDiller ve kültürler arasında köprü kuran mütercim-tercümanlar günü.\n\n### Tarihçesi ve Önemi\n30 Eylül Uluslararası Çeviri Günü, gerek Türkiye'de gerekse uluslararası alanda BM & FIT nezdinde tanınan ve her yıl 30 Eylül tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Eylül Uluslararası Çeviri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Eylül günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-09-30",
+    "month_no": 9,
+    "day_no": 30,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM & FIT",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#30Eylül",
+      "#30eylululuslararasicevirigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000028",
+    "slug": "dunya-yaslilar-gunu",
+    "title": "1 Ekim Dünya Yaşlılar Günü",
+    "description": "Tecrübeleriyle topluma ışık tutan kıymetli büyüklerimizin haklarını ve refahını koruyan BM günü.",
+    "content": "## 1 Ekim Dünya Yaşlılar Günü Nedir?\nBirleşmiş Milletler tarafından yaşlanan nüfusun haklarına, bakımına ve kuşaklar arası dayanışmaya dikkat çekmek için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBirleşmiş Milletler tarafından yaşlanan nüfusun haklarına, bakımına ve kuşaklar arası dayanışmaya dikkat çekmek için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Ekim Dünya Yaşlılar Günü Nasıl Kutlanır?\n1. Ailenizdeki ve çevrenizdeki yaşlıları ziyaret edip ellerini öpün.\n2. Huzurevlerine ziyarette bulunun.\n3. Onların hayat tecrübelerini ve hatıralarını dinleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Büyüklerimiz geçmişimizin hafızası, geleceğimizin duasıdır. 1 Ekim Dünya Yaşlılar Günü kutlu olsun! 👵🧓🤍\"\n* \"1 Ekim Dünya Yaşlılar Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaYaslilarGunu #BuyuklerimizeSaygi #YasliHaklari\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-yaslilar-gunu\"",
+    "celebration_date": "2026-10-01",
+    "month_no": 10,
+    "day_no": 1,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#DunyaYaslilarGunu",
+      "#BuyuklerimizeSaygi",
+      "#YasliHaklari",
+      "#1Ekim"
+    ],
+    "affiliate_keywords": [
+      "ortopedik baston ışıklı",
+      "yaşlılar için tansiyon aleti konuşan",
+      "ısıtmalı ayak masaj aleti"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000099",
     "slug": "dunya-kahve-gunu",
     "title": "1 Ekim Dünya Kahve Günü",
@@ -2335,6 +6977,56 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "termos kupa",
       "french press",
       "chemex"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000313",
+    "slug": "2-ekim-uluslararasi-siddete-hayir-gunu",
+    "title": "2 Ekim Uluslararası Şiddete Hayır Günü",
+    "description": "Mahatma Gandhi anısına barış ve şiddetsizlik günü.",
+    "content": "## 2 Ekim Uluslararası Şiddete Hayır Günü Nedir?\nMahatma Gandhi anısına barış ve şiddetsizlik günü.\n\n### Tarihçesi ve Önemi\n2 Ekim Uluslararası Şiddete Hayır Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/61/271) nezdinde tanınan ve her yıl 2 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Ekim Uluslararası Şiddete Hayır Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-02",
+    "month_no": 10,
+    "day_no": 2,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/61/271)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Ekim",
+      "#2ekimuluslararasisiddetehayirgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000314",
+    "slug": "3-ekim-dunya-mimarlik-gunu-ve-turk-dili-konusan-ulkeler-gunu",
+    "title": "3 Ekim Dünya Mimarlık Günü ve Türk Dili Konuşan Ülkeler Günü",
+    "description": "Yaşanabilir şehirler ve Türk dünyası dayanışması günü.",
+    "content": "## 3 Ekim Dünya Mimarlık Günü ve Türk Dili Konuşan Ülkeler Günü Nedir?\nYaşanabilir şehirler ve Türk dünyası dayanışması günü.\n\n### Tarihçesi ve Önemi\n3 Ekim Dünya Mimarlık Günü ve Türk Dili Konuşan Ülkeler Günü, gerek Türkiye'de gerekse uluslararası alanda UIA & Türk Devletleri Teşkilatı nezdinde tanınan ve her yıl 3 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Ekim Dünya Mimarlık Günü ve Türk Dili Konuşan Ülkeler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-03",
+    "month_no": 10,
+    "day_no": 3,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UIA & Türk Devletleri Teşkilatı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Ekim",
+      "#3ekimdunyamimarlikgunuveturkdilikonusanulkelergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2361,34 +7053,131 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
-  "id": "f8b9a112-9844-48f8-b3f1-000000000100b",
-  "slug": "dunya-pamuk-gunu",
-  "title": "7 Ekim Dünya Pamuk Günü",
-  "description": "Birleşmiş Milletler (BM) Genel Kurulu tarafından ilan edilen, pamuğun küresel ekonomideki, sürdürülebilir tarımdaki ve istihdamdaki kritik rolünü vurgulayan uluslararası gün.",
-  "content": "## 7 Ekim Dünya Pamuk Günü Nedir?\nDünya Pamuk Günü (World Cotton Day), Birleşmiş Milletler (BM) Genel Kurulu'nun A/RES/75/318 sayılı kararı ile her yıl 7 Ekim tarihinde tüm dünyada idrak edilen resmî bir uluslararası farkındalık günüdür.\n\n### Tarihçesi ve Önemi\nPamuk üreticisi gelişmekte olan Benin, Burkina Faso, Çad ve Mali (Cotton-4) ülkelerinin Dünya Ticaret Örgütü'ne (DTÖ) yaptığı başvuru sonucunda, 2019 yılında BM Gıda ve Tarım Örgütü (FAO), BM Ticaret ve Kalkınma Konferansı (UNCTAD) ve Uluslararası Pamuk Danışma Komitesi (ICAC) ortaklığıyla başlatılmıştır. Pamuk, dünya genelinde 100 milyondan fazla aileye doğrudan gelir sağlayan ve biyolojik olarak tamamen çözünebilen stratejik bir doğal elyaftır.\n\n---\n\n## 7 Ekim Dünya Pamuk Günü Nasıl Değerlendirilir?\n1. Sürdürülebilir, organik ve sertifikalı pamuklu tekstil ürünlerini tercih edin.\n2. Sentetik ve mikroplastik yayan kumaşlar yerine doğal liflerin önemini araştırın.\n3. Çiftçilerin ve tekstil işçilerinin adil ticaret (Fairtrade) haklarına destek olun.\n\n---\n\n## Sosyal Medya Farkındalık Mesajları\n* \"Tarladan gardıroba uzanan doğal emek: 7 Ekim Dünya Pamuk Günü kutlu olsun! Sürdürülebilir tarımı ve doğal lifleri destekliyoruz. 🌱🧵 #DunyaPamukGunu #WorldCottonDay\"\n* \"Dünya genelinde 100 milyondan fazla çiftçi ailesinin geçim kaynağı olan pamuğun değerini biliyoruz. 7 Ekim Dünya Pamuk Günü kutlu olsun. #Pamuk #SurdurulebilirTekstil\"\n* \"Sentetik kumaşlara karşı doğayı koru, pamuğu seç. #WorldCottonDay #7Ekim\"",
-  "celebration_date": "2026-10-07",
-  "month_no": 10,
-  "day_no": 7,
-  "category": "Uluslararası",
-  "day_type": "farkindalik",
-  "is_public_holiday": false,
-  "scope": "bm",
-  "source_name": "Birleşmiş Milletler Genel Kurulu (A/RES/75/318)",
-  "source_url": "https://press.un.org/en/2021/ga12354.doc.htm",
-  "verified_at": "2026-10-07",
-  "hashtags": [
-    "#DunyaPamukGunu",
-    "#WorldCottonDay",
-    "#7Ekim",
-    "#Pamuk",
-    "#SurdurulebilirTarim"
-  ],
-  "affiliate_keywords": [
-    "organik pamuk nevresim",
-    "yüzde 100 pamuk tişört",
-    "doğal pamuklu havlu"
-  ]
-},
+    "id": "f8b9a112-9844-48f8-b3f1-000000000029",
+    "slug": "dunya-ogretmenler-gunu-unesco",
+    "title": "5 Ekim Dünya Öğretmenler Günü (UNESCO)",
+    "description": "Dünya genelinde öğretmenlerin statüsü ve haklarını savunan UNESCO ve ILO ortak kutlama günü.",
+    "content": "## 5 Ekim Dünya Öğretmenler Günü (UNESCO) Nedir?\n1966 yılında Öğretmenlerin Statüsüne İlişkin Tavsiye Kararı'nın kabul edildiği gün olup tüm dünyada eğitimcileri onurlandırır.\n\n### Tarihçesi ve Önemi\n1966 yılında Öğretmenlerin Statüsüne İlişkin Tavsiye Kararı'nın kabul edildiği gün olup tüm dünyada eğitimcileri onurlandırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Ekim Dünya Öğretmenler Günü (UNESCO) Nasıl Kutlanır?\n1. Dünyanın dört bir yanındaki öğretmenlerin emeğini takdir edin.\n2. Eğitime bütçe ayrılmasını destekleyin.\n3. Öğretmenlerinize mesaj gönderin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Karanlığı aydınlatan tüm fedakar öğretmenlerimizin 5 Ekim Dünya Öğretmenler Günü kutlu olsun! 📚🌍🧑‍🏫\"\n* \"5 Ekim Dünya Öğretmenler Günü (UNESCO) kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaOgretmenlerGunu #WorldTeachersDay #5Ekim\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-ogretmenler-gunu-unesco\"",
+    "celebration_date": "2026-10-05",
+    "month_no": 10,
+    "day_no": 5,
+    "category": "Mesleki",
+    "hashtags": [
+      "#DunyaOgretmenlerGunu",
+      "#WorldTeachersDay",
+      "#5Ekim",
+      "#Ogretmen"
+    ],
+    "affiliate_keywords": [
+      "lazer sunum kumandası",
+      "öğretmen ajandası 2026",
+      "isme özel kupa"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000315",
+    "slug": "6-ekim-istanbulun-kurtulusu-ve-serebral-palsi-gunu",
+    "title": "6 Ekim İstanbul'un Kurtuluşu ve Serebral Palsi Günü",
+    "description": "6 Ekim 1923 İstanbul'un kurtuluşu ve serebral palsi farkındalığı.",
+    "content": "## 6 Ekim İstanbul'un Kurtuluşu ve Serebral Palsi Günü Nedir?\n6 Ekim 1923 İstanbul'un kurtuluşu ve serebral palsi farkındalığı.\n\n### Tarihçesi ve Önemi\n6 Ekim İstanbul'un Kurtuluşu ve Serebral Palsi Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Kültür Bakanlığı nezdinde tanınan ve her yıl 6 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Ekim İstanbul'un Kurtuluşu ve Serebral Palsi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-06",
+    "month_no": 10,
+    "day_no": 6,
+    "category": "Resmi",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Kültür Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Ekim",
+      "#6ekimistanbulunkurtulusuveserebralpalsigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000100b",
+    "slug": "dunya-pamuk-gunu",
+    "title": "7 Ekim Dünya Pamuk Günü",
+    "description": "Birleşmiş Milletler (BM) Genel Kurulu tarafından ilan edilen, pamuğun küresel ekonomideki, sürdürülebilir tarımdaki ve istihdamdaki kritik rolünü vurgulayan uluslararası gün.",
+    "content": "## 7 Ekim Dünya Pamuk Günü Nedir?\nDünya Pamuk Günü (World Cotton Day), Birleşmiş Milletler (BM) Genel Kurulu'nun A/RES/75/318 sayılı kararı ile her yıl 7 Ekim tarihinde tüm dünyada idrak edilen resmî bir uluslararası farkındalık günüdür.\n\n### Tarihçesi ve Önemi\nPamuk üreticisi gelişmekte olan Benin, Burkina Faso, Çad ve Mali (Cotton-4) ülkelerinin Dünya Ticaret Örgütü'ne (DTÖ) yaptığı başvuru sonucunda, 2019 yılında BM Gıda ve Tarım Örgütü (FAO), BM Ticaret ve Kalkınma Konferansı (UNCTAD) ve Uluslararası Pamuk Danışma Komitesi (ICAC) ortaklığıyla başlatılmıştır. Pamuk, dünya genelinde 100 milyondan fazla aileye doğrudan gelir sağlayan ve biyolojik olarak tamamen çözünebilen stratejik bir doğal elyaftır.\n\n---\n\n## 7 Ekim Dünya Pamuk Günü Nasıl Değerlendirilir?\n1. Sürdürülebilir, organik ve sertifikalı pamuklu tekstil ürünlerini tercih edin.\n2. Sentetik ve mikroplastik yayan kumaşlar yerine doğal liflerin önemini araştırın.\n3. Çiftçilerin ve tekstil işçilerinin adil ticaret (Fairtrade) haklarına destek olun.\n\n---\n\n## Sosyal Medya Farkındalık Mesajları\n* \"Tarladan gardıroba uzanan doğal emek: 7 Ekim Dünya Pamuk Günü kutlu olsun! Sürdürülebilir tarımı ve doğal lifleri destekliyoruz. 🌱🧵 #DunyaPamukGunu #WorldCottonDay\"\n* \"Dünya genelinde 100 milyondan fazla çiftçi ailesinin geçim kaynağı olan pamuğun değerini biliyoruz. 7 Ekim Dünya Pamuk Günü kutlu olsun. #Pamuk #SurdurulebilirTekstil\"\n* \"Sentetik kumaşlara karşı doğayı koru, pamuğu seç. #WorldCottonDay #7Ekim\"",
+    "celebration_date": "2026-10-07",
+    "month_no": 10,
+    "day_no": 7,
+    "category": "Uluslararası",
+    "day_type": "farkindalik",
+    "is_public_holiday": false,
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler Genel Kurulu (A/RES/75/318)",
+    "source_url": "https://press.un.org/en/2021/ga12354.doc.htm",
+    "verified_at": "2026-10-07",
+    "hashtags": [
+      "#DunyaPamukGunu",
+      "#WorldCottonDay",
+      "#7Ekim",
+      "#Pamuk",
+      "#SurdurulebilirTarim"
+    ],
+    "affiliate_keywords": [
+      "organik pamuk nevresim",
+      "yüzde 100 pamuk tişört",
+      "doğal pamuklu havlu"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000316",
+    "slug": "8-ekim-dunya-ahtapotlar-ve-deniz-ekosistemi-gunu",
+    "title": "8 Ekim Dünya Ahtapotlar ve Deniz Ekosistemi Günü",
+    "description": "Denizlerin zeki canlıları ahtapotları ve deniz florasını tanıma günü.",
+    "content": "## 8 Ekim Dünya Ahtapotlar ve Deniz Ekosistemi Günü Nedir?\nDenizlerin zeki canlıları ahtapotları ve deniz florasını tanıma günü.\n\n### Tarihçesi ve Önemi\n8 Ekim Dünya Ahtapotlar ve Deniz Ekosistemi Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 8 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Ekim Dünya Ahtapotlar ve Deniz Ekosistemi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-08",
+    "month_no": 10,
+    "day_no": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#8Ekim",
+      "#8ekimdunyaahtapotlarvedenizekosistemigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000317",
+    "slug": "9-ekim-dunya-posta-gunu",
+    "title": "9 Ekim Dünya Posta Günü",
+    "description": "Mektupları ve kargoları ulaştıran küresel posta ağı günü.",
+    "content": "## 9 Ekim Dünya Posta Günü Nedir?\nMektupları ve kargoları ulaştıran küresel posta ağı günü.\n\n### Tarihçesi ve Önemi\n9 Ekim Dünya Posta Günü, gerek Türkiye'de gerekse uluslararası alanda BM UPU nezdinde tanınan ve her yıl 9 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Ekim Dünya Posta Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-09",
+    "month_no": 10,
+    "day_no": 9,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM UPU",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Ekim",
+      "#9ekimdunyapostagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000101",
     "slug": "dunya-ruh-sagligi-gunu",
@@ -2434,6 +7223,428 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000318",
+    "slug": "12-ekim-dunya-artrit-gunu",
+    "title": "12 Ekim Dünya Artrit Günü",
+    "description": "Eklem sağlığı ve romatizmal hastalıklar bilinci günü.",
+    "content": "## 12 Ekim Dünya Artrit Günü Nedir?\nEklem sağlığı ve romatizmal hastalıklar bilinci günü.\n\n### Tarihçesi ve Önemi\n12 Ekim Dünya Artrit Günü, gerek Türkiye'de gerekse uluslararası alanda EULAR nezdinde tanınan ve her yıl 12 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Ekim Dünya Artrit Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-12",
+    "month_no": 10,
+    "day_no": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "EULAR",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Ekim",
+      "#12ekimdunyaartritgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000319",
+    "slug": "13-ekim-afet-risklerinin-azaltilmasi-uluslararasi-gunu",
+    "title": "13 Ekim Afet Risklerinin Azaltılması Uluslararası Günü",
+    "description": "Deprem ve doğal afetlere dirençli yapılar günü.",
+    "content": "## 13 Ekim Afet Risklerinin Azaltılması Uluslararası Günü Nedir?\nDeprem ve doğal afetlere dirençli yapılar günü.\n\n### Tarihçesi ve Önemi\n13 Ekim Afet Risklerinin Azaltılması Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/64/200) nezdinde tanınan ve her yıl 13 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Ekim Afet Risklerinin Azaltılması Uluslararası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-13",
+    "month_no": 10,
+    "day_no": 13,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/64/200)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#13Ekim",
+      "#13ekimafetrisklerininazaltilmasiuluslararasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000320",
+    "slug": "14-ekim-dunya-standartlar-gunu",
+    "title": "14 Ekim Dünya Standartlar Günü",
+    "description": "Kalite, güvenlik ve küresel sanayi standartları günü.",
+    "content": "## 14 Ekim Dünya Standartlar Günü Nedir?\nKalite, güvenlik ve küresel sanayi standartları günü.\n\n### Tarihçesi ve Önemi\n14 Ekim Dünya Standartlar Günü, gerek Türkiye'de gerekse uluslararası alanda ISO, IEC, ITU nezdinde tanınan ve her yıl 14 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Ekim Dünya Standartlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-14",
+    "month_no": 10,
+    "day_no": 14,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ISO, IEC, ITU",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#14Ekim",
+      "#14ekimdunyastandartlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000321",
+    "slug": "15-ekim-dunya-beyaz-baston-gorme-engelliler-gunu",
+    "title": "15 Ekim Dünya Beyaz Baston Görme Engelliler Günü",
+    "description": "Görme engellilerin bağımsız hareket etme hakkı günü.",
+    "content": "## 15 Ekim Dünya Beyaz Baston Görme Engelliler Günü Nedir?\nGörme engellilerin bağımsız hareket etme hakkı günü.\n\n### Tarihçesi ve Önemi\n15 Ekim Dünya Beyaz Baston Görme Engelliler Günü, gerek Türkiye'de gerekse uluslararası alanda Dünya Körler Birliği nezdinde tanınan ve her yıl 15 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Ekim Dünya Beyaz Baston Görme Engelliler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-15",
+    "month_no": 10,
+    "day_no": 15,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Dünya Körler Birliği",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Ekim",
+      "#15ekimdunyabeyazbastongormeengellilergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000030",
+    "slug": "dunya-gida-gunu",
+    "title": "16 Ekim Dünya Gıda Günü",
+    "description": "Açlıkla mücadele, sürdürülebilir tarım ve gıda israfını önleme bilincini artıran FAO günü.",
+    "content": "## 16 Ekim Dünya Gıda Günü Nedir?\n1945 yılında BM Gıda ve Tarım Örgütü'nün (FAO) kuruluş yıl dönümünde herkese yeterli ve güvenli gıda hakkını savunur.\n\n### Tarihçesi ve Önemi\n1945 yılında BM Gıda ve Tarım Örgütü'nün (FAO) kuruluş yıl dönümünde herkese yeterli ve güvenli gıda hakkını savunur. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Ekim Dünya Gıda Günü Nasıl Kutlanır?\n1. Tabağınıza yiyebileceğiniz kadar yemek alın, israfı önleyin.\n2. Artan yemekleri değerlendirme tarifleri uygulayın.\n3. Gıda bankalarına ve aşevlerine bağış yapın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Gıda haktır, israf etme! 16 Ekim Dünya Gıda Günü'nde soframızı ve dünyamızı adaletle paylaşalım. 🌾🍞🍲\"\n* \"16 Ekim Dünya Gıda Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaGidaGunu #WorldFoodDay #GidaIsrafinaSon\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-gida-gunu\"",
+    "celebration_date": "2026-10-16",
+    "month_no": 10,
+    "day_no": 16,
+    "category": "Çevre & Doğa",
+    "hashtags": [
+      "#DunyaGidaGunu",
+      "#WorldFoodDay",
+      "#GidaIsrafinaSon",
+      "#AcligaSon"
+    ],
+    "affiliate_keywords": [
+      "vakumlu saklama kabı seti",
+      "hava geçirmez kavanoz",
+      "gıda kurutucu makine"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000322",
+    "slug": "17-ekim-yoksullugun-yok-edilmesi-uluslararasi-gunu",
+    "title": "17 Ekim Yoksulluğun Yok Edilmesi Uluslararası Günü",
+    "description": "Sosyal adalet ve temel yaşam güvencesi günü.",
+    "content": "## 17 Ekim Yoksulluğun Yok Edilmesi Uluslararası Günü Nedir?\nSosyal adalet ve temel yaşam güvencesi günü.\n\n### Tarihçesi ve Önemi\n17 Ekim Yoksulluğun Yok Edilmesi Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/47/196) nezdinde tanınan ve her yıl 17 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Ekim Yoksulluğun Yok Edilmesi Uluslararası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-17",
+    "month_no": 10,
+    "day_no": 17,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/47/196)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Ekim",
+      "#17ekimyoksullugunyokedilmesiuluslararasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000323",
+    "slug": "18-ekim-dunya-menopoz-gunu",
+    "title": "18 Ekim Dünya Menopoz Günü",
+    "description": "Kadın sağlığında doğal evreler ve destekleyici tıp günü.",
+    "content": "## 18 Ekim Dünya Menopoz Günü Nedir?\nKadın sağlığında doğal evreler ve destekleyici tıp günü.\n\n### Tarihçesi ve Önemi\n18 Ekim Dünya Menopoz Günü, gerek Türkiye'de gerekse uluslararası alanda International Menopause Society nezdinde tanınan ve her yıl 18 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Ekim Dünya Menopoz Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-18",
+    "month_no": 10,
+    "day_no": 18,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Menopause Society",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Ekim",
+      "#18ekimdunyamenopozgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000324",
+    "slug": "19-ekim-muhtarlar-gunu",
+    "title": "19 Ekim Muhtarlar Günü",
+    "description": "Yerel demokrasinin ilk halkası olan muhtarlarımızın günü.",
+    "content": "## 19 Ekim Muhtarlar Günü Nedir?\nYerel demokrasinin ilk halkası olan muhtarlarımızın günü.\n\n### Tarihçesi ve Önemi\n19 Ekim Muhtarlar Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. İçişleri Bakanlığı nezdinde tanınan ve her yıl 19 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Ekim Muhtarlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-19",
+    "month_no": 10,
+    "day_no": 19,
+    "category": "Resmi",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. İçişleri Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Ekim",
+      "#19ekimmuhtarlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000325",
+    "slug": "20-ekim-dunya-istatistik-gunu-ve-dunya-sefler-gunu",
+    "title": "20 Ekim Dünya İstatistik Günü ve Dünya Şefler Günü",
+    "description": "Güvenilir verilerin gücü ve mutfak sanatı ustaları günü.",
+    "content": "## 20 Ekim Dünya İstatistik Günü ve Dünya Şefler Günü Nedir?\nGüvenilir verilerin gücü ve mutfak sanatı ustaları günü.\n\n### Tarihçesi ve Önemi\n20 Ekim Dünya İstatistik Günü ve Dünya Şefler Günü, gerek Türkiye'de gerekse uluslararası alanda BM & WACS nezdinde tanınan ve her yıl 20 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Ekim Dünya İstatistik Günü ve Dünya Şefler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-20",
+    "month_no": 10,
+    "day_no": 20,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM & WACS",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#20Ekim",
+      "#20ekimdunyaistatistikgunuvedunyaseflergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000326",
+    "slug": "21-ekim-dunya-gazeteciler-gunu",
+    "title": "21 Ekim Dünya Gazeteciler Günü",
+    "description": "Tercüman-ı Ahval ile başlayan Türk gazetecilik mirası günü.",
+    "content": "## 21 Ekim Dünya Gazeteciler Günü Nedir?\nTercüman-ı Ahval ile başlayan Türk gazetecilik mirası günü.\n\n### Tarihçesi ve Önemi\n21 Ekim Dünya Gazeteciler Günü, gerek Türkiye'de gerekse uluslararası alanda Basın Konseyi nezdinde tanınan ve her yıl 21 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"21 Ekim Dünya Gazeteciler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"21 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-21",
+    "month_no": 10,
+    "day_no": 21,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Basın Konseyi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#21Ekim",
+      "#21ekimdunyagazetecilergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000327",
+    "slug": "22-ekim-dunya-kekemelik-farkindalik-gunu",
+    "title": "22 Ekim Dünya Kekemelik Farkındalık Günü",
+    "description": "Konuşma akıcılığı zorluğu yaşayanlara anlayış günü.",
+    "content": "## 22 Ekim Dünya Kekemelik Farkındalık Günü Nedir?\nKonuşma akıcılığı zorluğu yaşayanlara anlayış günü.\n\n### Tarihçesi ve Önemi\n22 Ekim Dünya Kekemelik Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda International Stuttering Association nezdinde tanınan ve her yıl 22 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Ekim Dünya Kekemelik Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-22",
+    "month_no": 10,
+    "day_no": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Stuttering Association",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Ekim",
+      "#22ekimdunyakekemelikfarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000328",
+    "slug": "23-ekim-dunya-mol-gunu-kimya-gunu",
+    "title": "23 Ekim Dünya Mol Günü (Kimya Günü)",
+    "description": "Avogadro sayısı anısına kimya bilimini kutlama günü.",
+    "content": "## 23 Ekim Dünya Mol Günü (Kimya Günü) Nedir?\nAvogadro sayısı anısına kimya bilimini kutlama günü.\n\n### Tarihçesi ve Önemi\n23 Ekim Dünya Mol Günü (Kimya Günü), gerek Türkiye'de gerekse uluslararası alanda National Mole Day Foundation nezdinde tanınan ve her yıl 23 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Ekim Dünya Mol Günü (Kimya Günü) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-23",
+    "month_no": 10,
+    "day_no": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "National Mole Day Foundation",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Ekim",
+      "#23ekimdunyamolgunukimyagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000329",
+    "slug": "24-ekim-birlesmis-milletler-gunu-ve-kalkinma-bilgi-gunu",
+    "title": "24 Ekim Birleşmiş Milletler Günü ve Kalkınma Bilgi Günü",
+    "description": "1945 BM Kuruluş Sözleşmesi ve evrensel barış günü.",
+    "content": "## 24 Ekim Birleşmiş Milletler Günü ve Kalkınma Bilgi Günü Nedir?\n1945 BM Kuruluş Sözleşmesi ve evrensel barış günü.\n\n### Tarihçesi ve Önemi\n24 Ekim Birleşmiş Milletler Günü ve Kalkınma Bilgi Günü, gerek Türkiye'de gerekse uluslararası alanda Birleşmiş Milletler nezdinde tanınan ve her yıl 24 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Ekim Birleşmiş Milletler Günü ve Kalkınma Bilgi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-24",
+    "month_no": 10,
+    "day_no": 24,
+    "category": "Uluslararası",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Birleşmiş Milletler",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Ekim",
+      "#24ekimbirlesmismilletlergunuvekalkinmabilgigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000330",
+    "slug": "25-ekim-dunya-makarna-gunu",
+    "title": "25 Ekim Dünya Makarna Günü",
+    "description": "İtalyan ve dünya mutfağının vazgeçilmezi makarna günü.",
+    "content": "## 25 Ekim Dünya Makarna Günü Nedir?\nİtalyan ve dünya mutfağının vazgeçilmezi makarna günü.\n\n### Tarihçesi ve Önemi\n25 Ekim Dünya Makarna Günü, gerek Türkiye'de gerekse uluslararası alanda International Pasta Organization nezdinde tanınan ve her yıl 25 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Ekim Dünya Makarna Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-25",
+    "month_no": 10,
+    "day_no": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "International Pasta Organization",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Ekim",
+      "#25ekimdunyamakarnagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000331",
+    "slug": "26-ekim-hasta-haklari-gunu",
+    "title": "26 Ekim Hasta Hakları Günü",
+    "description": "Tıbbi tedavi süreçlerinde hasta hakları güvencesi günü.",
+    "content": "## 26 Ekim Hasta Hakları Günü Nedir?\nTıbbi tedavi süreçlerinde hasta hakları güvencesi günü.\n\n### Tarihçesi ve Önemi\n26 Ekim Hasta Hakları Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Sağlık Bakanlığı nezdinde tanınan ve her yıl 26 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Ekim Hasta Hakları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-26",
+    "month_no": 10,
+    "day_no": 26,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Sağlık Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Ekim",
+      "#26ekimhastahaklarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000332",
+    "slug": "27-ekim-ses-ve-goruntu-mirasi-gunu",
+    "title": "27 Ekim Ses ve Görüntü Mirası Günü",
+    "description": "Tarihi film, radyo ve ses kayıtlarını koruma günü.",
+    "content": "## 27 Ekim Ses ve Görüntü Mirası Günü Nedir?\nTarihi film, radyo ve ses kayıtlarını koruma günü.\n\n### Tarihçesi ve Önemi\n27 Ekim Ses ve Görüntü Mirası Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 27 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Ekim Ses ve Görüntü Mirası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-27",
+    "month_no": 10,
+    "day_no": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Ekim",
+      "#27ekimsesvegoruntumirasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000333",
+    "slug": "28-ekim-28-ekim-cumhuriyet-bayrami-arifesi-ve-animasyon-gunu",
+    "title": "28 Ekim 28 Ekim Cumhuriyet Bayramı Arifesi ve Animasyon Günü",
+    "description": "Cumhuriyet coşkusunun başlangıcı ve çizgi film sanatı günü.",
+    "content": "## 28 Ekim 28 Ekim Cumhuriyet Bayramı Arifesi ve Animasyon Günü Nedir?\nCumhuriyet coşkusunun başlangıcı ve çizgi film sanatı günü.\n\n### Tarihçesi ve Önemi\n28 Ekim 28 Ekim Cumhuriyet Bayramı Arifesi ve Animasyon Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Resmi Gazete & ASIFA nezdinde tanınan ve her yıl 28 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Ekim 28 Ekim Cumhuriyet Bayramı Arifesi ve Animasyon Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-28",
+    "month_no": 10,
+    "day_no": 28,
+    "category": "Resmi",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Resmi Gazete & ASIFA",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Ekim",
+      "#28ekim28ekimcumhuriyetbayramiarifesiveanimasyongunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000103",
     "slug": "cumhuriyet-bayrami",
     "title": "29 Ekim Cumhuriyet Bayramı",
@@ -2455,6 +7666,78 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "atatürk rozeti",
       "nutuk özel baskı",
       "fener alayı meşalesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000334",
+    "slug": "30-ekim-dunya-tasarruf-gunu",
+    "title": "30 Ekim Dünya Tasarruf Günü",
+    "description": "Maddi kaynakları akıllıca biriktirme ve finansal okuryazarlık günü.",
+    "content": "## 30 Ekim Dünya Tasarruf Günü Nedir?\nMaddi kaynakları akıllıca biriktirme ve finansal okuryazarlık günü.\n\n### Tarihçesi ve Önemi\n30 Ekim Dünya Tasarruf Günü, gerek Türkiye'de gerekse uluslararası alanda World Savings Banks Institute nezdinde tanınan ve her yıl 30 Ekim tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Ekim Dünya Tasarruf Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Ekim günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-10-30",
+    "month_no": 10,
+    "day_no": 30,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Savings Banks Institute",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#30Ekim",
+      "#30ekimdunyatasarrufgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000031",
+    "slug": "dunya-tasarruf-gunu",
+    "title": "31 Ekim Dünya Tasarruf Günü",
+    "description": "Finansal okuryazarlık, para biriktirme ve kaynakları verimli kullanma alışkanlığını teşvik eden gün.",
+    "content": "## 31 Ekim Dünya Tasarruf Günü Nedir?\n1924 yılında Milano'da yapılan 1. Uluslararası Tasarruf Bankası Kongresi'nde tasarruf bilincini aşılamak için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1924 yılında Milano'da yapılan 1. Uluslararası Tasarruf Bankası Kongresi'nde tasarruf bilincini aşılamak için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 31 Ekim Dünya Tasarruf Günü Nasıl Kutlanır?\n1. Aylık bütçenizi ve gereksiz harcamalarınızı gözden geçirin.\n2. Çocuklara kumbara alıp birikim yapmayı öğretin.\n3. Enerji ve su tüketiminde tasarrufa gidin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Damlaya damlaya göl olur! 31 Ekim Dünya Tasarruf Günü'nde geleceğin için biriktirmeye başla. 🪙💰📈\"\n* \"31 Ekim Dünya Tasarruf Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaTasarrufGunu #Tasarruf #FinansalOkuryazarlik\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-tasarruf-gunu\"",
+    "celebration_date": "2026-10-31",
+    "month_no": 10,
+    "day_no": 31,
+    "category": "Eğlence",
+    "hashtags": [
+      "#DunyaTasarrufGunu",
+      "#Tasarruf",
+      "#FinansalOkuryazarlik",
+      "#BirimYap"
+    ],
+    "affiliate_keywords": [
+      "dijital para sayan kumbara",
+      "finansal özgürlük kitapları",
+      "akıllı priz enerji ölçer"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000335",
+    "slug": "1-kasim-harf-devrimi-haftasi-ve-dunya-vegan-gunu",
+    "title": "1 Kasım Harf Devrimi Haftası ve Dünya Vegan Günü",
+    "description": "Yeni Türk alfabesine geçiş ve bitkisel beslenme bilinci.",
+    "content": "## 1 Kasım Harf Devrimi Haftası ve Dünya Vegan Günü Nedir?\nYeni Türk alfabesine geçiş ve bitkisel beslenme bilinci.\n\n### Tarihçesi ve Önemi\n1 Kasım Harf Devrimi Haftası ve Dünya Vegan Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Kültür Bakanlığı & Vegan Society nezdinde tanınan ve her yıl 1 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"1 Kasım Harf Devrimi Haftası ve Dünya Vegan Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"1 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-01",
+    "month_no": 11,
+    "day_no": 1,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Kültür Bakanlığı & Vegan Society",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#1Kasım",
+      "#1kasimharfdevrimihaftasivedunyavegangunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2480,30 +7763,277 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
-  "id": "f8b9a112-9844-48f8-b3f1-000000000105",
-  "slug": "ataturku-anma-gunu",
-  "title": "10 Kasım Atatürk'ü Anma Günü",
-  "description": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü ve milli anma günü.",
-  "content": "## 10 Kasım Atatürk'ü Anma Günü Nedir?\n10 Kasım 1938 günü saat 09:05'te Dolmabahçe Sarayı'nda ebediyete irtihal eden Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün aziz hatırasını yaşatmak amacıyla her yıl düzenlenen ulusal yas ve anma günüdür.\n\n### Tarihçesi ve Milli Anlamı\nMustafa Kemal Atatürk, askeri dehası ve liderliğiyle Kurtuluş Savaşı'nı zafere ulaştırmış, ardından hayata geçirdiği inkılaplarla modern, bağımsız ve laik Türkiye Cumhuriyeti'ni inşa etmiştir. Her 10 Kasım günü saat 09:05'te tüm yurtta sirenler eşliğinde 2 dakikalık saygı duruşunda bulunulur; bayraklar yarıya indirilir ve Anıtkabir'de resmi devlet töreni icra edilir.\n\n---\n\n## 10 Kasım'da Atatürk Nasıl Anılır?\n1. Saat 09:05'te nerede olursanız olun siren sesiyle birlikte saygı duruşunda bulunun.\n2. Anıtkabir'i ve yerel Atatürk anıtlarını ziyaret ederek çiçek bırakın.\n3. Nutuk'u, Atatürk'ün fikirlerini ve Cumhuriyet ilkelerini çocuklarınıza anlatın.\n4. Anma etkinliklerine ve resmi törenlere katılarak saygınızı ifade edin.\n\n---\n\n## 10 Kasım Anma ve Saygı Mesajları\n* \"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir. Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve sonsuz minnetle anıyoruz. 🇹🇷🖤\"\n* \"Fikirlerin, ilkelerin ve emanetin olan Cumhuriyet ilelebet yaşayacak. 10 Kasım Atatürk'ü Anma Günü'nde Başkomutanımızı derin bir özlemle yad ediyoruz. #10Kasim #Ataturk #0905\"\n* \"Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğimize ant içeriz. Ruhun şad olsun Atam. #SaygiVeOzlemle #MustafaKemalAtaturk\"",
-  "celebration_date": "2026-11-10",
-  "month_no": 11,
-  "day_no": 10,
-  "category": "Resmi",
-  "day_type": "anma",
-  "is_public_holiday": false,
-  "scope": "turkiye",
-  "source_name": "T.C. Resmî Gazete & Anıtkabir Komutanlığı",
-  "source_url": "https://www.anitkabir.tsk.tr",
-  "verified_at": "2026-10-07",
-  "hashtags": [
-    "#10Kasim",
-    "#Ataturk",
-    "#SaygiVeOzlemle",
-    "#0905",
-    "#Turkiye"
-  ],
-  "affiliate_keywords": []
-},
+    "id": "f8b9a112-9844-48f8-b3f1-000000000336",
+    "slug": "3-kasim-dunya-sandvic-gunu-ve-biyosfer-rezervleri-gunu",
+    "title": "3 Kasım Dünya Sandviç Günü ve Biyosfer Rezervleri Günü",
+    "description": "Pratik lezzet sandviç ve UNESCO doğa rezervleri günü.",
+    "content": "## 3 Kasım Dünya Sandviç Günü ve Biyosfer Rezervleri Günü Nedir?\nPratik lezzet sandviç ve UNESCO doğa rezervleri günü.\n\n### Tarihçesi ve Önemi\n3 Kasım Dünya Sandviç Günü ve Biyosfer Rezervleri Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 3 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"3 Kasım Dünya Sandviç Günü ve Biyosfer Rezervleri Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"3 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-03",
+    "month_no": 11,
+    "day_no": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#3Kasım",
+      "#3kasimdunyasandvicgunuvebiyosferrezervlerigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000337",
+    "slug": "4-kasim-unesco-kurulus-gunu",
+    "title": "4 Kasım UNESCO Kuruluş Günü",
+    "description": "Eğitim, bilim ve kültürle barışı inşa eden UNESCO yıldönümü.",
+    "content": "## 4 Kasım UNESCO Kuruluş Günü Nedir?\nEğitim, bilim ve kültürle barışı inşa eden UNESCO yıldönümü.\n\n### Tarihçesi ve Önemi\n4 Kasım UNESCO Kuruluş Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO (1946) nezdinde tanınan ve her yıl 4 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Kasım UNESCO Kuruluş Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-04",
+    "month_no": 11,
+    "day_no": 4,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO (1946)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Kasım",
+      "#4kasimunescokurulusgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000338",
+    "slug": "5-kasim-dunya-tsunami-farkindalik-gunu",
+    "title": "5 Kasım Dünya Tsunami Farkındalık Günü",
+    "description": "Kıyı bölgelerinde dev dalgalara karşı erken uyarı günü.",
+    "content": "## 5 Kasım Dünya Tsunami Farkındalık Günü Nedir?\nKıyı bölgelerinde dev dalgalara karşı erken uyarı günü.\n\n### Tarihçesi ve Önemi\n5 Kasım Dünya Tsunami Farkındalık Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/70/203) nezdinde tanınan ve her yıl 5 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"5 Kasım Dünya Tsunami Farkındalık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"5 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-05",
+    "month_no": 11,
+    "day_no": 5,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/70/203)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#5Kasım",
+      "#5kasimdunyatsunamifarkindalikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000339",
+    "slug": "6-kasim-savasta-cevrenin-somurulmesini-onleme-gunu",
+    "title": "6 Kasım Savaşta Çevrenin Sömürülmesini Önleme Günü",
+    "description": "Silahlı çatışmalarda doğanın tahrip edilmesine karşı BM günü.",
+    "content": "## 6 Kasım Savaşta Çevrenin Sömürülmesini Önleme Günü Nedir?\nSilahlı çatışmalarda doğanın tahrip edilmesine karşı BM günü.\n\n### Tarihçesi ve Önemi\n6 Kasım Savaşta Çevrenin Sömürülmesini Önleme Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/56/4) nezdinde tanınan ve her yıl 6 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Kasım Savaşta Çevrenin Sömürülmesini Önleme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-06",
+    "month_no": 11,
+    "day_no": 6,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/56/4)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Kasım",
+      "#6kasimsavastacevreninsomurulmesinionlemegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000340",
+    "slug": "7-kasim-dunya-medikal-fizik-gunu",
+    "title": "7 Kasım Dünya Medikal Fizik Günü",
+    "description": "Marie Curie'nin doğum gününde radyasyon tıbbı ve fizik bilimi günü.",
+    "content": "## 7 Kasım Dünya Medikal Fizik Günü Nedir?\nMarie Curie'nin doğum gününde radyasyon tıbbı ve fizik bilimi günü.\n\n### Tarihçesi ve Önemi\n7 Kasım Dünya Medikal Fizik Günü, gerek Türkiye'de gerekse uluslararası alanda IOMP nezdinde tanınan ve her yıl 7 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Kasım Dünya Medikal Fizik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-07",
+    "month_no": 11,
+    "day_no": 7,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "IOMP",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#7Kasım",
+      "#7kasimdunyamedikalfizikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000032",
+    "slug": "dunya-sehircilik-gunu",
+    "title": "8 Kasım Dünya Şehircilik Günü",
+    "description": "Planlı, yaşanabilir, yeşil ve afetlere dayanıklı kentler inşa etme bilincini artıran gün.",
+    "content": "## 8 Kasım Dünya Şehircilik Günü Nedir?\n1949 yılında Buenos Aires Üniversitesi profesörü Carlos Maria della Paolera tarafından kent planlamasının önemini anlatmak için başlatılmıştır.\n\n### Tarihçesi ve Önemi\n1949 yılında Buenos Aires Üniversitesi profesörü Carlos Maria della Paolera tarafından kent planlamasının önemini anlatmak için başlatılmıştır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 8 Kasım Dünya Şehircilik Günü Nasıl Kutlanır?\n1. Kentinizdeki yeşil alanların ve bisiklet yollarının artmasını talep edin.\n2. Kentsel dönüşüm ve deprem güvenliği bilincini yaygınlaştırın.\n3. Şehir plancılarına teşekkür edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Daha yeşil, daha adil ve afetlere dirençli şehirler için 8 Kasım Dünya Şehircilik Günü kutlu olsun! 🏙️🌳🚲\"\n* \"8 Kasım Dünya Şehircilik Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaSehircilikGunu #SehirPlanciligi #YasanabilirKentler\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-sehircilik-gunu\"",
+    "celebration_date": "2026-11-08",
+    "month_no": 11,
+    "day_no": 8,
+    "category": "Mesleki",
+    "hashtags": [
+      "#DunyaSehircilikGunu",
+      "#SehirPlanciligi",
+      "#YasanabilirKentler",
+      "#8Kasim"
+    ],
+    "affiliate_keywords": [
+      "şehir planlama ve mimarlık kitapları",
+      "teknik çizim kalemi seti",
+      "maket bıçağı seti"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000341",
+    "slug": "9-kasim-dunya-ozgurluk-gunu",
+    "title": "9 Kasım Dünya Özgürlük Günü",
+    "description": "Berlin Duvarı'nın yıkılışı anısına insan özgürlüğü günü.",
+    "content": "## 9 Kasım Dünya Özgürlük Günü Nedir?\nBerlin Duvarı'nın yıkılışı anısına insan özgürlüğü günü.\n\n### Tarihçesi ve Önemi\n9 Kasım Dünya Özgürlük Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 9 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Kasım Dünya Özgürlük Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-09",
+    "month_no": 11,
+    "day_no": 9,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Kasım",
+      "#9kasimdunyaozgurlukgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000105",
+    "slug": "ataturku-anma-gunu",
+    "title": "10 Kasım Atatürk'ü Anma Günü",
+    "description": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümü ve milli anma günü.",
+    "content": "## 10 Kasım Atatürk'ü Anma Günü Nedir?\n10 Kasım 1938 günü saat 09:05'te Dolmabahçe Sarayı'nda ebediyete irtihal eden Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün aziz hatırasını yaşatmak amacıyla her yıl düzenlenen ulusal yas ve anma günüdür.\n\n### Tarihçesi ve Milli Anlamı\nMustafa Kemal Atatürk, askeri dehası ve liderliğiyle Kurtuluş Savaşı'nı zafere ulaştırmış, ardından hayata geçirdiği inkılaplarla modern, bağımsız ve laik Türkiye Cumhuriyeti'ni inşa etmiştir. Her 10 Kasım günü saat 09:05'te tüm yurtta sirenler eşliğinde 2 dakikalık saygı duruşunda bulunulur; bayraklar yarıya indirilir ve Anıtkabir'de resmi devlet töreni icra edilir.\n\n---\n\n## 10 Kasım'da Atatürk Nasıl Anılır?\n1. Saat 09:05'te nerede olursanız olun siren sesiyle birlikte saygı duruşunda bulunun.\n2. Anıtkabir'i ve yerel Atatürk anıtlarını ziyaret ederek çiçek bırakın.\n3. Nutuk'u, Atatürk'ün fikirlerini ve Cumhuriyet ilkelerini çocuklarınıza anlatın.\n4. Anma etkinliklerine ve resmi törenlere katılarak saygınızı ifade edin.\n\n---\n\n## 10 Kasım Anma ve Saygı Mesajları\n* \"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir. Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve sonsuz minnetle anıyoruz. 🇹🇷🖤\"\n* \"Fikirlerin, ilkelerin ve emanetin olan Cumhuriyet ilelebet yaşayacak. 10 Kasım Atatürk'ü Anma Günü'nde Başkomutanımızı derin bir özlemle yad ediyoruz. #10Kasim #Ataturk #0905\"\n* \"Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğimize ant içeriz. Ruhun şad olsun Atam. #SaygiVeOzlemle #MustafaKemalAtaturk\"",
+    "celebration_date": "2026-11-10",
+    "month_no": 11,
+    "day_no": 10,
+    "category": "Resmi",
+    "day_type": "anma",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "source_name": "T.C. Resmî Gazete & Anıtkabir Komutanlığı",
+    "source_url": "https://www.anitkabir.tsk.tr",
+    "verified_at": "2026-10-07",
+    "hashtags": [
+      "#10Kasim",
+      "#Ataturk",
+      "#SaygiVeOzlemle",
+      "#0905",
+      "#Turkiye"
+    ],
+    "affiliate_keywords": []
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000342",
+    "slug": "11-kasim-milli-agaclandirma-gunu-ve-bekarlar-gunu",
+    "title": "11 Kasım Milli Ağaçlandırma Günü ve Bekarlar Günü",
+    "description": "'Geleceğe Nefes' fidan dikme seferberliği ve alışveriş günü.",
+    "content": "## 11 Kasım Milli Ağaçlandırma Günü ve Bekarlar Günü Nedir?\n'Geleceğe Nefes' fidan dikme seferberliği ve alışveriş günü.\n\n### Tarihçesi ve Önemi\n11 Kasım Milli Ağaçlandırma Günü ve Bekarlar Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Tarım ve Orman Bakanlığı nezdinde tanınan ve her yıl 11 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"11 Kasım Milli Ağaçlandırma Günü ve Bekarlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"11 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-11",
+    "month_no": 11,
+    "day_no": 11,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Tarım ve Orman Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#11Kasım",
+      "#11kasimmilliagaclandirmagunuvebekarlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000343",
+    "slug": "12-kasim-dunya-zaturre-pnomoni-gunu-ve-afet-egitimi-gunu",
+    "title": "12 Kasım Dünya Zatürre (Pnömoni) Günü ve Afet Eğitimi Günü",
+    "description": "Akciğer enfeksiyonlarına karşı aşı ve afet hazırlığı günü.",
+    "content": "## 12 Kasım Dünya Zatürre (Pnömoni) Günü ve Afet Eğitimi Günü Nedir?\nAkciğer enfeksiyonlarına karşı aşı ve afet hazırlığı günü.\n\n### Tarihçesi ve Önemi\n12 Kasım Dünya Zatürre (Pnömoni) Günü ve Afet Eğitimi Günü, gerek Türkiye'de gerekse uluslararası alanda DSÖ & AFAD nezdinde tanınan ve her yıl 12 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Kasım Dünya Zatürre (Pnömoni) Günü ve Afet Eğitimi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-12",
+    "month_no": 11,
+    "day_no": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "DSÖ & AFAD",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Kasım",
+      "#12kasimdunyazaturrepnomonigunuveafetegitimigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000344",
+    "slug": "13-kasim-dunya-iyilik-gunu",
+    "title": "13 Kasım Dünya İyilik Günü",
+    "description": "Empati, nezaket ve sevgi dolu küçük adımlar günü.",
+    "content": "## 13 Kasım Dünya İyilik Günü Nedir?\nEmpati, nezaket ve sevgi dolu küçük adımlar günü.\n\n### Tarihçesi ve Önemi\n13 Kasım Dünya İyilik Günü, gerek Türkiye'de gerekse uluslararası alanda World Kindness Movement nezdinde tanınan ve her yıl 13 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Kasım Dünya İyilik Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-13",
+    "month_no": 11,
+    "day_no": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "World Kindness Movement",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#13Kasım",
+      "#13kasimdunyaiyilikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000106",
     "slug": "dunya-diyabet-gunu",
@@ -2527,6 +8057,128 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000345",
+    "slug": "15-kasim-dunya-felsefe-gunu",
+    "title": "15 Kasım Dünya Felsefe Günü",
+    "description": "Sorgulayıcı düşüncenin ve erdemli yaşamın felsefe günü.",
+    "content": "## 15 Kasım Dünya Felsefe Günü Nedir?\nSorgulayıcı düşüncenin ve erdemli yaşamın felsefe günü.\n\n### Tarihçesi ve Önemi\n15 Kasım Dünya Felsefe Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 15 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Kasım Dünya Felsefe Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-15",
+    "month_no": 11,
+    "day_no": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Kasım",
+      "#15kasimdunyafelsefegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000033",
+    "slug": "uluslararasi-hosgoru-gunu",
+    "title": "16 Kasım Uluslararası Hoşgörü Günü",
+    "description": "Farklılıklara saygı, empati, diyalog ve barış içinde bir arada yaşama kültürünü kutlayan UNESCO günü.",
+    "content": "## 16 Kasım Uluslararası Hoşgörü Günü Nedir?\n1995 UNESCO Hoşgörü İlkeleri Bildirgesi'nin imzalanmasıyla nefret söylemi ve ayrımcılıkla mücadele için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n1995 UNESCO Hoşgörü İlkeleri Bildirgesi'nin imzalanmasıyla nefret söylemi ve ayrımcılıkla mücadele için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 16 Kasım Uluslararası Hoşgörü Günü Nasıl Kutlanır?\n1. 'Gel, ne olursan ol yine gel' anlayışıyla herkese önyargısız yaklaşın.\n2. Farklı fikirleri sabırla dinleyin.\n3. Hoşgörüyü ve nezaketi yayın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Farklılıklarımız zenginliğimizdir. 16 Kasım Uluslararası Hoşgörü Günü kutlu olsun! 🤝🌈🕊️\"\n* \"16 Kasım Uluslararası Hoşgörü Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #HosgoruGunu #Mevlana #FarkliliklarZenginliktir\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-hosgoru-gunu\"",
+    "celebration_date": "2026-11-16",
+    "month_no": 11,
+    "day_no": 16,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#HosgoruGunu",
+      "#Mevlana",
+      "#FarkliliklarZenginliktir",
+      "#Empati"
+    ],
+    "affiliate_keywords": [
+      "mevlana mesnevi seti",
+      "felsefe ve empati kitapları",
+      "meditasyon müziği cd"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000346",
+    "slug": "17-kasim-uluslararasi-ogrenciler-gunu-ve-premature-gunu",
+    "title": "17 Kasım Uluslararası Öğrenciler Günü ve Prematüre Günü",
+    "description": "Genç üniversiteliler ve erken doğan minik savaşçılar günü.",
+    "content": "## 17 Kasım Uluslararası Öğrenciler Günü ve Prematüre Günü Nedir?\nGenç üniversiteliler ve erken doğan minik savaşçılar günü.\n\n### Tarihçesi ve Önemi\n17 Kasım Uluslararası Öğrenciler Günü ve Prematüre Günü, gerek Türkiye'de gerekse uluslararası alanda EFCNI nezdinde tanınan ve her yıl 17 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Kasım Uluslararası Öğrenciler Günü ve Prematüre Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-17",
+    "month_no": 11,
+    "day_no": 17,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "EFCNI",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Kasım",
+      "#17kasimuluslararasiogrencilergunuveprematuregunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000347",
+    "slug": "18-kasim-cocuklarin-cinsel-istismardan-korunmasi-gunu",
+    "title": "18 Kasım Çocukların Cinsel İstismardan Korunması Günü",
+    "description": "Çocuk haklarını ve beden dokunulmazlığını koruma günü.",
+    "content": "## 18 Kasım Çocukların Cinsel İstismardan Korunması Günü Nedir?\nÇocuk haklarını ve beden dokunulmazlığını koruma günü.\n\n### Tarihçesi ve Önemi\n18 Kasım Çocukların Cinsel İstismardan Korunması Günü, gerek Türkiye'de gerekse uluslararası alanda Avrupa Konseyi nezdinde tanınan ve her yıl 18 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"18 Kasım Çocukların Cinsel İstismardan Korunması Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"18 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-18",
+    "month_no": 11,
+    "day_no": 18,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Avrupa Konseyi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#18Kasım",
+      "#18kasimcocuklarincinselistismardankorunmasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000348",
+    "slug": "19-kasim-dunya-tuvalet-gunu-ve-dunya-erkekler-gunu",
+    "title": "19 Kasım Dünya Tuvalet Günü ve Dünya Erkekler Günü",
+    "description": "Temiz sanitasyon altyapısı ve erkek sağlığı bilinci günü.",
+    "content": "## 19 Kasım Dünya Tuvalet Günü ve Dünya Erkekler Günü Nedir?\nTemiz sanitasyon altyapısı ve erkek sağlığı bilinci günü.\n\n### Tarihçesi ve Önemi\n19 Kasım Dünya Tuvalet Günü ve Dünya Erkekler Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/67/291) nezdinde tanınan ve her yıl 19 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Kasım Dünya Tuvalet Günü ve Dünya Erkekler Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-19",
+    "month_no": 11,
+    "day_no": 19,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/67/291)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Kasım",
+      "#19kasimdunyatuvaletgunuvedunyaerkeklergunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000107",
     "slug": "dunya-cocuk-haklari-gunu",
     "title": "20 Kasım Dünya Çocuk Hakları Günü",
@@ -2546,6 +8198,28 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çocuk hakları resimli kitap",
       "eğitici kutu oyunları",
       "çocuk gelişim kitapları"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000034",
+    "slug": "dunya-televizyon-gunu",
+    "title": "21 Kasım Dünya Televizyon Günü",
+    "description": "Görsel habercilik, kamuoyu oluşturma ve kültürel etkileşimdeki televizyonun gücünü kutlayan BM günü.",
+    "content": "## 21 Kasım Dünya Televizyon Günü Nedir?\n1996 yılında 1. Dünya Televizyon Forumu'nun yapıldığı tarih olup medyanın küresel sorunlara dikkat çekme rolünü onurlandırır.\n\n### Tarihçesi ve Önemi\n1996 yılında 1. Dünya Televizyon Forumu'nun yapıldığı tarih olup medyanın küresel sorunlara dikkat çekme rolünü onurlandırır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 21 Kasım Dünya Televizyon Günü Nasıl Kutlanır?\n1. Kaliteli belgeseller ve eğitici programlar izleyin.\n2. Televizyon haberciliğinin tarihini inceleyin.\n3. Ekran sürenizi dengede tutun.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Dünyayı salonumuza getiren ekranın günü! 21 Kasım Dünya Televizyon Günü kutlu olsun! 📺📡🎬\"\n* \"21 Kasım Dünya Televizyon Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #TelevizyonGunu #WorldTelevisionDay #Medya\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-televizyon-gunu\"",
+    "celebration_date": "2026-11-21",
+    "month_no": 11,
+    "day_no": 21,
+    "category": "Kültür & Sanat",
+    "hashtags": [
+      "#TelevizyonGunu",
+      "#WorldTelevisionDay",
+      "#Medya",
+      "#Yayin"
+    ],
+    "affiliate_keywords": [
+      "akıllı tv kumandası",
+      "led tv arka aydınlatma ambiyans",
+      "soundbar ses sistemi"
     ]
   },
   {
@@ -2572,6 +8246,31 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000349",
+    "slug": "23-kasim-fibonacci-gunu-1-1-2-3",
+    "title": "23 Kasım Fibonacci Günü (1, 1, 2, 3)",
+    "description": "Doğanın altın oranını simgeleyen matematik günü.",
+    "content": "## 23 Kasım Fibonacci Günü (1, 1, 2, 3) Nedir?\nDoğanın altın oranını simgeleyen matematik günü.\n\n### Tarihçesi ve Önemi\n23 Kasım Fibonacci Günü (1, 1, 2, 3), gerek Türkiye'de gerekse uluslararası alanda Mathematical Association nezdinde tanınan ve her yıl 23 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Kasım Fibonacci Günü (1, 1, 2, 3) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-23",
+    "month_no": 11,
+    "day_no": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Mathematical Association",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Kasım",
+      "#23kasimfibonaccigunu1123"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000109",
     "slug": "ogretmenler-gunu",
     "title": "24 Kasım Öğretmenler Günü",
@@ -2595,6 +8294,202 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000350",
+    "slug": "25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu",
+    "title": "25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü",
+    "description": "Kadın cinayetlerine ve şiddete karşı sıfır tolerans günü.",
+    "content": "## 25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü Nedir?\nKadın cinayetlerine ve şiddete karşı sıfır tolerans günü.\n\n### Tarihçesi ve Önemi\n25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/54/134) nezdinde tanınan ve her yıl 25 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-25",
+    "month_no": 11,
+    "day_no": 25,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/54/134)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Kasım",
+      "#25kasimkadinayoneliksiddetekarsimucadelegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000351",
+    "slug": "26-kasim-dunya-zeytin-agaci-gunu",
+    "title": "26 Kasım Dünya Zeytin Ağacı Günü",
+    "description": "Barışın simgesi ölümsüz zeytin ağacını koruma günü.",
+    "content": "## 26 Kasım Dünya Zeytin Ağacı Günü Nedir?\nBarışın simgesi ölümsüz zeytin ağacını koruma günü.\n\n### Tarihçesi ve Önemi\n26 Kasım Dünya Zeytin Ağacı Günü, gerek Türkiye'de gerekse uluslararası alanda UNESCO nezdinde tanınan ve her yıl 26 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Kasım Dünya Zeytin Ağacı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-26",
+    "month_no": 11,
+    "day_no": 26,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "UNESCO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Kasım",
+      "#26kasimdunyazeytinagacigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000352",
+    "slug": "27-kasim-dunya-demir-ve-celik-sanatcilari-gunu",
+    "title": "27 Kasım Dünya Demir ve Çelik Sanatçıları Günü",
+    "description": "Metale can veren heykel ve zanaat ustaları günü.",
+    "content": "## 27 Kasım Dünya Demir ve Çelik Sanatçıları Günü Nedir?\nMetale can veren heykel ve zanaat ustaları günü.\n\n### Tarihçesi ve Önemi\n27 Kasım Dünya Demir ve Çelik Sanatçıları Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 27 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Kasım Dünya Demir ve Çelik Sanatçıları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-27",
+    "month_no": 11,
+    "day_no": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Kasım",
+      "#27kasimdunyademirveceliksanatcilarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000353",
+    "slug": "28-kasim-akdeniz-gunu",
+    "title": "28 Kasım Akdeniz Günü",
+    "description": "Akdeniz havzasının ortak tarihi ve deniz ekosistemi günü.",
+    "content": "## 28 Kasım Akdeniz Günü Nedir?\nAkdeniz havzasının ortak tarihi ve deniz ekosistemi günü.\n\n### Tarihçesi ve Önemi\n28 Kasım Akdeniz Günü, gerek Türkiye'de gerekse uluslararası alanda Union for the Mediterranean nezdinde tanınan ve her yıl 28 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Kasım Akdeniz Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-28",
+    "month_no": 11,
+    "day_no": 28,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Union for the Mediterranean",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Kasım",
+      "#28kasimakdenizgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000354",
+    "slug": "29-kasim-filistin-halkiyla-uluslararasi-dayanisma-gunu",
+    "title": "29 Kasım Filistin Halkıyla Uluslararası Dayanışma Günü",
+    "description": "Filistin halkının meşru haklarını ve barışı savunma günü.",
+    "content": "## 29 Kasım Filistin Halkıyla Uluslararası Dayanışma Günü Nedir?\nFilistin halkının meşru haklarını ve barışı savunma günü.\n\n### Tarihçesi ve Önemi\n29 Kasım Filistin Halkıyla Uluslararası Dayanışma Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/32/40 B) nezdinde tanınan ve her yıl 29 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Kasım Filistin Halkıyla Uluslararası Dayanışma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-29",
+    "month_no": 11,
+    "day_no": 29,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/32/40 B)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#29Kasım",
+      "#29kasimfilistinhalkiylauluslararasidayanismagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000355",
+    "slug": "30-kasim-bilgisayar-guvenligi-gunu-ve-kimyasal-silah-kurbanlari-gunu",
+    "title": "30 Kasım Bilgisayar Güvenliği Günü ve Kimyasal Silah Kurbanları Günü",
+    "description": "Siber koruma ve kimyasal silahsız bir dünya ideali günü.",
+    "content": "## 30 Kasım Bilgisayar Güvenliği Günü ve Kimyasal Silah Kurbanları Günü Nedir?\nSiber koruma ve kimyasal silahsız bir dünya ideali günü.\n\n### Tarihçesi ve Önemi\n30 Kasım Bilgisayar Güvenliği Günü ve Kimyasal Silah Kurbanları Günü, gerek Türkiye'de gerekse uluslararası alanda ACM & BM nezdinde tanınan ve her yıl 30 Kasım tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Kasım Bilgisayar Güvenliği Günü ve Kimyasal Silah Kurbanları Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Kasım günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-11-30",
+    "month_no": 11,
+    "day_no": 30,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ACM & BM",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#30Kasım",
+      "#30kasimbilgisayarguvenligigunuvekimyasalsilahkurbanlarigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000035",
+    "slug": "dunya-aids-gunu",
+    "title": "1 Aralık Dünya AIDS Günü",
+    "description": "HIV/AIDS konusunda doğru bilinci yaymak, ön yargıları kırmak ve hastalara destek olmak için kutlanan küresel gün.",
+    "content": "## 1 Aralık Dünya AIDS Günü Nedir?\n1988 yılından bu yana Dünya Sağlık Örgütü öncülüğünde kırmızı kurdele sembolüyle HIV farkındalığı için düzenlenir.\n\n### Tarihçesi ve Önemi\n1988 yılından bu yana Dünya Sağlık Örgütü öncülüğünde kırmızı kurdele sembolüyle HIV farkındalığı için düzenlenir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 1 Aralık Dünya AIDS Günü Nasıl Kutlanır?\n1. HIV'in bulaşma ve korunma yolları hakkında doğru bilgi edinin.\n2. HIV ile yaşayan bireylere karşı ayrımcılığa dur deyin.\n3. Düzenli test yaptırın.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Bilinç hayat kurtarır, ön yargı öldürür. 1 Aralık Dünya AIDS Günü'nde farkında olalım. 🎗️❤️\"\n* \"1 Aralık Dünya AIDS Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaAIDSGunu #KirmiziKurdele #FarkindaOl\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-aids-gunu\"",
+    "celebration_date": "2026-12-01",
+    "month_no": 12,
+    "day_no": 1,
+    "category": "Sağlık",
+    "hashtags": [
+      "#DunyaAIDSGunu",
+      "#KirmiziKurdele",
+      "#FarkindaOl",
+      "#OnYargiyiKir"
+    ],
+    "affiliate_keywords": [
+      "kırmızı kurdele yaka iğnesi",
+      "bağışıklık güçlendirici vitamin"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000356",
+    "slug": "2-aralik-koleligin-kaldirilmasi-uluslararasi-gunu",
+    "title": "2 Aralık Köleliğin Kaldırılması Uluslararası Günü",
+    "description": "Modern kölelik ve insan ticaretiyle mücadele günü.",
+    "content": "## 2 Aralık Köleliğin Kaldırılması Uluslararası Günü Nedir?\nModern kölelik ve insan ticaretiyle mücadele günü.\n\n### Tarihçesi ve Önemi\n2 Aralık Köleliğin Kaldırılması Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/317) nezdinde tanınan ve her yıl 2 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"2 Aralık Köleliğin Kaldırılması Uluslararası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"2 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-02",
+    "month_no": 12,
+    "day_no": 2,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/317)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#2Aralık",
+      "#2aralikkoleliginkaldirilmasiuluslararasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000110",
     "slug": "dunya-engelliler-gunu",
     "title": "3 Aralık Dünya Engelliler Günü",
@@ -2614,6 +8509,53 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tekerlekli sandalye minderi",
       "ergonomik tutacak seti",
       "sesli uyarı cihazı"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000357",
+    "slug": "4-aralik-dunya-madenciler-gunu-ve-yaban-hayati-koruma",
+    "title": "4 Aralık Dünya Madenciler Günü ve Yaban Hayatı Koruma",
+    "description": "Yerin yüzlerce metre altında alın teri döken madenciler günü.",
+    "content": "## 4 Aralık Dünya Madenciler Günü ve Yaban Hayatı Koruma Nedir?\nYerin yüzlerce metre altında alın teri döken madenciler günü.\n\n### Tarihçesi ve Önemi\n4 Aralık Dünya Madenciler Günü ve Yaban Hayatı Koruma, gerek Türkiye'de gerekse uluslararası alanda TMMOB Maden Mühendisleri nezdinde tanınan ve her yıl 4 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"4 Aralık Dünya Madenciler Günü ve Yaban Hayatı Koruma kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"4 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-04",
+    "month_no": 12,
+    "day_no": 4,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "TMMOB Maden Mühendisleri",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#4Aralık",
+      "#4aralikdunyamadencilergunuveyabanhayatikoruma"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000036",
+    "slug": "dunya-toprak-gunu",
+    "title": "5 Aralık Dünya Toprak Günü",
+    "description": "Besinlerimizin yüzde 95'ini sağlayan toprağın erozyondan ve kirlilikten korunması için BM tarafından kutlanır.",
+    "content": "## 5 Aralık Dünya Toprak Günü Nedir?\nBM Gıda ve Tarım Örgütü (FAO) tarafından sağlıklı toprakların ve gıda güvenliğinin önemini vurgulamak için ilan edilmiştir.\n\n### Tarihçesi ve Önemi\nBM Gıda ve Tarım Örgütü (FAO) tarafından sağlıklı toprakların ve gıda güvenliğinin önemini vurgulamak için ilan edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 5 Aralık Dünya Toprak Günü Nasıl Kutlanır?\n1. Organik atıklarınızı kompost yaparak toprağa geri kazandırın.\n2. Erozyonla mücadele eden TEMA Vakfı gibi STK'lara destek olun.\n3. Toprağı kimyasallarla kirletmeyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Toprak varsa hayat var! 5 Aralık Dünya Toprak Günü'nde bereketli toprağımızı koruyalım. 🌱🌍🌾\"\n* \"5 Aralık Dünya Toprak Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #DunyaToprakGunu #WorldSoilDay #TopragiKoru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #dunya-toprak-gunu\"",
+    "celebration_date": "2026-12-05",
+    "month_no": 12,
+    "day_no": 5,
+    "category": "Çevre & Doğa",
+    "hashtags": [
+      "#DunyaToprakGunu",
+      "#WorldSoilDay",
+      "#TopragiKoru",
+      "#TEMA"
+    ],
+    "affiliate_keywords": [
+      "organik kompost gübre",
+      "solucan gübresi",
+      "bahçıvan kürek seti"
     ]
   },
   {
@@ -2662,6 +8604,106 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     ]
   },
   {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000358",
+    "slug": "6-aralik-dunya-mikrodalga-ve-pratik-mutfak-gunu",
+    "title": "6 Aralık Dünya Mikrodalga ve Pratik Mutfak Günü",
+    "description": "Modern mutfak teknolojileri ve lezzetli tarifler günü.",
+    "content": "## 6 Aralık Dünya Mikrodalga ve Pratik Mutfak Günü Nedir?\nModern mutfak teknolojileri ve lezzetli tarifler günü.\n\n### Tarihçesi ve Önemi\n6 Aralık Dünya Mikrodalga ve Pratik Mutfak Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 6 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"6 Aralık Dünya Mikrodalga ve Pratik Mutfak Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"6 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-06",
+    "month_no": 12,
+    "day_no": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#6Aralık",
+      "#6aralikdunyamikrodalgavepratikmutfakgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000359",
+    "slug": "7-aralik-uluslararasi-sivil-havacilik-gunu",
+    "title": "7 Aralık Uluslararası Sivil Havacılık Günü",
+    "description": "Gökyüzü ulaşımının güvenliği ve hava taşımacılığı günü.",
+    "content": "## 7 Aralık Uluslararası Sivil Havacılık Günü Nedir?\nGökyüzü ulaşımının güvenliği ve hava taşımacılığı günü.\n\n### Tarihçesi ve Önemi\n7 Aralık Uluslararası Sivil Havacılık Günü, gerek Türkiye'de gerekse uluslararası alanda ICAO & BM (A/RES/51/33) nezdinde tanınan ve her yıl 7 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"7 Aralık Uluslararası Sivil Havacılık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"7 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-07",
+    "month_no": 12,
+    "day_no": 7,
+    "category": "Mesleki",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "ICAO & BM (A/RES/51/33)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#7Aralık",
+      "#7aralikuluslararasisivilhavacilikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000360",
+    "slug": "8-aralik-iklim-degisikligi-eylemi-gunu",
+    "title": "8 Aralık İklim Değişikliği Eylemi Günü",
+    "description": "Küresel ısınmaya karşı yenilenebilir enerji eylemi günü.",
+    "content": "## 8 Aralık İklim Değişikliği Eylemi Günü Nedir?\nKüresel ısınmaya karşı yenilenebilir enerji eylemi günü.\n\n### Tarihçesi ve Önemi\n8 Aralık İklim Değişikliği Eylemi Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 8 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"8 Aralık İklim Değişikliği Eylemi Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"8 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-08",
+    "month_no": 12,
+    "day_no": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#8Aralık",
+      "#8aralikiklimdegisikligieylemigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000361",
+    "slug": "9-aralik-yolsuzlukla-mucadele-gunu-ve-soykirim-kurbanlarini-anma",
+    "title": "9 Aralık Yolsuzlukla Mücadele Günü ve Soykırım Kurbanlarını Anma",
+    "description": "Şeffaflık, hesap verebilirlik ve soykırımı önleme günü.",
+    "content": "## 9 Aralık Yolsuzlukla Mücadele Günü ve Soykırım Kurbanlarını Anma Nedir?\nŞeffaflık, hesap verebilirlik ve soykırımı önleme günü.\n\n### Tarihçesi ve Önemi\n9 Aralık Yolsuzlukla Mücadele Günü ve Soykırım Kurbanlarını Anma, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/58/4) nezdinde tanınan ve her yıl 9 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"9 Aralık Yolsuzlukla Mücadele Günü ve Soykırım Kurbanlarını Anma kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"9 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-09",
+    "month_no": 12,
+    "day_no": 9,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/58/4)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#9Aralık",
+      "#9aralikyolsuzluklamucadelegunuvesoykirimkurbanlarinianma"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
     "id": "f8b9a112-9844-48f8-b3f1-000000000113",
     "slug": "dunya-insan-haklari-gunu",
     "title": "10 Aralık Dünya İnsan Hakları Günü",
@@ -2680,6 +8722,249 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "insan hakları evrensel beyannamesi kitap",
       "felsefe ve etik kitapları"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000037",
+    "slug": "uluslararasi-dag-gunu",
+    "title": "11 Aralık Uluslararası Dağ Günü",
+    "description": "Tatlı su kaynaklarımızın ve eşsiz dağ biyoçeşitliliğinin korunmasını savunan BM günü.",
+    "content": "## 11 Aralık Uluslararası Dağ Günü Nedir?\n2003 yılında BM Genel Kurulu tarafından dağ ekosistemlerinin kırılganlığına ve dağ topluluklarının sürdürülebilirliğine dikkat çekmek için kabul edilmiştir.\n\n### Tarihçesi ve Önemi\n2003 yılında BM Genel Kurulu tarafından dağ ekosistemlerinin kırılganlığına ve dağ topluluklarının sürdürülebilirliğine dikkat çekmek için kabul edilmiştir. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 11 Aralık Uluslararası Dağ Günü Nasıl Kutlanır?\n1. Dağ yürüyüşü veya trekking yapın.\n2. Dağlık bölgelerdeki doğal yaşam alanlarını koruyun.\n3. Dağ köylerinin yerel ürünlerini destekleyin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Göğe uzanan zirvelerimiz doğanın kalbidir. 11 Aralık Uluslararası Dağ Günü kutlu olsun! ⛰️🏔️🌲\"\n* \"11 Aralık Uluslararası Dağ Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #UluslararasiDagGunu #InternationalMountainDay #Daglar\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-dag-gunu\"",
+    "celebration_date": "2026-12-11",
+    "month_no": 12,
+    "day_no": 11,
+    "category": "Çevre & Doğa",
+    "hashtags": [
+      "#UluslararasiDagGunu",
+      "#InternationalMountainDay",
+      "#Daglar",
+      "#Doga"
+    ],
+    "affiliate_keywords": [
+      "trekking batonları katlanır",
+      "termal dağcı çorabı",
+      "kamp termos paslanmaz"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000362",
+    "slug": "12-aralik-evrensel-saglik-kapsami-gunu-ve-tarafsizlik-gunu",
+    "title": "12 Aralık Evrensel Sağlık Kapsamı Günü ve Tarafsızlık Günü",
+    "description": "Maddi zorluk çekmeden sağlık hizmeti alma hakkı günü.",
+    "content": "## 12 Aralık Evrensel Sağlık Kapsamı Günü ve Tarafsızlık Günü Nedir?\nMaddi zorluk çekmeden sağlık hizmeti alma hakkı günü.\n\n### Tarihçesi ve Önemi\n12 Aralık Evrensel Sağlık Kapsamı Günü ve Tarafsızlık Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/72/138) nezdinde tanınan ve her yıl 12 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"12 Aralık Evrensel Sağlık Kapsamı Günü ve Tarafsızlık Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"12 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-12",
+    "month_no": 12,
+    "day_no": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/72/138)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#12Aralık",
+      "#12aralikevrenselsaglikkapsamigunuvetarafsizlikgunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000363",
+    "slug": "13-aralik-dunya-keman-gunu",
+    "title": "13 Aralık Dünya Keman Günü",
+    "description": "Klasik müziğin büyüleyici enstrümanı keman günü.",
+    "content": "## 13 Aralık Dünya Keman Günü Nedir?\nKlasik müziğin büyüleyici enstrümanı keman günü.\n\n### Tarihçesi ve Önemi\n13 Aralık Dünya Keman Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 13 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"13 Aralık Dünya Keman Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"13 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-13",
+    "month_no": 12,
+    "day_no": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#13Aralık",
+      "#13aralikdunyakemangunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000364",
+    "slug": "14-aralik-dunya-maymunlar-gunu",
+    "title": "14 Aralık Dünya Maymunlar Günü",
+    "description": "Primatların zekası ve doğal orman habitatları günü.",
+    "content": "## 14 Aralık Dünya Maymunlar Günü Nedir?\nPrimatların zekası ve doğal orman habitatları günü.\n\n### Tarihçesi ve Önemi\n14 Aralık Dünya Maymunlar Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 14 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"14 Aralık Dünya Maymunlar Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"14 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-14",
+    "month_no": 12,
+    "day_no": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#14Aralık",
+      "#14aralikdunyamaymunlargunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000365",
+    "slug": "15-aralik-uluslararasi-cay-gunu-ve-esperanto-gunu",
+    "title": "15 Aralık Uluslararası Çay Günü ve Esperanto Günü",
+    "description": "Çay üreticilerinin hakları ve ortak dünya dili Esperanto günü.",
+    "content": "## 15 Aralık Uluslararası Çay Günü ve Esperanto Günü Nedir?\nÇay üreticilerinin hakları ve ortak dünya dili Esperanto günü.\n\n### Tarihçesi ve Önemi\n15 Aralık Uluslararası Çay Günü ve Esperanto Günü, gerek Türkiye'de gerekse uluslararası alanda BM FAO nezdinde tanınan ve her yıl 15 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"15 Aralık Uluslararası Çay Günü ve Esperanto Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"15 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-15",
+    "month_no": 12,
+    "day_no": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM FAO",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#15Aralık",
+      "#15aralikuluslararasicaygunuveesperantogunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000366",
+    "slug": "16-aralik-dunya-uzlasma-ve-barisma-gunu",
+    "title": "16 Aralık Dünya Uzlaşma ve Barışma Günü",
+    "description": "Kırgınlıkları geride bırakıp diyalog kurma günü.",
+    "content": "## 16 Aralık Dünya Uzlaşma ve Barışma Günü Nedir?\nKırgınlıkları geride bırakıp diyalog kurma günü.\n\n### Tarihçesi ve Önemi\n16 Aralık Dünya Uzlaşma ve Barışma Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 16 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"16 Aralık Dünya Uzlaşma ve Barışma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"16 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-16",
+    "month_no": 12,
+    "day_no": 16,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#16Aralık",
+      "#16aralikdunyauzlasmavebarismagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000367",
+    "slug": "17-aralik-seb-i-arus-mevlanayi-anma-gunu",
+    "title": "17 Aralık Şeb-i Arus (Mevlana'yı Anma Günü)",
+    "description": "Mevlana Celaleddin-i Rumi'nin vuslat ve hoşgörü yıldönümü.",
+    "content": "## 17 Aralık Şeb-i Arus (Mevlana'yı Anma Günü) Nedir?\nMevlana Celaleddin-i Rumi'nin vuslat ve hoşgörü yıldönümü.\n\n### Tarihçesi ve Önemi\n17 Aralık Şeb-i Arus (Mevlana'yı Anma Günü), gerek Türkiye'de gerekse uluslararası alanda T.C. Kültür Bakanlığı nezdinde tanınan ve her yıl 17 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"17 Aralık Şeb-i Arus (Mevlana'yı Anma Günü) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"17 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-17",
+    "month_no": 12,
+    "day_no": 17,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Kültür Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#17Aralık",
+      "#17araliksebiarusmevlanayianmagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000038",
+    "slug": "uluslararasi-gocmenler-gunu",
+    "title": "18 Aralık Uluslararası Göçmenler Günü",
+    "description": "Dünya çapında göçmenlerin insan hakları, emekleri ve toplumsal katkılarını onurlandıran BM günü.",
+    "content": "## 18 Aralık Uluslararası Göçmenler Günü Nedir?\n1990'da Tüm Göçmen İşçilerin ve Aile Fertlerinin Haklarının Korunmasına Dair Uluslararası Sözleşme'nin kabul günü anısına kutlanır.\n\n### Tarihçesi ve Önemi\n1990'da Tüm Göçmen İşçilerin ve Aile Fertlerinin Haklarının Korunmasına Dair Uluslararası Sözleşme'nin kabul günü anısına kutlanır. Bu özel gün gerek Türkiye'de gerekse dünya çapında her yıl düzenli etkinliklerle anılmaktadır.\n\n---\n\n## 18 Aralık Uluslararası Göçmenler Günü Nasıl Kutlanır?\n1. Göçmenlerin temel insan haklarına ve onuruna saygı duyun.\n2. Irkçılığa ve yabancı düşmanlığına karşı durun.\n3. Farklı kültürlerin topluma kattığı zenginliği takdir edin.\n\n---\n\n## Sosyal Medya Paylaşım ve Kutlama Mesajları\n* \"Hepimiz aynı gökyüzünün altındayız. 18 Aralık Uluslararası Göçmenler Günü kutlu olsun! 🕊️🌍🤝\"\n* \"18 Aralık Uluslararası Göçmenler Günü kutlu olsun! Bu anlamlı günde sevgi, neşe ve farkındalığın çoğalmasını dileriz. #GocmenlerGunu #InternationalMigrantsDay #InsanOnuru\"\n* \"Bugünün getirdiği mutluluk tüm hayatınıza yansısın. #uluslararasi-gocmenler-gunu\"",
+    "celebration_date": "2026-12-18",
+    "month_no": 12,
+    "day_no": 18,
+    "category": "Farkındalık",
+    "hashtags": [
+      "#GocmenlerGunu",
+      "#InternationalMigrantsDay",
+      "#InsanOnuru",
+      "#Goc"
+    ],
+    "affiliate_keywords": [
+      "kültürlerarası sosyoloji kitapları",
+      "dünya dilleri sözlükleri"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000368",
+    "slug": "19-aralik-baris-ve-insani-yardim-agi-gunu",
+    "title": "19 Aralık Barış ve İnsani Yardım Ağı Günü",
+    "description": "Kriz bölgelerinde dayanışma ve gönüllülük günü.",
+    "content": "## 19 Aralık Barış ve İnsani Yardım Ağı Günü Nedir?\nKriz bölgelerinde dayanışma ve gönüllülük günü.\n\n### Tarihçesi ve Önemi\n19 Aralık Barış ve İnsani Yardım Ağı Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 19 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"19 Aralık Barış ve İnsani Yardım Ağı Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"19 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-19",
+    "month_no": 12,
+    "day_no": 19,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#19Aralık",
+      "#19aralikbarisveinsaniyardimagigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000369",
+    "slug": "20-aralik-uluslararasi-insani-dayanisma-gunu",
+    "title": "20 Aralık Uluslararası İnsani Dayanışma Günü",
+    "description": "Yoksulluğun yenilmesi için küresel dayanışma günü.",
+    "content": "## 20 Aralık Uluslararası İnsani Dayanışma Günü Nedir?\nYoksulluğun yenilmesi için küresel dayanışma günü.\n\n### Tarihçesi ve Önemi\n20 Aralık Uluslararası İnsani Dayanışma Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/60/209) nezdinde tanınan ve her yıl 20 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"20 Aralık Uluslararası İnsani Dayanışma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"20 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-20",
+    "month_no": 12,
+    "day_no": 20,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/60/209)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#20Aralık",
+      "#20aralikuluslararasiinsanidayanismagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {
@@ -2703,6 +8988,231 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "polar battaniye",
       "film izleme projeksiyon",
       "termos kupa"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000370",
+    "slug": "22-aralik-sarikamis-sehitlerini-anma-gunu",
+    "title": "22 Aralık Sarıkamış Şehitlerini Anma Günü",
+    "description": "1914 yılında Allahuekber Dağları'nda donarak şehit düşen Mehmetçiklerimizi anma günü.",
+    "content": "## 22 Aralık Sarıkamış Şehitlerini Anma Günü Nedir?\n1914 yılında Allahuekber Dağları'nda donarak şehit düşen Mehmetçiklerimizi anma günü.\n\n### Tarihçesi ve Önemi\n22 Aralık Sarıkamış Şehitlerini Anma Günü, gerek Türkiye'de gerekse uluslararası alanda T.C. Milli Savunma Bakanlığı nezdinde tanınan ve her yıl 22 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"22 Aralık Sarıkamış Şehitlerini Anma Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"22 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-22",
+    "month_no": 12,
+    "day_no": 22,
+    "category": "Resmi",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "T.C. Milli Savunma Bakanlığı",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#22Aralık",
+      "#22araliksarikamissehitlerinianmagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000371",
+    "slug": "23-aralik-dunya-koklu-aileler-ve-akraba-gunu",
+    "title": "23 Aralık Dünya Köklü Aileler ve Akraba Günü",
+    "description": "Kuşaklararası bağları güçlendirme ve aile buluşması günü.",
+    "content": "## 23 Aralık Dünya Köklü Aileler ve Akraba Günü Nedir?\nKuşaklararası bağları güçlendirme ve aile buluşması günü.\n\n### Tarihçesi ve Önemi\n23 Aralık Dünya Köklü Aileler ve Akraba Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 23 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"23 Aralık Dünya Köklü Aileler ve Akraba Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"23 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-23",
+    "month_no": 12,
+    "day_no": 23,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#23Aralık",
+      "#23aralikdunyakokluailelerveakrabagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000372",
+    "slug": "24-aralik-noel-arifesi-christmas-eve",
+    "title": "24 Aralık Noel Arifesi (Christmas Eve)",
+    "description": "Yeni yıl coşkusunun ve aile sofralarının arife gecesi.",
+    "content": "## 24 Aralık Noel Arifesi (Christmas Eve) Nedir?\nYeni yıl coşkusunun ve aile sofralarının arife gecesi.\n\n### Tarihçesi ve Önemi\n24 Aralık Noel Arifesi (Christmas Eve), gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 24 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"24 Aralık Noel Arifesi (Christmas Eve) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"24 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-24",
+    "month_no": 12,
+    "day_no": 24,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#24Aralık",
+      "#24araliknoelarifesichristmaseve"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000373",
+    "slug": "25-aralik-noel-bayrami-christmas-day",
+    "title": "25 Aralık Noel Bayramı (Christmas Day)",
+    "description": "Hristiyan dünyasında barış ve hediyeleşme bayramı.",
+    "content": "## 25 Aralık Noel Bayramı (Christmas Day) Nedir?\nHristiyan dünyasında barış ve hediyeleşme bayramı.\n\n### Tarihçesi ve Önemi\n25 Aralık Noel Bayramı (Christmas Day), gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 25 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"25 Aralık Noel Bayramı (Christmas Day) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"25 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-25",
+    "month_no": 12,
+    "day_no": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#25Aralık",
+      "#25araliknoelbayramichristmasday"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000374",
+    "slug": "26-aralik-hediyelesme-gunu-boxing-day",
+    "title": "26 Aralık Hediyeleşme Günü (Boxing Day)",
+    "description": "Sevdiklerine hediye verme ve yardımlaşma geleneği günü.",
+    "content": "## 26 Aralık Hediyeleşme Günü (Boxing Day) Nedir?\nSevdiklerine hediye verme ve yardımlaşma geleneği günü.\n\n### Tarihçesi ve Önemi\n26 Aralık Hediyeleşme Günü (Boxing Day), gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 26 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"26 Aralık Hediyeleşme Günü (Boxing Day) kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"26 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-26",
+    "month_no": 12,
+    "day_no": 26,
+    "category": "Eğlence",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#26Aralık",
+      "#26aralikhediyelesmegunuboxingday"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000375",
+    "slug": "27-aralik-salginlara-hazirlik-uluslararasi-gunu",
+    "title": "27 Aralık Salgınlara Hazırlık Uluslararası Günü",
+    "description": "Küresel salgınlara karşı erken uyarı ve sağlık altyapısı günü.",
+    "content": "## 27 Aralık Salgınlara Hazırlık Uluslararası Günü Nedir?\nKüresel salgınlara karşı erken uyarı ve sağlık altyapısı günü.\n\n### Tarihçesi ve Önemi\n27 Aralık Salgınlara Hazırlık Uluslararası Günü, gerek Türkiye'de gerekse uluslararası alanda BM (A/RES/75/27) nezdinde tanınan ve her yıl 27 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"27 Aralık Salgınlara Hazırlık Uluslararası Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"27 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-27",
+    "month_no": 12,
+    "day_no": 27,
+    "category": "Sağlık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "BM (A/RES/75/27)",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#27Aralık",
+      "#27araliksalginlarahazirlikuluslararasigunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000376",
+    "slug": "28-aralik-dunya-sinema-gunu",
+    "title": "28 Aralık Dünya Sinema Günü",
+    "description": "Lumière kardeşlerin 1895 yılındaki ilk film gösterimi günü.",
+    "content": "## 28 Aralık Dünya Sinema Günü Nedir?\nLumière kardeşlerin 1895 yılındaki ilk film gösterimi günü.\n\n### Tarihçesi ve Önemi\n28 Aralık Dünya Sinema Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 28 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"28 Aralık Dünya Sinema Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"28 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-28",
+    "month_no": 12,
+    "day_no": 28,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#28Aralık",
+      "#28aralikdunyasinemagunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000377",
+    "slug": "29-aralik-uluslararasi-biyocesitlilik-gunu-anmasi",
+    "title": "29 Aralık Uluslararası Biyoçeşitlilik Günü Anması",
+    "description": "Yıl biterken doğanın türlerini koruma muhasebesi günü.",
+    "content": "## 29 Aralık Uluslararası Biyoçeşitlilik Günü Anması Nedir?\nYıl biterken doğanın türlerini koruma muhasebesi günü.\n\n### Tarihçesi ve Önemi\n29 Aralık Uluslararası Biyoçeşitlilik Günü Anması, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 29 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"29 Aralık Uluslararası Biyoçeşitlilik Günü Anması kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"29 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-29",
+    "month_no": 12,
+    "day_no": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#29Aralık",
+      "#29aralikuluslararasibiyocesitlilikgunuanmasi"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
+    ]
+  },
+  {
+    "id": "f8b9a112-9844-48f8-b3f1-000000000378",
+    "slug": "30-aralik-yil-sonu-sukran-ve-degerlendirme-gunu",
+    "title": "30 Aralık Yıl Sonu Şükran ve Değerlendirme Günü",
+    "description": "Geçen yılın muhasebesini yapıp yeni yıla umutla hazırlanma günü.",
+    "content": "## 30 Aralık Yıl Sonu Şükran ve Değerlendirme Günü Nedir?\nGeçen yılın muhasebesini yapıp yeni yıla umutla hazırlanma günü.\n\n### Tarihçesi ve Önemi\n30 Aralık Yıl Sonu Şükran ve Değerlendirme Günü, gerek Türkiye'de gerekse uluslararası alanda Uluslararası Takvim ve Anma İnisiyatifi nezdinde tanınan ve her yıl 30 Aralık tarihinde ele alınan önemli bir gündür.\n\n---\n\n## Bu Anlamlı Günde Neler Yapılabilir?\n1. Konuyla ilgili resmi kaynak ve raporları inceleyin.\n2. Farkındalığı artırmak için sosyal medya paylaşımlarında bulunun.\n3. İlgili alanda çalışan sivil toplum veya kamu girişimlerine destek verin.\n\n---\n\n## Sosyal Medya Paylaşım Mesajları\n* \"30 Aralık Yıl Sonu Şükran ve Değerlendirme Günü kutlu olsun! Toplumsal farkındalığın ve iyiliğin artmasını dileriz.\"\n* \"30 Aralık günü vesilesiyle daha bilinçli ve duyarlı bir gelecek dileriz.\"",
+    "celebration_date": "2026-12-30",
+    "month_no": 12,
+    "day_no": 30,
+    "category": "Farkındalık",
+    "day_type": "kutlama",
+    "is_public_holiday": false,
+    "scope": "uluslararasi",
+    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
+    "source_url": "https://www.un.org",
+    "hashtags": [
+      "#30Aralık",
+      "#30aralikyilsonusukranvedegerlendirmegunu"
+    ],
+    "affiliate_keywords": [
+      "hediye seti",
+      "kitap",
+      "anı objesi"
     ]
   },
   {

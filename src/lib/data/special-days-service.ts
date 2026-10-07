@@ -13,7 +13,18 @@ export async function getAllSpecialDays(): Promise<SpecialDay[]> {
         .order("day_no", { ascending: true });
 
       if (!error && data && data.length > 0) {
-        return data as SpecialDay[];
+        // Overlay Supabase records onto INITIAL_SPECIAL_DAYS so we never drop the 378 comprehensive archive
+        const map = new Map<string, SpecialDay>();
+        for (const localDay of INITIAL_SPECIAL_DAYS) {
+          map.set(localDay.slug, localDay);
+        }
+        for (const dbDay of data as SpecialDay[]) {
+          map.set(dbDay.slug, dbDay);
+        }
+        return Array.from(map.values()).sort((a, b) => {
+          if (a.month_no !== b.month_no) return a.month_no - b.month_no;
+          return a.day_no - b.day_no;
+        });
       }
     } catch (err) {
       console.warn("Supabase query error, falling back to local dataset:", err);
@@ -23,23 +34,8 @@ export async function getAllSpecialDays(): Promise<SpecialDay[]> {
 }
 
 export async function getSpecialDayBySlug(slug: string): Promise<SpecialDay | null> {
-  if (isSupabaseConfigured()) {
-    try {
-      const { data, error } = await supabase
-        .from("special_days")
-        .select("*")
-        .eq("slug", slug)
-        .single();
-
-      if (!error && data) {
-        return data as SpecialDay;
-      }
-    } catch (err) {
-      console.warn(`Supabase getSpecialDayBySlug error for slug ${slug}:`, err);
-    }
-  }
-
-  const found = INITIAL_SPECIAL_DAYS.find((item) => item.slug === slug);
+  const all = await getAllSpecialDays();
+  const found = all.find((item) => item.slug === slug);
   return found || null;
 }
 
@@ -47,25 +43,9 @@ export async function getTodaySpecialDays(dateOverride?: { day: number; month: n
   const turkeyToday = getTurkeyToday();
   const currentMonth = dateOverride ? dateOverride.month : turkeyToday.month;
   const currentDay = dateOverride ? dateOverride.day : turkeyToday.day;
+  const all = await getAllSpecialDays();
 
-  if (isSupabaseConfigured()) {
-    try {
-      const { data, error } = await supabase
-        .from("special_days")
-        .select("*")
-        .eq("month_no", currentMonth)
-        .eq("day_no", currentDay);
-
-      if (!error && data && data.length > 0) {
-        return data as SpecialDay[];
-      }
-    } catch (err) {
-      console.warn("Supabase getTodaySpecialDays error:", err);
-    }
-  }
-
-  // Filter local dataset
-  return INITIAL_SPECIAL_DAYS.filter(
+  return all.filter(
     (item) => item.month_no === currentMonth && item.day_no === currentDay
   );
 }
@@ -76,23 +56,8 @@ export async function getSpecialDaysByDate(day: number, month: number): Promise<
 }
 
 export async function getSpecialDaysByMonth(monthNo: number): Promise<SpecialDay[]> {
-  if (isSupabaseConfigured()) {
-    try {
-      const { data, error } = await supabase
-        .from("special_days")
-        .select("*")
-        .eq("month_no", monthNo)
-        .order("day_no", { ascending: true });
-
-      if (!error && data && data.length > 0) {
-        return data as SpecialDay[];
-      }
-    } catch (err) {
-      console.warn(`Supabase getSpecialDaysByMonth error for month ${monthNo}:`, err);
-    }
-  }
-
-  return INITIAL_SPECIAL_DAYS.filter((item) => item.month_no === monthNo).sort(
+  const all = await getAllSpecialDays();
+  return all.filter((item) => item.month_no === monthNo).sort(
     (a, b) => a.day_no - b.day_no
   );
 }
