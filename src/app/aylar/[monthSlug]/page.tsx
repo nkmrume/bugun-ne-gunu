@@ -14,6 +14,8 @@ import {
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
 import { getSpecialDaysByMonth } from "@/lib/data/special-days-service";
 import { SpecialDayCard } from "@/components/day/SpecialDayCard";
+import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
+import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { AdBanner } from "@/components/ads/AdBanner";
 import { Badge } from "@/components/ui/badge";
 import { MONTH_SLUGS, NUMBER_TO_MONTH_SLUG } from "@/lib/utils";
@@ -170,6 +172,15 @@ export default async function MonthPillarPage({ params }: MonthPageProps) {
               <p className="mt-2 text-sm sm:text-base text-zinc-600 dark:text-zinc-400 max-w-3xl leading-relaxed">
                 {monthMeta.description} Bu sayfada {monthMeta.name} ayı boyunca kutlanan tüm milli bayramlar, uluslararası günler ve etkinlikler listelenmiştir.
               </p>
+
+              <div className="mt-5 flex flex-wrap items-center gap-3">
+                <AddToCalendarButton
+                  events={specialDays.map((d) => specialDayToEventPayload(d))}
+                  buttonText={`${monthMeta.name} Ayı Günlerini Takvime Ekle (.ics)`}
+                  calendarTitle={`${monthMeta.name} 2026 Özel Günleri`}
+                  variant="default"
+                />
+              </div>
             </div>
 
             {/* Prev / Next Month Links */}

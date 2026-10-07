@@ -28,6 +28,8 @@ import { SpecialDayCard } from "@/components/day/SpecialDayCard";
 import { CountdownTimer } from "@/components/day/CountdownTimer";
 import { SocialShareCard } from "@/components/day/SocialShareCard";
 import { HistoryOnThisDay } from "@/components/day/HistoryOnThisDay";
+import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
+import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { Badge } from "@/components/ui/badge";
 import { AdBanner } from "@/components/ads/AdBanner";
 
@@ -217,6 +219,31 @@ export default async function DateDetailPage({ params }: DatePageProps) {
                   ? `${formattedShort} tarihinde ${specialDays.map((d) => d.title).join(" ve ")} idrak edilmektedir.`
                   : `${formattedShort} tarihine ait resmi tatil bilgisi, tarihte bugün yaşanan olaylar ve takvim detayları.`}
               </p>
+
+              <div className="mt-5 flex flex-wrap items-center gap-3">
+                <AddToCalendarButton
+                  events={
+                    specialDays.length > 0
+                      ? specialDays.map((d) => specialDayToEventPayload(d))
+                      : [
+                          {
+                            title: `${formattedShort} Takvimi`,
+                            description: holidayInfo.details,
+                            dayNo: day,
+                            monthNo: month,
+                            url: `https://bugunnegunu.com/tarih/${daySlug}`,
+                          },
+                        ]
+                  }
+                  buttonText={
+                    specialDays.length > 0
+                      ? `${formattedShort} Gününü Takvime Ekle`
+                      : "Bu Tarihi Takvime Ekle"
+                  }
+                  calendarTitle={`${formattedShort} Takvimi`}
+                  variant="default"
+                />
+              </div>
             </div>
           </div>
 

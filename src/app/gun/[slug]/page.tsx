@@ -26,6 +26,8 @@ import { AffiliateBox } from "@/components/day/AffiliateBox";
 import { ShareActions } from "@/components/day/ShareActions";
 import { CountdownTimer } from "@/components/day/CountdownTimer";
 import { SocialShareCard } from "@/components/day/SocialShareCard";
+import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
+import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { AdBanner } from "@/components/ads/AdBanner";
 import { SpecialDayCard } from "@/components/day/SpecialDayCard";
 
@@ -225,12 +227,21 @@ export default async function SingleDayPage({ params }: DayPageProps) {
               </p>
             </div>
 
-            {/* Social Share Component */}
-            <div className="shrink-0">
-              <span className="block text-xs font-bold uppercase tracking-wider opacity-70 mb-2">
-                Bu Günü Paylaş
-              </span>
-              <ShareActions specialDay={day} />
+            {/* Actions Component */}
+            <div className="shrink-0 flex flex-col gap-3">
+              <div>
+                <span className="block text-xs font-bold uppercase tracking-wider opacity-70 mb-2">
+                  Bu Günü Paylaş
+                </span>
+                <ShareActions specialDay={day} />
+              </div>
+              <div>
+                <AddToCalendarButton
+                  event={specialDayToEventPayload(day)}
+                  buttonText="Takvime Ekle (.ics / Google)"
+                  variant={isMemorial ? "secondary" : "outline"}
+                />
+              </div>
             </div>
           </div>
 
