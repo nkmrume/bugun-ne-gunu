@@ -73,29 +73,58 @@ export async function generateMetadata({
   const description = `${parsed.formattedShort} ne günü? ${parsed.formattedShort} 2026 resmi tatil mi? ${daySummary} Hazır kutlama mesajları ve tarihsel kronoloji.`;
   const canonicalUrl = `https://bugunnegunu.com/tarih/${daySlug}`;
 
-  return {
-    title,
-    description,
-    keywords: [
-      `${parsed.formattedShort} ne günü`,
-      `${parsed.formattedShort} resmi tatil mi`,
-      `${parsed.formattedShort} 2026`,
-      `${parsed.formattedShort} tarihte bugün`,
-      ...specialDays.map((d) => d.title),
-    ],
-    alternates: {
-      canonical: canonicalUrl,
-    },
-    openGraph: {
+  const primaryDay = specialDays[0];
+  const ogTitle = primaryDay ? primaryDay.title : `${parsed.formattedShort} Ne Günü?`;
+  const ogCat = primaryDay ? primaryDay.category : "Tarihte Bugün";
+  const ogType = holidayInfo.isHoliday
+    ? "resmi-tatil"
+    : primaryDay?.day_type || "kutlama";
+
+  const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
+    ogTitle
+  )}&date=${encodeURIComponent(`${parsed.formattedShort} 2026`)}&cat=${encodeURIComponent(
+    ogCat
+  )}&type=${encodeURIComponent(ogType)}&desc=${encodeURIComponent(
+    daySummary
+  )}`;
+
+    return {
       title,
       description,
-      url: canonicalUrl,
-      type: "website",
-      locale: "tr_TR",
-      siteName: "Bugün Ne Günü?",
-    },
-  };
-}
+      keywords: [
+        `${parsed.formattedShort} ne günü`,
+        `${parsed.formattedShort} resmi tatil mi`,
+        `${parsed.formattedShort} 2026`,
+        `${parsed.formattedShort} tarihte bugün`,
+        ...specialDays.map((d) => d.title),
+      ],
+      alternates: {
+        canonical: canonicalUrl,
+      },
+      openGraph: {
+        title,
+        description,
+        url: canonicalUrl,
+        type: "website",
+        locale: "tr_TR",
+        siteName: "Bugün Ne Günü?",
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: title,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title,
+        description,
+        images: [ogImageUrl],
+      },
+    };
+  }
 
 export default async function DateDetailPage({ params }: DatePageProps) {
   const { daySlug } = await params;

@@ -52,7 +52,7 @@ export const metadata: Metadata = {
       "Tüm özel günler, dini ve resmi bayramlar, kutlama tüyoları ve hazır sosyal medya mesajları.",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "https://bugunnegunu.com/api/og?title=Bug%C3%BCn%20Ne%20G%C3%BCn%C3%BC%3F&date=T%C3%BCrkiye%27nin%20Do%C4%9Frulanm%C4%B1%C5%9F%20%C3%96zel%20G%C3%BCnler%20Rehberi&cat=%C3%96zel%20G%C3%BCnler&type=kutlama&desc=T%C3%BCm%20%C3%B6zel%20g%C3%BCnler%2C%20resmi%20bayramlar%2C%20anma%20tarihleri%20ve%20haz%C4%B1r%20mesajlar.",
         width: 1200,
         height: 630,
         alt: "Bugün Ne Günü? Özel Günler Rehberi",
@@ -64,6 +64,9 @@ export const metadata: Metadata = {
     title: "Bugün Ne Günü? 2026 Özel Günler Takvimi",
     description: "Bugün ne günü? Türkiye ve dünyadaki tüm kutlamalar burada.",
     creator: "@bugunnegunu",
+    images: [
+      "https://bugunnegunu.com/api/og?title=Bug%C3%BCn%20Ne%20G%C3%BCn%C3%BC%3F&date=T%C3%BCrkiye%27nin%20Do%C4%9Frulanm%C4%B1%C5%9F%20%C3%96zel%20G%C3%BCnler%20Rehberi&cat=%C3%96zel%20G%C3%BCnler&type=kutlama&desc=T%C3%BCm%20%C3%B6zel%20g%C3%BCnler%2C%20resmi%20bayramlar%2C%20anma%20tarihleri%20ve%20haz%C4%B1r%20mesajlar.",
+    ],
   },
   robots: {
     index: true,

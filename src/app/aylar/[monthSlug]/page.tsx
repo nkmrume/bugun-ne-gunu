@@ -46,6 +46,12 @@ export async function generateMetadata({
   const title = `${monthMeta.name} Ayı Özel Günleri ve Haftaları 2026`;
   const description = `${monthMeta.name} ayında hangi özel günler ve resmi tatiller var? 2026 ${monthMeta.name} ayı önemli günler takvimi, etkinlik fikirleri ve kutlama mesajları.`;
 
+  const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
+    `${monthMeta.name} Ayı Özel Günleri 2026`
+  )}&date=${encodeURIComponent(`${monthMeta.name} 2026`)}&cat=${encodeURIComponent(
+    `${monthMeta.season} Mevsimi`
+  )}&type=kutlama&desc=${encodeURIComponent(description)}`;
+
   return {
     title,
     description,
@@ -57,11 +63,20 @@ export async function generateMetadata({
       description,
       url: `https://bugunnegunu.com/aylar/${monthMeta.slug}`,
       type: "website",
+      images: [
+        {
+          url: ogImageUrl,
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: [ogImageUrl],
     },
   };
 }

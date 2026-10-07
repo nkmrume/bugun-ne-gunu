@@ -62,44 +62,53 @@ export async function generateMetadata({
   const description = `${day.title} 2026 yılında ${formattedDate} tarihinde ${actionWord}. ${day.description} Etkinlik fikirleri, tarihçesi ve hazır ${isMemorial ? "anma" : "kutlama"} mesajları.`;
   const canonicalUrl = `https://bugunnegunu.com/gun/${day.slug}`;
 
-  return {
-    title,
-    description,
-    keywords: [
-      day.title,
-      `${day.title} ne zaman`,
-      `2026 ${day.title}`,
-      `${day.title} nasıl ${isMemorial ? "anılır" : "kutlanır"}`,
-      `${day.title} mesajları`,
-      ...day.hashtags.map((h) => h.replace("#", "")),
-      ...day.affiliate_keywords,
-    ],
-    alternates: {
-      canonical: canonicalUrl,
-    },
-    openGraph: {
+    const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
+      day.title
+    )}&date=${encodeURIComponent(formattedDate)}&cat=${encodeURIComponent(
+      day.category
+    )}&type=${encodeURIComponent(day.day_type || "kutlama")}&desc=${encodeURIComponent(
+      day.description || ""
+    )}`;
+
+    return {
       title,
       description,
-      url: canonicalUrl,
-      type: "article",
-      locale: "tr_TR",
-      siteName: "Bugün Ne Günü?",
-      images: [
-        {
-          url: `https://bugunnegunu.com/og?title=${encodeURIComponent(day.title)}`,
-          width: 1200,
-          height: 630,
-          alt: day.title,
-        },
+      keywords: [
+        day.title,
+        `${day.title} ne zaman`,
+        `2026 ${day.title}`,
+        `${day.title} nasıl ${isMemorial ? "anılır" : "kutlanır"}`,
+        `${day.title} mesajları`,
+        ...day.hashtags.map((h) => h.replace("#", "")),
+        ...day.affiliate_keywords,
       ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-    },
-  };
-}
+      alternates: {
+        canonical: canonicalUrl,
+      },
+      openGraph: {
+        title,
+        description,
+        url: canonicalUrl,
+        type: "article",
+        locale: "tr_TR",
+        siteName: "Bugün Ne Günü?",
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: day.title,
+          },
+        ],
+      },
+      twitter: {
+        card: "summary_large_image",
+        title,
+        description,
+        images: [ogImageUrl],
+      },
+    };
+  }
 
 export default async function SingleDayPage({ params }: DayPageProps) {
   const { slug } = await params;
