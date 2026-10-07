@@ -30,6 +30,8 @@ import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
 import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { AdBanner } from "@/components/ads/AdBanner";
 import { SpecialDayCard } from "@/components/day/SpecialDayCard";
+import { DayTriviaQuiz } from "@/components/trivia/DayTriviaQuiz";
+import { getTriviaForDay } from "@/lib/data/trivia-data";
 
 interface DayPageProps {
   params: Promise<{ slug: string }>;
@@ -130,6 +132,13 @@ export default async function SingleDayPage({ params }: DayPageProps) {
   const relatedDays = sameMonthDays
     .filter((item) => item.slug !== day.slug)
     .slice(0, 3);
+
+  // Deterministic Trivia question for this day
+  const dayTrivia = getTriviaForDay({
+    slug: day.slug,
+    month: day.month_no,
+    day: day.day_no,
+  });
 
   // Extract how to celebrate / remember content
   let howToFirstParagraph = isMemorial
@@ -297,7 +306,12 @@ export default async function SingleDayPage({ params }: DayPageProps) {
         <DayDetailTabs specialDay={day} />
       </section>
 
-      {/* 5. Social Media Shareable Card (Ready 1080x1080 graphic generator) */}
+      {/* 5. Interactive Daily Trivia Quiz */}
+      <section className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mt-12">
+        <DayTriviaQuiz question={dayTrivia} />
+      </section>
+
+      {/* 6. Social Media Shareable Card (Ready 1080x1080 graphic generator) */}
       <section className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mt-12">
         <SocialShareCard
           title={day.title}

@@ -32,6 +32,8 @@ import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
 import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { Badge } from "@/components/ui/badge";
 import { AdBanner } from "@/components/ads/AdBanner";
+import { DayTriviaQuiz } from "@/components/trivia/DayTriviaQuiz";
+import { getTriviaForDay } from "@/lib/data/trivia-data";
 
 interface DatePageProps {
   params: Promise<{ daySlug: string }>;
@@ -152,6 +154,13 @@ export default async function DateDetailPage({ params }: DatePageProps) {
 
   // Primary day for social card & countdown
   const primaryDay = specialDays.length > 0 ? specialDays[0] : null;
+
+  // Curated or rotating trivia for this date
+  const dateTrivia = getTriviaForDay({
+    slug: primaryDay?.slug,
+    month,
+    day,
+  });
 
   // JSON-LD structured data
   const jsonLd = {
@@ -372,6 +381,11 @@ export default async function DateDetailPage({ params }: DatePageProps) {
       {/* 5. History on This Day Section */}
       <section className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mt-14">
         <HistoryOnThisDay events={historyEvents} formattedDate={formattedShort} />
+      </section>
+
+      {/* 5.5. Günün Bilgi Yarışması (Interactive Trivia / Quiz) */}
+      <section className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 mt-14">
+        <DayTriviaQuiz question={dateTrivia} />
       </section>
 
       {/* 6. Social Media Shareable Card */}

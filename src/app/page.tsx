@@ -24,6 +24,8 @@ import { AdBanner } from "@/components/ads/AdBanner";
 import { Badge } from "@/components/ui/badge";
 import { TURKISH_MONTHS } from "@/lib/utils";
 import { getTurkeyToday, getPublicHolidayStatus } from "@/lib/date-engine";
+import { getTriviaForDay } from "@/lib/data/trivia-data";
+import { DayTriviaQuiz } from "@/components/trivia/DayTriviaQuiz";
 
 // Edge/ISR revalidation interval (1 hour)
 export const revalidate = 3600;
@@ -38,6 +40,13 @@ export default async function HomePage() {
   const todayDays = await getTodaySpecialDays();
   const upcomingDays = await getUpcomingSpecialDays(6);
   const allDays = await getAllSpecialDays();
+
+  // Trivia for today
+  const dailyTrivia = getTriviaForDay({
+    month: currentMonthNo,
+    day: currentDayNo,
+    slug: todayDays[0]?.slug,
+  });
 
   // Flagship upcoming highlight (closest major upcoming day)
   const nextMajorDay = upcomingDays.length > 0 ? upcomingDays[0] : null;
@@ -151,6 +160,11 @@ export default async function HomePage() {
             </p>
           </div>
         )}
+      </section>
+
+      {/* 2.5 Günün Bilgi Yarışması (Interactive Trivia / Quiz) */}
+      <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-12">
+        <DayTriviaQuiz question={dailyTrivia} />
       </section>
 
       {/* 3. Dynamic Next Major Day Highlight & Countdown */}
