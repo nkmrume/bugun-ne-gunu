@@ -13,6 +13,7 @@ import {
   Calendar,
   Layers,
   HeartHandshake,
+  Share2,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -201,6 +202,18 @@ export function Navbar({ allDays }: NavbarProps) {
               )}
 
               <Link
+                href="/sosyal-medya-takvimi"
+                className={`inline-flex items-center gap-1.5 rounded-xl px-3 py-2 transition-colors ${
+                  pathname === "/sosyal-medya-takvimi"
+                    ? "bg-red-50 text-red-600 font-bold dark:bg-zinc-800 dark:text-red-400"
+                    : "text-zinc-600 hover:bg-zinc-100 hover:text-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-white"
+                }`}
+              >
+                <Share2 className="h-3.5 w-3.5 text-red-500" />
+                <span>Sosyal Medya</span>
+              </Link>
+
+              <Link
                 href="/gun/dunya-kahve-gunu"
                 className="rounded-xl px-3 py-2 text-amber-700 hover:bg-amber-50 dark:text-amber-400 dark:hover:bg-amber-950/40 font-semibold flex items-center gap-1.5"
               >
@@ -258,6 +271,18 @@ export function Navbar({ allDays }: NavbarProps) {
               >
                 <CalendarDays className="h-4 w-4 text-red-600" />
                 Bugün Ne Günü?
+              </Link>
+
+              <Link
+                href="/sosyal-medya-takvimi"
+                onClick={() => setIsMobileMenuOpen(false)}
+                className="flex items-center justify-between rounded-xl px-4 py-3 text-sm font-bold text-zinc-900 hover:bg-red-50 hover:text-red-600 dark:text-zinc-100 dark:hover:bg-zinc-800"
+              >
+                <div className="flex items-center gap-2">
+                  <Share2 className="h-4 w-4 text-red-500" />
+                  <span>Sosyal Medya Planlayıcısı</span>
+                </div>
+                <Badge variant="default" className="text-[10px]">Yeni</Badge>
               </Link>
 
               <div className="pt-2 pb-1">

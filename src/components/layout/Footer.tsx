@@ -99,6 +99,11 @@ export function Footer() {
             </h4>
             <ul className="space-y-2 text-xs font-medium">
               <li>
+                <Link href="/sosyal-medya-takvimi" className="text-red-600 font-bold hover:underline flex items-center gap-1">
+                  <span>📱 Sosyal Medya Planlayıcısı</span>
+                </Link>
+              </li>
+              <li>
                 <Link href="/hakkimizda" className="hover:text-red-600 transition-colors">
                   Hakkımızda
                 </Link>
@@ -132,7 +137,7 @@ export function Footer() {
           <p>
             © {currentYear} Bugün Ne Günü? Tüm hakları saklıdır. Kaynakları doğrulanmış özel günler ve kutlamalar rehberi.
           </p>
-          <div className="flex items-center gap-4 text-xs">
+          <div className="flex items-center gap-3 text-xs">
             <Link href="/hakkimizda" className="hover:underline">Hakkımızda</Link>
             <span>•</span>
             <Link href="/kunye" className="hover:underline">Künye</Link>
@@ -140,6 +145,8 @@ export function Footer() {
             <Link href="/gizlilik-politikasi" className="hover:underline">Gizlilik</Link>
             <span>•</span>
             <Link href="/iletisim" className="hover:underline">İletişim</Link>
+            <span>•</span>
+            <Link href="/admin" className="text-zinc-400 hover:text-zinc-600 dark:hover:text-zinc-300">Yönetim</Link>
           </div>
         </div>
       </div>
