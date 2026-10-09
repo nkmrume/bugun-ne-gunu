@@ -34,6 +34,7 @@ import { Badge } from "@/components/ui/badge";
 import { AdBanner } from "@/components/ads/AdBanner";
 import { DayTriviaQuiz } from "@/components/trivia/DayTriviaQuiz";
 import { getTriviaForDay } from "@/lib/data/trivia-data";
+import { getBaseUrl } from "@/lib/utils";
 
 interface DatePageProps {
   params: Promise<{ daySlug: string }>;
@@ -55,34 +56,49 @@ export async function generateMetadata({
 }: DatePageProps): Promise<Metadata> {
   const { daySlug } = await params;
   const parsed = parseDateSlug(daySlug);
+  const baseUrl = getBaseUrl();
 
   if (!parsed.isValid) {
     return {
       title: "Tarih Bulunamadı",
+      robots: {
+        index: false,
+        follow: false,
+      },
     };
   }
 
   const specialDays = await getSpecialDaysByDate(parsed.day, parsed.month);
   const holidayInfo = getPublicHolidayStatus(parsed.day, parsed.month);
+  const historyEvents = getHistoryEventsForDate(parsed.day, parsed.month);
+  const hasHistory = historyEvents.length > 0;
 
   const specialDayNames = specialDays.map((d) => d.title).join(", ");
   const daySummary =
     specialDays.length > 0
-      ? `${specialDayNames} ve tüm kutlama detayları.`
-      : `Bugüne ait resmi tatil durumu ve tarihte bugün yaşanan olaylar.`;
+      ? `${specialDayNames} ve tüm takvim detayları.`
+      : holidayInfo.isHoliday
+      ? `${holidayInfo.name} resmî tatil bilgisi ve takvim detayları.`
+      : `Bugüne ait resmi tatil durumu ve takvim rehberi.`;
 
-  const title = `${parsed.formattedShort} Ne Günü? 2026 Özel Günler ve Tarihte Bugün`;
-  const description = `${parsed.formattedShort} ne günü? ${parsed.formattedShort} 2026 resmi tatil mi? ${daySummary} Hazır kutlama mesajları ve tarihsel kronoloji.`;
-  const canonicalUrl = `https://bugunnegunu.com/tarih/${daySlug}`;
+  const title = hasHistory
+    ? `${parsed.formattedShort} Ne Günü? 2026 Özel Günler ve Tarihte Bugün`
+    : `${parsed.formattedShort} Ne Günü? 2026 Özel Günler Takvimi`;
+
+  const description = hasHistory
+    ? `${parsed.formattedShort} ne günü? ${parsed.formattedShort} 2026 resmi tatil mi? ${daySummary} Tarihte bugün yaşanan olaylar ve kronoloji.`
+    : `${parsed.formattedShort} ne günü? ${parsed.formattedShort} 2026 resmi tatil mi? ${daySummary} Kutlama mesajları ve takvim rehberi.`;
+
+  const canonicalUrl = `${baseUrl}/tarih/${daySlug}`;
 
   const primaryDay = specialDays[0];
   const ogTitle = primaryDay ? primaryDay.title : `${parsed.formattedShort} Ne Günü?`;
-  const ogCat = primaryDay ? primaryDay.category : "Tarihte Bugün";
+  const ogCat = primaryDay ? primaryDay.category : hasHistory ? "Tarihte Bugün" : "2026 Takvimi";
   const ogType = holidayInfo.isHoliday
     ? "resmi-tatil"
     : primaryDay?.day_type || "kutlama";
 
-  const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
+  const ogImageUrl = `${baseUrl}/api/og?title=${encodeURIComponent(
     ogTitle
   )}&date=${encodeURIComponent(`${parsed.formattedShort} 2026`)}&cat=${encodeURIComponent(
     ogCat
@@ -162,13 +178,15 @@ export default async function DateDetailPage({ params }: DatePageProps) {
     day,
   });
 
+  const baseUrl = getBaseUrl();
+
   // JSON-LD structured data
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: `${formattedShort} Ne Günü? 2026 Takvimi`,
-    description: `${formattedShort} özel günleri, resmi tatil bilgisi ve tarihte bugün yaşananlar.`,
-    url: `https://bugunnegunu.com/tarih/${daySlug}`,
+    description: `${formattedShort} özel günleri, resmi tatil bilgisi ve takvim rehberi.`,
+    url: `${baseUrl}/tarih/${daySlug}`,
     breadcrumb: {
       "@type": "BreadcrumbList",
       itemListElement: [
@@ -176,19 +194,19 @@ export default async function DateDetailPage({ params }: DatePageProps) {
           "@type": "ListItem",
           position: 1,
           name: "Ana Sayfa",
-          item: "https://bugunnegunu.com",
+          item: baseUrl,
         },
         {
           "@type": "ListItem",
           position: 2,
           name: `${monthName} Ayı`,
-          item: `https://bugunnegunu.com/aylar/${monthSlug}`,
+          item: `${baseUrl}/aylar/${monthSlug}`,
         },
         {
           "@type": "ListItem",
           position: 3,
           name: formattedShort,
-          item: `https://bugunnegunu.com/tarih/${daySlug}`,
+          item: `${baseUrl}/tarih/${daySlug}`,
         },
       ],
     },

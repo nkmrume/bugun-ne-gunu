@@ -3,59 +3,61 @@ import { getAllSpecialDays } from "@/lib/data/special-days-service";
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
 import { CATEGORIES_METADATA } from "@/lib/data/categories-data";
 import { getAllYearDateSlugs } from "@/lib/date-engine";
+import { getBaseUrl } from "@/lib/utils";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://bugunnegunu.com";
+  const baseUrl = getBaseUrl();
   const days = await getAllSpecialDays();
   const dateSlugs = getAllYearDateSlugs();
+  const baseContentDate = new Date("2026-10-10T00:00:00.000Z");
 
   // 1. Homepage & Hubs
   const routes: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "daily",
       priority: 1.0,
     },
     {
       url: `${baseUrl}/kategoriler`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/sosyal-medya-takvimi`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "daily",
       priority: 0.9,
     },
     {
       url: `${baseUrl}/hakkimizda`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/kunye`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "monthly",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/iletisim`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "monthly",
       priority: 0.7,
     },
     {
       url: `${baseUrl}/gizlilik-politikasi`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "monthly",
       priority: 0.5,
     },
     {
       url: `${baseUrl}/kullanim-kosullari`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "monthly",
       priority: 0.5,
     },
@@ -65,7 +67,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   MONTHS_METADATA.forEach((month) => {
     routes.push({
       url: `${baseUrl}/aylar/${month.slug}`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "weekly",
       priority: 0.85,
     });
@@ -75,7 +77,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   CATEGORIES_METADATA.forEach((cat) => {
     routes.push({
       url: `${baseUrl}/kategoriler/${cat.slug}`,
-      lastModified: new Date(),
+      lastModified: baseContentDate,
       changeFrequency: "weekly",
       priority: 0.85,
     });
@@ -85,7 +87,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   days.forEach((day) => {
     routes.push({
       url: `${baseUrl}/gun/${day.slug}`,
-      lastModified: day.updated_at ? new Date(day.updated_at) : new Date(),
+      lastModified: day.updated_at ? new Date(day.updated_at) : baseContentDate,
       changeFrequency: "monthly",
       priority: 0.9,
     });
@@ -95,8 +97,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   dateSlugs.forEach((dateSlug) => {
     routes.push({
       url: `${baseUrl}/tarih/${dateSlug}`,
-      lastModified: new Date(),
-      changeFrequency: "daily",
+      lastModified: baseContentDate,
+      changeFrequency: "weekly",
       priority: 0.75,
     });
   });

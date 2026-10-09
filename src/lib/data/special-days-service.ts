@@ -143,3 +143,24 @@ export function getMonthMetadata(monthNoOrSlug: number | string): MonthInfo | un
   }
   return MONTHS_METADATA.find((m) => m.slug.toLowerCase() === monthNoOrSlug.toLowerCase());
 }
+
+export async function getVerifiedSpecialDays(): Promise<SpecialDay[]> {
+  const all = await getAllSpecialDays();
+  return all.filter((day) => day.editorial_status === "verified");
+}
+
+export async function getVerificationStats(): Promise<{
+  total: number;
+  verified: number;
+  needsReview: number;
+}> {
+  const all = await getAllSpecialDays();
+  const verified = all.filter((day) => day.editorial_status === "verified").length;
+  const needsReview = all.length - verified;
+  return {
+    total: all.length,
+    verified,
+    needsReview,
+  };
+}
+

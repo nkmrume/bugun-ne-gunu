@@ -16,6 +16,7 @@ import {
   getTodaySpecialDays,
   getUpcomingSpecialDays,
   getAllSpecialDays,
+  getVerificationStats,
 } from "@/lib/data/special-days-service";
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
 import { SpecialDayCard } from "@/components/day/SpecialDayCard";
@@ -40,6 +41,7 @@ export default async function HomePage() {
   const todayDays = await getTodaySpecialDays();
   const upcomingDays = await getUpcomingSpecialDays(6);
   const allDays = await getAllSpecialDays();
+  const verificationStats = await getVerificationStats();
 
   // Trivia for today
   const dailyTrivia = getTriviaForDay({
@@ -92,13 +94,17 @@ export default async function HomePage() {
               <CheckCircle2 className="h-4 w-4 text-emerald-500" />
               Bugün {todayDays.length} Özel Gün
             </span>
-            <span className="inline-flex items-center gap-1.5 rounded-xl bg-zinc-100 dark:bg-zinc-800/60 px-3.5 py-1.5 border border-zinc-200/60 dark:border-zinc-700/60">
+            <Link
+              href="/kunye#dogrulama"
+              className="inline-flex items-center gap-1.5 rounded-xl bg-zinc-100 dark:bg-zinc-800/60 px-3.5 py-1.5 border border-zinc-200/60 dark:border-zinc-700/60 hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors"
+              title="Editoryal doğrulama ilkelerimizi inceleyin"
+            >
               <Flame className="h-4 w-4 text-amber-500" />
-              {allDays.length}+ Doğrulanmış Kayıt
-            </span>
+              <span>{verificationStats.verified} Birincil Resmî Teyitli Kayıt</span>
+            </Link>
             <span className="inline-flex items-center gap-1.5 rounded-xl bg-zinc-100 dark:bg-zinc-800/60 px-3.5 py-1.5 border border-zinc-200/60 dark:border-zinc-700/60">
-              <Gift className="h-4 w-4 text-rose-500" />
-              Sosyal Medya Kartları
+              <Calendar className="h-4 w-4 text-sky-500" />
+              {verificationStats.total} Günlük Kapsamlı Arşiv
             </span>
           </div>
         </div>
@@ -299,7 +305,7 @@ export default async function HomePage() {
                 </span>
               ) : (
                 <span>
-                  Türkiye'de resmî bir tatil bulunmamaktadır. Yaklaşan ilk önemli gün ise <strong>{nextMajorDay?.title}</strong> olacaktır.
+                  Türkiye&apos;de resmî bir tatil bulunmamaktadır. Yaklaşan ilk önemli gün ise <strong>{nextMajorDay?.title}</strong> olacaktır.
                 </span>
               )}
             </p>

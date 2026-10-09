@@ -1,6 +1,6 @@
 import React from "react";
 import { SpecialDay } from "@/types/database";
-import { formatTurkishDate, TURKISH_MONTHS, NUMBER_TO_MONTH_SLUG } from "@/lib/utils";
+import { formatTurkishDate, formatDayMonthOnly, TURKISH_MONTHS, NUMBER_TO_MONTH_SLUG, getBaseUrl } from "@/lib/utils";
 
 interface SpecialDayJsonLdProps {
   specialDay: SpecialDay;
@@ -8,11 +8,16 @@ interface SpecialDayJsonLdProps {
 }
 
 export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
+  const baseUrl = getBaseUrl();
   const formattedDate = formatTurkishDate(
     specialDay.day_no,
     specialDay.month_no,
     2026
   );
+  const formattedDayMonth = formatDayMonthOnly(specialDay.day_no, specialDay.month_no);
+  const monthSlug = NUMBER_TO_MONTH_SLUG[specialDay.month_no] || "ekim";
+  const monthName = TURKISH_MONTHS[specialDay.month_no] || "Ekim";
+  const dateSlug = `${specialDay.day_no}-${monthSlug}`;
 
   const isMemorial = specialDay.day_type === "anma";
 
@@ -21,7 +26,7 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
     ? `${specialDay.title} gününde saat 09:05'te saygı duruşunda bulunabilir, Anıtkabir'i ve müzeleri ziyaret edebilir, Atatürk'ün mirasını ve eserlerini inceleyebilirsiniz.`
     : `${specialDay.title} gününde sevdiklerinizle bir araya gelebilir, temaya uygun etkinlikler ve paylaşımlar yapabilirsiniz.`;
 
-  if (specialDay.content.includes("##")) {
+  if (specialDay.content && specialDay.content.includes("##")) {
     const sections = specialDay.content.split(/##\s+/);
     const howToSection = sections.find(
       (sec) =>
@@ -41,33 +46,39 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
   // Sample greeting message
   const bestMessage = isMemorial
     ? `"Cumhuriyetimizin kurucusu Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve minnetle anıyoruz. 🇹🇷🖤"`
-    : specialDay.hashtags.length > 0
+    : specialDay.hashtags && specialDay.hashtags.length > 0
     ? `"${specialDay.title} kutlu olsun! Bu özel günün getirdiği neşe ve farkındalığın hayatınıza güzellik katmasını dileriz. ${specialDay.hashtags.slice(0, 3).join(" ")}"`
     : `"${specialDay.title} kutlu olsun!"`;
 
-  // 1. WebPage & Article Schema (Compliant with Google guidelines for informational editorial guides)
+  const ogImageUrl = `${baseUrl}/api/og?title=${encodeURIComponent(
+    specialDay.title
+  )}&date=${encodeURIComponent(formattedDate)}&cat=${encodeURIComponent(
+    specialDay.category
+  )}&type=${encodeURIComponent(specialDay.day_type || "kutlama")}&desc=${encodeURIComponent(
+    specialDay.description || ""
+  )}`;
+
+  // 1. WebPage & Article Schema (Section 8: Structured Data)
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: `2026 ${specialDay.title} Ne Zaman, Nasıl ${isMemorial ? "Anılır" : "Kutlanır"}?`,
     description: specialDay.description,
-    image: [
-      `https://bugunnegunu.com/og?title=${encodeURIComponent(specialDay.title)}`,
-    ],
-    datePublished: "2026-01-01T00:00:00+03:00",
-    dateModified: specialDay.updated_at || "2026-10-07T00:00:00+03:00",
+    image: [ogImageUrl],
+    datePublished: specialDay.created_at || "2026-01-01T00:00:00+03:00",
+    dateModified: specialDay.updated_at || "2026-10-10T00:00:00+03:00",
     author: {
       "@type": "Organization",
       name: "Bugün Ne Günü? Editoryal Kurulu",
-      url: "https://bugunnegunu.com",
+      url: baseUrl,
     },
     publisher: {
       "@type": "Organization",
       name: "Bugün Ne Günü?",
-      url: "https://bugunnegunu.com",
+      url: baseUrl,
       logo: {
         "@type": "ImageObject",
-        url: "https://bugunnegunu.com/logo.png",
+        url: `${baseUrl}/favicon.ico`,
       },
     },
     mainEntityOfPage: {
@@ -108,10 +119,7 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
     ],
   };
 
-  // 3. BreadcrumbList Schema
-  const monthSlug = NUMBER_TO_MONTH_SLUG[specialDay.month_no] || "ekim";
-  const monthName = TURKISH_MONTHS[specialDay.month_no] || "Ekim";
-
+  // 3. BreadcrumbList Schema (Strictly mirrors visible breadcrumbs: Ana Sayfa -> Ay -> Tarih -> Detay)
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -120,17 +128,23 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
         "@type": "ListItem",
         position: 1,
         name: "Ana Sayfa",
-        item: "https://bugunnegunu.com",
+        item: baseUrl,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: `${monthName} Ayı`,
-        item: `https://bugunnegunu.com/aylar/${monthSlug}`,
+        item: `${baseUrl}/aylar/${monthSlug}`,
       },
       {
         "@type": "ListItem",
         position: 3,
+        name: formattedDayMonth,
+        item: `${baseUrl}/tarih/${dateSlug}`,
+      },
+      {
+        "@type": "ListItem",
+        position: 4,
         name: specialDay.title,
         item: url,
       },
@@ -156,17 +170,18 @@ export function SpecialDayJsonLd({ specialDay, url }: SpecialDayJsonLdProps) {
 }
 
 export function WebsiteJsonLd() {
+  const baseUrl = getBaseUrl();
   const schema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Bugün Ne Günü?",
     alternateName: ["Bugun Ne Gunu", "Ozel Gunler Takvimi"],
-    url: "https://bugunnegunu.com",
+    url: baseUrl,
     potentialAction: {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: "https://bugunnegunu.com/ara?q={search_term_string}",
+        urlTemplate: `${baseUrl}/?q={search_term_string}`,
       },
       "query-input": "required name=search_term_string",
     },

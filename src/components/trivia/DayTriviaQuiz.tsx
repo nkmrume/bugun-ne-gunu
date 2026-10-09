@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import {
   Brain,
   CheckCircle2,
@@ -10,9 +10,6 @@ import {
   Lightbulb,
   Share2,
   Flame,
-  Award,
-  RefreshCw,
-  Copy,
   Check,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -27,32 +24,38 @@ interface DayTriviaQuizProps {
 
 export function DayTriviaQuiz({
   question,
-  layout = "full",
   className = "",
 }: DayTriviaQuizProps) {
-  const [selectedOption, setSelectedOption] = useState<number | null>(null);
-  const [hasAnswered, setHasAnswered] = useState<boolean>(false);
-  const [streak, setStreak] = useState<number>(0);
-  const [copiedShare, setCopiedShare] = useState<boolean>(false);
-
-  // Load streak from localStorage on mount
-  useEffect(() => {
+  const [streak, setStreak] = useState<number>(() => {
+    if (typeof window === "undefined") return 0;
     try {
-      const savedStreak = localStorage.getItem("bugun_trivia_streak");
-      if (savedStreak) {
-        setStreak(parseInt(savedStreak, 10) || 0);
-      }
-
-      // Check if user already answered this exact question today
-      const savedAnswer = localStorage.getItem(`bugun_trivia_ans_${question.id}`);
-      if (savedAnswer !== null) {
-        setSelectedOption(parseInt(savedAnswer, 10));
-        setHasAnswered(true);
-      }
+      const saved = localStorage.getItem("bugun_trivia_streak");
+      return saved ? parseInt(saved, 10) || 0 : 0;
     } catch {
-      // localStorage fallback
+      return 0;
     }
-  }, [question.id]);
+  });
+
+  const [selectedOption, setSelectedOption] = useState<number | null>(() => {
+    if (typeof window === "undefined") return null;
+    try {
+      const saved = localStorage.getItem(`bugun_trivia_ans_${question.id}`);
+      return saved !== null ? parseInt(saved, 10) : null;
+    } catch {
+      return null;
+    }
+  });
+
+  const [hasAnswered, setHasAnswered] = useState<boolean>(() => {
+    if (typeof window === "undefined") return false;
+    try {
+      return localStorage.getItem(`bugun_trivia_ans_${question.id}`) !== null;
+    } catch {
+      return false;
+    }
+  });
+
+  const [copiedShare, setCopiedShare] = useState<boolean>(false);
 
   const handleSelect = (index: number) => {
     if (hasAnswered) return;

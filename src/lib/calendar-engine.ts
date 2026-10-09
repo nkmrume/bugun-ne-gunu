@@ -61,7 +61,7 @@ export function generateIcsContent(
   const now = new Date();
   const dtStamp = now.toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
 
-  let ics = [
+  const ics = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
     "PRODID:-//Bugun Ne Gunu//TR",

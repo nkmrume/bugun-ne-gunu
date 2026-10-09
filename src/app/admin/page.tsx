@@ -43,7 +43,12 @@ const MASTER_PIN = "bugun2026"; // Default secure master admin PIN
 
 export default function AdminDashboardPage() {
   // Authentication State
-  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
+  const [isAuthenticated, setIsAuthenticated] = useState<boolean>(() => {
+    if (typeof window !== "undefined") {
+      return localStorage.getItem("bugun_admin_auth") === "true";
+    }
+    return false;
+  });
   const [pinInput, setPinInput] = useState<string>("");
   const [pinError, setPinError] = useState<string>("");
 
@@ -86,22 +91,7 @@ export default function AdminDashboardPage() {
   // Export State
   const [copiedFormat, setCopiedFormat] = useState<string | null>(null);
 
-  // Check Local Session on mount
-  useEffect(() => {
-    const savedAuth = localStorage.getItem("bugun_admin_auth");
-    if (savedAuth === "true") {
-      setIsAuthenticated(true);
-    }
-  }, []);
-
-  // Fetch Live Data from API on Auth
-  useEffect(() => {
-    if (isAuthenticated) {
-      loadDays();
-    }
-  }, [isAuthenticated]);
-
-  const loadDays = async () => {
+  const handleRefresh = async () => {
     setLoading(true);
     try {
       const res = await fetch("/api/admin/day");
@@ -117,6 +107,32 @@ export default function AdminDashboardPage() {
       setLoading(false);
     }
   };
+
+  // Fetch Live Data from API on Auth
+  useEffect(() => {
+    if (!isAuthenticated) return;
+
+    let ignore = false;
+    const fetchDays = async () => {
+      try {
+        const res = await fetch("/api/admin/day");
+        const json = await res.json();
+        if (!ignore && json.success && json.days) {
+          setDays(json.days);
+          setHasSupabase(Boolean(json.hasSupabase));
+        }
+      } catch {
+        if (!ignore) {
+          setDays(INITIAL_SPECIAL_DAYS);
+        }
+      }
+    };
+
+    fetchDays();
+    return () => {
+      ignore = true;
+    };
+  }, [isAuthenticated]);
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
@@ -513,7 +529,7 @@ export default function AdminDashboardPage() {
             <Button
               variant="outline"
               size="sm"
-              onClick={loadDays}
+              onClick={handleRefresh}
               disabled={loading}
               className="text-xs gap-1.5 rounded-xl border-zinc-200"
             >
@@ -943,7 +959,7 @@ export default function AdminDashboardPage() {
                     className="h-4 w-4 rounded text-red-600"
                   />
                   <label htmlFor="is_public_holiday" className="text-xs font-bold text-zinc-800 dark:text-zinc-200 cursor-pointer">
-                    Türkiye'de Resmî Tatil mi?
+                    Türkiye&apos;de Resmî Tatil mi?
                   </label>
                 </div>
 
@@ -1014,7 +1030,7 @@ export default function AdminDashboardPage() {
 
                 <div>
                   <label className="block text-xs font-bold text-emerald-900 dark:text-emerald-300 mb-1.5">
-                    Kaynak URL'si (Doğrulama Bağlantısı)
+                    Kaynak URL&apos;si (Doğrulama Bağlantısı)
                   </label>
                   <Input
                     type="url"

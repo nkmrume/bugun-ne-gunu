@@ -101,7 +101,7 @@ export default function KunyePage() {
         </div>
 
         {/* Doğrulama Hiyerarşisi */}
-        <div className="rounded-3xl border border-zinc-200/80 bg-white p-6 sm:p-10 dark:border-zinc-800 dark:bg-zinc-900 shadow-sm">
+        <div id="dogrulama" className="scroll-mt-24 rounded-3xl border border-zinc-200/80 bg-white p-6 sm:p-10 dark:border-zinc-800 dark:bg-zinc-900 shadow-sm">
           <div className="flex items-center gap-2 mb-6">
             <Search className="h-5 w-5 text-amber-600" />
             <h2 className="text-xl sm:text-2xl font-black text-zinc-900 dark:text-zinc-100">

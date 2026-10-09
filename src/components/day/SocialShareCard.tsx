@@ -204,7 +204,7 @@ export function SocialShareCard({
           </h4>
           <div className="mx-auto my-3 h-0.5 w-16 bg-white/40" />
           <p className="text-xs sm:text-sm font-medium leading-relaxed opacity-95 line-clamp-4 italic">
-            "{message}"
+            &quot;{message}&quot;
           </p>
         </div>
 

@@ -93,7 +93,7 @@ export default function GizlilikPolitikasiPage() {
               5. Kullanıcı Hakları (KVKK Madde 11)
             </h2>
             <p>
-              KVKK'nın 11. maddesi uyarınca her kullanıcı; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, verilerin amacına uygun kullanılıp kullanılmadığını öğrenme ve silinmesini talep etme hakkına sahiptir. Taleplerinizi <strong>iletisim@bugunnegunu.com</strong> adresine yazılı olarak iletebilirsiniz.
+              KVKK&apos;nın 11. maddesi uyarınca her kullanıcı; kişisel verilerinin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme, verilerin amacına uygun kullanılıp kullanılmadığını öğrenme ve silinmesini talep etme hakkına sahiptir. Taleplerinizi <strong>iletisim@bugunnegunu.com</strong> adresine yazılı olarak iletebilirsiniz.
             </p>
           </div>
         </div>

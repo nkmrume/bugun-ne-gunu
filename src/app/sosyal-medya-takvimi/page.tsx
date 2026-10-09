@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useCallback } from "react";
 import Link from "next/link";
 import {
   CalendarDays,
@@ -48,7 +48,7 @@ export default function SosyalMedyaTakvimiPage() {
   ];
 
   // Calculate day difference from today
-  const getDayDistance = (month: number, day: number) => {
+  const getDayDistance = useCallback((month: number, day: number) => {
     const daysInMonths = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
     let todayDays = turkeyToday.day;
     for (let m = 1; m < turkeyToday.month; m++) todayDays += daysInMonths[m];
@@ -59,7 +59,7 @@ export default function SosyalMedyaTakvimiPage() {
     let diff = targetDays - todayDays;
     if (diff < 0) diff += 365;
     return diff;
-  };
+  }, [turkeyToday]);
 
   // Filter special days by time range
   const filteredDays = useMemo(() => {
@@ -113,7 +113,7 @@ export default function SosyalMedyaTakvimiPage() {
 
       return true;
     }).sort((a, b) => getDayDistance(a.month_no, a.day_no) - getDayDistance(b.month_no, b.day_no));
-  }, [selectedIndustry, timeRange, turkeyToday]);
+  }, [selectedIndustry, timeRange, getDayDistance]);
 
   // Industry-specific post concept suggestions
   const getPostIdea = (day: SpecialDay) => {
@@ -183,7 +183,7 @@ export default function SosyalMedyaTakvimiPage() {
               </h1>
 
               <p className="mt-3 text-base sm:text-lg text-zinc-600 dark:text-zinc-300 max-w-2xl leading-relaxed">
-                "Önümüzdeki hafta ne paylaşmalıyım?" sorusuna son! Sektörünüze özel yaklaşan günleri filtreleyin, hazır içerik fikirlerini ve Instagram altyazılarını tek tıkla kopyalayın.
+                &quot;Önümüzdeki hafta ne paylaşmalıyım?&quot; sorusuna son! Sektörünüze özel yaklaşan günleri filtreleyin, hazır içerik fikirlerini ve Instagram altyazılarını tek tıkla kopyalayın.
               </p>
             </div>
 
@@ -387,7 +387,7 @@ export default function SosyalMedyaTakvimiPage() {
         ) : (
           <div className="rounded-3xl border border-dashed border-zinc-300 p-12 text-center dark:border-zinc-800">
             <p className="text-sm font-semibold text-zinc-500">
-              Seçilen sektör ve tarih aralığında özel gün kaydı bulunamadı. Lütfen "Tüm Sektörler" filtresini seçin.
+              Seçilen sektör ve tarih aralığında özel gün kaydı bulunamadı. Lütfen &quot;Tüm Sektörler&quot; filtresini seçin.
             </p>
           </div>
         )}

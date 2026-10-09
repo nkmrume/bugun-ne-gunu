@@ -133,7 +133,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yeni yıl ajandası",
       "kutu kutlama oyunu",
       "kar küresi"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "Türkiye Cumhuriyeti (2429 Sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanun)",
+    "source_name": "T.C. Mevzuat Bilgi Sistemi (2429 Sayılı Kanun)",
+    "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2429&MevzuatTur=1&MevzuatTertip=5",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000117",
@@ -158,7 +172,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000118",
@@ -183,7 +203,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000040",
@@ -206,7 +232,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "sesli kitap aboneliği",
       "akıllı baston",
       "kabartmalı saat"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/73/161)",
+    "source_url": "https://www.un.org/en/observances/braille-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000119",
@@ -231,7 +268,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000120",
@@ -252,7 +295,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#6Ocak",
       "#6ocakdunyasavasyetimlerigunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000121",
@@ -277,7 +326,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000122",
@@ -302,7 +357,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000123",
@@ -327,7 +388,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000041",
@@ -350,7 +417,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "gazeteci çantası",
       "fotoğraf makinesi tripodu",
       "not defteri deri"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000124",
@@ -375,7 +449,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000125",
@@ -400,7 +480,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000126",
@@ -425,7 +511,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000127",
@@ -450,7 +542,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000128",
@@ -475,7 +573,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000001",
@@ -497,7 +601,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "otomatik sabunluk sensörlü",
       "antibakteriyel el dezenfektanı",
       "bambu banyo havlusu"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000129",
@@ -522,7 +633,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000130",
@@ -547,7 +664,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000131",
@@ -572,7 +695,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000132",
@@ -597,7 +726,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000042",
@@ -620,7 +755,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ağırlaştırılmış battaniye",
       "kupa bardak kalpli",
       "sarılma yastığı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000133",
@@ -645,7 +787,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000134",
@@ -670,7 +818,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000043",
@@ -693,7 +847,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dünya atlası",
       "online eğitim kursu",
       "çalışma masası lambası"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/73/25)",
+    "source_url": "https://www.un.org/en/observances/education-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000135",
@@ -718,7 +883,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000002",
@@ -740,7 +911,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "seyahat pasaport kılıfı",
       "valiz bavul seti",
       "bagaj tartısı dijital"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000136",
@@ -761,7 +939,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#27Ocak",
       "#27ocakuluslararasiholokostkurbanlarinianmagunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000044",
@@ -784,7 +968,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "donanım cüzdanı",
       "webcam gizlilik kapağı",
       "vpn aboneliği"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000137",
@@ -809,7 +1000,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000138",
@@ -834,7 +1031,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000139",
@@ -859,7 +1062,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000140",
@@ -884,7 +1093,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000141",
@@ -909,7 +1124,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000142",
@@ -934,7 +1155,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000045",
@@ -957,7 +1184,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "antioksidan yeşil çay",
       "spor matı",
       "su matarası"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Dünya Sağlık Örgütü (DSÖ) & UICC",
+    "source_name": "World Health Organization (WHO)",
+    "source_url": "https://www.who.int/campaigns/world-cancer-day",
+    "source_type": "primary_official",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000143",
@@ -982,7 +1220,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000144",
@@ -1007,7 +1251,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000145",
@@ -1032,7 +1282,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000146",
@@ -1057,7 +1313,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000046",
@@ -1080,7 +1342,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "stres çarkı topu",
       "koşu ayakkabısı",
       "hava temizleyici cihaz"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000147",
@@ -1105,7 +1374,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000047",
@@ -1128,7 +1403,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "marie curie kitabı",
       "robotik kodlama kiti",
       "teleskop başlangıç"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000148",
@@ -1153,7 +1435,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000149",
@@ -1178,7 +1466,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000048",
@@ -1202,7 +1496,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "gümüş kolye",
       "çikolata kutusu lüks",
       "akıllı saat unisex"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000150",
@@ -1227,7 +1528,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000151",
@@ -1252,7 +1559,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000049",
@@ -1275,7 +1588,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kedi ödül maması",
       "otomatik kedi su pınarı",
       "kedi taşıma çantası"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000152",
@@ -1300,7 +1620,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000153",
@@ -1325,7 +1651,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000050",
@@ -1347,7 +1679,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "insan hakları kitapları",
       "sosyoloji temel eserler",
       "felsefe klasikleri seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000051",
@@ -1369,7 +1708,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türkçe sözlük tdk",
       "dünya edebiyatı klasikleri",
       "etimoloji sözlüğü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000154",
@@ -1394,7 +1740,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000155",
@@ -1419,7 +1771,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000156",
@@ -1444,7 +1802,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000157",
@@ -1469,7 +1833,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000158",
@@ -1494,7 +1864,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000159",
@@ -1519,7 +1895,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000003",
@@ -1542,7 +1924,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "el feneri şarjlı",
       "düdük pusula çok amaçlı",
       "ilk yardım çantası"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000052",
@@ -1564,7 +1953,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıllı bileklik adımsayar",
       "spor matı yoga",
       "sağlıklı yaşam rehberi kitabı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000160",
@@ -1589,7 +1985,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000053",
@@ -1612,7 +2014,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "doğa belgeselleri seti",
       "kamp çadırı",
       "kuş rehberi kitabı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000161",
@@ -1637,7 +2046,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000162",
@@ -1662,7 +2077,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000163",
@@ -1687,7 +2108,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000164",
@@ -1712,7 +2139,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000054",
@@ -1735,7 +2168,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "özel hediye seti",
       "orkide saksı çiçeği",
       "tasarım takı kolye"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/32/142)",
+    "source_url": "https://www.un.org/en/observances/womens-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "kutlama",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000165",
@@ -1760,7 +2204,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000166",
@@ -1785,7 +2235,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000167",
@@ -1810,7 +2266,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000055",
@@ -1832,7 +2294,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "safahat özel baskı",
       "mehmet akif ersoy biyografisi",
       "türk bayrağı çerçeveli"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000168",
@@ -1857,7 +2326,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000056",
@@ -1880,7 +2355,19 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "doktor önlüğü kaliteli",
       "medikal hediye kupa",
       "termos doktor"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "T.C. Sağlık Bakanlığı",
+    "source_name": "T.C. Sağlık Bakanlığı Resmî Kayıtları",
+    "source_url": "https://www.saglik.gov.tr",
+    "source_type": "primary_official",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "day_type": "kutlama",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000057",
@@ -1904,7 +2391,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "pi sayısı tişörtü",
       "matematik bulmaca kitapları",
       "rubik küp"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000004",
@@ -1925,7 +2419,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "tüketici hukuku el kitabı",
       "para yönetim bütçe defteri"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000169",
@@ -1950,7 +2451,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000170",
@@ -1975,7 +2482,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000058",
@@ -1997,7 +2510,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çanakkale tarihi kitabı",
       "mustafa kemal atatürk tablosu",
       "türk bayrağı masa üstü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000171",
@@ -2022,7 +2542,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000059",
@@ -2045,7 +2571,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "aroma terapi uçucu yağ",
       "günlük şükür defteri",
       "renkli fincan"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000005",
@@ -2069,7 +2602,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "nazım hikmet şiirleri",
       "cemal süreya sevda sözleri",
       "dolma kalem"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000060",
@@ -2092,7 +2632,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bahçe bakım seti",
       "budama makası",
       "saksı tohum seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000061",
@@ -2114,7 +2661,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "farklı çoraplar renkli set",
       "özel eğitim materyali",
       "duyusal oyun seti"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/66/149)",
+    "source_url": "https://www.un.org/en/observances/down-syndrome-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000062",
@@ -2137,7 +2695,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tasarruflu duş başlığı",
       "çelik su matarası",
       "musluk perlatörü"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/47/193)",
+    "source_url": "https://www.un.org/en/observances/water-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000006",
@@ -2159,7 +2728,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ev tipi meteoroloji istasyonu",
       "dijital termometre higrometre",
       "barometre"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000172",
@@ -2184,7 +2760,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000173",
@@ -2205,7 +2787,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#25Mart",
       "#25martkolelikkurbanlarinianmauluslararasigunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000174",
@@ -2230,7 +2818,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000063",
@@ -2253,7 +2847,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "shakespeare toplu eserleri",
       "dürbün tiyatro tipi",
       "sanat tarihi kitabı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000175",
@@ -2278,7 +2879,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000176",
@@ -2303,7 +2910,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000177",
@@ -2328,7 +2941,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000178",
@@ -2353,7 +2972,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000007",
@@ -2375,7 +3000,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "zararsız şaka malzemeleri",
       "esprili kupa bardak",
       "parti şaka oyunları"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000064",
@@ -2398,7 +3030,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "duyusal oda ışığı",
       "otizm eğitim kartları",
       "stres çarkı"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/62/139)",
+    "source_url": "https://www.un.org/en/observances/autism-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000179",
@@ -2423,7 +3066,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000180",
@@ -2448,7 +3097,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000065",
@@ -2471,7 +3126,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "adalet heykeli themis",
       "dolma kalem lüks",
       "deri evrak çantası"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000181",
@@ -2496,7 +3158,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000066",
@@ -2519,7 +3187,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ateş ölçer temassız",
       "vitamin multivitamin",
       "egzersiz lastiği"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Dünya Sağlık Örgütü (DSÖ)",
+    "source_name": "Dünya Sağlık Asamblesi (WHA.1/Rel/1)",
+    "source_url": "https://www.who.int/campaigns/world-health-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000182",
@@ -2544,7 +3223,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000183",
@@ -2565,7 +3250,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#9Nisan",
       "#9nisanmimarsinanianmavemimarlargunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000008",
@@ -2587,7 +3278,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "polis temalı hediye kupa",
       "taktik fener",
       "deri polis cüzdan rozet"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000184",
@@ -2612,7 +3310,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000185",
@@ -2637,7 +3341,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000186",
@@ -2662,7 +3372,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000187",
@@ -2687,7 +3403,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000067",
@@ -2710,7 +3432,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "resim şövalesi",
       "tuval seti",
       "eskiz defteri kaliteli"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000188",
@@ -2735,7 +3464,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000189",
@@ -2760,7 +3495,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000190",
@@ -2785,7 +3526,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000191",
@@ -2810,7 +3557,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000192",
@@ -2835,7 +3588,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000193",
@@ -2860,7 +3619,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000068",
@@ -2882,7 +3647,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "güneş enerjili powerbank",
       "bambu pipet seti",
       "çevre dostu temizlik ürünleri"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000069",
@@ -2905,7 +3677,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "uçurtma seti",
       "çocuk zeka oyunları",
       "türk bayrağı balon"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "TBMM / Türkiye Cumhuriyeti",
+    "source_name": "T.C. Resmî Gazete (2429 Sayılı Kanun)",
+    "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2429&MevzuatTur=1&MevzuatTertip=5",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000070",
@@ -2928,7 +3714,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ahşap kitap ayracı",
       "kitap okuma lambası",
       "roman seti çok satanlar"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000194",
@@ -2953,7 +3746,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000195",
@@ -2978,7 +3777,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000009",
@@ -3000,7 +3805,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "uçak maketi metal",
       "pilot güneş gözlüğü aviator",
       "havacılık temalı saat"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000196",
@@ -3025,7 +3837,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000197",
@@ -3050,7 +3868,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000071",
@@ -3073,7 +3897,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kablosuz kulaklık spor",
       "tayt spor kaliteli",
       "dans kursu kuponu"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000010",
@@ -3095,7 +3926,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "plak çalar pikap bluetooth",
       "caz plakları efsane",
       "saksafon başlangıç"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000072",
@@ -3117,7 +3955,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "iş güvenliği ayakkabısı",
       "termos yemek kabı",
       "iş tulumu"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "Türkiye Cumhuriyeti (5892 Sayılı Kanun)",
+    "source_name": "T.C. Resmî Gazete (Sayı 27212)",
+    "source_url": "https://www.resmigazete.gov.tr",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000198",
@@ -3142,7 +3994,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000011",
@@ -3163,7 +4021,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "gazetecilik etik kitapları",
       "basın tarihi araştırmaları"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000199",
@@ -3188,7 +4053,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000012",
@@ -3210,7 +4081,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tütsü seti doğal",
       "dilek feneri renkli",
       "hasır piknik sepeti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000200",
@@ -3235,7 +4113,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000201",
@@ -3260,7 +4144,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000202",
@@ -3285,7 +4175,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000203",
@@ -3310,7 +4206,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000013",
@@ -3332,7 +4234,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "psikoloji temalı kupa",
       "terapi not defteri",
       "freud biblo masa üstü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000073",
@@ -3355,7 +4264,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "robot süpürge",
       "kolye anne bebek figürlü",
       "çiçek sepeti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000204",
@@ -3380,7 +4296,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000074",
@@ -3403,7 +4325,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ortopedik sabo terlik",
       "hemşire saati stetoskop",
       "fincan hemşire"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000205",
@@ -3428,7 +4357,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000014",
@@ -3450,7 +4385,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "eczacı hediye seti kupa",
       "havan biblo seramik",
       "ilaç saklama kutusu haftalık"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000075",
@@ -3473,7 +4415,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "budama testeresi",
       "toprak ph ölçer",
       "hasır şapka"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000015",
@@ -3495,7 +4444,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "aile fotoğraf çerçevesi çoklu",
       "kutu kutu aile oyunu",
       "büyük boy piknik örtüsü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000206",
@@ -3520,7 +4476,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000207",
@@ -3545,7 +4507,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000016",
@@ -3567,7 +4535,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "müze kart kılıfı",
       "türkiye arkeoloji atlası",
       "sanat tarihi el kitabı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000076",
@@ -3590,7 +4565,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "spor çantası",
       "basketbol topu",
       "atatürk imzalı rozet"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000077",
@@ -3612,7 +4594,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "doğal organik bal",
       "arı sütü propolis",
       "çiçek tohumu arı dostu"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000017",
@@ -3634,7 +4623,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "süt köpürtücü otomatik",
       "cam süt şişesi retro",
       "yoğurt yapma makinesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000018",
@@ -3656,7 +4652,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kuş yemliği bahçe tipi",
       "endemik bitkiler kitabı türkiye",
       "doğa günlüğü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000208",
@@ -3681,7 +4684,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000209",
@@ -3706,7 +4715,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000210",
@@ -3731,7 +4746,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000211",
@@ -3756,7 +4777,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000212",
@@ -3781,7 +4808,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000213",
@@ -3806,7 +4839,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000078",
@@ -3828,7 +4867,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "istanbul fetih tarihi kitabı",
       "osmanlı tuğrası tablo",
       "minyatür fatih biblosu"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000214",
@@ -3853,7 +4899,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000019",
@@ -3875,7 +4927,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "nefes egzersizi cihazı",
       "stres topu seti",
       "bitki çayı rahatlatıcı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000020",
@@ -3897,7 +4956,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıl ve zeka oyunları çocuk",
       "scooter çocuk 3 tekerlekli",
       "çocuk hikaye kitabı seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000215",
@@ -3922,7 +4988,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000216",
@@ -3947,7 +5019,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000217",
@@ -3968,7 +5046,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#4Haziran",
       "#4hazirancatismakurbanimasumcocuklargunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000079",
@@ -3991,7 +5075,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bez alışveriş çantası",
       "bambu diş fırçası seti",
       "kompost kutusu"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/2994 (XXVII))",
+    "source_url": "https://www.un.org/en/observances/environment-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000218",
@@ -4016,7 +5111,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000021",
@@ -4038,7 +5139,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türk işaret dili öğrenme kitabı",
       "işitme cihazı pili",
       "görsel sözlük kartları"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000080",
@@ -4060,7 +5168,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "deniz gözlüğü şnorkel",
       "mikrofiber hızlı kuruyan havlu",
       "su geçirmez telefon kılıfı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000219",
@@ -4085,7 +5200,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000220",
@@ -4110,7 +5231,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000221",
@@ -4135,7 +5262,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000222",
@@ -4160,7 +5293,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000223",
@@ -4185,7 +5324,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000081",
@@ -4207,7 +5352,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kan şekeri ölçüm cihazı",
       "vitamin takviyesi",
       "sporcu su matarası"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000224",
@@ -4232,7 +5384,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000225",
@@ -4257,7 +5415,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000226",
@@ -4282,7 +5446,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000227",
@@ -4307,7 +5477,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000228",
@@ -4332,7 +5508,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000229",
@@ -4357,7 +5539,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000022",
@@ -4380,7 +5568,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yoga bloğu köpük",
       "meditasyon çanı",
       "yoga taytı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000082",
@@ -4403,7 +5598,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "deri cüzdan kemer seti",
       "tıraş makinesi seti",
       "erkek kol saati"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000083",
@@ -4426,7 +5628,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akustik gitar başlangıç seti",
       "ukulele ahşap",
       "taşınabilir hoparlör"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000230",
@@ -4451,7 +5660,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000231",
@@ -4476,7 +5691,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000232",
@@ -4501,7 +5722,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000233",
@@ -4526,7 +5753,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000234",
@@ -4551,7 +5784,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000235",
@@ -4576,7 +5815,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000236",
@@ -4601,7 +5846,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000237",
@@ -4626,7 +5877,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000023",
@@ -4648,7 +5905,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ring light halka ışık tripodlu",
       "yaka mikrofonu kablosuz",
       "telefon sabitleyici gimbal"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000084",
@@ -4671,7 +5935,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "denizci şapkası",
       "deniz kabuğu bileklik",
       "su geçirmez çanta"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000238",
@@ -4696,7 +5967,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000239",
@@ -4721,7 +5998,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000240",
@@ -4746,7 +6029,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000241",
@@ -4771,7 +6060,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000242",
@@ -4796,7 +6091,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000085",
@@ -4819,7 +6120,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çikolata fondü seti",
       "sıcak çikolata tozu",
       "çikolatalı trüf"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000243",
@@ -4844,7 +6152,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000244",
@@ -4869,7 +6183,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000245",
@@ -4894,7 +6214,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000246",
@@ -4919,7 +6245,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000247",
@@ -4944,7 +6276,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000248",
@@ -4969,7 +6307,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000249",
@@ -4994,7 +6338,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000086",
@@ -5016,7 +6366,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türk bayrağı büyük boy",
       "15 temmuz anı kitabı",
       "atatürk tişörtü"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "Türkiye Cumhuriyeti (6752 Sayılı Kanun)",
+    "source_name": "T.C. Resmî Gazete (Sayı 29872)",
+    "source_url": "https://www.resmigazete.gov.tr",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000250",
@@ -5041,7 +6405,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000087",
@@ -5063,7 +6433,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "emoji yastık peluş",
       "emoji anahtarlık",
       "renkli sticker çıkartma seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000251",
@@ -5088,7 +6465,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000252",
@@ -5113,7 +6496,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000088",
@@ -5136,7 +6525,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dijital satranç saati",
       "satranç taktikleri kitabı",
       "manyetik seyahat satrancı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000253",
@@ -5161,7 +6557,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000254",
@@ -5186,7 +6588,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000255",
@@ -5211,7 +6619,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000256",
@@ -5236,7 +6650,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000257",
@@ -5261,7 +6681,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000258",
@@ -5286,7 +6712,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000259",
@@ -5311,7 +6743,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000260",
@@ -5336,7 +6774,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000261",
@@ -5361,7 +6805,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000024",
@@ -5383,7 +6833,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "arkadaşlık bilekliği çift",
       "anı albümü yapışkanlı",
       "arkadaşa esprili hediye"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000262",
@@ -5408,7 +6865,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000263",
@@ -5433,7 +6896,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000264",
@@ -5458,7 +6927,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000265",
@@ -5483,7 +6958,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000266",
@@ -5508,7 +6989,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000267",
@@ -5533,7 +7020,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000268",
@@ -5554,7 +7047,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#6Ağustos",
       "#6agustoshirosimabarisanmagunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000269",
@@ -5579,7 +7078,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000270",
@@ -5604,7 +7109,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000271",
@@ -5629,7 +7140,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000272",
@@ -5654,7 +7171,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000273",
@@ -5679,7 +7202,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000274",
@@ -5704,7 +7233,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000089",
@@ -5726,7 +7261,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "solaklar için makas",
       "sol el ergonomik mouse",
       "solaklar için dolma kalem"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000275",
@@ -5751,7 +7293,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000276",
@@ -5776,7 +7324,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000277",
@@ -5801,7 +7355,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000278",
@@ -5822,7 +7382,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#17Ağustos",
       "#17agustosmarmaradepreminianmagunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000279",
@@ -5847,7 +7413,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000025",
@@ -5869,7 +7441,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kızılay bağış kartı",
       "yardım vakfı sertifikası",
       "çelik matara"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000090",
@@ -5892,7 +7471,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "lens temizleme kiti",
       "telefon için fotoğraf lensi",
       "fotoğraf albümü"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000280",
@@ -5917,7 +7503,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000281",
@@ -5938,7 +7530,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#21Ağustos",
       "#21agustosterorizmkurbanlarinianmagunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000282",
@@ -5959,7 +7557,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#22Ağustos",
       "#22agustosinanctemellisiddetkurbanlarinianmagunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000283",
@@ -5980,7 +7584,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#23Ağustos",
       "#23agustoskoleticaretininyasaklanmasigunu"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000284",
@@ -6005,7 +7615,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000285",
@@ -6030,7 +7646,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000091",
@@ -6053,7 +7675,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "köpek ödül bisküvisi",
       "köpek diş temizleme oyuncağı",
       "köpek yatağı ortopedik"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000286",
@@ -6078,7 +7707,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000287",
@@ -6103,7 +7738,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000288",
@@ -6128,7 +7769,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000092",
@@ -6152,7 +7799,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "atatürk tişörtü",
       "kurtuluş savaşı tarihi kitabı",
       "rozet"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "Türkiye Cumhuriyeti (2429 Sayılı Kanun)",
+    "source_name": "T.C. Resmî Gazete (2429 Sayılı Kanun)",
+    "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2429&MevzuatTur=1&MevzuatTertip=5",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000289",
@@ -6177,7 +7838,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000093",
@@ -6199,7 +7866,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "barış güvercini kolye",
       "barış temalı tişört",
       "felsefe ve barış kitapları"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000290",
@@ -6224,7 +7898,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000291",
@@ -6249,7 +7929,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000292",
@@ -6274,7 +7960,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000293",
@@ -6299,7 +7991,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000294",
@@ -6324,7 +8022,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000295",
@@ -6349,7 +8053,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000296",
@@ -6374,7 +8084,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000297",
@@ -6399,7 +8115,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000298",
@@ -6424,7 +8146,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000299",
@@ -6449,7 +8177,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000300",
@@ -6474,7 +8208,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000094",
@@ -6498,7 +8238,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ergonomik mouse",
       "yazılımcı tişörtü",
       "monitör standı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000301",
@@ -6523,7 +8270,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000302",
@@ -6548,7 +8301,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000303",
@@ -6573,7 +8332,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000304",
@@ -6598,7 +8363,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000305",
@@ -6623,7 +8394,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000026",
@@ -6645,7 +8422,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türk bayrağı masa üstü pirinç",
       "atatürk biyografisi ciltli",
       "rozet"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000306",
@@ -6670,7 +8454,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000095",
@@ -6692,7 +8482,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hafıza güçlendirme bulmaca kitabı",
       "akıl oyunları seti yetişkin",
       "akıllı saat gps yaşlı"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000307",
@@ -6717,7 +8514,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000308",
@@ -6742,7 +8545,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000309",
@@ -6767,7 +8576,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000310",
@@ -6792,7 +8607,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000311",
@@ -6817,7 +8638,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000027",
@@ -6839,7 +8666,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "seyahat sırt çantası kabin boy",
       "boyun yastığı hafızalı sünger",
       "evrensel priz dönüştürücü"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Dünya Turizm Örgütü (UNWTO)",
+    "source_name": "UN Tourism (UNWTO)",
+    "source_url": "https://www.unwto.org/world-tourism-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "kutlama",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000096",
@@ -6861,7 +8699,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kedi köpek taşıma çantası",
       "köpek tasması ve künyesi",
       "veteriner bakım seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000097",
@@ -6883,7 +8728,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "e-kitap okuyucu",
       "bilimsel kitaplar",
       "hızlı okuma kitap seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000098",
@@ -6905,7 +8757,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıllı saat nabız ölçer",
       "kolesterol diyeti kitabı",
       "koşu bandı ev tipi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000312",
@@ -6930,7 +8789,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000028",
@@ -6952,7 +8817,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ortopedik baston ışıklı",
       "yaşlılar için tansiyon aleti konuşan",
       "ısıtmalı ayak masaj aleti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000099",
@@ -6977,7 +8849,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "termos kupa",
       "french press",
       "chemex"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Uluslararası Kahve Örgütü (ICO)",
+    "source_name": "International Coffee Organization (ICO Expo Milano)",
+    "source_url": "https://www.internationalcoffeeday.org",
+    "source_type": "institutional",
+    "scope": "uluslararasi",
+    "day_type": "kutlama",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000313",
@@ -7002,7 +8885,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000314",
@@ -7027,7 +8916,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000100",
@@ -7050,7 +8945,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "köpek maması premium",
       "kuş yemi ve kafesi",
       "otomatik su sebili pet"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000029",
@@ -7072,7 +8974,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "lazer sunum kumandası",
       "öğretmen ajandası 2026",
       "isme özel kupa"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000315",
@@ -7097,7 +9006,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000100b",
@@ -7112,9 +9027,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler Genel Kurulu (A/RES/75/318)",
+    "source_name": "Birleşmiş Milletler (A/RES/75/318)",
     "source_url": "https://press.un.org/en/2021/ga12354.doc.htm",
-    "verified_at": "2026-10-07",
+    "verified_at": "2026-10-10",
     "hashtags": [
       "#DunyaPamukGunu",
       "#WorldCottonDay",
@@ -7126,7 +9041,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "organik pamuk nevresim",
       "yüzde 100 pamuk tişört",
       "doğal pamuklu havlu"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_type": "primary_official",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000316",
@@ -7151,7 +9072,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000317",
@@ -7176,7 +9103,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000101",
@@ -7198,7 +9131,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "psikoloji kitapları çok satanlar",
       "meditasyon minderi",
       "aromaterapi difüzör"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000102",
@@ -7220,7 +9160,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ilham veren kadınlar çocuk kitabı",
       "bilim seti kız çocuk",
       "kodlama oyuncakları"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000318",
@@ -7245,7 +9192,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000319",
@@ -7270,7 +9223,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000320",
@@ -7295,7 +9254,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000321",
@@ -7320,7 +9285,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000030",
@@ -7342,7 +9313,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "vakumlu saklama kabı seti",
       "hava geçirmez kavanoz",
       "gıda kurutucu makine"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "BM Gıda ve Tarım Örgütü (FAO)",
+    "source_name": "Birleşmiş Milletler (A/RES/35/70)",
+    "source_url": "https://www.fao.org/world-food-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000322",
@@ -7367,7 +9349,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000323",
@@ -7392,7 +9380,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000324",
@@ -7417,7 +9411,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000325",
@@ -7442,7 +9442,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000326",
@@ -7467,7 +9473,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000327",
@@ -7492,7 +9504,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000328",
@@ -7517,7 +9535,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000329",
@@ -7542,7 +9566,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000330",
@@ -7567,7 +9597,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000331",
@@ -7592,7 +9628,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000332",
@@ -7617,7 +9659,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000333",
@@ -7642,7 +9690,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000103",
@@ -7666,7 +9720,21 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "atatürk rozeti",
       "nutuk özel baskı",
       "fener alayı meşalesi"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "TBMM / Türkiye Cumhuriyeti",
+    "source_name": "T.C. Resmî Gazete (2429 Sayılı Kanun)",
+    "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2429&MevzuatTur=1&MevzuatTertip=5",
+    "source_type": "primary_official",
+    "is_public_holiday": true,
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "scope": "turkiye",
+    "day_type": "resmi-tatil",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000334",
@@ -7691,7 +9759,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000031",
@@ -7713,7 +9787,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dijital para sayan kumbara",
       "finansal özgürlük kitapları",
       "akıllı priz enerji ölçer"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000335",
@@ -7738,7 +9819,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000104",
@@ -7760,7 +9847,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "lösev hediyelik eşya",
       "renkli maske seti",
       "çocuk boyama seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000336",
@@ -7785,7 +9879,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000337",
@@ -7810,7 +9910,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000338",
@@ -7835,7 +9941,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000339",
@@ -7860,7 +9972,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000340",
@@ -7885,7 +10003,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000032",
@@ -7907,7 +10031,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "şehir planlama ve mimarlık kitapları",
       "teknik çizim kalemi seti",
       "maket bıçağı seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000341",
@@ -7932,7 +10063,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000105",
@@ -7947,9 +10084,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "turkiye",
-    "source_name": "T.C. Resmî Gazete & Anıtkabir Komutanlığı",
-    "source_url": "https://www.anitkabir.tsk.tr",
-    "verified_at": "2026-10-07",
+    "source_name": "T.C. Resmî Gazete & Cumhurbaşkanlığı Genelgesi",
+    "source_url": "https://www.mevzuat.gov.tr",
+    "verified_at": "2026-10-10",
     "hashtags": [
       "#10Kasim",
       "#Ataturk",
@@ -7957,7 +10094,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "#0905",
       "#Turkiye"
     ],
-    "affiliate_keywords": []
+    "affiliate_keywords": [],
+    "official_status": "official",
+    "declaring_authority": "Türkiye Cumhuriyeti Cumhurbaşkanlığı",
+    "source_type": "primary_official",
+    "holiday_country": "TR",
+    "holiday_year": 2026,
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000342",
@@ -7982,7 +10127,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000343",
@@ -8007,7 +10158,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000344",
@@ -8032,7 +10189,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000106",
@@ -8054,7 +10217,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "şeker ölçüm cihazı stripli",
       "şekersiz tatlandırıcı",
       "diyabet tarifleri kitabı"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/61/225)",
+    "source_url": "https://www.un.org/en/observances/diabetes-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000345",
@@ -8079,7 +10253,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000033",
@@ -8101,7 +10281,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "mevlana mesnevi seti",
       "felsefe ve empati kitapları",
       "meditasyon müziği cd"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000346",
@@ -8126,7 +10313,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000347",
@@ -8151,7 +10344,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000348",
@@ -8176,7 +10375,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000107",
@@ -8198,7 +10403,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çocuk hakları resimli kitap",
       "eğitici kutu oyunları",
       "çocuk gelişim kitapları"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/44/25 Çocuk Haklarına Dair Sözleşme)",
+    "source_url": "https://www.un.org/en/observances/world-childrens-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000034",
@@ -8220,7 +10436,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıllı tv kumandası",
       "led tv arka aydınlatma ambiyans",
       "soundbar ses sistemi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000108",
@@ -8243,7 +10466,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ağız duşu cihazı",
       "diş hekimi esprili kupa",
       "diş ipi seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000349",
@@ -8268,7 +10498,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000109",
@@ -8291,7 +10527,19 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "öğretmenler günü hediye kutusu",
       "çiçek buketi",
       "deri ajanda"
-    ]
+    ],
+    "official_status": "official",
+    "declaring_authority": "T.C. Millî Eğitim Bakanlığı",
+    "source_name": "Millet Mektepleri Başöğretmenlik Kararı (1981)",
+    "source_url": "https://www.meb.gov.tr",
+    "source_type": "primary_official",
+    "is_public_holiday": false,
+    "scope": "turkiye",
+    "day_type": "kutlama",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000350",
@@ -8316,7 +10564,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000351",
@@ -8341,7 +10595,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000352",
@@ -8366,7 +10626,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000353",
@@ -8391,7 +10657,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000354",
@@ -8416,7 +10688,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000355",
@@ -8441,7 +10719,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000035",
@@ -8462,7 +10746,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "kırmızı kurdele yaka iğnesi",
       "bağışıklık güçlendirici vitamin"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Dünya Sağlık Örgütü (DSÖ)",
+    "source_name": "Dünya Sağlık Örgütü (WHO)",
+    "source_url": "https://www.who.int/campaigns/world-aids-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000356",
@@ -8487,7 +10782,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000110",
@@ -8509,7 +10810,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tekerlekli sandalye minderi",
       "ergonomik tutacak seti",
       "sesli uyarı cihazı"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/47/3)",
+    "source_url": "https://www.un.org/en/observances/day-of-persons-with-disabilities",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000357",
@@ -8534,7 +10846,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000036",
@@ -8556,7 +10874,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "organik kompost gübre",
       "solucan gübresi",
       "bahçıvan kürek seti"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000111",
@@ -8579,7 +10904,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bakır cezve seti",
       "türk kahvesi fincan takımı",
       "hacı bekir lokumu"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000112",
@@ -8601,7 +10933,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kadın liderler biyografi kitabı",
       "özel tasarım takı seti",
       "fular ipek"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000358",
@@ -8626,7 +10965,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000359",
@@ -8651,7 +10996,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000360",
@@ -8676,7 +11027,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000361",
@@ -8701,7 +11058,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000113",
@@ -8722,7 +11085,18 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "insan hakları evrensel beyannamesi kitap",
       "felsefe ve etik kitapları"
-    ]
+    ],
+    "official_status": "international_observance",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "source_name": "Birleşmiş Milletler (A/RES/217 A)",
+    "source_url": "https://www.un.org/en/observances/human-rights-day",
+    "source_type": "primary_official",
+    "scope": "bm",
+    "day_type": "farkindalik",
+    "editorial_status": "verified",
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": "2026-10-10",
+    "verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000037",
@@ -8744,7 +11118,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "trekking batonları katlanır",
       "termal dağcı çorabı",
       "kamp termos paslanmaz"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000362",
@@ -8769,7 +11150,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000363",
@@ -8794,7 +11181,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000364",
@@ -8819,7 +11212,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000365",
@@ -8844,7 +11243,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000366",
@@ -8869,7 +11274,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000367",
@@ -8894,7 +11305,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000038",
@@ -8915,7 +11332,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "affiliate_keywords": [
       "kültürlerarası sosyoloji kitapları",
       "dünya dilleri sözlükleri"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000368",
@@ -8940,7 +11364,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000369",
@@ -8965,7 +11395,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000114",
@@ -8988,7 +11424,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "polar battaniye",
       "film izleme projeksiyon",
       "termos kupa"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000370",
@@ -9013,7 +11456,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000371",
@@ -9038,7 +11487,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000372",
@@ -9063,7 +11518,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000373",
@@ -9088,7 +11549,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000374",
@@ -9113,7 +11580,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000375",
@@ -9138,7 +11611,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000376",
@@ -9163,7 +11642,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000377",
@@ -9188,7 +11673,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000378",
@@ -9213,7 +11704,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hediye seti",
       "kitap",
       "anı objesi"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "unverified",
+    "source_type": "secondary_reliable",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000115",
@@ -9236,6 +11733,13 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "parti kutlama şapkası",
       "kutu masa oyunu",
       "ışıklı peri led"
-    ]
+    ],
+    "editorial_status": "needs_review",
+    "official_status": "community_observance",
+    "source_type": "unverified",
+    "declaring_authority": null,
+    "source_checked_at": "2026-10-10",
+    "last_verified_at": null,
+    "is_public_holiday": false
   }
 ];

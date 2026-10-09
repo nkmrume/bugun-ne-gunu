@@ -21,11 +21,10 @@ export function SearchModal({ isOpen, onClose, allDays }: SearchModalProps) {
 
   useEffect(() => {
     if (isOpen) {
-      setTimeout(() => {
+      const timer = setTimeout(() => {
         inputRef.current?.focus();
       }, 50);
-    } else {
-      setQuery("");
+      return () => clearTimeout(timer);
     }
   }, [isOpen]);
 
@@ -61,13 +60,22 @@ export function SearchModal({ isOpen, onClose, allDays }: SearchModalProps) {
       })
     : allDays.slice(0, 5);
 
+  const handleClose = () => {
+    setQuery("");
+    onClose();
+  };
+
   const handleSelectDay = (slug: string) => {
+    setQuery("");
     onClose();
     router.push(`/gun/${slug}`);
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-start justify-center pt-16 sm:pt-24 px-4 bg-zinc-950/60 backdrop-blur-sm animate-in fade-in-0 duration-200">
+    <div
+      onClick={handleClose}
+      className="fixed inset-0 z-50 flex items-start justify-center pt-16 sm:pt-24 px-4 bg-zinc-950/60 backdrop-blur-sm animate-in fade-in-0 duration-200"
+    >
       <div
         className="w-full max-w-xl overflow-hidden rounded-3xl border border-zinc-200 bg-white shadow-2xl dark:border-zinc-800 dark:bg-zinc-900"
         onClick={(e) => e.stopPropagation()}
@@ -159,7 +167,7 @@ export function SearchModal({ isOpen, onClose, allDays }: SearchModalProps) {
             <span>Hızlı arama için <kbd className="font-mono bg-zinc-200/60 dark:bg-zinc-800 px-1.5 py-0.5 rounded">Ctrl + K</kbd> tuşlarını kullanabilirsiniz.</span>
           </div>
           <button
-            onClick={onClose}
+            onClick={handleClose}
             className="text-xs font-medium text-zinc-600 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100"
           >
             Kapat

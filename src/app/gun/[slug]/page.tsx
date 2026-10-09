@@ -11,6 +11,7 @@ import {
   ShieldCheck,
   HelpCircle,
   ExternalLink,
+  Info,
 } from "lucide-react";
 import {
   getSpecialDayBySlug,
@@ -18,7 +19,7 @@ import {
   getSpecialDaysByMonth,
 } from "@/lib/data/special-days-service";
 import { MONTHS_METADATA } from "@/lib/data/special-days-data";
-import { formatTurkishDate, formatDayMonthOnly, TURKISH_MONTHS, NUMBER_TO_MONTH_SLUG } from "@/lib/utils";
+import { formatTurkishDate, formatDayMonthOnly, TURKISH_MONTHS, NUMBER_TO_MONTH_SLUG, getBaseUrl } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import { SpecialDayJsonLd } from "@/components/seo/JsonLd";
 import { DayDetailTabs } from "@/components/day/DayDetailTabs";
@@ -53,24 +54,29 @@ export async function generateMetadata({
   if (!day) {
     return {
       title: "Özel Gün Bulunamadı",
+      robots: {
+        index: false,
+        follow: false,
+      },
     };
   }
 
+  const baseUrl = getBaseUrl();
   const isMemorial = day.day_type === "anma";
   const formattedDate = formatTurkishDate(day.day_no, day.month_no, 2026);
   // Title without repeating brand suffix (layout handles %s | Bugün Ne Günü?)
   const title = `2026 ${day.title} Ne Zaman, Nasıl ${isMemorial ? "Anılır" : "Kutlanır"}?`;
   const actionWord = isMemorial ? "anılmaktadır" : "kutlanıyor";
   const description = `${day.title} 2026 yılında ${formattedDate} tarihinde ${actionWord}. ${day.description} Etkinlik fikirleri, tarihçesi ve hazır ${isMemorial ? "anma" : "kutlama"} mesajları.`;
-  const canonicalUrl = `https://bugunnegunu.com/gun/${day.slug}`;
+  const canonicalUrl = `${baseUrl}/gun/${day.slug}`;
 
-    const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
-      day.title
-    )}&date=${encodeURIComponent(formattedDate)}&cat=${encodeURIComponent(
-      day.category
-    )}&type=${encodeURIComponent(day.day_type || "kutlama")}&desc=${encodeURIComponent(
-      day.description || ""
-    )}`;
+  const ogImageUrl = `${baseUrl}/api/og?title=${encodeURIComponent(
+    day.title
+  )}&date=${encodeURIComponent(formattedDate)}&cat=${encodeURIComponent(
+    day.category
+  )}&type=${encodeURIComponent(day.day_type || "kutlama")}&desc=${encodeURIComponent(
+    day.description || ""
+  )}`;
 
     return {
       title,
@@ -124,7 +130,7 @@ export default async function SingleDayPage({ params }: DayPageProps) {
   const monthMeta = MONTHS_METADATA.find((m) => m.number === day.month_no);
   const formattedDayMonth = formatDayMonthOnly(day.day_no, day.month_no);
   const formattedFullDate = formatTurkishDate(day.day_no, day.month_no, 2026);
-  const pageUrl = `https://bugunnegunu.com/gun/${day.slug}`;
+  const pageUrl = `${getBaseUrl()}/gun/${day.slug}`;
   const dateSlug = `${day.day_no}-${NUMBER_TO_MONTH_SLUG[day.month_no]}`;
 
   // Fetch related days from same month
@@ -264,20 +270,58 @@ export default async function SingleDayPage({ params }: DayPageProps) {
           </div>
 
           {/* Editorial Source Verification Badge */}
-          {day.source_name && (
-            <div className="mt-4 flex items-center gap-2 text-xs opacity-80">
-              <ShieldCheck className="h-4 w-4 text-emerald-500" />
-              <span>
-                Kaynak: <strong>{day.source_name}</strong>
+          {day.editorial_status === "verified" ? (
+            <div className="mt-4 flex flex-wrap items-center gap-2 text-xs opacity-90">
+              <span className="inline-flex items-center gap-1 font-bold text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/60 px-2.5 py-1 rounded-lg border border-emerald-200/60 dark:border-emerald-800/60">
+                <ShieldCheck className="h-3.5 w-3.5 text-emerald-500" />
+                Doğrulanmış Resmî Kayıt
               </span>
+              {day.declaring_authority && (
+                <span className="text-zinc-600 dark:text-zinc-400">
+                  İlan Eden: <strong>{day.declaring_authority}</strong>
+                </span>
+              )}
+              {day.source_name && (
+                <span className="text-zinc-600 dark:text-zinc-400">
+                  Dayanak: <strong>{day.source_name}</strong>
+                </span>
+              )}
               {day.source_url && (
                 <a
                   href={day.source_url}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
-                  className="inline-flex items-center gap-0.5 underline text-red-500 hover:text-red-400 ml-1"
+                  className="inline-flex items-center gap-0.5 underline text-red-500 hover:text-red-400 font-semibold"
                 >
-                  <span>Resmi Belge</span>
+                  <span>{day.source_type === "primary_official" ? "Resmî Karar Belgesi" : "Doğrulama Belgesi"}</span>
+                  <ExternalLink className="h-3 w-3" />
+                </a>
+              )}
+              {day.last_verified_at && (
+                <span className="text-[11px] opacity-70">
+                  • Son Doğrulama: {day.last_verified_at}
+                </span>
+              )}
+            </div>
+          ) : (
+            <div className="mt-4 flex flex-wrap items-center gap-2 text-xs opacity-80">
+              <span className="inline-flex items-center gap-1 text-zinc-600 dark:text-zinc-400 bg-zinc-100 dark:bg-zinc-800 px-2.5 py-1 rounded-lg border border-zinc-200/60 dark:border-zinc-700/60">
+                <Info className="h-3.5 w-3.5 text-zinc-400" />
+                {day.official_status === "community_observance" ? "Kültürel / Topluluk Geleneği" : "Editoryal İnceleme Aşamasında"}
+              </span>
+              {day.source_name && (
+                <span className="text-zinc-500">
+                  Kaynak / İnisiyatif: <strong>{day.source_name}</strong>
+                </span>
+              )}
+              {day.source_url && (
+                <a
+                  href={day.source_url}
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  className="inline-flex items-center gap-0.5 underline text-zinc-500 hover:text-zinc-700 dark:hover:text-zinc-300"
+                >
+                  <span>Bağlantı</span>
                   <ExternalLink className="h-3 w-3" />
                 </a>
               )}
@@ -368,11 +412,11 @@ export default async function SingleDayPage({ params }: DayPageProps) {
             <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed">
               {isMemorial ? (
                 <span>
-                  "Gazi Mustafa Kemal Atatürk'ü saygı, rahmet ve minnetle anıyoruz. Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğimize ant içeriz." gibi saygı dolu ifadeler tercih edilmelidir. Sayfamızın Sosyal Medya sekmesinden diğer mesajları tek tıkla kopyalayabilirsiniz.
+                  &quot;Gazi Mustafa Kemal Atatürk&apos;ü saygı, rahmet ve minnetle anıyoruz. Açtığın yolda, gösterdiğin hedefe durmadan yürüyeceğimize ant içeriz.&quot; gibi saygı dolu ifadeler tercih edilmelidir. Sayfamızın Sosyal Medya sekmesinden diğer mesajları tek tıkla kopyalayabilirsiniz.
                 </span>
               ) : (
                 <span>
-                  Sayfamızın "Sosyal Medya" sekmesinde WhatsApp, Instagram ve Twitter için özel olarak hazırlanmış hazır mesaj şablonları yer almaktadır. Tek tıkla kopyalayarak paylaşabilirsiniz.
+                  Sayfamızın &quot;Sosyal Medya&quot; sekmesinde WhatsApp, Instagram ve Twitter için özel olarak hazırlanmış hazır mesaj şablonları yer almaktadır. Tek tıkla kopyalayarak paylaşabilirsiniz.
                 </span>
               )}
             </p>

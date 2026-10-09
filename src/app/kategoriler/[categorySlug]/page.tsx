@@ -23,6 +23,7 @@ import { getSpecialDaysByCategory } from "@/lib/data/special-days-service";
 import { SpecialDayCard } from "@/components/day/SpecialDayCard";
 import { Badge } from "@/components/ui/badge";
 import { AdBanner } from "@/components/ads/AdBanner";
+import { getBaseUrl } from "@/lib/utils";
 
 interface CategoryPageProps {
   params: Promise<{ categorySlug: string }>;
@@ -49,16 +50,18 @@ export async function generateMetadata({
   const title = `${categoryMeta.name} Özel Günleri Takvimi 2026`;
   const description = `${categoryMeta.name} kategorisindeki tüm özel günler, haftalar ve bayramlar. ${categoryMeta.description} 2026 takvimi ve kutlama mesajları.`;
 
+  const baseUrl = getBaseUrl();
+
   return {
     title,
     description,
     alternates: {
-      canonical: `https://bugunnegunu.com/kategoriler/${categoryMeta.slug}`,
+      canonical: `${baseUrl}/kategoriler/${categoryMeta.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `https://bugunnegunu.com/kategoriler/${categoryMeta.slug}`,
+      url: `${baseUrl}/kategoriler/${categoryMeta.slug}`,
       type: "website",
     },
     twitter: {
@@ -77,6 +80,7 @@ export default async function SingleCategoryPage({ params }: CategoryPageProps) 
     notFound();
   }
 
+  const baseUrl = getBaseUrl();
   const days = await getSpecialDaysByCategory(categoryMeta.category);
 
   const collectionSchema = {
@@ -84,13 +88,16 @@ export default async function SingleCategoryPage({ params }: CategoryPageProps) 
     "@type": "CollectionPage",
     name: `${categoryMeta.name} Özel Günleri 2026`,
     description: categoryMeta.description,
-    url: `https://bugunnegunu.com/kategoriler/${categoryMeta.slug}`,
-    hasPart: days.map((day) => ({
-      "@type": "Event",
-      name: day.title,
-      startDate: day.celebration_date,
-      url: `https://bugunnegunu.com/gun/${day.slug}`,
-    })),
+    url: `${baseUrl}/kategoriler/${categoryMeta.slug}`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: days.map((day, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: day.title,
+        url: `${baseUrl}/gun/${day.slug}`,
+      })),
+    },
   };
 
   const breadcrumbSchema = {
@@ -101,19 +108,19 @@ export default async function SingleCategoryPage({ params }: CategoryPageProps) 
         "@type": "ListItem",
         position: 1,
         name: "Ana Sayfa",
-        item: "https://bugunnegunu.com",
+        item: baseUrl,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Kategoriler",
-        item: "https://bugunnegunu.com/kategoriler",
+        item: `${baseUrl}/kategoriler`,
       },
       {
         "@type": "ListItem",
         position: 3,
         name: categoryMeta.name,
-        item: `https://bugunnegunu.com/kategoriler/${categoryMeta.slug}`,
+        item: `${baseUrl}/kategoriler/${categoryMeta.slug}`,
       },
     ],
   };

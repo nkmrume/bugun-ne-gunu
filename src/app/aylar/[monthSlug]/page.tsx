@@ -18,7 +18,7 @@ import { AddToCalendarButton } from "@/components/day/AddToCalendarButton";
 import { specialDayToEventPayload } from "@/lib/calendar-engine";
 import { AdBanner } from "@/components/ads/AdBanner";
 import { Badge } from "@/components/ui/badge";
-import { MONTH_SLUGS, NUMBER_TO_MONTH_SLUG } from "@/lib/utils";
+import { MONTH_SLUGS, NUMBER_TO_MONTH_SLUG, getBaseUrl } from "@/lib/utils";
 
 interface MonthPageProps {
   params: Promise<{ monthSlug: string }>;
@@ -46,7 +46,8 @@ export async function generateMetadata({
   const title = `${monthMeta.name} Ayı Özel Günleri ve Haftaları 2026`;
   const description = `${monthMeta.name} ayında hangi özel günler ve resmi tatiller var? 2026 ${monthMeta.name} ayı önemli günler takvimi, etkinlik fikirleri ve kutlama mesajları.`;
 
-  const ogImageUrl = `https://bugunnegunu.com/api/og?title=${encodeURIComponent(
+  const baseUrl = getBaseUrl();
+  const ogImageUrl = `${baseUrl}/api/og?title=${encodeURIComponent(
     `${monthMeta.name} Ayı Özel Günleri 2026`
   )}&date=${encodeURIComponent(`${monthMeta.name} 2026`)}&cat=${encodeURIComponent(
     `${monthMeta.season} Mevsimi`
@@ -56,12 +57,12 @@ export async function generateMetadata({
     title,
     description,
     alternates: {
-      canonical: `https://bugunnegunu.com/aylar/${monthMeta.slug}`,
+      canonical: `${baseUrl}/aylar/${monthMeta.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `https://bugunnegunu.com/aylar/${monthMeta.slug}`,
+      url: `${baseUrl}/aylar/${monthMeta.slug}`,
       type: "website",
       images: [
         {
@@ -98,19 +99,24 @@ export default async function MonthPillarPage({ params }: MonthPageProps) {
   const prevMonthMeta = MONTHS_METADATA.find((m) => m.number === prevMonthNo)!;
   const nextMonthMeta = MONTHS_METADATA.find((m) => m.number === nextMonthNo)!;
 
-  // Collection JSON-LD Schema
+  const baseUrl = getBaseUrl();
+
+  // Collection JSON-LD Schema (Section 8: Structured Data without invalid Event schema)
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     name: `${monthMeta.name} Ayı Özel Günleri 2026`,
     description: monthMeta.description,
-    url: `https://bugunnegunu.com/aylar/${monthMeta.slug}`,
-    hasPart: specialDays.map((day) => ({
-      "@type": "Event",
-      name: day.title,
-      startDate: day.celebration_date,
-      url: `https://bugunnegunu.com/gun/${day.slug}`,
-    })),
+    url: `${baseUrl}/aylar/${monthMeta.slug}`,
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: specialDays.map((day, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: day.title,
+        url: `${baseUrl}/gun/${day.slug}`,
+      })),
+    },
   };
 
   const breadcrumbSchema = {
@@ -121,19 +127,19 @@ export default async function MonthPillarPage({ params }: MonthPageProps) {
         "@type": "ListItem",
         position: 1,
         name: "Ana Sayfa",
-        item: "https://bugunnegunu.com",
+        item: baseUrl,
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Aylar",
-        item: "https://bugunnegunu.com/#aylar",
+        item: `${baseUrl}/#aylar`,
       },
       {
         "@type": "ListItem",
         position: 3,
         name: `${monthMeta.name} Ayı`,
-        item: `https://bugunnegunu.com/aylar/${monthMeta.slug}`,
+        item: `${baseUrl}/aylar/${monthMeta.slug}`,
       },
     ],
   };
@@ -263,7 +269,7 @@ export default async function MonthPillarPage({ params }: MonthPageProps) {
             {monthMeta.name} Ayı Özel Günleri Hakkında Rehber
           </h3>
           <p className="text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed mb-4">
-            {monthMeta.name} ayı, gerek Türkiye'de gerekse küresel çapta çok sayıda anlamlı etkinliğe ve kutlamaya ev sahipliği yapar. Bu ay içinde yer alan özel günler sayesinde sevdiklerinizi mutlu edebilir, sosyal sorumluluk projelerine destek verebilir ve farkındalık yaratabilirsiniz.
+            {monthMeta.name} ayı, gerek Türkiye&apos;de gerekse küresel çapta çok sayıda anlamlı etkinliğe ve kutlamaya ev sahipliği yapar. Bu ay içinde yer alan özel günler sayesinde sevdiklerinizi mutlu edebilir, sosyal sorumluluk projelerine destek verebilir ve farkındalık yaratabilirsiniz.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-4 border-t border-zinc-200/60 dark:border-zinc-800">
             <div className="flex items-center gap-2 text-xs font-semibold text-zinc-700 dark:text-zinc-300">

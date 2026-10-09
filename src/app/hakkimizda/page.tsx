@@ -14,6 +14,7 @@ import {
   BookOpen,
 } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { getVerificationStats } from "@/lib/data/special-days-service";
 
 export const metadata: Metadata = {
   title: "Hakkımızda",
@@ -24,7 +25,8 @@ export const metadata: Metadata = {
   },
 };
 
-export default function HakkimizdaPage() {
+export default async function HakkimizdaPage() {
+  const stats = await getVerificationStats();
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "AboutPage",
@@ -82,7 +84,7 @@ export default function HakkimizdaPage() {
           </h2>
           <div className="prose prose-zinc dark:prose-invert max-w-none text-zinc-600 dark:text-zinc-300 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
-              "Bugün ne günü?" sorusu, Türkiye'de her gün yüz binlerce kullanıcı, öğrenci, öğretmen, sosyal medya yöneticisi ve küçük işletme tarafından aratılmaktadır. Ancak geleneksel arama sonuçlarında karşılaşılan en büyük problem; kaynağı belirsiz tarihler, yanlış resmî tatil iddiaları, anma günlerine uygulanan uygunsuz ticari reklamlar ve güncelliğini yitirmiş içeriklerdir.
+              &quot;Bugün ne günü?&quot; sorusu, Türkiye&apos;de her gün yüz binlerce kullanıcı, öğrenci, öğretmen, sosyal medya yöneticisi ve küçük işletme tarafından aratılmaktadır. Ancak geleneksel arama sonuçlarında karşılaşılan en büyük problem; kaynağı belirsiz tarihler, yanlış resmî tatil iddiaları, anma günlerine uygulanan uygunsuz ticari reklamlar ve güncelliğini yitirmiş içeriklerdir.
             </p>
             <p>
               Biz, her özel günün bir arka planı, yasal veya uluslararası bir dayanağı olduğuna inanıyoruz. Birleşmiş Milletler (BM), UNESCO, Dünya Sağlık Örgütü (DSÖ) ve T.C. Resmî Gazete gibi birincil mercileri referans alarak; yalnızca doğru tarihi değil, o günün gerçek toplumsal anlamını da titizlikle araştırıp sunuyoruz.
@@ -117,7 +119,7 @@ export default function HakkimizdaPage() {
                 2. Kültürel & Editoryal Hassasiyet
               </h3>
               <p className="text-xs sm:text-sm text-zinc-600 dark:text-zinc-400 leading-relaxed">
-                Kutlama günleri ile milli anma ve yas günleri (örn. 10 Kasım Atatürk'ü Anma Günü) kesin çizgilerle ayrılır. Anma günlerinde kutlama dili ve ticari fırsat modülleri asla kullanılmaz.
+                Kutlama günleri ile milli anma ve yas günleri (örn. 10 Kasım Atatürk&apos;ü Anma Günü) kesin çizgilerle ayrılır. Anma günlerinde kutlama dili ve ticari fırsat modülleri asla kullanılmaz.
               </p>
             </div>
 
@@ -148,26 +150,26 @@ export default function HakkimizdaPage() {
             </div>
             <div>
               <div className="text-3xl sm:text-4xl font-black text-red-600 dark:text-red-400 font-mono">
-                115+
+                {stats.verified}
               </div>
               <div className="mt-1 text-xs font-semibold text-zinc-600 dark:text-zinc-400">
-                Teyitli Özel Gün
+                Birincil Teyitli Gün
               </div>
             </div>
             <div>
               <div className="text-3xl sm:text-4xl font-black text-red-600 dark:text-red-400 font-mono">
-                8
+                {stats.total}
               </div>
               <div className="mt-1 text-xs font-semibold text-zinc-600 dark:text-zinc-400">
-                Tematik Kategori
+                Arşivlenmiş Özel Gün
               </div>
             </div>
             <div>
               <div className="text-3xl sm:text-4xl font-black text-emerald-600 dark:text-emerald-400 font-mono">
-                %100
+                8
               </div>
               <div className="mt-1 text-xs font-semibold text-zinc-600 dark:text-zinc-400">
-                Kaynak Doğrulama
+                Tematik Kategori
               </div>
             </div>
           </div>
