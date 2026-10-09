@@ -1,0 +1,2721 @@
+[
+  {
+    "slug": "2-ocak-dunya-bilimkurgu-gunu",
+    "title": "2 Ocak Dünya Bilimkurgu Günü",
+    "month": 1,
+    "day": 2,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-ocak-uluslararasi-zihin-beden-sagligi-gunu",
+    "title": "3 Ocak Uluslararası Zihin-Beden Sağlığı Günü",
+    "month": 1,
+    "day": 3,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "5-ocak-ulusal-kuslari-koruma-gunu",
+    "title": "5 Ocak Ulusal Kuşları Koruma Günü",
+    "month": 1,
+    "day": 5,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "6-ocak-dunya-savas-yetimleri-gunu",
+    "title": "6 Ocak Dünya Savaş Yetimleri Günü",
+    "month": 1,
+    "day": 6,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "7-ocak-uluslararasi-programcilar-gunu",
+    "title": "7 Ocak Uluslararası Programcılar Günü",
+    "month": 1,
+    "day": 7,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-ocak-dunya-yazi-yazma-ve-daktilo-gunu",
+    "title": "8 Ocak Dünya Yazı Yazma ve Daktilo Günü",
+    "month": 1,
+    "day": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-ocak-dunya-statik-elektrik-gunu",
+    "title": "9 Ocak Dünya Statik Elektrik Günü",
+    "month": 1,
+    "day": 9,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "calisan-gazeteciler-gunu",
+    "title": "10 Ocak Çalışan Gazeteciler Günü",
+    "month": 1,
+    "day": 10,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "11-ocak-uluslararasi-tesekkur-gunu",
+    "title": "11 Ocak Uluslararası Teşekkür Günü",
+    "month": 1,
+    "day": 11,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-ocak-dunya-eczacilik-egitimi-gunu",
+    "title": "12 Ocak Dünya Eczacılık Eğitimi Günü",
+    "month": 1,
+    "day": 12,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "13-ocak-hayalleri-gerceklestirme-gunu",
+    "title": "13 Ocak Hayalleri Gerçekleştirme Günü",
+    "month": 1,
+    "day": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "14-ocak-dunya-mantik-gunu",
+    "title": "14 Ocak Dünya Mantık Günü",
+    "month": 1,
+    "day": 14,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "15-ocak-wikipedia-gunu",
+    "title": "15 Ocak Wikipedia Günü",
+    "month": 1,
+    "day": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-hijyen-gunu",
+    "title": "16 Ocak Dünya Hijyen Günü",
+    "month": 1,
+    "day": 16,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "17-ocak-cocuk-mucitler-gunu",
+    "title": "17 Ocak Çocuk Mucitler Günü",
+    "month": 1,
+    "day": 17,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "18-ocak-dunya-dinler-arasi-hosgoru-gunu",
+    "title": "18 Ocak Dünya Dinler Arası Hoşgörü Günü",
+    "month": 1,
+    "day": 18,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "19-ocak-dunya-patlamis-misir-gunu",
+    "title": "19 Ocak Dünya Patlamış Mısır Günü",
+    "month": 1,
+    "day": 19,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "20-ocak-penguenleri-koruma-farkindalik-gunu",
+    "title": "20 Ocak Penguenleri Koruma Farkındalık Günü",
+    "month": 1,
+    "day": 20,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-sarilma-gunu",
+    "title": "21 Ocak Dünya Sarılma Günü",
+    "month": 1,
+    "day": 21,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "22-ocak-toplum-sagligi-ve-sicak-cay-gunu",
+    "title": "22 Ocak Toplum Sağlığı ve Sıcak Çay Günü",
+    "month": 1,
+    "day": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-ocak-dunya-el-yazisi-gunu",
+    "title": "23 Ocak Dünya El Yazısı Günü",
+    "month": 1,
+    "day": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-ocak-dunya-kar-ve-kis-sporlari-gunu",
+    "title": "25 Ocak Dünya Kar ve Kış Sporları Günü",
+    "month": 1,
+    "day": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-gumruk-gunu",
+    "title": "26 Ocak Dünya Gümrük Günü",
+    "month": 1,
+    "day": 26,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "27-ocak-uluslararasi-holokost-kurbanlarini-anma-gunu",
+    "title": "27 Ocak Uluslararası Holokost Kurbanlarını Anma Günü",
+    "month": 1,
+    "day": 27,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "veri-koruma-gunu",
+    "title": "28 Ocak Veri Koruma Günü",
+    "month": 1,
+    "day": 28,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "29-ocak-dunya-yapboz-puzzle-gunu",
+    "title": "29 Ocak Dünya Yapboz (Puzzle) Günü",
+    "month": 1,
+    "day": 29,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "30-ocak-okullarda-siddetsizlik-ve-baris-gunu",
+    "title": "30 Ocak Okullarda Şiddetsizlik ve Barış Günü",
+    "month": 1,
+    "day": 30,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "31-ocak-dunya-cuzzam-ile-savas-gunu",
+    "title": "31 Ocak Dünya Cüzzam ile Savaş Günü",
+    "month": 1,
+    "day": 31,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "1-subat-dunya-basortusu-ve-vicdan-ozgurlugu-gunu",
+    "title": "1 Şubat Dünya Başörtüsü ve Vicdan Özgürlüğü Günü",
+    "month": 2,
+    "day": 1,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "2-subat-dunya-sulak-alanlar-gunu",
+    "title": "2 Şubat Dünya Sulak Alanlar Günü",
+    "month": 2,
+    "day": 2,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "3-subat-dunya-dogal-beslenme-ve-havyar-gunu",
+    "title": "3 Şubat Dünya Doğal Beslenme ve Havyar Günü",
+    "month": 2,
+    "day": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "5-subat-dunya-nutella-ve-kakao-gunu",
+    "title": "5 Şubat Dünya Nutella ve Kakao Günü",
+    "month": 2,
+    "day": 5,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "6-subat-kadin-sunnetine-sifir-tolerans-gunu",
+    "title": "6 Şubat Kadın Sünnetine Sıfır Tolerans Günü",
+    "month": 2,
+    "day": 6,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "7-subat-guvenli-internet-gunu",
+    "title": "7 Şubat Güvenli İnternet Günü",
+    "month": 2,
+    "day": 7,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "8-subat-dunya-opera-ve-sahne-sanatlari-gunu",
+    "title": "8 Şubat Dünya Opera ve Sahne Sanatları Günü",
+    "month": 2,
+    "day": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "sigarayi-birakma-gunu",
+    "title": "9 Şubat Dünya Sigarayı Bırakma Günü",
+    "month": 2,
+    "day": 9,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "10-subat-dunya-bakliyat-gunu",
+    "title": "10 Şubat Dünya Bakliyat Günü",
+    "month": 2,
+    "day": 10,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "bilimde-kadinlar-gunu",
+    "title": "11 Şubat Bilimde Kadınlar ve Kız Çocukları Günü",
+    "month": 2,
+    "day": 11,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "12-subat-uluslararasi-darwin-gunu",
+    "title": "12 Şubat Uluslararası Darwin Günü",
+    "month": 2,
+    "day": 12,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-subat-dunya-radyo-gunu",
+    "title": "13 Şubat Dünya Radyo Günü",
+    "month": 2,
+    "day": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "sevgililer-gunu",
+    "title": "14 Şubat Sevgililer Günü",
+    "month": 2,
+    "day": 14,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "15-subat-uluslararasi-cocukluk-cagi-kanseri-gunu",
+    "title": "15 Şubat Uluslararası Çocukluk Çağı Kanseri Günü",
+    "month": 2,
+    "day": 15,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "16-subat-dunya-badem-ve-kuruyemis-gunu",
+    "title": "16 Şubat Dünya Badem ve Kuruyemiş Günü",
+    "month": 2,
+    "day": 16,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-kediler-gunu",
+    "title": "17 Şubat Dünya Kediler Günü",
+    "month": 2,
+    "day": 17,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "18-subat-dunya-pil-ve-batarya-gunu",
+    "title": "18 Şubat Dünya Pil ve Batarya Günü",
+    "month": 2,
+    "day": 18,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "19-subat-dunya-balina-ve-deniz-memelileri-gunu",
+    "title": "19 Şubat Dünya Balina ve Deniz Memelileri Günü",
+    "month": 2,
+    "day": 19,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-sosyal-adalet-gunu",
+    "title": "20 Şubat Dünya Sosyal Adalet Günü",
+    "month": 2,
+    "day": 20,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "dunya-anadili-gunu",
+    "title": "21 Şubat Uluslararası Anadili Günü",
+    "month": 2,
+    "day": 21,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "22-subat-dunya-dusunce-gunu",
+    "title": "22 Şubat Dünya Düşünce Günü",
+    "month": 2,
+    "day": 22,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-subat-dunya-baris-ve-karsilikli-anlayis-gunu",
+    "title": "23 Şubat Dünya Barış ve Karşılıklı Anlayış Günü",
+    "month": 2,
+    "day": 23,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "24-subat-dunya-barmenler-gunu",
+    "title": "24 Şubat Dünya Barmenler Günü",
+    "month": 2,
+    "day": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-subat-sessizlik-ve-ic-huzur-gunu",
+    "title": "25 Şubat Sessizlik ve İç Huzur Günü",
+    "month": 2,
+    "day": 25,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "26-subat-dunya-antep-fistigi-gunu",
+    "title": "26 Şubat Dünya Antep Fıstığı Günü",
+    "month": 2,
+    "day": 26,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-subat-dunya-sivil-toplum-kuruluslari-gunu",
+    "title": "27 Şubat Dünya Sivil Toplum Kuruluşları Günü",
+    "month": 2,
+    "day": 27,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "sivil-savunma-gunu",
+    "title": "28 Şubat Sivil Savunma Günü",
+    "month": 2,
+    "day": 28,
+    "category": "Resmi"
+  },
+  {
+    "slug": "yesilay-haftasi",
+    "title": "1 Mart Yeşilay Haftası",
+    "month": 3,
+    "day": 1,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "2-mart-dunya-kitap-okuma-ve-dr-seuss-gunu",
+    "title": "2 Mart Dünya Kitap Okuma ve Dr. Seuss Günü",
+    "month": 3,
+    "day": 2,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-yaban-hayati-gunu",
+    "title": "3 Mart Dünya Yaban Hayatı Günü",
+    "month": 3,
+    "day": 3,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "4-mart-dunya-muhendislik-gunu-ve-obezite-gunu",
+    "title": "4 Mart Dünya Mühendislik Günü ve Obezite Günü",
+    "month": 3,
+    "day": 4,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "5-mart-dunya-enerji-verimliligi-gunu",
+    "title": "5 Mart Dünya Enerji Verimliliği Günü",
+    "month": 3,
+    "day": 5,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "6-mart-dunya-masa-tenisi-gunu",
+    "title": "6 Mart Dünya Masa Tenisi Günü",
+    "month": 3,
+    "day": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "7-mart-dunya-matematik-gunu",
+    "title": "7 Mart Dünya Matematik Günü",
+    "month": 3,
+    "day": 7,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-mart-dunya-bobrek-gunu",
+    "title": "9 Mart Dünya Böbrek Günü",
+    "month": 3,
+    "day": 9,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "10-mart-uluslararasi-kadin-yargiclar-gunu",
+    "title": "10 Mart Uluslararası Kadın Yargıçlar Günü",
+    "month": 3,
+    "day": 10,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "11-mart-dunya-sihhi-tesisat-gunu",
+    "title": "11 Mart Dünya Sıhhi Tesisat Günü",
+    "month": 3,
+    "day": 11,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "istiklal-marsinin-kabulu",
+    "title": "12 Mart İstiklal Marşı'nın Kabulü",
+    "month": 3,
+    "day": 12,
+    "category": "Resmi"
+  },
+  {
+    "slug": "13-mart-dunya-uyku-gunu",
+    "title": "13 Mart Dünya Uyku Günü",
+    "month": 3,
+    "day": 13,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "pi-gunu",
+    "title": "14 Mart Dünya Pi Günü",
+    "month": 3,
+    "day": 14,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "dunya-tuketici-haklari-gunu",
+    "title": "15 Mart Dünya Tüketici Hakları Günü",
+    "month": 3,
+    "day": 15,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "16-mart-ogretmen-okullarinin-kurulus-gunu",
+    "title": "16 Mart Öğretmen Okullarının Kuruluş Günü",
+    "month": 3,
+    "day": 16,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-mart-aziz-patrick-gunu",
+    "title": "17 Mart Aziz Patrick Günü",
+    "month": 3,
+    "day": 17,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "canakkale-zaferi",
+    "title": "18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü",
+    "month": 3,
+    "day": 18,
+    "category": "Resmi"
+  },
+  {
+    "slug": "19-mart-musteri-hizmetleri-ve-nezaket-gunu",
+    "title": "19 Mart Müşteri Hizmetleri ve Nezaket Günü",
+    "month": 3,
+    "day": 19,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-mutluluk-gunu",
+    "title": "20 Mart Dünya Mutluluk Günü",
+    "month": 3,
+    "day": 20,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "dunya-siir-gunu",
+    "title": "21 Mart Dünya Şiir Günü",
+    "month": 3,
+    "day": 21,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "dunya-ormancilik-gunu",
+    "title": "21 Mart Dünya Ormancılık Günü ve Nevruz",
+    "month": 3,
+    "day": 21,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "dunya-meteoroloji-gunu",
+    "title": "23 Mart Dünya Meteoroloji Günü",
+    "month": 3,
+    "day": 23,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "24-mart-dunya-tuberkuloz-verem-gunu",
+    "title": "24 Mart Dünya Tüberküloz (Verem) Günü",
+    "month": 3,
+    "day": 24,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "25-mart-kolelik-kurbanlarini-anma-uluslararasi-gunu",
+    "title": "25 Mart Kölelik Kurbanlarını Anma Uluslararası Günü",
+    "month": 3,
+    "day": 25,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "26-mart-dunya-mor-gunu-epilepsi-farkindaligi",
+    "title": "26 Mart Dünya Mor Günü (Epilepsi Farkındalığı)",
+    "month": 3,
+    "day": 26,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-tiyatro-gunu",
+    "title": "27 Mart Dünya Tiyatro Günü",
+    "month": 3,
+    "day": 27,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "28-mart-kutuphane-haftasi-kutlamalari",
+    "title": "28 Mart Kütüphane Haftası Kutlamaları",
+    "month": 3,
+    "day": 28,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-mart-dunya-piyano-gunu",
+    "title": "29 Mart Dünya Piyano Günü",
+    "month": 3,
+    "day": 29,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "30-mart-uluslararasi-sifir-atik-gunu",
+    "title": "30 Mart Uluslararası Sıfır Atık Günü",
+    "month": 3,
+    "day": 30,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "31-mart-dunya-yedekleme-gunu-world-backup-day",
+    "title": "31 Mart Dünya Yedekleme Günü (World Backup Day)",
+    "month": 3,
+    "day": 31,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-saka-gunu",
+    "title": "1 Nisan Şaka Günü",
+    "month": 4,
+    "day": 1,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "3-nisan-dunya-parti-gunu",
+    "title": "3 Nisan Dünya Parti Günü",
+    "month": 4,
+    "day": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-nisan-sokak-hayvanlari-ve-mayin-bilinci-gunu",
+    "title": "4 Nisan Sokak Hayvanları ve Mayın Bilinci Günü",
+    "month": 4,
+    "day": 4,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "avukatlar-gunu",
+    "title": "5 Nisan Avukatlar Günü",
+    "month": 4,
+    "day": 5,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "6-nisan-kalkinma-ve-baris-icin-spor-gunu",
+    "title": "6 Nisan Kalkınma ve Barış İçin Spor Günü",
+    "month": 4,
+    "day": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-nisan-uluslararasi-romanlar-gunu",
+    "title": "8 Nisan Uluslararası Romanlar Günü",
+    "month": 4,
+    "day": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-nisan-mimar-sinani-anma-ve-mimarlar-gunu",
+    "title": "9 Nisan Mimar Sinan'ı Anma ve Mimarlar Günü",
+    "month": 4,
+    "day": 9,
+    "category": "Kültür & Sanat",
+    "day_type": "anma"
+  },
+  {
+    "slug": "polis-teskilati-kurulus-gunu",
+    "title": "10 Nisan Türk Polis Teşkilatı Kuruluş Günü",
+    "month": 4,
+    "day": 10,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "11-nisan-dunya-parkinson-gunu",
+    "title": "11 Nisan Dünya Parkinson Günü",
+    "month": 4,
+    "day": 11,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "12-nisan-uluslararasi-insanli-uzay-ucusu-gunu",
+    "title": "12 Nisan Uluslararası İnsanlı Uzay Uçuşu Günü",
+    "month": 4,
+    "day": 12,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-nisan-scrabble-ve-kelime-oyunlari-gunu",
+    "title": "13 Nisan Scrabble ve Kelime Oyunları Günü",
+    "month": 4,
+    "day": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "14-nisan-dunya-cagas-hastaligi-gunu",
+    "title": "14 Nisan Dünya Çagas Hastalığı Günü",
+    "month": 4,
+    "day": 14,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-sanat-gunu",
+    "title": "15 Nisan Dünya Sanat Günü",
+    "month": 4,
+    "day": 15,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "16-nisan-dunya-ses-gunu",
+    "title": "16 Nisan Dünya Ses Günü",
+    "month": 4,
+    "day": 16,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "17-nisan-dunya-hemofili-gunu",
+    "title": "17 Nisan Dünya Hemofili Günü",
+    "month": 4,
+    "day": 17,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "18-nisan-dunya-anitlar-ve-sitler-gunu",
+    "title": "18 Nisan Dünya Anıtlar ve Sitler Günü",
+    "month": 4,
+    "day": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "19-nisan-bisiklet-ve-cevre-dostu-ulasim-gunu",
+    "title": "19 Nisan Bisiklet ve Çevre Dostu Ulaşım Günü",
+    "month": 4,
+    "day": 19,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "20-nisan-birlesmis-milletler-cince-gunu",
+    "title": "20 Nisan Birleşmiş Milletler Çince Günü",
+    "month": 4,
+    "day": 20,
+    "category": "Kültür & Sanat",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "21-nisan-dunya-yaraticilik-ve-yenilikcilik-gunu",
+    "title": "21 Nisan Dünya Yaratıcılık ve Yenilikçilik Günü",
+    "month": 4,
+    "day": 21,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-gunu",
+    "title": "22 Nisan Dünya Günü (Earth Day)",
+    "month": 4,
+    "day": 22,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "dunya-kitap-gunu",
+    "title": "23 Nisan Dünya Kitap ve Telif Hakkı Günü",
+    "month": 4,
+    "day": 23,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "24-nisan-baris-icin-cok-taraflilik-ve-diplomasi-gunu",
+    "title": "24 Nisan Barış İçin Çok Taraflılık ve Diplomasi Günü",
+    "month": 4,
+    "day": 24,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "25-nisan-dunya-sitma-gunu-ve-istatistik-gunu",
+    "title": "25 Nisan Dünya Sıtma Günü ve İstatistik Günü",
+    "month": 4,
+    "day": 25,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-pilotlar-gunu",
+    "title": "26 Nisan Dünya Pilotlar Günü",
+    "month": 4,
+    "day": 26,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "27-nisan-dunya-tasarim-gunu",
+    "title": "27 Nisan Dünya Tasarım Günü",
+    "month": 4,
+    "day": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-nisan-dunya-is-sagligi-ve-guvenligi-gunu",
+    "title": "28 Nisan Dünya İş Sağlığı ve Güvenliği Günü",
+    "month": 4,
+    "day": 28,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-dans-gunu",
+    "title": "29 Nisan Dünya Dans Günü",
+    "month": 4,
+    "day": 29,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "uluslararasi-caz-gunu",
+    "title": "30 Nisan Uluslararası Caz Günü",
+    "month": 4,
+    "day": 30,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "2-mayis-dunya-ton-baligi-gunu",
+    "title": "2 Mayıs Dünya Ton Balığı Günü",
+    "month": 5,
+    "day": 2,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "basin-ozgurlugu-gunu",
+    "title": "3 Mayıs Dünya Basın Özgürlüğü Günü",
+    "month": 5,
+    "day": 3,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "4-mayis-dunya-itfaiyeciler-gunu-ve-star-wars-gunu",
+    "title": "4 Mayıs Dünya İtfaiyeciler Günü ve Star Wars Günü",
+    "month": 5,
+    "day": 4,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "hidirellez",
+    "title": "5 Mayıs Hıdırellez Kültür Bayramı",
+    "month": 5,
+    "day": 5,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "6-mayis-uluslararasi-diyet-yapmama-gunu",
+    "title": "6 Mayıs Uluslararası Diyet Yapmama Günü",
+    "month": 5,
+    "day": 6,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "7-mayis-dunya-astim-gunu",
+    "title": "7 Mayıs Dünya Astım Günü",
+    "month": 5,
+    "day": 7,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "8-mayis-dunya-kizilay-ve-kizilhac-gunu",
+    "title": "8 Mayıs Dünya Kızılay ve Kızılhaç Günü",
+    "month": 5,
+    "day": 8,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-mayis-avrupa-gunu",
+    "title": "9 Mayıs Avrupa Günü",
+    "month": 5,
+    "day": 9,
+    "category": "Uluslararası",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-psikologlar-gunu",
+    "title": "10 Mayıs Dünya Psikologlar Günü",
+    "month": 5,
+    "day": 10,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "anneler-gunu",
+    "title": "10 Mayıs Anneler Günü",
+    "month": 5,
+    "day": 10,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "11-mayis-dunya-gocmen-kuslar-gunu",
+    "title": "11 Mayıs Dünya Göçmen Kuşlar Günü",
+    "month": 5,
+    "day": 11,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "hemsireler-gunu",
+    "title": "12 Mayıs Hemşireler Günü",
+    "month": 5,
+    "day": 12,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "13-mayis-turk-dil-bayrami",
+    "title": "13 Mayıs Türk Dil Bayramı",
+    "month": 5,
+    "day": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "eczacilik-gunu",
+    "title": "14 Mayıs Eczacılık Günü",
+    "month": 5,
+    "day": 14,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "dunya-ciftciler-gunu",
+    "title": "14 Mayıs Dünya Çiftçiler Günü",
+    "month": 5,
+    "day": 14,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "uluslararasi-aile-gunu",
+    "title": "15 Mayıs Uluslararası Aile Günü",
+    "month": 5,
+    "day": 15,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "16-mayis-uluslararasi-isik-gunu",
+    "title": "16 Mayıs Uluslararası Işık Günü",
+    "month": 5,
+    "day": 16,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-mayis-dunya-telekomunikasyon-ve-bilgi-toplumu-gunu",
+    "title": "17 Mayıs Dünya Telekomünikasyon ve Bilgi Toplumu Günü",
+    "month": 5,
+    "day": 17,
+    "category": "Mesleki",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "muzeler-gunu",
+    "title": "18 Mayıs Müzeler Günü",
+    "month": 5,
+    "day": 18,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "genclik-ve-spor-bayrami",
+    "title": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "month": 5,
+    "day": 19,
+    "category": "Resmi"
+  },
+  {
+    "slug": "dunya-ari-gunu",
+    "title": "20 Mayıs Dünya Arı Günü",
+    "month": 5,
+    "day": 20,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "dunya-sut-gunu",
+    "title": "21 Mayıs Dünya Süt Günü",
+    "month": 5,
+    "day": 21,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "biyocesitlilik-gunu",
+    "title": "22 Mayıs Uluslararası Biyoçeşitlilik Günü",
+    "month": 5,
+    "day": 22,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "23-mayis-dunya-kaplumbagalar-gunu",
+    "title": "23 Mayıs Dünya Kaplumbağalar Günü",
+    "month": 5,
+    "day": 23,
+    "category": "Çevre & Doğa",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "24-mayis-avrupa-parklar-gunu",
+    "title": "24 Mayıs Avrupa Parklar Günü",
+    "month": 5,
+    "day": 24,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-mayis-afrika-gunu-ve-dunya-tiroid-gunu",
+    "title": "25 Mayıs Afrika Günü ve Dünya Tiroid Günü",
+    "month": 5,
+    "day": 25,
+    "category": "Uluslararası",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-mayis-dunya-lindy-hop-ve-dans-gunu",
+    "title": "26 Mayıs Dünya Lindy Hop ve Dans Günü",
+    "month": 5,
+    "day": 26,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-mayis-acil-tip-gunu",
+    "title": "27 Mayıs Acil Tıp Günü",
+    "month": 5,
+    "day": 27,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "28-mayis-dunya-aclik-gunu",
+    "title": "28 Mayıs Dünya Açlık Günü",
+    "month": 5,
+    "day": 28,
+    "category": "Farkındalık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "istanbulun-fethi",
+    "title": "29 Mayıs İstanbul'un Fethi",
+    "month": 5,
+    "day": 29,
+    "category": "Resmi"
+  },
+  {
+    "slug": "30-mayis-dunya-multipl-skleroz-ms-gunu",
+    "title": "30 Mayıs Dünya Multipl Skleroz (MS) Günü",
+    "month": 5,
+    "day": 30,
+    "category": "Sağlık",
+    "day_type": "farkindalik"
+  },
+  {
+    "slug": "dunya-tutunsuz-gunu",
+    "title": "31 Mayıs Dünya Tütünsüz Günü",
+    "month": 5,
+    "day": 31,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "dunya-cocuk-gunu",
+    "title": "1 Haziran Dünya Çocuk Günü",
+    "month": 6,
+    "day": 1,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "2-haziran-dunya-kosu-gunu",
+    "title": "2 Haziran Dünya Koşu Günü",
+    "month": 6,
+    "day": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-haziran-dunya-bisiklet-gunu",
+    "title": "3 Haziran Dünya Bisiklet Günü",
+    "month": 6,
+    "day": 3,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-haziran-catisma-kurbani-masum-cocuklar-gunu",
+    "title": "4 Haziran Çatışma Kurbanı Masum Çocuklar Günü",
+    "month": 6,
+    "day": 4,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "6-haziran-dunya-rus-dili-gunu",
+    "title": "6 Haziran Dünya Rus Dili Günü",
+    "month": 6,
+    "day": 6,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "turk-isaret-dili-gunu",
+    "title": "7 Haziran Türk İşaret Dili Günü",
+    "month": 6,
+    "day": 7,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "dunya-okyanuslar-gunu",
+    "title": "8 Haziran Dünya Okyanuslar Günü",
+    "month": 6,
+    "day": 8,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "9-haziran-dunya-akreditasyon-gunu",
+    "title": "9 Haziran Dünya Akreditasyon Günü",
+    "month": 6,
+    "day": 9,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "10-haziran-dunya-zanaatkarlik-ve-el-emegi-gunu",
+    "title": "10 Haziran Dünya Zanaatkarlık ve El Emeği Günü",
+    "month": 6,
+    "day": 10,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "11-haziran-uluslararasi-oyun-oynama-gunu",
+    "title": "11 Haziran Uluslararası Oyun Oynama Günü",
+    "month": 6,
+    "day": 11,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-haziran-dunya-cocuk-isciligiyle-mucadele-gunu",
+    "title": "12 Haziran Dünya Çocuk İşçiliğiyle Mücadele Günü",
+    "month": 6,
+    "day": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-haziran-uluslararasi-albinizm-farkindalik-gunu",
+    "title": "13 Haziran Uluslararası Albinizm Farkındalık Günü",
+    "month": 6,
+    "day": 13,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-kan-bagiscilari-gunu",
+    "title": "14 Haziran Dünya Kan Bağışçıları Günü",
+    "month": 6,
+    "day": 14,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "15-haziran-dunya-ruzgar-gunu",
+    "title": "15 Haziran Dünya Rüzgar Günü",
+    "month": 6,
+    "day": 15,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "16-haziran-uluslararasi-aile-havaleleri-gunu",
+    "title": "16 Haziran Uluslararası Aile Havaleleri Günü",
+    "month": 6,
+    "day": 16,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-haziran-dunya-collesme-ve-kuraklikla-mucadele-gunu",
+    "title": "17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü",
+    "month": 6,
+    "day": 17,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "18-haziran-surdurulebilir-gastronomi-gunu",
+    "title": "18 Haziran Sürdürülebilir Gastronomi Günü",
+    "month": 6,
+    "day": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "19-haziran-catismalarda-cinsel-siddeti-onleme-gunu",
+    "title": "19 Haziran Çatışmalarda Cinsel Şiddeti Önleme Günü",
+    "month": 6,
+    "day": 19,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "20-haziran-dunya-multeciler-gunu",
+    "title": "20 Haziran Dünya Mülteciler Günü",
+    "month": 6,
+    "day": 20,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-yoga-gunu",
+    "title": "21 Haziran Dünya Yoga Günü",
+    "month": 6,
+    "day": 21,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "babalar-gunu",
+    "title": "21 Haziran Babalar Günü",
+    "month": 6,
+    "day": 21,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "dunya-muzik-gunu",
+    "title": "21 Haziran Dünya Müzik Günü",
+    "month": 6,
+    "day": 21,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "22-haziran-dunya-yagmur-ormanlari-gunu",
+    "title": "22 Haziran Dünya Yağmur Ormanları Günü",
+    "month": 6,
+    "day": 22,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-haziran-birlesmis-milletler-kamu-hizmeti-gunu",
+    "title": "23 Haziran Birleşmiş Milletler Kamu Hizmeti Günü",
+    "month": 6,
+    "day": 23,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "24-haziran-diplomaside-kadinlar-gunu",
+    "title": "24 Haziran Diplomaside Kadınlar Günü",
+    "month": 6,
+    "day": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-haziran-dunya-denizciler-gunu",
+    "title": "25 Haziran Dünya Denizciler Günü",
+    "month": 6,
+    "day": 25,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-haziran-uyusturucu-ile-mucadele-gunu",
+    "title": "26 Haziran Uyuşturucu ile Mücadele Günü",
+    "month": 6,
+    "day": 26,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-haziran-mikro-kucuk-ve-orta-buyuklukteki-isletmeler-kobi-gunu",
+    "title": "27 Haziran Mikro, Küçük ve Orta Büyüklükteki İşletmeler (KOBİ) Günü",
+    "month": 6,
+    "day": 27,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-haziran-dunya-sosyal-medya-gunu",
+    "title": "28 Haziran Dünya Sosyal Medya Günü",
+    "month": 6,
+    "day": 28,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-haziran-uluslararasi-tropikler-gunu",
+    "title": "29 Haziran Uluslararası Tropikler Günü",
+    "month": 6,
+    "day": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-sosyal-medya-gunu",
+    "title": "30 Haziran Dünya Sosyal Medya Günü",
+    "month": 6,
+    "day": 30,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "kabotaj-bayrami",
+    "title": "1 Temmuz Denizcilik ve Kabotaj Bayramı",
+    "month": 7,
+    "day": 1,
+    "category": "Resmi"
+  },
+  {
+    "slug": "2-temmuz-dunya-ufo-gunu",
+    "title": "2 Temmuz Dünya UFO Günü",
+    "month": 7,
+    "day": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-temmuz-plastik-poset-kullanmama-gunu",
+    "title": "3 Temmuz Plastik Poşet Kullanmama Günü",
+    "month": 7,
+    "day": 3,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-temmuz-dunya-bagimsizlik-ve-ifade-ozgurlugu-gunu",
+    "title": "4 Temmuz Dünya Bağımsızlık ve İfade Özgürlüğü Günü",
+    "month": 7,
+    "day": 4,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "5-temmuz-dunya-yaz-modasi-ve-bikini-gunu",
+    "title": "5 Temmuz Dünya Yaz Modası ve Bikini Günü",
+    "month": 7,
+    "day": 5,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "6-temmuz-dunya-opucuk-gunu",
+    "title": "6 Temmuz Dünya Öpücük Günü",
+    "month": 7,
+    "day": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-cikolata-gunu",
+    "title": "7 Temmuz Dünya Çikolata Günü",
+    "month": 7,
+    "day": 7,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "8-temmuz-dunya-video-oyunlari-gunu",
+    "title": "8 Temmuz Dünya Video Oyunları Günü",
+    "month": 7,
+    "day": 8,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-temmuz-dunya-sekerleme-ve-tatli-gunu",
+    "title": "9 Temmuz Dünya Şekerleme ve Tatlı Günü",
+    "month": 7,
+    "day": 9,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "10-temmuz-dunya-hukuk-gunu",
+    "title": "10 Temmuz Dünya Hukuk Günü",
+    "month": 7,
+    "day": 10,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "11-temmuz-dunya-nufus-gunu",
+    "title": "11 Temmuz Dünya Nüfus Günü",
+    "month": 7,
+    "day": 11,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-temmuz-malala-gunu-kiz-cocuklarinin-egitimi",
+    "title": "12 Temmuz Malala Günü (Kız Çocuklarının Eğitimi)",
+    "month": 7,
+    "day": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-temmuz-dunya-rock-muzigi-gunu",
+    "title": "13 Temmuz Dünya Rock Müziği Günü",
+    "month": 7,
+    "day": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "14-temmuz-kopekbaliklari-farkindalik-gunu",
+    "title": "14 Temmuz Köpekbalıkları Farkındalık Günü",
+    "month": 7,
+    "day": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "16-temmuz-dunya-yilanlar-ve-surungenler-gunu",
+    "title": "16 Temmuz Dünya Yılanlar ve Sürüngenler Günü",
+    "month": 7,
+    "day": 16,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-emoji-gunu",
+    "title": "17 Temmuz Dünya Emoji Günü",
+    "month": 7,
+    "day": 17,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "18-temmuz-nelson-mandela-uluslararasi-gunu",
+    "title": "18 Temmuz Nelson Mandela Uluslararası Günü",
+    "month": 7,
+    "day": 18,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "19-temmuz-dunya-dondurma-gunu",
+    "title": "19 Temmuz Dünya Dondurma Günü",
+    "month": 7,
+    "day": 19,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-satranc-gunu",
+    "title": "20 Temmuz Dünya Satranç Günü",
+    "month": 7,
+    "day": 20,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "21-temmuz-dunya-abur-cubur-gunu",
+    "title": "21 Temmuz Dünya Abur Cubur Günü",
+    "month": 7,
+    "day": 21,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "22-temmuz-dunya-beyin-gunu",
+    "title": "22 Temmuz Dünya Beyin Günü",
+    "month": 7,
+    "day": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-temmuz-dunya-buyukanneler-ve-buyukbabalar-gunu",
+    "title": "23 Temmuz Dünya Büyükanneler ve Büyükbabalar Günü",
+    "month": 7,
+    "day": 23,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "24-temmuz-gazeteciler-ve-basin-bayrami",
+    "title": "24 Temmuz Gazeteciler ve Basın Bayramı",
+    "month": 7,
+    "day": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-temmuz-bogulmayi-onleme-gunu",
+    "title": "25 Temmuz Boğulmayı Önleme Günü",
+    "month": 7,
+    "day": 25,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-temmuz-mangrov-ekosistemini-koruma-gunu",
+    "title": "26 Temmuz Mangrov Ekosistemini Koruma Günü",
+    "month": 7,
+    "day": 26,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-temmuz-bas-ve-boyun-kanserleri-farkindalik-gunu",
+    "title": "27 Temmuz Baş ve Boyun Kanserleri Farkındalık Günü",
+    "month": 7,
+    "day": 27,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-temmuz-dunya-hepatit-gunu",
+    "title": "28 Temmuz Dünya Hepatit Günü",
+    "month": 7,
+    "day": 28,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-temmuz-uluslararasi-kaplan-gunu",
+    "title": "29 Temmuz Uluslararası Kaplan Günü",
+    "month": 7,
+    "day": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "uluslararasi-dostluk-gunu",
+    "title": "30 Temmuz Uluslararası Dostluk Günü",
+    "month": 7,
+    "day": 30,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "31-temmuz-dunya-doga-koruculari-gunu",
+    "title": "31 Temmuz Dünya Doğa Korucuları Günü",
+    "month": 7,
+    "day": 31,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "1-agustos-dunya-akciger-kanseri-gunu",
+    "title": "1 Ağustos Dünya Akciğer Kanseri Günü",
+    "month": 8,
+    "day": 1,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "2-agustos-dunya-renkli-coraplar-gunu",
+    "title": "2 Ağustos Dünya Renkli Çoraplar Günü",
+    "month": 8,
+    "day": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-agustos-dunya-karpuz-gunu",
+    "title": "3 Ağustos Dünya Karpuz Günü",
+    "month": 8,
+    "day": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-agustos-dunya-baykuslar-ve-yirtici-kuslar-gunu",
+    "title": "4 Ağustos Dünya Baykuşlar ve Yırtıcı Kuşlar Günü",
+    "month": 8,
+    "day": 4,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "5-agustos-dunya-trafik-isiklari-gunu",
+    "title": "5 Ağustos Dünya Trafik Işıkları Günü",
+    "month": 8,
+    "day": 5,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "6-agustos-hirosima-baris-anma-gunu",
+    "title": "6 Ağustos Hiroşima Barış Anma Günü",
+    "month": 8,
+    "day": 6,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "7-agustos-dunya-deniz-feneri-gunu",
+    "title": "7 Ağustos Dünya Deniz Feneri Günü",
+    "month": 8,
+    "day": 7,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-agustos-dunya-kediler-gunu",
+    "title": "8 Ağustos Dünya Kediler Günü",
+    "month": 8,
+    "day": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-agustos-dunya-yerli-halklar-gunu-ve-kitapseverler-gunu",
+    "title": "9 Ağustos Dünya Yerli Halklar Günü ve Kitapseverler Günü",
+    "month": 8,
+    "day": 9,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "10-agustos-dunya-aslan-gunu",
+    "title": "10 Ağustos Dünya Aslan Günü",
+    "month": 8,
+    "day": 10,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "11-agustos-dunya-celik-ve-sanayi-uretimi-gunu",
+    "title": "11 Ağustos Dünya Çelik ve Sanayi Üretimi Günü",
+    "month": 8,
+    "day": 11,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-agustos-uluslararasi-genclik-gunu-ve-dunya-fil-gunu",
+    "title": "12 Ağustos Uluslararası Gençlik Günü ve Dünya Fil Günü",
+    "month": 8,
+    "day": 12,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-solaklar-gunu",
+    "title": "13 Ağustos Dünya Solaklar Günü",
+    "month": 8,
+    "day": 13,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "14-agustos-dunya-kertenkeleler-gunu",
+    "title": "14 Ağustos Dünya Kertenkeleler Günü",
+    "month": 8,
+    "day": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "15-agustos-dunya-rahatlama-ve-dinlenme-gunu",
+    "title": "15 Ağustos Dünya Rahatlama ve Dinlenme Günü",
+    "month": 8,
+    "day": 15,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "16-agustos-dunya-paten-ve-kaykay-gunu",
+    "title": "16 Ağustos Dünya Paten ve Kaykay Günü",
+    "month": 8,
+    "day": 16,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-agustos-marmara-depremini-anma-gunu",
+    "title": "17 Ağustos Marmara Depremini Anma Günü",
+    "month": 8,
+    "day": 17,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "18-agustos-bilim-insanlarini-onurlandirma-gunu",
+    "title": "18 Ağustos Bilim İnsanlarını Onurlandırma Günü",
+    "month": 8,
+    "day": 18,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-insani-yardim-gunu",
+    "title": "19 Ağustos Dünya İnsani Yardım Günü",
+    "month": 8,
+    "day": 19,
+    "category": "Uluslararası"
+  },
+  {
+    "slug": "dunya-fotografcilik-gunu",
+    "title": "19 Ağustos Dünya Fotoğrafçılık Günü",
+    "month": 8,
+    "day": 19,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "20-agustos-dunya-sivrisinek-gunu",
+    "title": "20 Ağustos Dünya Sivrisinek Günü",
+    "month": 8,
+    "day": 20,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "21-agustos-terorizm-kurbanlarini-anma-gunu",
+    "title": "21 Ağustos Terörizm Kurbanlarını Anma Günü",
+    "month": 8,
+    "day": 21,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "22-agustos-inanc-temelli-siddet-kurbanlarini-anma-gunu",
+    "title": "22 Ağustos İnanç Temelli Şiddet Kurbanlarını Anma Günü",
+    "month": 8,
+    "day": 22,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "23-agustos-kole-ticaretinin-yasaklanmasi-gunu",
+    "title": "23 Ağustos Köle Ticaretinin Yasaklanması Günü",
+    "month": 8,
+    "day": 23,
+    "category": "Farkındalık",
+    "day_type": "anma"
+  },
+  {
+    "slug": "24-agustos-mutfak-sanatlari-ve-gastronomi-gunu",
+    "title": "24 Ağustos Mutfak Sanatları ve Gastronomi Günü",
+    "month": 8,
+    "day": 24,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-agustos-ikinci-el-ve-geri-donusum-gunu",
+    "title": "25 Ağustos İkinci El ve Geri Dönüşüm Günü",
+    "month": 8,
+    "day": 25,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-kopekler-gunu",
+    "title": "26 Ağustos Dünya Köpekler Günü",
+    "month": 8,
+    "day": 26,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "27-agustos-dunya-tas-kagit-makas-gunu",
+    "title": "27 Ağustos Dünya Taş Kağıt Makas Günü",
+    "month": 8,
+    "day": 27,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-agustos-dunya-hayal-kurma-gunu",
+    "title": "28 Ağustos Dünya Hayal Kurma Günü",
+    "month": 8,
+    "day": 28,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-agustos-nukleer-denemelere-karsi-uluslararasi-gun",
+    "title": "29 Ağustos Nükleer Denemelere Karşı Uluslararası Gün",
+    "month": 8,
+    "day": 29,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "31-agustos-asiri-doz-farkindalik-gunu",
+    "title": "31 Ağustos Aşırı Doz Farkındalık Günü",
+    "month": 8,
+    "day": 31,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-baris-gunu",
+    "title": "1 Eylül Dünya Barış Günü",
+    "month": 9,
+    "day": 1,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "2-eylul-dunya-hindistan-cevizi-gunu",
+    "title": "2 Eylül Dünya Hindistan Cevizi Günü",
+    "month": 9,
+    "day": 2,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-eylul-dunya-gokdelenler-gunu",
+    "title": "3 Eylül Dünya Gökdelenler Günü",
+    "month": 9,
+    "day": 3,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-eylul-dunya-cinsel-saglik-gunu",
+    "title": "4 Eylül Dünya Cinsel Sağlık Günü",
+    "month": 9,
+    "day": 4,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "5-eylul-uluslararasi-hayirseverlik-gunu",
+    "title": "5 Eylül Uluslararası Hayırseverlik Günü",
+    "month": 9,
+    "day": 5,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "6-eylul-dunya-kitap-okuma-gunu",
+    "title": "6 Eylül Dünya Kitap Okuma Günü",
+    "month": 9,
+    "day": 6,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "7-eylul-temiz-hava-ve-mavi-gokyuzu-gunu",
+    "title": "7 Eylül Temiz Hava ve Mavi Gökyüzü Günü",
+    "month": 9,
+    "day": 7,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-eylul-uluslararasi-okuma-yazma-gunu-ve-fizyoterapi-gunu",
+    "title": "8 Eylül Uluslararası Okuma Yazma Günü ve Fizyoterapi Günü",
+    "month": 9,
+    "day": 8,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-eylul-izmirin-kurtulusu-ve-egitimi-koruma-gunu",
+    "title": "9 Eylül İzmir'in Kurtuluşu ve Eğitimi Koruma Günü",
+    "month": 9,
+    "day": 9,
+    "category": "Resmi",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "10-eylul-dunya-intihari-onleme-gunu",
+    "title": "10 Eylül Dünya İntiharı Önleme Günü",
+    "month": 9,
+    "day": 10,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "11-eylul-dunya-ilk-yardim-gunu",
+    "title": "11 Eylül Dünya İlk Yardım Günü",
+    "month": 9,
+    "day": 11,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-eylul-guney-guney-isbirligi-gunu",
+    "title": "12 Eylül Güney-Güney İşbirliği Günü",
+    "month": 9,
+    "day": 12,
+    "category": "Uluslararası",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-yazilimcilar-gunu",
+    "title": "13 Eylül Dünya Yazılımcılar Günü",
+    "month": 9,
+    "day": 13,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "14-eylul-ilkogretim-haftasi-kutlamalari",
+    "title": "14 Eylül İlköğretim Haftası Kutlamaları",
+    "month": 9,
+    "day": 14,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "15-eylul-uluslararasi-demokrasi-gunu",
+    "title": "15 Eylül Uluslararası Demokrasi Günü",
+    "month": 9,
+    "day": 15,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "16-eylul-ozon-tabakasini-koruma-gunu",
+    "title": "16 Eylül Ozon Tabakasını Koruma Günü",
+    "month": 9,
+    "day": 16,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-eylul-dunya-hasta-guvenligi-gunu",
+    "title": "17 Eylül Dünya Hasta Güvenliği Günü",
+    "month": 9,
+    "day": 17,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "18-eylul-uluslararasi-esit-ucret-gunu",
+    "title": "18 Eylül Uluslararası Eşit Ücret Günü",
+    "month": 9,
+    "day": 18,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "gaziler-gunu",
+    "title": "19 Eylül Gaziler Günü",
+    "month": 9,
+    "day": 19,
+    "category": "Resmi"
+  },
+  {
+    "slug": "20-eylul-dunya-temizlik-gunu-world-cleanup-day",
+    "title": "20 Eylül Dünya Temizlik Günü (World Cleanup Day)",
+    "month": 9,
+    "day": 20,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-alzheimer-gunu",
+    "title": "21 Eylül Dünya Alzheimer Günü",
+    "month": 9,
+    "day": 21,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "22-eylul-dunya-otomobilsiz-kentler-gunu-ve-gergedanlar-gunu",
+    "title": "22 Eylül Dünya Otomobilsiz Kentler Günü ve Gergedanlar Günü",
+    "month": 9,
+    "day": 22,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-eylul-uluslararasi-isaret-dilleri-gunu",
+    "title": "23 Eylül Uluslararası İşaret Dilleri Günü",
+    "month": 9,
+    "day": 23,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "24-eylul-itfaiyecilik-haftasi-kutlamalari",
+    "title": "24 Eylül İtfaiyecilik Haftası Kutlamaları",
+    "month": 9,
+    "day": 24,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-eylul-dunya-eczacilar-gunu",
+    "title": "25 Eylül Dünya Eczacılar Günü",
+    "month": 9,
+    "day": 25,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-eylul-avrupa-diller-gunu-ve-nukleer-silahlari-yok-etme-gunu",
+    "title": "26 Eylül Avrupa Diller Günü ve Nükleer Silahları Yok Etme Günü",
+    "month": 9,
+    "day": 26,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-kuduz-gunu",
+    "title": "28 Eylül Dünya Kuduz Günü",
+    "month": 9,
+    "day": 28,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "bilgiye-evrensel-erisim-gunu",
+    "title": "28 Eylül Uluslararası Bilgiye Evrensel Erişim Günü",
+    "month": 9,
+    "day": 28,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "dunya-kalp-gunu",
+    "title": "29 Eylül Dünya Kalp Günü",
+    "month": 9,
+    "day": 29,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "30-eylul-uluslararasi-ceviri-gunu",
+    "title": "30 Eylül Uluslararası Çeviri Günü",
+    "month": 9,
+    "day": 30,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-yaslilar-gunu",
+    "title": "1 Ekim Dünya Yaşlılar Günü",
+    "month": 10,
+    "day": 1,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "2-ekim-uluslararasi-siddete-hayir-gunu",
+    "title": "2 Ekim Uluslararası Şiddete Hayır Günü",
+    "month": 10,
+    "day": 2,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "3-ekim-dunya-mimarlik-gunu-ve-turk-dili-konusan-ulkeler-gunu",
+    "title": "3 Ekim Dünya Mimarlık Günü ve Türk Dili Konuşan Ülkeler Günü",
+    "month": 10,
+    "day": 3,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "hayvanlari-koruma-gunu",
+    "title": "4 Ekim Hayvanları Koruma Günü",
+    "month": 10,
+    "day": 4,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "dunya-ogretmenler-gunu-unesco",
+    "title": "5 Ekim Dünya Öğretmenler Günü (UNESCO)",
+    "month": 10,
+    "day": 5,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "6-ekim-istanbulun-kurtulusu-ve-serebral-palsi-gunu",
+    "title": "6 Ekim İstanbul'un Kurtuluşu ve Serebral Palsi Günü",
+    "month": 10,
+    "day": 6,
+    "category": "Resmi",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-ekim-dunya-ahtapotlar-ve-deniz-ekosistemi-gunu",
+    "title": "8 Ekim Dünya Ahtapotlar ve Deniz Ekosistemi Günü",
+    "month": 10,
+    "day": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-ekim-dunya-posta-gunu",
+    "title": "9 Ekim Dünya Posta Günü",
+    "month": 10,
+    "day": 9,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-ruh-sagligi-gunu",
+    "title": "10 Ekim Dünya Ruh Sağlığı Günü",
+    "month": 10,
+    "day": 10,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "dunya-kiz-cocuklari-gunu",
+    "title": "11 Ekim Dünya Kız Çocukları Günü",
+    "month": 10,
+    "day": 11,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "12-ekim-dunya-artrit-gunu",
+    "title": "12 Ekim Dünya Artrit Günü",
+    "month": 10,
+    "day": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-ekim-afet-risklerinin-azaltilmasi-uluslararasi-gunu",
+    "title": "13 Ekim Afet Risklerinin Azaltılması Uluslararası Günü",
+    "month": 10,
+    "day": 13,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "14-ekim-dunya-standartlar-gunu",
+    "title": "14 Ekim Dünya Standartlar Günü",
+    "month": 10,
+    "day": 14,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "15-ekim-dunya-beyaz-baston-gorme-engelliler-gunu",
+    "title": "15 Ekim Dünya Beyaz Baston Görme Engelliler Günü",
+    "month": 10,
+    "day": 15,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-ekim-yoksullugun-yok-edilmesi-uluslararasi-gunu",
+    "title": "17 Ekim Yoksulluğun Yok Edilmesi Uluslararası Günü",
+    "month": 10,
+    "day": 17,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "18-ekim-dunya-menopoz-gunu",
+    "title": "18 Ekim Dünya Menopoz Günü",
+    "month": 10,
+    "day": 18,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "19-ekim-muhtarlar-gunu",
+    "title": "19 Ekim Muhtarlar Günü",
+    "month": 10,
+    "day": 19,
+    "category": "Resmi",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "20-ekim-dunya-istatistik-gunu-ve-dunya-sefler-gunu",
+    "title": "20 Ekim Dünya İstatistik Günü ve Dünya Şefler Günü",
+    "month": 10,
+    "day": 20,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "21-ekim-dunya-gazeteciler-gunu",
+    "title": "21 Ekim Dünya Gazeteciler Günü",
+    "month": 10,
+    "day": 21,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "22-ekim-dunya-kekemelik-farkindalik-gunu",
+    "title": "22 Ekim Dünya Kekemelik Farkındalık Günü",
+    "month": 10,
+    "day": 22,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-ekim-dunya-mol-gunu-kimya-gunu",
+    "title": "23 Ekim Dünya Mol Günü (Kimya Günü)",
+    "month": 10,
+    "day": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "24-ekim-birlesmis-milletler-gunu-ve-kalkinma-bilgi-gunu",
+    "title": "24 Ekim Birleşmiş Milletler Günü ve Kalkınma Bilgi Günü",
+    "month": 10,
+    "day": 24,
+    "category": "Uluslararası",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-ekim-dunya-makarna-gunu",
+    "title": "25 Ekim Dünya Makarna Günü",
+    "month": 10,
+    "day": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-ekim-hasta-haklari-gunu",
+    "title": "26 Ekim Hasta Hakları Günü",
+    "month": 10,
+    "day": 26,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-ekim-ses-ve-goruntu-mirasi-gunu",
+    "title": "27 Ekim Ses ve Görüntü Mirası Günü",
+    "month": 10,
+    "day": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-ekim-28-ekim-cumhuriyet-bayrami-arifesi-ve-animasyon-gunu",
+    "title": "28 Ekim 28 Ekim Cumhuriyet Bayramı Arifesi ve Animasyon Günü",
+    "month": 10,
+    "day": 28,
+    "category": "Resmi",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "30-ekim-dunya-tasarruf-gunu",
+    "title": "30 Ekim Dünya Tasarruf Günü",
+    "month": 10,
+    "day": 30,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-tasarruf-gunu",
+    "title": "31 Ekim Dünya Tasarruf Günü",
+    "month": 10,
+    "day": 31,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "1-kasim-harf-devrimi-haftasi-ve-dunya-vegan-gunu",
+    "title": "1 Kasım Harf Devrimi Haftası ve Dünya Vegan Günü",
+    "month": 11,
+    "day": 1,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "losemili-cocuklar-haftasi",
+    "title": "2-8 Kasım Lösemili Çocuklar Haftası",
+    "month": 11,
+    "day": 2,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "3-kasim-dunya-sandvic-gunu-ve-biyosfer-rezervleri-gunu",
+    "title": "3 Kasım Dünya Sandviç Günü ve Biyosfer Rezervleri Günü",
+    "month": 11,
+    "day": 3,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-kasim-unesco-kurulus-gunu",
+    "title": "4 Kasım UNESCO Kuruluş Günü",
+    "month": 11,
+    "day": 4,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "5-kasim-dunya-tsunami-farkindalik-gunu",
+    "title": "5 Kasım Dünya Tsunami Farkındalık Günü",
+    "month": 11,
+    "day": 5,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "6-kasim-savasta-cevrenin-somurulmesini-onleme-gunu",
+    "title": "6 Kasım Savaşta Çevrenin Sömürülmesini Önleme Günü",
+    "month": 11,
+    "day": 6,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "7-kasim-dunya-medikal-fizik-gunu",
+    "title": "7 Kasım Dünya Medikal Fizik Günü",
+    "month": 11,
+    "day": 7,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-sehircilik-gunu",
+    "title": "8 Kasım Dünya Şehircilik Günü",
+    "month": 11,
+    "day": 8,
+    "category": "Mesleki"
+  },
+  {
+    "slug": "9-kasim-dunya-ozgurluk-gunu",
+    "title": "9 Kasım Dünya Özgürlük Günü",
+    "month": 11,
+    "day": 9,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "11-kasim-milli-agaclandirma-gunu-ve-bekarlar-gunu",
+    "title": "11 Kasım Milli Ağaçlandırma Günü ve Bekarlar Günü",
+    "month": 11,
+    "day": 11,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "12-kasim-dunya-zaturre-pnomoni-gunu-ve-afet-egitimi-gunu",
+    "title": "12 Kasım Dünya Zatürre (Pnömoni) Günü ve Afet Eğitimi Günü",
+    "month": 11,
+    "day": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-kasim-dunya-iyilik-gunu",
+    "title": "13 Kasım Dünya İyilik Günü",
+    "month": 11,
+    "day": 13,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "15-kasim-dunya-felsefe-gunu",
+    "title": "15 Kasım Dünya Felsefe Günü",
+    "month": 11,
+    "day": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "uluslararasi-hosgoru-gunu",
+    "title": "16 Kasım Uluslararası Hoşgörü Günü",
+    "month": 11,
+    "day": 16,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "17-kasim-uluslararasi-ogrenciler-gunu-ve-premature-gunu",
+    "title": "17 Kasım Uluslararası Öğrenciler Günü ve Prematüre Günü",
+    "month": 11,
+    "day": 17,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "18-kasim-cocuklarin-cinsel-istismardan-korunmasi-gunu",
+    "title": "18 Kasım Çocukların Cinsel İstismardan Korunması Günü",
+    "month": 11,
+    "day": 18,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "19-kasim-dunya-tuvalet-gunu-ve-dunya-erkekler-gunu",
+    "title": "19 Kasım Dünya Tuvalet Günü ve Dünya Erkekler Günü",
+    "month": 11,
+    "day": 19,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-televizyon-gunu",
+    "title": "21 Kasım Dünya Televizyon Günü",
+    "month": 11,
+    "day": 21,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "dis-hekimleri-gunu",
+    "title": "22 Kasım Diş Hekimleri Günü",
+    "month": 11,
+    "day": 22,
+    "category": "Sağlık"
+  },
+  {
+    "slug": "23-kasim-fibonacci-gunu-1-1-2-3",
+    "title": "23 Kasım Fibonacci Günü (1, 1, 2, 3)",
+    "month": 11,
+    "day": 23,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu",
+    "title": "25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü",
+    "month": 11,
+    "day": 25,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-kasim-dunya-zeytin-agaci-gunu",
+    "title": "26 Kasım Dünya Zeytin Ağacı Günü",
+    "month": 11,
+    "day": 26,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-kasim-dunya-demir-ve-celik-sanatcilari-gunu",
+    "title": "27 Kasım Dünya Demir ve Çelik Sanatçıları Günü",
+    "month": 11,
+    "day": 27,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-kasim-akdeniz-gunu",
+    "title": "28 Kasım Akdeniz Günü",
+    "month": 11,
+    "day": 28,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-kasim-filistin-halkiyla-uluslararasi-dayanisma-gunu",
+    "title": "29 Kasım Filistin Halkıyla Uluslararası Dayanışma Günü",
+    "month": 11,
+    "day": 29,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "30-kasim-bilgisayar-guvenligi-gunu-ve-kimyasal-silah-kurbanlari-gunu",
+    "title": "30 Kasım Bilgisayar Güvenliği Günü ve Kimyasal Silah Kurbanları Günü",
+    "month": 11,
+    "day": 30,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "2-aralik-koleligin-kaldirilmasi-uluslararasi-gunu",
+    "title": "2 Aralık Köleliğin Kaldırılması Uluslararası Günü",
+    "month": 12,
+    "day": 2,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "4-aralik-dunya-madenciler-gunu-ve-yaban-hayati-koruma",
+    "title": "4 Aralık Dünya Madenciler Günü ve Yaban Hayatı Koruma",
+    "month": 12,
+    "day": 4,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "dunya-toprak-gunu",
+    "title": "5 Aralık Dünya Toprak Günü",
+    "month": 12,
+    "day": 5,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "dunya-turk-kahvesi-gunu",
+    "title": "5 Aralık Dünya Türk Kahvesi Günü",
+    "month": 12,
+    "day": 5,
+    "category": "Kültür & Sanat"
+  },
+  {
+    "slug": "dunya-kadin-haklari-gunu",
+    "title": "5 Aralık Dünya Kadın Hakları Günü",
+    "month": 12,
+    "day": 5,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "6-aralik-dunya-mikrodalga-ve-pratik-mutfak-gunu",
+    "title": "6 Aralık Dünya Mikrodalga ve Pratik Mutfak Günü",
+    "month": 12,
+    "day": 6,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "7-aralik-uluslararasi-sivil-havacilik-gunu",
+    "title": "7 Aralık Uluslararası Sivil Havacılık Günü",
+    "month": 12,
+    "day": 7,
+    "category": "Mesleki",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "8-aralik-iklim-degisikligi-eylemi-gunu",
+    "title": "8 Aralık İklim Değişikliği Eylemi Günü",
+    "month": 12,
+    "day": 8,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "9-aralik-yolsuzlukla-mucadele-gunu-ve-soykirim-kurbanlarini-anma",
+    "title": "9 Aralık Yolsuzlukla Mücadele Günü ve Soykırım Kurbanlarını Anma",
+    "month": 12,
+    "day": 9,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "uluslararasi-dag-gunu",
+    "title": "11 Aralık Uluslararası Dağ Günü",
+    "month": 12,
+    "day": 11,
+    "category": "Çevre & Doğa"
+  },
+  {
+    "slug": "12-aralik-evrensel-saglik-kapsami-gunu-ve-tarafsizlik-gunu",
+    "title": "12 Aralık Evrensel Sağlık Kapsamı Günü ve Tarafsızlık Günü",
+    "month": 12,
+    "day": 12,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "13-aralik-dunya-keman-gunu",
+    "title": "13 Aralık Dünya Keman Günü",
+    "month": 12,
+    "day": 13,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "14-aralik-dunya-maymunlar-gunu",
+    "title": "14 Aralık Dünya Maymunlar Günü",
+    "month": 12,
+    "day": 14,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "15-aralik-uluslararasi-cay-gunu-ve-esperanto-gunu",
+    "title": "15 Aralık Uluslararası Çay Günü ve Esperanto Günü",
+    "month": 12,
+    "day": 15,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "16-aralik-dunya-uzlasma-ve-barisma-gunu",
+    "title": "16 Aralık Dünya Uzlaşma ve Barışma Günü",
+    "month": 12,
+    "day": 16,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "17-aralik-seb-i-arus-mevlanayi-anma-gunu",
+    "title": "17 Aralık Şeb-i Arus (Mevlana'yı Anma Günü)",
+    "month": 12,
+    "day": 17,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "uluslararasi-gocmenler-gunu",
+    "title": "18 Aralık Uluslararası Göçmenler Günü",
+    "month": 12,
+    "day": 18,
+    "category": "Farkındalık"
+  },
+  {
+    "slug": "19-aralik-baris-ve-insani-yardim-agi-gunu",
+    "title": "19 Aralık Barış ve İnsani Yardım Ağı Günü",
+    "month": 12,
+    "day": 19,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "20-aralik-uluslararasi-insani-dayanisma-gunu",
+    "title": "20 Aralık Uluslararası İnsani Dayanışma Günü",
+    "month": 12,
+    "day": 20,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "en-uzun-gece",
+    "title": "21 Aralık En Uzun Gece (Kış Gündönümü)",
+    "month": 12,
+    "day": 21,
+    "category": "Eğlence"
+  },
+  {
+    "slug": "22-aralik-sarikamis-sehitlerini-anma-gunu",
+    "title": "22 Aralık Sarıkamış Şehitlerini Anma Günü",
+    "month": 12,
+    "day": 22,
+    "category": "Resmi",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "23-aralik-dunya-koklu-aileler-ve-akraba-gunu",
+    "title": "23 Aralık Dünya Köklü Aileler ve Akraba Günü",
+    "month": 12,
+    "day": 23,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "24-aralik-noel-arifesi-christmas-eve",
+    "title": "24 Aralık Noel Arifesi (Christmas Eve)",
+    "month": 12,
+    "day": 24,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "25-aralik-noel-bayrami-christmas-day",
+    "title": "25 Aralık Noel Bayramı (Christmas Day)",
+    "month": 12,
+    "day": 25,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "26-aralik-hediyelesme-gunu-boxing-day",
+    "title": "26 Aralık Hediyeleşme Günü (Boxing Day)",
+    "month": 12,
+    "day": 26,
+    "category": "Eğlence",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "27-aralik-salginlara-hazirlik-uluslararasi-gunu",
+    "title": "27 Aralık Salgınlara Hazırlık Uluslararası Günü",
+    "month": 12,
+    "day": 27,
+    "category": "Sağlık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "28-aralik-dunya-sinema-gunu",
+    "title": "28 Aralık Dünya Sinema Günü",
+    "month": 12,
+    "day": 28,
+    "category": "Kültür & Sanat",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "29-aralik-uluslararasi-biyocesitlilik-gunu-anmasi",
+    "title": "29 Aralık Uluslararası Biyoçeşitlilik Günü Anması",
+    "month": 12,
+    "day": 29,
+    "category": "Çevre & Doğa",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "30-aralik-yil-sonu-sukran-ve-degerlendirme-gunu",
+    "title": "30 Aralık Yıl Sonu Şükran ve Değerlendirme Günü",
+    "month": 12,
+    "day": 30,
+    "category": "Farkındalık",
+    "day_type": "kutlama"
+  },
+  {
+    "slug": "yilbasi-gecesi",
+    "title": "31 Aralık Yılbaşı Gecesi",
+    "month": 12,
+    "day": 31,
+    "category": "Eğlence"
+  }
+]

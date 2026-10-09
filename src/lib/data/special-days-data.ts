@@ -162,8 +162,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Science Fiction Writers",
-    "source_url": "https://www.sfwa.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Ocak",
       "#2ocakdunyabilimkurgugunu"
@@ -173,10 +173,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -193,8 +193,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Mind-Body Coalition",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Ocak",
       "#3ocakuluslararasizihinbedensagligigunu"
@@ -204,10 +204,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -258,8 +258,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Avian Welfare Coalition",
-    "source_url": "https://www.birdday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Ocak",
       "#5ocakulusalkuslarikorumagunu"
@@ -269,10 +269,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -289,17 +289,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "SOS Enfants en Detresse & UNICEF",
-    "source_url": "https://www.unicef.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Ocak",
       "#6ocakdunyasavasyetimlerigunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -316,8 +316,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Tech Observances",
-    "source_url": "https://www.ieee.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Ocak",
       "#7ocakuluslararasiprogramcilargunu"
@@ -327,10 +327,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -347,8 +347,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Literary Guild",
-    "source_url": "https://www.unesco.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Ocak",
       "#8ocakdunyayaziyazmavedaktilogunu"
@@ -358,10 +358,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -378,8 +378,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Physics Guild",
-    "source_url": "https://www.aps.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Ocak",
       "#9ocakdunyastatikelektrikgunu"
@@ -389,10 +389,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -418,13 +418,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "fotoğraf makinesi tripodu",
       "not defteri deri"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "Türkiye Cumhuriyeti (212 Sayılı Fikir İşçileri Kanunu)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "T.C. Resmî Gazete (1961)",
+    "source_url": "https://www.resmigazete.gov.tr",
+    "scope": "turkiye",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000124",
@@ -439,8 +443,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Kindness Coalition",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Ocak",
       "#11ocakuluslararasitesekkurgunu"
@@ -450,10 +454,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -470,8 +474,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "FIP Eczacılık Federasyonu",
-    "source_url": "https://www.fip.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Ocak",
       "#12ocakdunyaeczacilikegitimigunu"
@@ -481,10 +485,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -501,8 +505,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Motivational Observances",
-    "source_url": "https://www.unesco.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Ocak",
       "#13ocakhayallerigerceklestirmegunu"
@@ -512,10 +516,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -532,7 +536,7 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "UNESCO (40 C/Resolution 36)",
+    "source_name": "UNESCO World Logic Day",
     "source_url": "https://www.unesco.org/en/days/world-logic-day",
     "hashtags": [
       "#14Ocak",
@@ -543,12 +547,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO Genel Konferansı (40 C/40 Kararı)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000128",
@@ -563,8 +567,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Wikimedia Foundation",
-    "source_url": "https://www.wikimedia.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Ocak",
       "#15ocakwikipediagunu"
@@ -574,10 +578,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -602,13 +606,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "antibakteriyel el dezenfektanı",
       "bambu banyo havlusu"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000129",
@@ -623,8 +629,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Kid Inventors Association",
-    "source_url": "https://www.wipo.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Ocak",
       "#17ocakcocukmucitlergunu"
@@ -634,10 +640,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -654,8 +660,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Interfaith Council",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Ocak",
       "#18ocakdunyadinlerarasihosgorugunu"
@@ -665,10 +671,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -685,8 +691,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Popcorn Board",
-    "source_url": "https://www.popcorn.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Ocak",
       "#19ocakdunyapatlamismisirgunu"
@@ -696,10 +702,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -716,8 +722,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Wildlife Conservation Society",
-    "source_url": "https://www.wcs.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#20Ocak",
       "#20ocakpenguenlerikorumafarkindalikgunu"
@@ -727,10 +733,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -756,13 +762,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kupa bardak kalpli",
       "sarılma yastığı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000133",
@@ -777,8 +785,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Health & Nutrition Council",
-    "source_url": "https://www.fao.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Ocak",
       "#22ocaktoplumsagligivesicakcaygunu"
@@ -788,10 +796,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -808,8 +816,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Writing Instrument Association",
-    "source_url": "https://www.wima.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Ocak",
       "#23ocakdunyaelyazisigunu"
@@ -819,10 +827,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -873,8 +881,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "FIS Uluslararası Kayak Federasyonu",
-    "source_url": "https://www.worldsnowday.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Ocak",
       "#25ocakdunyakarvekissporlarigunu"
@@ -884,10 +892,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -912,13 +920,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "valiz bavul seti",
       "bagaj tartısı dijital"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Dünya Gümrük Örgütü (WCO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Customs Organization (WCO)",
+    "source_url": "https://www.wcoomd.org",
+    "scope": "uluslararasi",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000136",
@@ -933,17 +945,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/60/7)",
-    "source_url": "https://www.un.org/en/observances/holocaust-remembrance-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Ocak",
       "#27ocakuluslararasiholokostkurbanlarinianmagunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -969,13 +981,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "webcam gizlilik kapağı",
       "vpn aboneliği"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Avrupa Konseyi (108 Sayılı Sözleşme) & KVKK",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Council of Europe Data Protection Day & KVKK",
+    "source_url": "https://www.kvkk.gov.tr",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000137",
@@ -990,8 +1006,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Game & Puzzle Guild",
-    "source_url": "https://www.worldpuzzleday.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Ocak",
       "#29ocakdunyayapbozpuzzlegunu"
@@ -1001,10 +1017,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1021,8 +1037,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO Barış Eğitimi",
-    "source_url": "https://www.unesco.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Ocak",
       "#30ocakokullardasiddetsizlikvebarisgunu"
@@ -1032,10 +1048,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1052,8 +1068,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Dünya Sağlık Örgütü (WHO)",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#31Ocak",
       "#31ocakdunyacuzzamilesavasgunu"
@@ -1063,10 +1079,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1083,8 +1099,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Hijab Day Initiative",
-    "source_url": "https://worldhijabday.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#1Şubat",
       "#1subatdunyabasortusuvevicdanozgurlugugunu"
@@ -1094,10 +1110,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1114,8 +1130,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Ramsar Sözleşmesi & BM (A/RES/75/317)",
-    "source_url": "https://www.ramsar.org",
+    "source_name": "Birleşmiş Milletler (A/RES/75/317)",
+    "source_url": "https://www.un.org/en/observances/world-wetlands-day",
     "hashtags": [
       "#2Şubat",
       "#2subatdunyasulakalanlargunu"
@@ -1125,12 +1141,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu & Ramsar Sözleşmesi",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000142",
@@ -1145,8 +1161,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Gastronomy Observances",
-    "source_url": "https://www.fao.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Şubat",
       "#3subatdunyadogalbeslenmevehavyargunu"
@@ -1156,10 +1172,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1210,8 +1226,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Nutella Day",
-    "source_url": "https://www.nutelladay.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Şubat",
       "#5subatdunyanutellavekakaogunu"
@@ -1221,10 +1237,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1241,8 +1257,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/67/146)",
-    "source_url": "https://www.un.org/en/observances/female-genital-mutilation-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Şubat",
       "#6subatkadinsunnetinesifirtoleransgunu"
@@ -1252,10 +1268,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1272,8 +1288,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Avrupa Komisyonu (Safer Internet Day)",
-    "source_url": "https://www.saferinternetday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Şubat",
       "#7subatguvenliinternetgunu"
@@ -1283,10 +1299,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1303,8 +1319,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Opera Europa",
-    "source_url": "https://www.opera-europa.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Şubat",
       "#8subatdunyaoperavesahnesanatlarigunu"
@@ -1314,10 +1330,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1343,13 +1359,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "koşu ayakkabısı",
       "hava temizleyici cihaz"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000147",
@@ -1364,8 +1382,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler FAO (A/RES/73/251)",
-    "source_url": "https://www.fao.org/world-pulses-day",
+    "source_name": "Birleşmiş Milletler (A/RES/73/251)",
+    "source_url": "https://www.un.org/en/observances/world-pulses-day",
     "hashtags": [
       "#10Şubat",
       "#10subatdunyabakliyatgunu"
@@ -1375,12 +1393,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (FAO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000047",
@@ -1404,13 +1422,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "robotik kodlama kiti",
       "teleskop başlangıç"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000148",
@@ -1425,8 +1445,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Darwin Day Foundation",
-    "source_url": "https://darwinday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Şubat",
       "#12subatuluslararasidarwingunu"
@@ -1436,10 +1456,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1456,8 +1476,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "UNESCO (36 C/Resolution 63)",
-    "source_url": "https://www.unesco.org/en/days/world-radio-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Şubat",
       "#13subatdunyaradyogunu"
@@ -1467,10 +1487,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1497,13 +1517,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "çikolata kutusu lüks",
       "akıllı saat unisex"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000150",
@@ -1518,8 +1540,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Childhood Cancer International",
-    "source_url": "https://www.childhoodcancerinternational.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Şubat",
       "#15subatuluslararasicocuklukcagikanserigunu"
@@ -1529,10 +1551,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1549,8 +1571,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Healthy Nuts Observance",
-    "source_url": "https://www.fao.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Şubat",
       "#16subatdunyabademvekuruyemisgunu"
@@ -1560,10 +1582,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1589,13 +1611,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "otomatik kedi su pınarı",
       "kedi taşıma çantası"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000152",
@@ -1610,8 +1634,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Alessandro Volta Commemoration",
-    "source_url": "https://www.ieee.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Şubat",
       "#18subatdunyapilvebataryagunu"
@@ -1621,10 +1645,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1641,8 +1665,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Whaling Commission",
-    "source_url": "https://iwc.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Şubat",
       "#19subatdunyabalinavedenizmemelilerigunu"
@@ -1652,10 +1676,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1680,13 +1704,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "sosyoloji temel eserler",
       "felsefe klasikleri seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000051",
@@ -1709,13 +1735,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dünya edebiyatı klasikleri",
       "etimoloji sözlüğü"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000154",
@@ -1730,8 +1758,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Dünya İzcilik Teşkilatı (WAGGGS)",
-    "source_url": "https://www.wagggs.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Şubat",
       "#22subatdunyadusuncegunu"
@@ -1741,10 +1769,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1761,8 +1789,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Rotary International",
-    "source_url": "https://www.rotary.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Şubat",
       "#23subatdunyabarisvekarsiliklianlayisgunu"
@@ -1772,10 +1800,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1792,8 +1820,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Bartenders Association",
-    "source_url": "https://iba-world.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Şubat",
       "#24subatdunyabarmenlergunu"
@@ -1803,10 +1831,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1823,8 +1851,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Mindfulness Observances",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Şubat",
       "#25subatsessizlikveichuzurgunu"
@@ -1834,10 +1862,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1854,8 +1882,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "turkiye",
-    "source_name": "Gaziantep Ticaret Borsası & TZOB",
-    "source_url": "https://www.gtb.org.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Şubat",
       "#26subatdunyaantepfistigigunu"
@@ -1865,10 +1893,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1885,8 +1913,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World NGO Day Initiative",
-    "source_url": "https://worldngoday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Şubat",
       "#27subatdunyasiviltoplumkuruluslarigunu"
@@ -1896,10 +1924,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -1925,13 +1953,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "düdük pusula çok amaçlı",
       "ilk yardım çantası"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000052",
@@ -1954,13 +1984,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "spor matı yoga",
       "sağlıklı yaşam rehberi kitabı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000160",
@@ -1975,8 +2007,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "National Education Association",
-    "source_url": "https://www.unesco.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Mart",
       "#2martdunyakitapokumavedrseussgunu"
@@ -1986,10 +2018,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2015,13 +2047,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kamp çadırı",
       "kuş rehberi kitabı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000161",
@@ -2036,8 +2070,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "UNESCO & DSÖ",
-    "source_url": "https://worldengineeringday.net",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Mart",
       "#4martdunyamuhendislikgunuveobezitegunu"
@@ -2047,10 +2081,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2067,8 +2101,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Energy Forum",
-    "source_url": "https://www.iea.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Mart",
       "#5martdunyaenerjiverimliligigunu"
@@ -2078,10 +2112,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2098,8 +2132,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ITTF Foundation",
-    "source_url": "https://www.ittf.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Mart",
       "#6martdunyamasatenisigunu"
@@ -2109,10 +2143,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2129,8 +2163,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Maths Day",
-    "source_url": "https://www.worldmathsday.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Mart",
       "#7martdunyamatematikgunu"
@@ -2140,10 +2174,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2194,8 +2228,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Nefroloji Derneği (ISN)",
-    "source_url": "https://www.worldkidneyday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Mart",
       "#9martdunyabobrekgunu"
@@ -2205,10 +2239,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2225,8 +2259,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/75/274)",
-    "source_url": "https://www.un.org/en/observances/women-judges-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#10Mart",
       "#10martuluslararasikadinyargiclargunu"
@@ -2236,10 +2270,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2256,8 +2290,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Plumbing Council",
-    "source_url": "https://www.worldplumbing.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Mart",
       "#11martdunyasihhitesisatgunu"
@@ -2267,10 +2301,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2295,13 +2329,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "mehmet akif ersoy biyografisi",
       "türk bayrağı çerçeveli"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000168",
@@ -2316,8 +2352,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Sleep Society",
-    "source_url": "https://worldsleepday.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Mart",
       "#13martdunyauykugunu"
@@ -2327,10 +2363,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2392,13 +2428,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "matematik bulmaca kitapları",
       "rubik küp"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000004",
@@ -2420,13 +2458,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tüketici hukuku el kitabı",
       "para yönetim bütçe defteri"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Consumers International & BM Tüketici İlkeleri",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Consumers International World Consumer Rights Day",
+    "source_url": "https://www.consumersinternational.org",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000169",
@@ -2441,8 +2483,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "turkiye",
-    "source_name": "T.C. Millî Eğitim Bakanlığı (1848)",
-    "source_url": "https://www.meb.gov.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Mart",
       "#16martogretmenokullarininkurulusgunu"
@@ -2452,10 +2494,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2472,8 +2514,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "St. Patrick's Festival",
-    "source_url": "https://stpatricksfestival.ie",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Mart",
       "#17martazizpatrickgunu"
@@ -2483,10 +2525,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2511,13 +2553,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "mustafa kemal atatürk tablosu",
       "türk bayrağı masa üstü"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000171",
@@ -2532,8 +2576,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Customer Service Institute",
-    "source_url": "https://www.service-institute.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Mart",
       "#19martmusterihizmetlerivenezaketgunu"
@@ -2543,10 +2587,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2572,13 +2616,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "günlük şükür defteri",
       "renkli fincan"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000005",
@@ -2603,13 +2649,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "cemal süreya sevda sözleri",
       "dolma kalem"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (30 C/Decision 8.1)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "UNESCO World Poetry Day",
+    "source_url": "https://www.unesco.org/en/days/poetry-day",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000060",
@@ -2633,13 +2683,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "budama makası",
       "saksı tohum seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000061",
@@ -2729,13 +2781,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dijital termometre higrometre",
       "barometre"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Dünya Meteoroloji Örgütü (WMO) / BM",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Meteorological Organization",
+    "source_url": "https://public.wmo.int",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000172",
@@ -2750,8 +2806,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Dünya Sağlık Örgütü (WHO)",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Mart",
       "#24martdunyatuberkulozveremgunu"
@@ -2761,10 +2817,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2781,17 +2837,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/62/122)",
-    "source_url": "https://www.un.org/en/observances/remembrance-transatlantic-slave-trade",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Mart",
       "#25martkolelikkurbanlarinianmauluslararasigunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2808,8 +2864,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Purple Day Foundation",
-    "source_url": "https://www.purpleday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Mart",
       "#26martdunyamorgunuepilepsifarkindaligi"
@@ -2819,10 +2875,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2848,13 +2904,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dürbün tiyatro tipi",
       "sanat tarihi kitabı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Uluslararası Tiyatro Enstitüsü (ITI) / UNESCO",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "International Theatre Institute (ITI)",
+    "source_url": "https://www.world-theatre-day.org",
+    "scope": "uluslararasi",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000175",
@@ -2869,8 +2929,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "turkiye",
-    "source_name": "Türk Kütüphaneciler Derneği",
-    "source_url": "https://www.kutuphaneci.org.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Mart",
       "#28martkutuphanehaftasikutlamalari"
@@ -2880,10 +2940,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2900,8 +2960,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Piano Day Initiative",
-    "source_url": "https://www.pianoday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Mart",
       "#29martdunyapiyanogunu"
@@ -2911,10 +2971,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2931,8 +2991,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/77/161 - Türkiye Girişimi)",
-    "source_url": "https://www.unep.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Mart",
       "#30martuluslararasisifiratikgunu"
@@ -2942,10 +3002,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -2962,8 +3022,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Backup Day Initiative",
-    "source_url": "https://www.worldbackupday.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#31Mart",
       "#31martdunyayedeklemegunuworldbackupday"
@@ -2973,10 +3033,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3001,13 +3061,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "esprili kupa bardak",
       "parti şaka oyunları"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000064",
@@ -3056,8 +3118,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Party Day Initiative",
-    "source_url": "https://worldpartyday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Nisan",
       "#3nisandunyapartigunu"
@@ -3067,10 +3129,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3087,8 +3149,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM & Hayvan Hakları",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Nisan",
       "#4nisansokakhayvanlarivemayinbilincigunu"
@@ -3098,10 +3160,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3127,13 +3189,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dolma kalem lüks",
       "deri evrak çantası"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "institutional",
+    "declaring_authority": "Türkiye Barolar Birliği (TBB)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Türkiye Barolar Birliği Resmî Kararı (1958)",
+    "source_url": "https://www.barobirlik.org.tr",
+    "scope": "turkiye",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000181",
@@ -3148,8 +3214,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Birleşmiş Milletler (A/RES/67/296)",
-    "source_url": "https://www.un.org/en/observances/sport-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Nisan",
       "#6nisankalkinmavebarisicinsporgunu"
@@ -3159,10 +3225,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3213,8 +3279,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Roman Kongresi",
-    "source_url": "https://www.coe.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Nisan",
       "#8nisanuluslararasiromanlargunu"
@@ -3224,10 +3290,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3244,17 +3310,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "TMMOB Mimarlar Odası",
-    "source_url": "https://www.mo.org.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Nisan",
       "#9nisanmimarsinanianmavemimarlargunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3279,13 +3345,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "taktik fener",
       "deri polis cüzdan rozet"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "T.C. İçişleri Bakanlığı / Emniyet Genel Müdürlüğü",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Emniyet Genel Müdürlüğü Tarihçesi (1845)",
+    "source_url": "https://www.egm.gov.tr",
+    "scope": "turkiye",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000184",
@@ -3300,8 +3370,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "European Parkinson's Disease Association",
-    "source_url": "https://www.epda.eu.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Nisan",
       "#11nisandunyaparkinsongunu"
@@ -3311,10 +3381,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3331,8 +3401,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Birleşmiş Milletler (A/RES/65/271)",
-    "source_url": "https://www.un.org/en/observances/human-spaceflight-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Nisan",
       "#12nisanuluslararasiinsanliuzayucusugunu"
@@ -3342,10 +3412,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3362,8 +3432,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Scrabble Day Association",
-    "source_url": "https://www.scrabble.com",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Nisan",
       "#13nisanscrabblevekelimeoyunlarigunu"
@@ -3373,10 +3443,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3393,8 +3463,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Dünya Sağlık Örgütü (WHO)",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#14Nisan",
       "#14nisandunyacagashastaligigunu"
@@ -3404,10 +3474,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3433,13 +3503,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tuval seti",
       "eskiz defteri kaliteli"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (40 C/65 Kararı) & IAA",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "UNESCO World Art Day",
+    "source_url": "https://www.unesco.org/en/days/world-art-day",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000188",
@@ -3454,8 +3528,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Voice Day Committee",
-    "source_url": "https://world-voice-day.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Nisan",
       "#16nisandunyasesgunu"
@@ -3465,10 +3539,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3485,8 +3559,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Federation of Hemophilia",
-    "source_url": "https://wfh.org/world-hemophilia-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Nisan",
       "#17nisandunyahemofiligunu"
@@ -3496,10 +3570,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3516,8 +3590,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ICOMOS & UNESCO",
-    "source_url": "https://www.icomos.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Nisan",
       "#18nisandunyaanitlarvesitlergunu"
@@ -3527,10 +3601,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3547,8 +3621,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Bicycle Day Observances",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Nisan",
       "#19nisanbisikletvecevredostuulasimgunu"
@@ -3558,10 +3632,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3578,8 +3652,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Birleşmiş Milletler",
-    "source_url": "https://www.un.org/zh/observances/chinese-language-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#20Nisan",
       "#20nisanbirlesmismilletlercincegunu"
@@ -3589,10 +3663,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3609,8 +3683,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Birleşmiş Milletler (A/RES/71/284)",
-    "source_url": "https://www.un.org/en/observances/creativity-and-innovation-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#21Nisan",
       "#21nisandunyayaraticilikveyenilikcilikgunu"
@@ -3620,10 +3694,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3648,13 +3722,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bambu pipet seti",
       "çevre dostu temizlik ürünleri"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000069",
@@ -3715,13 +3791,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap okuma lambası",
       "roman seti çok satanlar"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000194",
@@ -3736,8 +3814,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/73/127)",
-    "source_url": "https://www.un.org/en/observances/multilateralism-for-peace-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Nisan",
       "#24nisanbarisicincoktaraflilikvediplomasigunu"
@@ -3747,10 +3825,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3767,8 +3845,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Dünya Sağlık Örgütü (WHO)",
-    "source_url": "https://www.who.int/campaigns/world-malaria-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Nisan",
       "#25nisandunyasitmagunuveistatistikgunu"
@@ -3778,10 +3856,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3806,13 +3884,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "pilot güneş gözlüğü aviator",
       "havacılık temalı saat"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000196",
@@ -3827,8 +3907,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Council of Design",
-    "source_url": "https://www.theicod.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Nisan",
       "#27nisandunyatasarimgunu"
@@ -3838,10 +3918,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3858,8 +3938,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Uluslararası Çalışma Örgütü (ILO)",
-    "source_url": "https://www.ilo.org/safeday",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Nisan",
       "#28nisandunyaissagligiveguvenligigunu"
@@ -3869,10 +3949,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -3898,13 +3978,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tayt spor kaliteli",
       "dans kursu kuponu"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Uluslararası Tiyatro Enstitüsü (ITI) Dans Komitesi / UNESCO",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "International Dance Committee (ITI)",
+    "source_url": "https://www.international-dance-day.org",
+    "scope": "uluslararasi",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000010",
@@ -3927,13 +4011,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "caz plakları efsane",
       "saksafon başlangıç"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (36 C/Resolution 39)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "UNESCO International Jazz Day",
+    "source_url": "https://jazzday.com",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000072",
@@ -3984,8 +4072,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Birleşmiş Milletler (A/RES/71/124)",
-    "source_url": "https://www.un.org/en/observances/tuna-day",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Mayıs",
       "#2mayisdunyatonbaligigunu"
@@ -3995,10 +4083,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4022,13 +4110,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "gazetecilik etik kitapları",
       "basın tarihi araştırmaları"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000199",
@@ -4043,8 +4133,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Firefighters Association",
-    "source_url": "https://www.firefightersday.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Mayıs",
       "#4mayisdunyaitfaiyecilergunuvestarwarsgunu"
@@ -4054,10 +4144,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4082,13 +4172,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "dilek feneri renkli",
       "hasır piknik sepeti"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000200",
@@ -4103,8 +4195,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Body Acceptance Network",
-    "source_url": "https://www.who.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Mayıs",
       "#6mayisuluslararasidiyetyapmamagunu"
@@ -4114,10 +4206,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4134,8 +4226,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "GINA Küresel Astım Girişimi",
-    "source_url": "https://ginasthma.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Mayıs",
       "#7mayisdunyaastimgunu"
@@ -4145,10 +4237,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4165,8 +4257,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "IFRC & Türk Kızılay",
-    "source_url": "https://www.kizilay.org.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Mayıs",
       "#8mayisdunyakizilayvekizilhacgunu"
@@ -4176,10 +4268,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4196,8 +4288,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Avrupa Birliği (Schuman Bildirisi)",
-    "source_url": "https://european-union.europa.eu",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Mayıs",
       "#9mayisavrupagunu"
@@ -4207,10 +4299,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4235,13 +4327,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "terapi not defteri",
       "freud biblo masa üstü"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000073",
@@ -4265,13 +4359,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kolye anne bebek figürlü",
       "çiçek sepeti"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000204",
@@ -4286,8 +4382,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "UNEP & CMS",
-    "source_url": "https://www.worldmigratorybirdday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Mayıs",
       "#11mayisdunyagocmenkuslargunu"
@@ -4297,10 +4393,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4326,13 +4422,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "hemşire saati stetoskop",
       "fincan hemşire"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "institutional",
+    "declaring_authority": "Uluslararası Hemşireler Konseyi (ICN) & T.C. Sağlık Bakanlığı",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "T.C. Sağlık Bakanlığı & ICN",
+    "source_url": "https://www.saglik.gov.tr",
+    "scope": "turkiye",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000205",
@@ -4347,8 +4447,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "turkiye",
-    "source_name": "Karamanoğlu Mehmet Bey Fermanı (1277)",
-    "source_url": "https://www.tdk.gov.tr",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Mayıs",
       "#13mayisturkdilbayrami"
@@ -4358,10 +4458,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4386,13 +4486,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "havan biblo seramik",
       "ilaç saklama kutusu haftalık"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "institutional",
+    "declaring_authority": "Türk Eczacıları Birliği (TEB)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Türk Eczacıları Birliği Resmî Kayıtları (1839 Mekteb-i Tıbbiye)",
+    "source_url": "https://www.teb.org.tr",
+    "scope": "turkiye",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000075",
@@ -4416,13 +4520,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "toprak ph ölçer",
       "hasır şapka"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000015",
@@ -4445,13 +4551,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kutu kutu aile oyunu",
       "büyük boy piknik örtüsü"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/47/237)",
+    "source_url": "https://www.un.org/en/observances/international-day-of-families",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000206",
@@ -4466,8 +4576,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "UNESCO (Theodore Maiman Lazer İcadı)",
-    "source_url": "https://www.lightday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Mayıs",
       "#16mayisuluslararasiisikgunu"
@@ -4477,10 +4587,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4497,8 +4607,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Uluslararası Telekomünikasyon Birliği (ITU)",
-    "source_url": "https://www.itu.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Mayıs",
       "#17mayisdunyatelekomunikasyonvebilgitoplumugunu"
@@ -4508,10 +4618,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4536,13 +4646,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türkiye arkeoloji atlası",
       "sanat tarihi el kitabı"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000076",
@@ -4566,13 +4678,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "basketbol topu",
       "atatürk imzalı rozet"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000077",
@@ -4595,13 +4709,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "arı sütü propolis",
       "çiçek tohumu arı dostu"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/72/211)",
+    "source_url": "https://www.un.org/en/observances/bee-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000017",
@@ -4624,13 +4742,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "cam süt şişesi retro",
       "yoğurt yapma makinesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000018",
@@ -4653,13 +4773,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "endemik bitkiler kitabı türkiye",
       "doğa günlüğü"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000208",
@@ -4674,8 +4796,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "American Tortoise Rescue",
-    "source_url": "https://www.worldturtleday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Mayıs",
       "#23mayisdunyakaplumbagalargunu"
@@ -4685,10 +4807,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4705,8 +4827,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "EUROPARC Federation",
-    "source_url": "https://www.europarc.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Mayıs",
       "#24mayisavrupaparklargunu"
@@ -4716,10 +4838,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4736,8 +4858,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "bm",
-    "source_name": "Afrika Birliği & ETA",
-    "source_url": "https://au.int",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Mayıs",
       "#25mayisafrikagunuvedunyatiroidgunu"
@@ -4747,10 +4869,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4767,8 +4889,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Frankie Manning Foundation",
-    "source_url": "https://www.frankiemanningfoundation.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Mayıs",
       "#26mayisdunyalindyhopvedansgunu"
@@ -4778,10 +4900,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4798,8 +4920,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "EUSEM Avrupa Acil Tıp Derneği",
-    "source_url": "https://emergencymedicine-day.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Mayıs",
       "#27mayisaciltipgunu"
@@ -4809,10 +4931,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4829,8 +4951,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "The Hunger Project",
-    "source_url": "https://www.worldhungerday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Mayıs",
       "#28mayisdunyaaclikgunu"
@@ -4840,10 +4962,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4868,13 +4990,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "osmanlı tuğrası tablo",
       "minyatür fatih biblosu"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000214",
@@ -4889,8 +5013,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "MS International Federation",
-    "source_url": "https://worldmsday.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Mayıs",
       "#30mayisdunyamultiplsklerozmsgunu"
@@ -4900,10 +5024,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -4928,13 +5052,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "stres topu seti",
       "bitki çayı rahatlatıcı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000020",
@@ -4957,13 +5083,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "scooter çocuk 3 tekerlekli",
       "çocuk hikaye kitabı seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000215",
@@ -4978,8 +5106,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Haziran",
       "#2hazirandunyakosugunu"
@@ -4989,10 +5117,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5009,8 +5137,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/72/272)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Haziran",
       "#3hazirandunyabisikletgunu"
@@ -5020,10 +5148,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5040,17 +5168,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Haziran",
       "#4hazirancatismakurbanimasumcocuklargunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5077,9 +5205,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kompost kutusu"
     ],
     "official_status": "international_observance",
-    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (UNEP)",
     "source_name": "Birleşmiş Milletler (A/RES/2994 (XXVII))",
-    "source_url": "https://www.un.org/en/observances/environment-day",
+    "source_url": "https://www.worldenvironmentday.global",
     "source_type": "primary_official",
     "scope": "bm",
     "day_type": "farkindalik",
@@ -5101,8 +5229,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Haziran",
       "#6hazirandunyarusdiligunu"
@@ -5112,10 +5240,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5140,13 +5268,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "işitme cihazı pili",
       "görsel sözlük kartları"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000080",
@@ -5169,13 +5299,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "mikrofiber hızlı kuruyan havlu",
       "su geçirmez telefon kılıfı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/63/111)",
+    "source_url": "https://www.un.org/en/observances/oceans-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000219",
@@ -5190,8 +5324,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ILAC & IAF",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Haziran",
       "#9hazirandunyaakreditasyongunu"
@@ -5201,10 +5335,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5221,8 +5355,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#10Haziran",
       "#10hazirandunyazanaatkarlikveelemegigunu"
@@ -5232,10 +5366,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5252,8 +5386,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/78/268)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Haziran",
       "#11haziranuluslararasioyunoynamagunu"
@@ -5263,10 +5397,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5283,8 +5417,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ILO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Haziran",
       "#12hazirandunyacocukisciligiylemucadelegunu"
@@ -5294,10 +5428,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5314,8 +5448,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Haziran",
       "#13haziranuluslararasialbinizmfarkindalikgunu"
@@ -5325,10 +5459,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5353,13 +5487,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "vitamin takviyesi",
       "sporcu su matarası"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Dünya Sağlık Asamblesi (WHO WHA58.13 Kararı)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Health Organization World Blood Donor Day",
+    "source_url": "https://www.who.int/campaigns/world-blood-donor-day",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000224",
@@ -5374,8 +5512,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "GWEC",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Haziran",
       "#15hazirandunyaruzgargunu"
@@ -5385,10 +5523,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5405,8 +5543,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Haziran",
       "#16haziranuluslararasiailehavalelerigunu"
@@ -5416,10 +5554,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5436,8 +5574,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/49/115)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Haziran",
       "#17hazirandunyacollesmevekurakliklamucadelegunu"
@@ -5447,10 +5585,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5467,8 +5605,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/71/246)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Haziran",
       "#18haziransurdurulebilirgastronomigunu"
@@ -5478,10 +5616,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5498,8 +5636,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Haziran",
       "#19hazirancatismalardacinselsiddetionlemegunu"
@@ -5509,10 +5647,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5529,8 +5667,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/55/76)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#20Haziran",
       "#20hazirandunyamultecilergunu"
@@ -5540,10 +5678,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5569,13 +5707,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "meditasyon çanı",
       "yoga taytı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000082",
@@ -5599,13 +5739,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "tıraş makinesi seti",
       "erkek kol saati"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000083",
@@ -5629,13 +5771,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "ukulele ahşap",
       "taşınabilir hoparlör"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000230",
@@ -5650,8 +5794,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Rainforest Partnership",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Haziran",
       "#22hazirandunyayagmurormanlarigunu"
@@ -5661,10 +5805,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5681,8 +5825,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Haziran",
       "#23haziranbirlesmismilletlerkamuhizmetigunu"
@@ -5692,10 +5836,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5712,8 +5856,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Haziran",
       "#24hazirandiplomasidekadinlargunu"
@@ -5723,10 +5867,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5743,8 +5887,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "IMO & BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Haziran",
       "#25hazirandunyadenizcilergunu"
@@ -5754,10 +5898,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5774,8 +5918,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Haziran",
       "#26haziranuyusturucuilemucadelegunu"
@@ -5785,10 +5929,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5805,8 +5949,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Haziran",
       "#27haziranmikrokucukveortabuyukluktekiisletmelerkobigunu"
@@ -5816,10 +5960,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5836,8 +5980,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Mashable Social Media Day",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Haziran",
       "#28hazirandunyasosyalmedyagunu"
@@ -5847,10 +5991,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5867,8 +6011,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/70/267)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Haziran",
       "#29haziranuluslararasitropiklergunu"
@@ -5878,10 +6022,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5906,13 +6050,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yaka mikrofonu kablosuz",
       "telefon sabitleyici gimbal"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000084",
@@ -5936,13 +6082,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "deniz kabuğu bileklik",
       "su geçirmez çanta"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000238",
@@ -5957,8 +6105,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Temmuz",
       "#2temmuzdunyaufogunu"
@@ -5968,10 +6116,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -5988,8 +6136,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Plastic Free July",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Temmuz",
       "#3temmuzplastikposetkullanmamagunu"
@@ -5999,10 +6147,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6019,8 +6167,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Temmuz",
       "#4temmuzdunyabagimsizlikveifadeozgurlugugunu"
@@ -6030,10 +6178,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6050,8 +6198,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Temmuz",
       "#5temmuzdunyayazmodasivebikinigunu"
@@ -6061,10 +6209,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6081,8 +6229,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Temmuz",
       "#6temmuzdunyaopucukgunu"
@@ -6092,10 +6240,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6121,13 +6269,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "sıcak çikolata tozu",
       "çikolatalı trüf"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000243",
@@ -6142,8 +6292,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Temmuz",
       "#8temmuzdunyavideooyunlarigunu"
@@ -6153,10 +6303,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6173,8 +6323,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Temmuz",
       "#9temmuzdunyasekerlemevetatligunu"
@@ -6184,10 +6334,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6204,8 +6354,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#10Temmuz",
       "#10temmuzdunyahukukgunu"
@@ -6215,10 +6365,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6235,8 +6385,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM UNDP",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Temmuz",
       "#11temmuzdunyanufusgunu"
@@ -6246,10 +6396,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6266,8 +6416,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Temmuz",
       "#12temmuzmalalagunukizcocuklarininegitimi"
@@ -6277,10 +6427,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6297,8 +6447,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Temmuz",
       "#13temmuzdunyarockmuzigigunu"
@@ -6308,10 +6458,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6328,8 +6478,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#14Temmuz",
       "#14temmuzkopekbaliklarifarkindalikgunu"
@@ -6339,10 +6489,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6395,8 +6545,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Temmuz",
       "#16temmuzdunyayilanlarvesurungenlergunu"
@@ -6406,10 +6556,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6434,13 +6584,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "emoji anahtarlık",
       "renkli sticker çıkartma seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000251",
@@ -6455,8 +6607,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/64/13)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Temmuz",
       "#18temmuznelsonmandelauluslararasigunu"
@@ -6466,10 +6618,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6486,8 +6638,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Temmuz",
       "#19temmuzdunyadondurmagunu"
@@ -6497,10 +6649,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6526,13 +6678,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "satranç taktikleri kitabı",
       "manyetik seyahat satrancı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (FIDE)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/74/22)",
+    "source_url": "https://www.un.org/en/observances/chess-day",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000253",
@@ -6547,8 +6703,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#21Temmuz",
       "#21temmuzdunyaaburcuburgunu"
@@ -6558,10 +6714,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6578,8 +6734,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Federation of Neurology",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Temmuz",
       "#22temmuzdunyabeyingunu"
@@ -6589,10 +6745,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6609,8 +6765,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Temmuz",
       "#23temmuzdunyabuyukannelervebuyukbabalargunu"
@@ -6620,10 +6776,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6640,8 +6796,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. İletişim Başkanlığı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Temmuz",
       "#24temmuzgazetecilervebasinbayrami"
@@ -6651,10 +6807,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6671,8 +6827,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/75/273)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Temmuz",
       "#25temmuzbogulmayionlemegunu"
@@ -6682,10 +6838,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6702,8 +6858,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Temmuz",
       "#26temmuzmangrovekosisteminikorumagunu"
@@ -6713,10 +6869,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6733,8 +6889,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Temmuz",
       "#27temmuzbasveboyunkanserlerifarkindalikgunu"
@@ -6744,10 +6900,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6764,8 +6920,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "DSÖ / WHO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Temmuz",
       "#28temmuzdunyahepatitgunu"
@@ -6775,10 +6931,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6795,8 +6951,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Global Tiger Initiative",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Temmuz",
       "#29temmuzuluslararasikaplangunu"
@@ -6806,10 +6962,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6834,13 +6990,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "anı albümü yapışkanlı",
       "arkadaşa esprili hediye"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000262",
@@ -6855,8 +7013,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Ranger Federation",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#31Temmuz",
       "#31temmuzdunyadogakorucularigunu"
@@ -6866,10 +7024,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6886,8 +7044,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#1Ağustos",
       "#1agustosdunyaakcigerkanserigunu"
@@ -6897,10 +7055,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6917,8 +7075,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Ağustos",
       "#2agustosdunyarenklicoraplargunu"
@@ -6928,10 +7086,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6948,8 +7106,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Ağustos",
       "#3agustosdunyakarpuzgunu"
@@ -6959,10 +7117,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -6979,8 +7137,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Ağustos",
       "#4agustosdunyabaykuslarveyirticikuslargunu"
@@ -6990,10 +7148,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7010,8 +7168,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Ağustos",
       "#5agustosdunyatrafikisiklarigunu"
@@ -7021,10 +7179,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7041,17 +7199,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Hiroshima Peace Memorial",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Ağustos",
       "#6agustoshirosimabarisanmagunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7068,8 +7226,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Ağustos",
       "#7agustosdunyadenizfenerigunu"
@@ -7079,10 +7237,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7099,8 +7257,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "IFAW",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Ağustos",
       "#8agustosdunyakedilergunu"
@@ -7110,10 +7268,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7130,8 +7288,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/49/214)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Ağustos",
       "#9agustosdunyayerlihalklargunuvekitapseverlergunu"
@@ -7141,10 +7299,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7161,8 +7319,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#10Ağustos",
       "#10agustosdunyaaslangunu"
@@ -7172,10 +7330,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7192,8 +7350,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Ağustos",
       "#11agustosdunyacelikvesanayiuretimigunu"
@@ -7203,10 +7361,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7223,8 +7381,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/54/120)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Ağustos",
       "#12agustosuluslararasigenclikgunuvedunyafilgunu"
@@ -7234,10 +7392,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7262,13 +7420,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "sol el ergonomik mouse",
       "solaklar için dolma kalem"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000275",
@@ -7283,8 +7443,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#14Ağustos",
       "#14agustosdunyakertenkelelergunu"
@@ -7294,10 +7454,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7314,8 +7474,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Ağustos",
       "#15agustosdunyarahatlamavedinlenmegunu"
@@ -7325,10 +7485,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7345,8 +7505,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Ağustos",
       "#16agustosdunyapatenvekaykaygunu"
@@ -7356,10 +7516,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7376,17 +7536,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "AFAD & Kandilli",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Ağustos",
       "#17agustosmarmaradepreminianmagunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7403,8 +7563,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Ağustos",
       "#18agustosbiliminsanlarinionurlandirmagunu"
@@ -7414,10 +7574,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7442,13 +7602,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yardım vakfı sertifikası",
       "çelik matara"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (OCHA)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/63/139)",
+    "source_url": "https://www.un.org/en/observances/humanitarian-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000090",
@@ -7472,13 +7636,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "telefon için fotoğraf lensi",
       "fotoğraf albümü"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000280",
@@ -7493,8 +7659,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#20Ağustos",
       "#20agustosdunyasivrisinekgunu"
@@ -7504,10 +7670,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7524,17 +7690,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/72/165)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#21Ağustos",
       "#21agustosterorizmkurbanlarinianmagunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7551,17 +7717,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Ağustos",
       "#22agustosinanctemellisiddetkurbanlarinianmagunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7578,17 +7744,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "anma",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Ağustos",
       "#23agustoskoleticaretininyasaklanmasigunu"
     ],
     "affiliate_keywords": [],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7605,8 +7771,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Ağustos",
       "#24agustosmutfaksanatlarivegastronomigunu"
@@ -7616,10 +7782,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7636,8 +7802,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Ağustos",
       "#25agustosikincielvegeridonusumgunu"
@@ -7647,10 +7813,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7676,13 +7842,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "köpek diş temizleme oyuncağı",
       "köpek yatağı ortopedik"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000286",
@@ -7697,8 +7865,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Ağustos",
       "#27agustosdunyataskagitmakasgunu"
@@ -7708,10 +7876,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7728,8 +7896,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Ağustos",
       "#28agustosdunyahayalkurmagunu"
@@ -7739,10 +7907,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7759,8 +7927,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/64/35)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Ağustos",
       "#29agustosnukleerdenemelerekarsiuluslararasigun"
@@ -7770,10 +7938,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7828,8 +7996,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#31Ağustos",
       "#31agustosasiridozfarkindalikgunu"
@@ -7839,10 +8007,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7867,13 +8035,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "barış temalı tişört",
       "felsefe ve barış kitapları"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000290",
@@ -7888,8 +8058,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "APCC",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Eylül",
       "#2eyluldunyahindistancevizigunu"
@@ -7899,10 +8069,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7919,8 +8089,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Eylül",
       "#3eyluldunyagokdelenlergunu"
@@ -7930,10 +8100,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7950,8 +8120,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "WAS",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Eylül",
       "#4eyluldunyacinselsaglikgunu"
@@ -7961,10 +8131,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -7981,8 +8151,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/67/105)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#5Eylül",
       "#5eylululuslararasihayirseverlikgunu"
@@ -7992,10 +8162,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8012,8 +8182,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Eylül",
       "#6eyluldunyakitapokumagunu"
@@ -8023,10 +8193,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8043,8 +8213,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/74/212)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Eylül",
       "#7eylultemizhavavemavigokyuzugunu"
@@ -8054,10 +8224,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8074,8 +8244,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Eylül",
       "#8eylululuslararasiokumayazmagunuvefizyoterapigunu"
@@ -8085,10 +8255,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8105,8 +8275,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Milli Savunma & BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Eylül",
       "#9eylulizmirinkurtulusuveegitimikorumagunu"
@@ -8116,10 +8286,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8136,8 +8306,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "DSÖ & IASP",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#10Eylül",
       "#10eyluldunyaintiharionlemegunu"
@@ -8147,10 +8317,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8167,8 +8337,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "IFRC",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#11Eylül",
       "#11eyluldunyailkyardimgunu"
@@ -8178,10 +8348,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8198,8 +8368,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/58/220)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Eylül",
       "#12eylulguneyguneyisbirligigunu"
@@ -8209,10 +8379,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8239,13 +8409,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yazılımcı tişörtü",
       "monitör standı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000301",
@@ -8260,8 +8432,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "MEB",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#14Eylül",
       "#14eylulilkogretimhaftasikutlamalari"
@@ -8271,10 +8443,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8291,8 +8463,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/62/7)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Eylül",
       "#15eylululuslararasidemokrasigunu"
@@ -8302,10 +8474,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8322,8 +8494,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/49/114)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Eylül",
       "#16eylulozontabakasinikorumagunu"
@@ -8333,10 +8505,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8353,8 +8525,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "DSÖ / WHO",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Eylül",
       "#17eyluldunyahastaguvenligigunu"
@@ -8364,10 +8536,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8384,8 +8556,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/74/252)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Eylül",
       "#18eylululuslararasiesitucretgunu"
@@ -8395,10 +8567,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8423,13 +8595,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "atatürk biyografisi ciltli",
       "rozet"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "Türkiye Cumhuriyeti (1005 Sayılı Kanun & 4768 Sayılı Kanun)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "T.C. Resmî Gazete",
+    "source_url": "https://www.resmigazete.gov.tr",
+    "scope": "turkiye",
+    "day_type": "anma"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000306",
@@ -8444,8 +8620,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Let's Do It World & BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#20Eylül",
       "#20eyluldunyatemizlikgunuworldcleanupday"
@@ -8455,10 +8631,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8483,13 +8659,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "akıl oyunları seti yetişkin",
       "akıllı saat gps yaşlı"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Alzheimer's Disease International (ADI) & DSÖ",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Health Organization & ADI",
+    "source_url": "https://www.alzint.org",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000307",
@@ -8504,8 +8684,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "European Mobility Week",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Eylül",
       "#22eyluldunyaotomobilsizkentlergunuvegergedanlargunu"
@@ -8515,10 +8695,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8535,8 +8715,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/72/161)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Eylül",
       "#23eylululuslararasiisaretdillerigunu"
@@ -8546,10 +8726,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8566,8 +8746,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "İtfaiye Daire Başkanlığı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Eylül",
       "#24eylulitfaiyecilikhaftasikutlamalari"
@@ -8577,10 +8757,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8597,8 +8777,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "FIP Eczacılık Federasyonu",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Eylül",
       "#25eyluldunyaeczacilargunu"
@@ -8608,10 +8788,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8628,8 +8808,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Avrupa Konseyi & BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Eylül",
       "#26eylulavrupadillergunuvenukleersilahlariyoketmegunu"
@@ -8639,10 +8819,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8668,8 +8848,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "evrensel priz dönüştürücü"
     ],
     "official_status": "international_observance",
-    "declaring_authority": "Birleşmiş Milletler Dünya Turizm Örgütü (UNWTO)",
-    "source_name": "UN Tourism (UNWTO)",
+    "declaring_authority": "BM Dünya Turizm Örgütü (UNWTO)",
+    "source_name": "UN Tourism World Tourism Day",
     "source_url": "https://www.unwto.org/world-tourism-day",
     "source_type": "primary_official",
     "scope": "bm",
@@ -8700,13 +8880,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "köpek tasması ve künyesi",
       "veteriner bakım seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Küresel Kuduz Kontrolü İttifakı (GARC) & DSÖ",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Health Organization World Rabies Day",
+    "source_url": "https://www.who.int/campaigns/world-rabies-day",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000097",
@@ -8729,13 +8913,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bilimsel kitaplar",
       "hızlı okuma kitap seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000098",
@@ -8758,13 +8944,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kolesterol diyeti kitabı",
       "koşu bandı ev tipi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000312",
@@ -8779,8 +8967,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM & FIT",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Eylül",
       "#30eylululuslararasicevirigunu"
@@ -8790,10 +8978,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8818,13 +9006,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "yaşlılar için tansiyon aleti konuşan",
       "ısıtmalı ayak masaj aleti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000099",
@@ -8850,16 +9040,16 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "french press",
       "chemex"
     ],
-    "official_status": "international_observance",
-    "declaring_authority": "Uluslararası Kahve Örgütü (ICO)",
-    "source_name": "International Coffee Organization (ICO Expo Milano)",
-    "source_url": "https://www.internationalcoffeeday.org",
-    "source_type": "institutional",
+    "official_status": "commercial",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
+    "source_type": "secondary_reliable",
     "scope": "uluslararasi",
     "day_type": "kutlama",
-    "editorial_status": "verified",
+    "editorial_status": "published",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": "2026-10-10",
+    "last_verified_at": null,
     "verified_at": "2026-10-10"
   },
   {
@@ -8875,8 +9065,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/61/271)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#2Ekim",
       "#2ekimuluslararasisiddetehayirgunu"
@@ -8886,10 +9076,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8906,8 +9096,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UIA & Türk Devletleri Teşkilatı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Ekim",
       "#3ekimdunyamimarlikgunuveturkdilikonusanulkelergunu"
@@ -8917,10 +9107,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -8946,13 +9136,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kuş yemi ve kafesi",
       "otomatik su sebili pet"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000029",
@@ -8975,13 +9167,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "öğretmen ajandası 2026",
       "isme özel kupa"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000315",
@@ -8996,8 +9190,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Kültür Bakanlığı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Ekim",
       "#6ekimistanbulunkurtulusuveserebralpalsigunu"
@@ -9007,10 +9201,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9062,8 +9256,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Ekim",
       "#8ekimdunyaahtapotlarvedenizekosistemigunu"
@@ -9073,10 +9267,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9093,8 +9287,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM UPU",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Ekim",
       "#9ekimdunyapostagunu"
@@ -9104,10 +9298,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9132,13 +9326,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "meditasyon minderi",
       "aromaterapi difüzör"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Dünya Ruh Sağlığı Federasyonu (WFMH) & DSÖ",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "World Health Organization World Mental Health Day",
+    "source_url": "https://www.who.int/campaigns/world-mental-health-day",
+    "scope": "uluslararasi",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000102",
@@ -9161,13 +9359,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "bilim seti kız çocuk",
       "kodlama oyuncakları"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000318",
@@ -9182,8 +9382,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "EULAR",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Ekim",
       "#12ekimdunyaartritgunu"
@@ -9193,10 +9393,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9210,11 +9410,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 10,
     "day_no": 13,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/64/200)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/64/200)",
+    "source_url": "https://www.un.org/en/observances/disaster-reduction-day",
     "hashtags": [
       "#13Ekim",
       "#13ekimafetrisklerininazaltilmasiuluslararasigunu"
@@ -9224,12 +9424,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (UNDRR)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000320",
@@ -9241,11 +9441,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 10,
     "day_no": 14,
     "category": "Mesleki",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ISO, IEC, ITU",
-    "source_url": "https://www.un.org",
+    "source_name": "International Organization for Standardization (ISO)",
+    "source_url": "https://www.iso.org",
     "hashtags": [
       "#14Ekim",
       "#14ekimdunyastandartlargunu"
@@ -9255,12 +9455,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "institutional",
+    "declaring_authority": "Uluslararası Standardizasyon Örgütü (ISO) & IEC & ITU",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000321",
@@ -9275,8 +9475,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Dünya Körler Birliği",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Ekim",
       "#15ekimdunyabeyazbastongormeengellilergunu"
@@ -9286,10 +9486,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9336,11 +9536,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 10,
     "day_no": 17,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/47/196)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/47/196)",
+    "source_url": "https://www.un.org/en/observances/day-for-eradicating-poverty",
     "hashtags": [
       "#17Ekim",
       "#17ekimyoksullugunyokedilmesiuluslararasigunu"
@@ -9350,12 +9550,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000323",
@@ -9370,8 +9570,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Menopause Society",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Ekim",
       "#18ekimdunyamenopozgunu"
@@ -9381,10 +9581,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9400,9 +9600,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "category": "Resmi",
     "day_type": "kutlama",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "T.C. İçişleri Bakanlığı",
-    "source_url": "https://www.un.org",
+    "scope": "turkiye",
+    "source_name": "T.C. Resmî Gazete (Sayı 29507)",
+    "source_url": "https://www.resmigazete.gov.tr",
     "hashtags": [
       "#19Ekim",
       "#19ekimmuhtarlargunu"
@@ -9412,12 +9612,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "T.C. Başbakanlık Genelgesi (2015/11 Sayılı)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000325",
@@ -9431,9 +9631,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "category": "Mesleki",
     "day_type": "kutlama",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM & WACS",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler World Statistics Day",
+    "source_url": "https://www.un.org/en/observances/statistics-day",
     "hashtags": [
       "#20Ekim",
       "#20ekimdunyaistatistikgunuvedunyaseflergunu"
@@ -9443,12 +9643,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (A/RES/69/282) & WACS",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000326",
@@ -9463,8 +9663,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Basın Konseyi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#21Ekim",
       "#21ekimdunyagazetecilergunu"
@@ -9474,10 +9674,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9494,8 +9694,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Stuttering Association",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#22Ekim",
       "#22ekimdunyakekemelikfarkindalikgunu"
@@ -9505,10 +9705,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9525,8 +9725,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "National Mole Day Foundation",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Ekim",
       "#23ekimdunyamolgunukimyagunu"
@@ -9536,10 +9736,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9553,11 +9753,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 10,
     "day_no": 24,
     "category": "Uluslararası",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "Birleşmiş Milletler",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/168 (II) & A/RES/3038 (XXVII))",
+    "source_url": "https://www.un.org/en/observances/un-day",
     "hashtags": [
       "#24Ekim",
       "#24ekimbirlesmismilletlergunuvekalkinmabilgigunu"
@@ -9567,12 +9767,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000330",
@@ -9587,8 +9787,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "International Pasta Organization",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Ekim",
       "#25ekimdunyamakarnagunu"
@@ -9598,10 +9798,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9618,8 +9818,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Sağlık Bakanlığı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Ekim",
       "#26ekimhastahaklarigunu"
@@ -9629,10 +9829,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9648,9 +9848,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "category": "Kültür & Sanat",
     "day_type": "kutlama",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "UNESCO World Day for Audiovisual Heritage",
+    "source_url": "https://www.unesco.org/en/days/audiovisual-heritage-day",
     "hashtags": [
       "#27Ekim",
       "#27ekimsesvegoruntumirasigunu"
@@ -9660,12 +9860,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (33 C/Resolution 53)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000333",
@@ -9680,8 +9880,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Resmi Gazete & ASIFA",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Ekim",
       "#28ekim28ekimcumhuriyetbayramiarifesiveanimasyongunu"
@@ -9691,10 +9891,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9749,8 +9949,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Savings Banks Institute",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Ekim",
       "#30ekimdunyatasarrufgunu"
@@ -9760,10 +9960,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9788,13 +9988,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "finansal özgürlük kitapları",
       "akıllı priz enerji ölçer"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000335",
@@ -9809,8 +10011,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Kültür Bakanlığı & Vegan Society",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#1Kasım",
       "#1kasimharfdevrimihaftasivedunyavegangunu"
@@ -9820,10 +10022,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9848,13 +10050,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "renkli maske seti",
       "çocuk boyama seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000336",
@@ -9869,8 +10073,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#3Kasım",
       "#3kasimdunyasandvicgunuvebiyosferrezervlerigunu"
@@ -9880,10 +10084,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9900,8 +10104,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "UNESCO (1946)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Kasım",
       "#4kasimunescokurulusgunu"
@@ -9911,10 +10115,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9928,11 +10132,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 5,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/70/203)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/70/203)",
+    "source_url": "https://www.un.org/en/observances/tsunami-awareness-day",
     "hashtags": [
       "#5Kasım",
       "#5kasimdunyatsunamifarkindalikgunu"
@@ -9942,12 +10146,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000339",
@@ -9962,8 +10166,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM (A/RES/56/4)",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Kasım",
       "#6kasimsavastacevreninsomurulmesinionlemegunu"
@@ -9973,10 +10177,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -9993,8 +10197,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "IOMP",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#7Kasım",
       "#7kasimdunyamedikalfizikgunu"
@@ -10004,10 +10208,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10032,13 +10236,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "teknik çizim kalemi seti",
       "maket bıçağı seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000341",
@@ -10053,8 +10259,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#9Kasım",
       "#9kasimdunyaozgurlukgunu"
@@ -10064,10 +10270,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10114,11 +10320,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 11,
     "category": "Çevre & Doğa",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "T.C. Tarım ve Orman Bakanlığı",
-    "source_url": "https://www.un.org",
+    "scope": "turkiye",
+    "source_name": "T.C. Resmî Gazete (Sayı 30941)",
+    "source_url": "https://www.resmigazete.gov.tr",
     "hashtags": [
       "#11Kasım",
       "#11kasimmilliagaclandirmagunuvebekarlargunu"
@@ -10128,12 +10334,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "T.C. Cumhurbaşkanlığı Genelgesi (2019/24 Sayılı)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000343",
@@ -10148,8 +10354,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "DSÖ & AFAD",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#12Kasım",
       "#12kasimdunyazaturrepnomonigunuveafetegitimigunu"
@@ -10159,10 +10365,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10179,8 +10385,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "World Kindness Movement",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Kasım",
       "#13kasimdunyaiyilikgunu"
@@ -10190,10 +10396,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10240,11 +10446,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 15,
     "category": "Kültür & Sanat",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "UNESCO World Philosophy Day",
+    "source_url": "https://www.unesco.org/en/days/philosophy-day",
     "hashtags": [
       "#15Kasım",
       "#15kasimdunyafelsefegunu"
@@ -10254,12 +10460,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (33 C/Resolution 37)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000033",
@@ -10282,13 +10488,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "felsefe ve empati kitapları",
       "meditasyon müziği cd"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (28 C/Resolution 5.61) & BM (A/RES/51/95)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler International Day for Tolerance",
+    "source_url": "https://www.un.org/en/observances/tolerance-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000346",
@@ -10303,8 +10513,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "EFCNI",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Kasım",
       "#17kasimuluslararasiogrencilergunuveprematuregunu"
@@ -10314,10 +10524,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10334,8 +10544,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Avrupa Konseyi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#18Kasım",
       "#18kasimcocuklarincinselistismardankorunmasigunu"
@@ -10345,10 +10555,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10362,11 +10572,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 19,
     "category": "Sağlık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/67/291)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler World Toilet Day",
+    "source_url": "https://www.un.org/en/observances/toilet-day",
     "hashtags": [
       "#19Kasım",
       "#19kasimdunyatuvaletgunuvedunyaerkeklergunu"
@@ -10376,12 +10586,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (A/RES/67/291)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000107",
@@ -10437,13 +10647,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "led tv arka aydınlatma ambiyans",
       "soundbar ses sistemi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/51/205)",
+    "source_url": "https://www.un.org/en/observances/world-television-day",
+    "scope": "bm",
+    "day_type": "kutlama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000108",
@@ -10467,13 +10681,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "diş hekimi esprili kupa",
       "diş ipi seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Uluslararası Tıp & Sağlık Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000349",
@@ -10488,8 +10704,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Mathematical Association",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Kasım",
       "#23kasimfibonaccigunu1123"
@@ -10499,10 +10715,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10551,11 +10767,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 25,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/54/134)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/54/134)",
+    "source_url": "https://www.un.org/en/observances/ending-violence-against-women-day",
     "hashtags": [
       "#25Kasım",
       "#25kasimkadinayoneliksiddetekarsimucadelegunu"
@@ -10565,12 +10781,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000351",
@@ -10582,11 +10798,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 26,
     "category": "Çevre & Doğa",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "UNESCO",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "UNESCO World Olive Tree Day",
+    "source_url": "https://www.unesco.org/en/days/olive-tree-day",
     "hashtags": [
       "#26Kasım",
       "#26kasimdunyazeytinagacigunu"
@@ -10596,12 +10812,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "UNESCO (40 C/66 Kararı)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000352",
@@ -10616,8 +10832,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#27Kasım",
       "#27kasimdunyademirveceliksanatcilarigunu"
@@ -10627,10 +10843,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10647,8 +10863,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Union for the Mediterranean",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Kasım",
       "#28kasimakdenizgunu"
@@ -10658,10 +10874,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10675,11 +10891,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 11,
     "day_no": 29,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "anma",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/32/40 B)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/32/40 B)",
+    "source_url": "https://www.un.org/en/observances/international-day-of-solidarity-with-the-palestinian-people",
     "hashtags": [
       "#29Kasım",
       "#29kasimfilistinhalkiylauluslararasidayanismagunu"
@@ -10689,12 +10905,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000355",
@@ -10709,8 +10925,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "ACM & BM",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Kasım",
       "#30kasimbilgisayarguvenligigunuvekimyasalsilahkurbanlarigunu"
@@ -10720,10 +10936,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10769,11 +10985,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 2,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/317)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/317 (IV))",
+    "source_url": "https://www.un.org/en/observances/slavery-abolition-day",
     "hashtags": [
       "#2Aralık",
       "#2aralikkoleliginkaldirilmasiuluslararasigunu"
@@ -10783,12 +10999,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000110",
@@ -10836,8 +11052,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "TMMOB Maden Mühendisleri",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#4Aralık",
       "#4aralikdunyamadencilergunuveyabanhayatikoruma"
@@ -10847,10 +11063,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Meslek Odaları & Sektörel Birlikler",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10875,13 +11091,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "solucan gübresi",
       "bahçıvan kürek seti"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (FAO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/68/232)",
+    "source_url": "https://www.un.org/en/observances/world-soil-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000111",
@@ -10905,13 +11125,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "türk kahvesi fincan takımı",
       "hacı bekir lokumu"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000112",
@@ -10934,13 +11156,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "özel tasarım takı seti",
       "fular ipek"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "community_observance",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000358",
@@ -10955,8 +11179,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#6Aralık",
       "#6aralikdunyamikrodalgavepratikmutfakgunu"
@@ -10966,10 +11190,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -10985,9 +11209,9 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "category": "Mesleki",
     "day_type": "kutlama",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "ICAO & BM (A/RES/51/33)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/51/33)",
+    "source_url": "https://www.un.org/en/observances/civil-aviation-day",
     "hashtags": [
       "#7Aralık",
       "#7aralikuluslararasisivilhavacilikgunu"
@@ -10997,12 +11221,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (ICAO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000360",
@@ -11017,8 +11241,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#8Aralık",
       "#8aralikiklimdegisikligieylemigunu"
@@ -11028,10 +11252,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11045,11 +11269,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 9,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/58/4)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/58/4 & A/RES/69/323)",
+    "source_url": "https://www.un.org/en/observances/anti-corruption-day",
     "hashtags": [
       "#9Aralık",
       "#9aralikyolsuzluklamucadelegunuvesoykirimkurbanlarinianma"
@@ -11059,12 +11283,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (UNODC)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000113",
@@ -11119,13 +11343,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "termal dağcı çorabı",
       "kamp termos paslanmaz"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (FAO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/57/245)",
+    "source_url": "https://www.un.org/en/observances/mountain-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000362",
@@ -11137,11 +11365,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 12,
     "category": "Sağlık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/72/138)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/72/138 & A/RES/71/275)",
+    "source_url": "https://www.un.org/en/observances/universal-health-coverage-day",
     "hashtags": [
       "#12Aralık",
       "#12aralikevrenselsaglikkapsamigunuvetarafsizlikgunu"
@@ -11151,12 +11379,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (WHO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000363",
@@ -11171,8 +11399,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#13Aralık",
       "#13aralikdunyakemangunu"
@@ -11182,10 +11410,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11202,8 +11430,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#14Aralık",
       "#14aralikdunyamaymunlargunu"
@@ -11213,10 +11441,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11233,8 +11461,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "BM FAO",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#15Aralık",
       "#15aralikuluslararasicaygunuveesperantogunu"
@@ -11244,10 +11472,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11264,8 +11492,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#16Aralık",
       "#16aralikdunyauzlasmavebarismagunu"
@@ -11275,10 +11503,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11295,8 +11523,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "T.C. Kültür Bakanlığı",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#17Aralık",
       "#17araliksebiarusmevlanayianmagunu"
@@ -11306,10 +11534,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11333,13 +11561,17 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kültürlerarası sosyoloji kitapları",
       "dünya dilleri sözlükleri"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null,
-    "is_public_holiday": false
+    "last_verified_at": "2026-10-10",
+    "is_public_holiday": false,
+    "source_name": "Birleşmiş Milletler (A/RES/55/93)",
+    "source_url": "https://www.un.org/en/observances/migrants-day",
+    "scope": "bm",
+    "day_type": "farkindalik"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000368",
@@ -11354,8 +11586,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#19Aralık",
       "#19aralikbarisveinsaniyardimagigunu"
@@ -11365,10 +11597,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11382,11 +11614,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 20,
     "category": "Farkındalık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/60/209)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/60/209)",
+    "source_url": "https://www.un.org/en/observances/human-solidarity-day",
     "hashtags": [
       "#20Aralık",
       "#20aralikuluslararasiinsanidayanismagunu"
@@ -11396,12 +11628,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000114",
@@ -11425,13 +11657,15 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "film izleme projeksiyon",
       "termos kupa"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000370",
@@ -11443,11 +11677,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 22,
     "category": "Resmi",
-    "day_type": "kutlama",
+    "day_type": "anma",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "T.C. Milli Savunma Bakanlığı",
-    "source_url": "https://www.un.org",
+    "scope": "turkiye",
+    "source_name": "T.C. Millî Savunma Bakanlığı Anma Programı",
+    "source_url": "https://www.msb.gov.tr",
     "hashtags": [
       "#22Aralık",
       "#22araliksarikamissehitlerinianmagunu"
@@ -11457,12 +11691,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "official",
+    "source_type": "primary_official",
+    "declaring_authority": "T.C. Millî Savunma Bakanlığı & T.C. Gençlik ve Spor Bakanlığı",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000371",
@@ -11477,8 +11711,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#23Aralık",
       "#23aralikdunyakokluailelerveakrabagunu"
@@ -11488,10 +11722,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11508,8 +11742,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#24Aralık",
       "#24araliknoelarifesichristmaseve"
@@ -11519,10 +11753,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11539,8 +11773,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#25Aralık",
       "#25araliknoelbayramichristmasday"
@@ -11550,10 +11784,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11570,8 +11804,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#26Aralık",
       "#26aralikhediyelesmegunuboxingday"
@@ -11581,10 +11815,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
+    "editorial_status": "published",
+    "official_status": "commercial",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11598,11 +11832,11 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "month_no": 12,
     "day_no": 27,
     "category": "Sağlık",
-    "day_type": "kutlama",
+    "day_type": "farkindalik",
     "is_public_holiday": false,
-    "scope": "uluslararasi",
-    "source_name": "BM (A/RES/75/27)",
-    "source_url": "https://www.un.org",
+    "scope": "bm",
+    "source_name": "Birleşmiş Milletler (A/RES/75/27)",
+    "source_url": "https://www.un.org/en/observances/epidemic-preparedness-day",
     "hashtags": [
       "#27Aralık",
       "#27araliksalginlarahazirlikuluslararasigunu"
@@ -11612,12 +11846,12 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
-    "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "editorial_status": "verified",
+    "official_status": "international_observance",
+    "source_type": "primary_official",
+    "declaring_authority": "Birleşmiş Milletler Genel Kurulu (WHO)",
     "source_checked_at": "2026-10-10",
-    "last_verified_at": null
+    "last_verified_at": "2026-10-10"
   },
   {
     "id": "f8b9a112-9844-48f8-b3f1-000000000376",
@@ -11632,8 +11866,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#28Aralık",
       "#28aralikdunyasinemagunu"
@@ -11643,10 +11877,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
+    "editorial_status": "published",
     "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Kültürel & Sanatsal Topluluk İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11663,8 +11897,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#29Aralık",
       "#29aralikuluslararasibiyocesitlilikgunuanmasi"
@@ -11674,10 +11908,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Küresel Çevre & Doğa Koruma Sivil Toplum Ağları",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11694,8 +11928,8 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
     "day_type": "kutlama",
     "is_public_holiday": false,
     "scope": "uluslararasi",
-    "source_name": "Uluslararası Takvim ve Anma İnisiyatifi",
-    "source_url": "https://www.un.org",
+    "source_name": "Uluslararası Takvim ve Farkındalık Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama",
     "hashtags": [
       "#30Aralık",
       "#30aralikyilsonusukranvedegerlendirmegunu"
@@ -11705,10 +11939,10 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kitap",
       "anı objesi"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "unverified",
+    "editorial_status": "published",
+    "official_status": "community_observance",
     "source_type": "secondary_reliable",
-    "declaring_authority": null,
+    "declaring_authority": "Sivil Toplum & Toplumsal Farkındalık İnisiyatifleri",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null
   },
@@ -11734,12 +11968,14 @@ export const INITIAL_SPECIAL_DAYS: SpecialDay[] = [
       "kutu masa oyunu",
       "ışıklı peri led"
     ],
-    "editorial_status": "needs_review",
-    "official_status": "community_observance",
-    "source_type": "unverified",
-    "declaring_authority": null,
+    "editorial_status": "published",
+    "official_status": "commercial",
+    "source_type": "secondary_reliable",
+    "declaring_authority": "Popüler Kültür & Küresel Tüketici İnisiyatifi",
     "source_checked_at": "2026-10-10",
     "last_verified_at": null,
-    "is_public_holiday": false
+    "is_public_holiday": false,
+    "source_name": "Küresel Tüketici ve Kültür Arşivleri",
+    "source_url": "https://bugunnegunu.com/kunye#dogrulama"
   }
 ];

@@ -249,6 +249,10 @@ export default function AdminDashboardPage() {
       day_type: formData.day_type,
       scope: formData.scope,
       is_public_holiday: formData.is_public_holiday,
+      editorial_status: isEditing ? (days.find((d) => d.id === editingId)?.editorial_status || "published") : "published",
+      official_status: isEditing ? (days.find((d) => d.id === editingId)?.official_status || "community_observance") : "community_observance",
+      declaring_authority: isEditing ? (days.find((d) => d.id === editingId)?.declaring_authority || null) : null,
+      source_type: isEditing ? (days.find((d) => d.id === editingId)?.source_type || "secondary_reliable") : "secondary_reliable",
       source_name: formData.source_name.trim(),
       source_url: formData.source_url.trim(),
       hashtags: formData.hashtags

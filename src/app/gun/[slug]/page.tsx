@@ -307,7 +307,7 @@ export default async function SingleDayPage({ params }: DayPageProps) {
             <div className="mt-4 flex flex-wrap items-center gap-2 text-xs opacity-80">
               <span className="inline-flex items-center gap-1 text-zinc-600 dark:text-zinc-400 bg-zinc-100 dark:bg-zinc-800 px-2.5 py-1 rounded-lg border border-zinc-200/60 dark:border-zinc-700/60">
                 <Info className="h-3.5 w-3.5 text-zinc-400" />
-                {day.official_status === "community_observance" ? "Kültürel / Topluluk Geleneği" : "Editoryal İnceleme Aşamasında"}
+                {day.official_status === "community_observance" ? "Kültürel / Topluluk Geleneği" : day.official_status === "commercial" ? "Popüler Kültür / Sektörel Kutlama" : "Editoryal İnceleme Aşamasında"}
               </span>
               {day.source_name && (
                 <span className="text-zinc-500">

@@ -3,7 +3,7 @@ import Link from "next/link";
 import { SpecialDay } from "@/types/database";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Calendar, ArrowRight, Sparkles, Tag, ShieldAlert } from "lucide-react";
+import { Calendar, ArrowRight, Sparkles, Tag, ShieldCheck } from "lucide-react";
 import { formatDayMonthOnly } from "@/lib/utils";
 
 interface SpecialDayCardProps {
@@ -56,8 +56,14 @@ export function SpecialDayCard({ day, isToday = false }: SpecialDayCardProps) {
 
       <CardHeader className="pb-3">
         <div className="flex items-start justify-between gap-3">
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1.5 flex-wrap">
             <Badge variant={categoryVariant()}>{day.category}</Badge>
+            {day.editorial_status === "verified" && (
+              <span className="inline-flex items-center gap-1 text-[10px] font-bold text-emerald-700 bg-emerald-50 dark:bg-emerald-950/60 dark:text-emerald-400 px-1.5 py-0.5 rounded border border-emerald-200/60 dark:border-emerald-800/60">
+                <ShieldCheck className="h-3 w-3 text-emerald-500" />
+                Resmî Teyitli
+              </span>
+            )}
             {isMemorial && (
               <Badge variant="secondary" className="text-[10px] font-bold">
                 Anma Günü
